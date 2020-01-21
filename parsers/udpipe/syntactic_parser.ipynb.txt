@@ -1,0 +1,153 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Requirement already satisfied: ufal.udpipe in c:\\users\\andrea\\anaconda3\\lib\\site-packages (1.2.0.2)\n"
+     ]
+    }
+   ],
+   "source": [
+    "#pip install ufal.udpipe"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Requirement already satisfied: spacy-udpipe in c:\\users\\andrea\\anaconda3\\lib\\site-packages (0.0.4)\n",
+      "Requirement already satisfied: ufal.udpipe>=1.2.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy-udpipe) (1.2.0.2)\n",
+      "Requirement already satisfied: spacy>=2.1.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy-udpipe) (2.2.2)\n",
+      "Requirement already satisfied: importlib-metadata>=0.20; python_version < \"3.8\" in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (0.23)\n",
+      "Requirement already satisfied: requests<3.0.0,>=2.13.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (2.22.0)\n",
+      "Requirement already satisfied: cymem<2.1.0,>=2.0.2 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (2.0.3)\n",
+      "Requirement already satisfied: wasabi<1.1.0,>=0.3.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (0.4.0)\n",
+      "Requirement already satisfied: srsly<1.1.0,>=0.1.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (0.2.0)\n",
+      "Requirement already satisfied: preshed<3.1.0,>=3.0.2 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (3.0.2)\n",
+      "Requirement already satisfied: numpy>=1.15.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (1.16.4)\n",
+      "Requirement already satisfied: setuptools in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (41.0.1)\n",
+      "Requirement already satisfied: plac<1.2.0,>=0.9.6 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (1.1.3)\n",
+      "Requirement already satisfied: blis<0.5.0,>=0.4.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (0.4.1)\n",
+      "Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (1.0.2)\n",
+      "Requirement already satisfied: thinc<7.4.0,>=7.3.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from spacy>=2.1.0->spacy-udpipe) (7.3.1)\n",
+      "Requirement already satisfied: zipp>=0.5 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from importlib-metadata>=0.20; python_version < \"3.8\"->spacy>=2.1.0->spacy-udpipe) (0.5.1)\n",
+      "Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from requests<3.0.0,>=2.13.0->spacy>=2.1.0->spacy-udpipe) (1.24.2)\n",
+      "Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from requests<3.0.0,>=2.13.0->spacy>=2.1.0->spacy-udpipe) (3.0.4)\n",
+      "Requirement already satisfied: idna<2.9,>=2.5 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from requests<3.0.0,>=2.13.0->spacy>=2.1.0->spacy-udpipe) (2.8)\n",
+      "Requirement already satisfied: certifi>=2017.4.17 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from requests<3.0.0,>=2.13.0->spacy>=2.1.0->spacy-udpipe) (2019.6.16)\n",
+      "Requirement already satisfied: tqdm<5.0.0,>=4.10.0 in c:\\users\\andrea\\anaconda3\\lib\\site-packages (from thinc<7.4.0,>=7.3.0->spacy>=2.1.0->spacy-udpipe) (4.32.1)\n"
+     ]
+    }
+   ],
+   "source": [
+    "#pip install spacy-udpipe"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Already downloaded a model for the 'ru' language\n"
+     ]
+    }
+   ],
+   "source": [
+    "import os\n",
+    "import spacy_udpipe\n",
+    "spacy_udpipe.download(\"ru\")\n",
+    "nlp = spacy_udpipe.load(\"ru\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "extracting_dir = os.path.join(os.getcwd(), 'manually_cleaned_txt')\n",
+    "goal_dir = extracting_dir + '_PARSED_FILES'\n",
+    "\n",
+    "if not os.path.exists(goal_dir):\n",
+    "    os.mkdir(goal_dir)\n",
+    "\n",
+    "for root, dirs, files in os.walk(extracting_dir):\n",
+    "    for directory in dirs:\n",
+    "        files = os.listdir(root + '/' + directory)\n",
+    "        \n",
+    "        for i, file in enumerate(files):\n",
+    "            with open(os.path.join(extracting_dir, directory, file), 'r', encoding='utf-8') as fl:\n",
+    "                txt = fl.read()\n",
+    "            doc = nlp(txt)\n",
+    "            \n",
+    "            if not os.path.exists(os.path.join(goal_dir, 'PARSD_' + directory)):\n",
+    "                os.mkdir(os.path.join(goal_dir, 'PARSD_' + directory))\n",
+    "                \n",
+    "            tree = []\n",
+    "            for token in doc:\n",
+    "                if token.dep_ == 'ROOT':\n",
+    "                    tree.append(', '.join([str(token.i+1), token.text, token.lemma_, \n",
+    "                          token.pos_, '_', token.tag_, str(0), token.dep_, '_', '_']))\n",
+    "                else:\n",
+    "                    tree.append(', '.join([str(token.i+1), token.text, token.lemma_, \n",
+    "                        token.pos_, '_', token.tag_, str(token.head.i+1), token.dep_, '_', '_']))          \n",
+    "            \n",
+    "            with open(os.path.join(goal_dir, 'PARSD_' + directory, 'PARSD_' + file), 'w', encoding='utf-8') as fr:\n",
+    "                for entry in tree:\n",
+    "                    fr.write('{}{}{}{}'.format('(', entry, '),', '\\t'))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.3"
+  },
+  "pycharm": {
+   "stem_cell": {
+    "cell_type": "raw",
+    "source": [],
+    "metadata": {
+     "collapsed": false
+    }
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
