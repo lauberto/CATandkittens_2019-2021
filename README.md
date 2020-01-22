@@ -3,3 +3,6 @@
 
 ## Ссылка на гугл драйв проекта
 https://drive.google.com/drive/folders/1Uoq1rN74BmnjzBpgdUgXHsfYXh6IkBzy
+
+## Ссылка на spreadsheet для координации работы
+https://docs.google.com/spreadsheets/d/1zczH5NKqprssqFJnWvPSeMxcjlOPUuAc68Sb865Akec/edit?usp=sharing
