@@ -10,5 +10,11 @@
   1. очистка и разметка текстов, и записывание в tsv метаданных
     1. по крайней мере двух доменов, чтобы всё отдать Асе
 
+## где искать информацию о udpipe'е
+* https://pypi.org/project/ufal.udpipe/
+* http://ufal.mff.cuni.cz/udpipe/users-manual
+
+## 21.01
+* 
 
 
