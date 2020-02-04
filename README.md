@@ -9,3 +9,6 @@ https://docs.google.com/spreadsheets/d/1zczH5NKqprssqFJnWvPSeMxcjlOPUuAc68Sb865A
 
 ### Ссылка на web-страницу СинТагРуса
 http://www.ruscorpora.ru/new/instruction-syntax.html#%D0%92%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5
+
+### Ссылка на йудипайп пайплайн
+http://lindat.mff.cuni.cz/services/udpipe/
