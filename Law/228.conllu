@@ -1,0 +1,1613 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = кретность – точный учет всех условий, в которых находится объект познания; плюрализм – многоаспектность в любом исследовании.
+1	кретность	кретность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
+3	точный	точный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	учет	учет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	всех	весь	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	которых	который	PRON	_	Case=Loc	10	obl	_	_
+10	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+11	объект	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+12	познания	познание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	;	;	PUNCT	_	_	4	punct	_	_
+14	плюрализм	плюрализм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+15	–	–	PUNCT	_	_	16	punct	_	_
+16	многоаспектность	многоаспектность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	appos	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	любом	любой	DET	_	Case=Loc|Gender=Neut|Number=Sing	19	det	_	_
+19	исследовании	исследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Указанные автором принципы методической основы теории государства и права представляются нам обоснованными, при этом, по нашему мнению, также подлежит включение в указанный перечень принципа системного научного анализа – структурирования имеющихся источников знаний по различным критериям; а также принципа научно-обоснованного использования научно-технических средств.
+1	Указанные	указать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+2	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	_
+3	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+4	методической	методический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	основы	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	теории	теория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nmod	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
+10	представляются	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	10	iobj	_	_
+12	обоснованными	обоснованный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	22	punct	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	по	по	ADP	_	_	19	case	_	_
+18	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	19	det	_	_
+19	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	также	также	ADV	_	Degree=Pos	22	advmod	_	_
+22	подлежит	подлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+23	включение	включение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	указанный	указать	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	перечень	перечень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	nmod	_	_
+27	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	системного	системный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+29	научного	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	анализа	анализ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+31	–	–	PUNCT	_	_	32	punct	_	_
+32	структурирования	структурирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	parataxis	_	_
+33	имеющихся	иметься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	34	amod	_	_
+34	источников	источник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
+35	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+36	по	по	ADP	_	_	38	case	_	_
+37	различным	различный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	38	amod	_	_
+38	критериям	критерий	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	34	nmod	_	SpaceAfter=No
+39	;	;	PUNCT	_	_	32	punct	_	_
+40	а	а	CCONJ	_	_	42	cc	_	_
+41	также	также	PART	_	_	40	fixed	_	_
+42	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	conj	_	_
+43	научно-обоснованного	научно-обоснованный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	44	amod	_	_
+44	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	_
+45	научно-технических	научно-технический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	46	amod	_	_
+46	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	44	nmod	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 3
+# text = В качестве основных выводов укажем, что методология общей теории государства и права представляет собой совокупность упорядоченных способов познания.
+1	В	в	ADP	_	_	4	case	_	_
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	выводов	вывод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+5	укажем	указать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	что	что	SCONJ	_	_	14	mark	_	_
+8	методология	методология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+9	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+14	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+15	собой	себя	PRON	_	Case=Ins	14	fixed	_	_
+16	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+17	упорядоченных	упорядоченный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	amod	_	_
+18	способов	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	познания	познание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = В классическом понимании методологической основой науки теории государства и права служат общие, частные и специальные методы.
+1	В	в	ADP	_	_	3	case	_	_
+2	классическом	классический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+4	методологической	методологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	основой	основа	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+7	теории	теория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	conj	_	_
+11	служат	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	общие	общий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	частные	частный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	conj	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	специальные	специальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	conj	_	_
+17	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 5
+# text = Методы исполняют различную роль в познавательных процессах, однако все они взаимодействуют друг с другом, включаются в единую систему.
+1	Методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	исполняют	исполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	различную	различный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	познавательных	познавательный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	процессах	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	однако	однако	ADV	_	Degree=Pos	12	advmod	_	_
+10	все	весь	DET	_	Case=Nom|Number=Plur	11	det	_	_
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	12	nsubj	_	_
+12	взаимодействуют	взаимодействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	obl	_	_
+14	с	с	ADP	_	_	13	fixed	_	_
+15	другом	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	fixed	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	включаются	включаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	conj	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	единую	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Метод государственно-правового моделирования необходимо отнести к специальным методам теории государства и права, а именно специальному техникоюридическому методу в виду его специфики, которая будет рассмотрена ниже.
+1	Метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	государственно	государственный	ADJ	_	Degree=Pos	4	compound	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+6	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+7	отнести	отнести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	к	к	ADP	_	_	10	case	_	_
+9	специальным	специальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	10	amod	_	_
+10	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	obl	_	_
+11	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	а	а	CCONJ	_	_	20	cc	_	_
+17	именно	именно	PART	_	_	18	advmod	_	_
+18	специальному	специальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+19	техникоюридическому	техникоюридический	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	методу	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	conj	_	_
+21	в	в	ADP	_	_	24	case	_	_
+22	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	fixed	_	_
+23	его	его	DET	_	_	24	det	_	_
+24	специфики	специфика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	которая	который	PRON	_	Case=Nom	28	nsubj:pass	_	_
+27	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	aux:pass	_	_
+28	рассмотрена	рассмотреть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	24	acl:relcl	_	_
+29	ниже	низко	ADV	_	Degree=Cmp	28	advmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 7
+# text = Далее представляется конструктивным перейти к рассмотрению понятия, в том числе специфики метода государственно-правового моделирования.
+1	Далее	далее	ADV	_	Degree=Pos	2	advmod	_	_
+2	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	конструктивным	конструктивный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	_
+4	перейти	перейти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	рассмотрению	рассмотрение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
+7	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	11	det	_	_
+11	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+12	специфики	специфика	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	parataxis	_	_
+13	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	государственно-правового	государственно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 8
+# text = Модели являются важными звеном в проектировании и создании различных устройств, недвижимых и сложных движимых объектов.
+1	Модели	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	важными	важный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	_
+4	звеном	звено	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	проектировании	проектирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	_
+9	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	устройств	устройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	недвижимых	недвижимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	сложных	сложный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+15	движимых	движимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Моделирование как познавательный процесс связанно с развитием знания, при этом использование моделей является конструктивным орудием познания, в том числе и в общественных науках.
+1	Моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	как	как	SCONJ	_	_	4	mark	_	_
+3	познавательный	познавательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	связанно	связанно	ADV	_	Degree=Pos	4	advmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	развитием	развитие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+8	знания	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	при	при	ADP	_	_	11	case	_	_
+11	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+12	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+13	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+14	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+15	конструктивным	конструктивный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	орудием	орудие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+17	познания	познание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	25	punct	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	21	det	_	_
+21	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	nmod	_	_
+22	и	и	PART	_	_	25	advmod	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	общественных	общественный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	25	amod	_	_
+25	науках	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 10
+# text = Реальные общественные объекты и общественные процессы, как указано выше, сложны и многогранны, в таких случаях эффективным способом их изучения могут являться предварительное построение и исследование модели, отображающей какую-либо область рассматриваемого социального явления.
+1	Реальные	реальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	общественные	общественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	объекты	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	общественные	общественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	процессы	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	как	как	SCONJ	_	_	9	mark	_	_
+9	указано	указать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	acl	_	_
+10	выше	выше	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	сложны	сложный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	многогранны	многогранный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	23	punct	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	таких	такой	DET	_	Case=Loc|Number=Plur	18	det	_	_
+18	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	obl	_	_
+19	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	_
+21	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	22	nmod	_	_
+22	изучения	изучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+24	являться	являться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	23	xcomp	_	_
+25	предварительное	предварительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	построение	построение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	исследование	исследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	conj	_	_
+29	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	отображающей	отображать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	29	acl	_	_
+32	какую-либо	какой-либо	DET	_	Case=Acc|Gender=Fem|Number=Sing	33	det	_	_
+33	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+34	рассматриваемого	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	36	amod	_	_
+35	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 11
+# text = Вместе с тем современная юриспруденция, по нашему мнению, не обладает эффективной методологией построения государственно-правовых моделей.
+1	Вместе	вместе	ADV	_	Degree=Pos	12	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	современная	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	юриспруденция	юриспруденция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	по	по	ADP	_	_	9	case	_	_
+8	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	9	det	_	_
+9	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	обладает	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	эффективной	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	методологией	методология	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	_
+15	построения	построение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	государственно-	государственно-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 12
+# text = Изучение правового моделирования должно иметь большое будущее в науке теории государства и права для последующего рационального его использования на практике.
+1	Изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	науке	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+10	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+14	для	для	ADP	_	_	18	case	_	_
+15	последующего	последующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+16	рационального	рациональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+17	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
+18	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13
+# text = Прежде всего нам необходимо определиться с терминами "модель" и "моделирование" в контексте определения искомого понятия.
+1	Прежде	прежде	ADP	_	_	4	advmod	_	_
+2	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	fixed	_	_
+3	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	4	iobj	_	_
+4	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	определиться	определиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	4	csubj	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	терминами	термин	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	appos	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	контексте	контекст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	_
+17	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	искомого	искомый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = В классическом понимании моделирование – это метод познания, состоящий в создании и исследовании моделей.
+1	В	в	ADP	_	_	3	case	_	_
+2	классическом	классический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+4	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	_
+5	–	–	PUNCT	_	_	4	punct	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	познания	познание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	состоящий	состоять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	исследовании	исследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	conj	_	_
+15	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 15
+# text = Модель – это некий новый объект, который отражает существенные особенности изучаемого объекта, явления или процесса.
+1	Модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
+3	это	это	PRON	_	_	6	cop	_	_
+4	некий	некий	DET	_	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
+5	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	объект	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	который	который	PRON	_	Case=Nom	9	nsubj	_	_
+9	отражает	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+10	существенные	существенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	особенности	особенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+12	изучаемого	изучать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+16	или	или	CCONJ	_	_	17	cc	_	_
+17	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 16
+# text = Решение назревших научно-правовых вопросов по большей части возможно с помощью построения обдуманных теоретических моделей, механизмов их внедрения в практическую правовую деятельность.
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+2	назревших	назреть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+3	научно-правовых	научно-правовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+5	по	по	ADP	_	_	7	case	_	_
+6	большей	больший	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	части	часть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+8	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+9	с	с	ADP	_	_	11	case	_	_
+10	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	fixed	_	_
+11	построения	построение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+12	обдуманных	обдумать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+13	теоретических	теоретический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	_
+17	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	18	nmod	_	_
+18	внедрения	внедрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	в	в	ADP	_	_	22	case	_	_
+20	практическую	практический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+21	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 17
+# text = Другими словами, надлежаще обдуманная правовая модель способствует как внедрению самого объекта исследования, так и последующего его использования
+1	Другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	надлежаще	надлежасто	ADV	_	Degree=Pos	5	advmod	_	_
+5	обдуманная	обдумать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+6	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	способствует	способствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	как	как	SCONJ	_	_	10	mark	_	_
+10	внедрению	внедрение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	iobj	_	_
+11	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	так	так	ADV	_	Degree=Pos	19	cc	_	_
+16	и	и	PART	_	_	15	fixed	_	_
+17	последующего	последувать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
+19	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 18
+# text = для реформирования иных смежных правоотношений на основании полученных им выводов.
+1	для	для	ADP	_	_	2	case	_	_
+2	реформирования	реформирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+3	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	смежных	смежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+8	полученных	получить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+9	им	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
+10	выводов	вывод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Ю.А. Стрельников указывает на некоторые достоинства метода моделирования в праве, в частности на наличие альтернатив в изучении, поясняя, что "правовое моделирование предполагает возможность построения нескольких моделей, сравнение и оценку их свойств в конкретных ситуациях" .
+1	Ю.	Ю.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Стрельников	Стрельников	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	указывает	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	некоторые	некоторый	DET	_	Case=Acc|Number=Plur	7	det	_	_
+7	достоинства	достоинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+8	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	в	в	ADP	_	_	16	discourse	_	_
+14	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	fixed	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
+17	альтернатив	альтернатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	изучении	изучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	поясняя	пояснять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	_
+23	что	что	SCONJ	_	_	27	mark	_	_
+24	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+25	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+27	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	ccomp	_	_
+28	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+29	построения	построение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	нескольких	несколько	NUM	_	Case=Gen	31	nummod	_	_
+31	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	сравнение	сравнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	nmod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	оценку	оценка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	conj	_	_
+36	их	их	DET	_	_	37	det	_	_
+37	свойств	свойство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+38	в	в	ADP	_	_	40	case	_	_
+39	конкретных	конкретный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	40	amod	_	_
+40	ситуациях	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	35	nmod	_	SpaceAfter=No
+41	"	"	PUNCT	_	_	40	punct	_	_
+42	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 20
+# text = Думается, что "построить" различные модели при решении какой-либо актуальной правовой задачи в большинстве случаев затруднительно, а подчас не представляется возможным на основании следующих причин.
+1	Думается	думаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	18	punct	_	_
+3	что	что	SCONJ	_	_	18	mark	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	построить	строить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	csubj	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	5	punct	_	_
+7	различные	различный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	модели	модель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	решении	решение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+11	какой-либо	какой-либо	DET	_	Case=Gen|Gender=Fem|Number=Sing	14	det	_	_
+12	актуальной	актуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+13	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	задачи	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+17	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	затруднительно	затруднительно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	ccomp	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	а	а	CCONJ	_	_	23	cc	_	_
+21	подчас	подчас	ADV	_	Degree=Pos	23	advmod	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	_
+24	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	23	obl	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+27	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 21
+# text = Общество сложно по своему составу, части общества взаимодействуют и связаны друг с другом, образуя сложную систему.
+1	Общество	общество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	сложно	сложно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	по	по	ADP	_	_	5	case	_	_
+4	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	5	det	_	_
+5	составу	состав	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	части	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	взаимодействуют	взаимодействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	связаны	связать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	conj	_	_
+12	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	obl	_	_
+13	с	с	ADP	_	_	12	fixed	_	_
+14	другом	друг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	fixed	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	образуя	образовывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	_
+17	сложную	сложный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = Так, в ряде случаев между указанными правовыми моделями может вообще отсутствовать признак "типичность группы" – тот признак, который является обобщающим при прогнозировании правовых новшеств.
+1	Так	так	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	ряде	ряд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+5	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	между	между	ADP	_	_	9	case	_	_
+7	указанными	указать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+8	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+9	моделями	модель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	_
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	вообще	вообще	ADV	_	Degree=Pos	12	advmod	_	_
+12	отсутствовать	отсутствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+13	признак	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	типичность	типичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	appos	_	_
+16	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	15	punct	_	_
+18	–	–	PUNCT	_	_	20	punct	_	_
+19	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	20	det	_	_
+20	признак	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	который	который	PRON	_	Case=Nom	23	nsubj	_	_
+23	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	acl:relcl	_	_
+24	обобщающим	обобщать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	_
+25	при	при	ADP	_	_	26	case	_	_
+26	прогнозировании	прогнозирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+27	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	новшеств	новшество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 23
+# text = Получается, что типичность конкретной правовой модели, по сравнению с иной, можно обозначить только с большой долей условности, что должно быть учтено субъектами моделирования при планировании, проведении и подведении итогов для любого государственно-правового исследования.
+1	Получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	14	punct	_	_
+3	что	что	SCONJ	_	_	14	mark	_	_
+4	типичность	типичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+5	конкретной	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	по	по	ADP	_	_	12	case	_	_
+10	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	fixed	_	_
+11	с	с	ADP	_	_	9	fixed	_	_
+12	иной	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	можно	можно	ADV	_	Degree=Pos	1	ccomp	_	_
+15	обозначить	обозначить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	csubj	_	_
+16	только	только	PART	_	_	19	advmod	_	_
+17	с	с	ADP	_	_	19	case	_	_
+18	большой	больший	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	долей	доля	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	_
+20	условности	условность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	что	что	PRON	_	Case=Nom	23	nsubj:pass	_	_
+23	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	19	parataxis	_	_
+24	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	aux:pass	_	_
+25	учтено	учесть	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	23	xcomp	_	_
+26	субъектами	субъект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	obl	_	_
+27	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	при	при	ADP	_	_	29	case	_	_
+29	планировании	планирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	проведении	проведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	conj	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	подведении	подведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	conj	_	_
+34	итогов	итог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+35	для	для	ADP	_	_	38	case	_	_
+36	любого	любой	DET	_	Case=Gen|Gender=Neut|Number=Sing	38	det	_	_
+37	государственно-правового	государственно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Как уже было отмечено выше, теория государства и права изучает государственно-правовые явления с помощью общенаучных и специальных методик.
+1	Как	как	SCONJ	_	_	4	mark	_	_
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	отмечено	отметить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	parataxis	_	_
+5	выше	высоко	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	теория	теория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	изучает	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	государственно	государственный	ADJ	_	Degree=Pos	14	compound	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	явления	явление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+16	с	с	ADP	_	_	21	case	_	_
+17	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	fixed	_	_
+18	общенаучных	общенаучный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	специальных	специальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	conj	_	_
+21	методик	методика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 25
+# text = Мы пришли к выводу, что наиболее распространенным методом правовых исследований является системный подход.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	пришли	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	что	что	SCONJ	_	_	12	mark	_	_
+7	наиболее	наиболее	ADV	_	Degree=Pos	8	obl	_	_
+8	распространенным	распространенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	методом	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
+10	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl	_	_
+13	системный	системный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = Отличительной особенностью данного метода можно считать то, что построение правовой теоретической модели возможно лишь при синтезе гуманитарных знаний.
+1	Отличительной	отличительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	особенностью	особенность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+3	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	что	что	SCONJ	_	_	14	mark	_	_
+10	построение	построение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+11	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+12	теоретической	теоретический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+14	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	acl	_	_
+15	лишь	лишь	PART	_	_	17	advmod	_	_
+16	при	при	ADP	_	_	17	case	_	_
+17	синтезе	синтез	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+18	гуманитарных	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 27
+# text = Поэтому получается, что ряд государственно-правовых вопросов надлежит изучать путем объединения знаний из области истории, политологии, социологии, логики, философии и иных.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	2	advmod	_	_
+2	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	что	что	SCONJ	_	_	10	mark	_	_
+5	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+6	государственно	государственный	ADJ	_	Degree=Pos	8	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+10	надлежит	надлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+11	изучать	изучать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	путем	путем	ADP	_	_	13	case	_	_
+13	объединения	объединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+14	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	из	из	ADP	_	_	16	case	_	_
+16	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	политологии	политология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	социологии	социология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	логики	логика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	философии	философия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 28
+# text = Отсюда следует вывод, что для обладания максимальным сходством с объектом исследования юридическая модель должна учитывать все компоненты и направления системы: компонентный, структурный, функциональный и интегративный.
+1	Отсюда	отсюда	ADV	_	Degree=Pos	2	advmod	_	_
+2	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	15	punct	_	_
+5	что	что	SCONJ	_	_	15	mark	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	обладания	обладание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+8	максимальным	максимальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	сходством	сходство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	объектом	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	_
+12	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	юридическая	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	acl	_	_
+16	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	все	весь	DET	_	Case=Acc|Number=Plur	18	det	_	_
+18	компоненты	компонент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	направления	направление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	conj	_	_
+21	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	:	:	PUNCT	_	_	15	punct	_	_
+23	компонентный	компонентный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	структурный	структурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	функциональный	функциональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	conj	_	_
+28	и	и	CCONJ	_	_	29	cc	_	_
+29	интегративный	интегративный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 29
+# text = Данный вывод считает важным для эффективного использования метода моделирования в праве.
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	obl	_	_
+5	для	для	ADP	_	_	7	case	_	_
+6	эффективного	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+8	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 30
+# text = Любопытным для данного исследования представляется указание в доктрине на деление науки теории государства и права на "классическую" и "прагматическую".
+1	Любопытным	любопытный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	_
+2	для	для	ADP	_	_	4	case	_	_
+3	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obl	_	_
+5	представляется	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	указание	указание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	доктрине	доктрина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	деление	деление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
+11	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	conj	_	_
+16	на	на	ADP	_	_	18	case	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	классическую	классический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	прагматическую	прагматический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 31
+# text = Первая ориентируется на наиболее общие закономерности возникновения, функционирования и развития государства и права, их сущность, структуру, основные элементы, принципы, институты.
+1	Первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	ориентируется	ориентироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	на	на	ADP	_	_	6	case	_	_
+4	наиболее	наиболее	ADV	_	Degree=Pos	5	obl	_	_
+5	общие	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	закономерности	закономерность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obl	_	_
+7	возникновения	возникновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	_
+12	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	их	их	DET	_	_	17	det	_	_
+17	сущность	сущность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	структуру	структура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	институты	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 32
+# text = Вторая – на создание моделей решения общественных и государственных задач.
+1	Вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	создание	создание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	_
+5	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	conj	_	_
+10	задач	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = Мы согласны, что ряд правовых проблем не может в настоящее время решаться с помощью методологии "классической" теории и истории государства и права, поэтому именно для решения таких "прикладных проблем" требуется дополнение современной юридической науки методами правового моделирования.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	согласны	согласный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+10	в	в	ADP	_	_	9	advmod	_	_
+11	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	fixed	_	_
+12	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	fixed	_	_
+13	решаться	решаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	fixed	_	_
+16	методологии	методология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	классической	классический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	_	_
+23	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	36	punct	_	_
+27	поэтому	поэтому	ADV	_	Degree=Pos	36	advmod	_	_
+28	именно	именно	PART	_	_	30	advmod	_	_
+29	для	для	ADP	_	_	30	case	_	_
+30	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	obl	_	_
+31	таких	такой	DET	_	Case=Gen|Number=Plur	34	det	_	_
+32	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+33	прикладных	прикладной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	34	punct	_	_
+36	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	_
+37	дополнение	дополнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	nsubj	_	_
+38	современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+39	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+41	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	37	nmod	_	_
+42	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
+43	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 34
+# text = Представляется необходимым, с учетом доктринальных идей современных правоведов , обозначить требования к методу моделирования применительно к юридической науке: иметь дело с конкрет-
+1	Представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	необходимым	необходимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	_
+6	доктринальных	доктринальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	идей	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	современных	современный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	правоведов	правовед	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	обозначить	обозначить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	_
+12	требования	требование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+13	к	к	ADP	_	_	14	case	_	_
+14	методу	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	nmod	_	_
+15	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	применительно	применительно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	advmod	_	_
+17	к	к	ADP	_	_	19	case	_	_
+18	юридической	юридический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	науке	наука	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	16	punct	_	_
+21	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	parataxis	_	_
+22	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	конкрет	конкрет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = ным юридическим процессом, который решает важную государственно-правовую задачу; указывать орудия, стадии и последствия такой правовой деятельности; исследовать пути воздействия на юридический процесс; достигается заранее обозначенный определенный результат, для которого указанная модель использовалась.
+1	ным	ный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	юридическим	юридический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	процессом	процесс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	который	который	PRON	_	Case=Nom	6	nsubj	_	_
+6	решает	решать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+7	важную	важный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+8	государственно	государственный	ADJ	_	Degree=Pos	10	compound	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+12	;	;	PUNCT	_	_	3	punct	_	_
+13	указывать	указать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	_
+14	орудия	орудие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	стадии	стадия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	conj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	conj	_	_
+19	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	21	det	_	_
+20	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+22	;	;	PUNCT	_	_	3	punct	_	_
+23	исследовать	исследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	_
+24	пути	путь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
+25	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	юридический	юридический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+29	;	;	PUNCT	_	_	3	punct	_	_
+30	достигается	достигать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+31	заранее	заранее	ADV	_	Degree=Pos	30	advmod	_	_
+32	обозначенный	обозначить	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+33	определенный	определенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	результат	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	30	nsubj:pass	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	40	punct	_	_
+36	для	для	ADP	_	_	37	case	_	_
+37	которого	который	PRON	_	Case=Gen	40	obl	_	_
+38	указанная	указать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	amod	_	_
+39	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	40	nsubj:pass	_	_
+40	использовалась	использовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	34	acl:relcl	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 36
+# text = Предложим ряд задач, с которыми будет иметь дело субъект моделирования, используя мнения ученых юристов : 1) постижение сути конкретной системы; 2) управление системой – определение эффективных способов воздействия; 3) прогнозирование – процесс исследования конкретных перспектив дальнейшего развития юридического процесса.
+1	Предложим	Предложить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+3	задач	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	которыми	который	PRON	_	Case=Ins	8	obl	_	_
+7	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+8	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	acl:relcl	_	_
+9	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	субъект	субъект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	advmod	_	_
+11	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	_
+14	мнения	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	_
+15	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	юристов	юрист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+17	:	:	PUNCT	_	_	14	punct	_	_
+18	1	1	NUM	_	_	20	nummod	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	постижение	постижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	parataxis	_	_
+21	сути	суть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	конкретной	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	;	;	PUNCT	_	_	21	punct	_	_
+25	2	2	NUM	_	_	21	conj	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	20	punct	_	_
+27	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	conj	_	_
+28	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	27	nmod	_	_
+29	–	–	PUNCT	_	_	27	punct	_	_
+30	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	parataxis	_	_
+31	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	_
+32	способов	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	_
+33	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+34	;	;	PUNCT	_	_	30	punct	_	_
+35	3	3	NUM	_	_	30	conj	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	30	punct	_	_
+37	прогнозирование	прогнозирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	conj	_	_
+38	–	–	PUNCT	_	_	37	punct	_	_
+39	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	37	nmod	_	_
+40	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	_
+41	конкретных	конкретный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	42	amod	_	_
+42	перспектив	перспектива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	40	nmod	_	_
+43	дальнейшего	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+44	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	_
+45	юридического	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	_
+46	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 37
+# text = Обобщая вышесказанное, приходим к выводу, что практическая ценность государственно-правового моделирования состоит в выводах анализа планируемых государственно-правовых решений; конкретная правовая модель позволяет познать, как будут развиваться события и насколько эффективно будет то или иное правовое решение в плане жизнеспособности и устойчивости.
+1	Обобщая	Обобщать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	_
+2	вышесказанное	вышесказанный	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	приходим	приходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	что	что	SCONJ	_	_	13	mark	_	_
+9	практическая	практический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	ценность	ценность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+11	государственно-правового	государственно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	состоит	состоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	выводах	вывод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+16	анализа	анализ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	планируемых	планировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	19	amod	_	_
+18	государственно-правовых	государственно-правовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No
+20	;	;	PUNCT	_	_	6	punct	_	_
+21	конкретная	конкретный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+22	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
+24	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+25	познать	знать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	xcomp	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	как	как	ADV	_	Degree=Pos	29	advmod	_	_
+28	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	aux	_	_
+29	развиваться	развиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	25	ccomp	_	_
+30	события	событие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	29	nsubj	_	_
+31	и	и	CCONJ	_	_	33	cc	_	_
+32	насколько	насколько	ADV	_	Degree=Pos	33	advmod	_	_
+33	эффективно	эффективно	ADV	_	Degree=Pos	30	conj	_	_
+34	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	cop	_	_
+35	то	тот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	_
+36	или	или	CCONJ	_	_	39	cc	_	_
+37	иное	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+38	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+39	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	conj	_	_
+40	в	в	ADP	_	_	41	case	_	_
+41	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	39	nmod	_	_
+42	жизнеспособности	жизнеспособность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	устойчивости	устойчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	conj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Однако также следует отметить, что использование государственно-правовой модели не всегда возможно.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	14	punct	_	_
+6	что	что	SCONJ	_	_	14	mark	_	_
+7	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+8	государственно	государственный	ADJ	_	Degree=Pos	10	compound	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	всегда	всегда	ADV	_	Degree=Pos	14	advmod	_	_
+14	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	ccomp	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 39
+# text = Государственные процессы представляют собой сложные явления, на них оказывают большое влияние как внешние и внутренние факторы, поэтому определенно предсказать поведение объекта в среде не представляется возможным – возможна лишь некая степень его вероятности.
+1	Государственные	государственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	процессы	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	представляют	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	собой	себя	PRON	_	Case=Ins	3	fixed	_	_
+5	сложные	сложный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	явления	явление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	10	obl	_	_
+10	оказывают	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+13	как	как	SCONJ	_	_	17	mark	_	_
+14	внешние	внешний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	внутренние	внутренний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	conj	_	_
+17	факторы	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	acl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	поэтому	поэтому	ADV	_	Degree=Pos	21	advmod	_	_
+20	определенно	определенно	ADV	_	Degree=Pos	21	advmod	_	_
+21	предсказать	предсказывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	_
+22	поведение	поведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+23	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	xcomp	_	_
+28	возможным	возможный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	27	iobj	_	_
+29	–	–	PUNCT	_	_	30	punct	_	_
+30	возможна	возможный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	27	parataxis	_	_
+31	лишь	лишь	PART	_	_	32	advmod	_	_
+32	некая	некий	DET	_	Case=Nom|Gender=Fem|Number=Sing	33	det	_	_
+33	степень	степень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	nsubj	_	_
+34	его	его	DET	_	_	35	det	_	_
+35	вероятности	вероятность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 40
+# text = При этом также необходимо указать при рассмотрении данного вопроса на существование недостаточного уровня развития юридической науки в целом для ряда исследования моделей в праве.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+3	также	также	ADV	_	Degree=Pos	4	obl	_	_
+4	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	указать	указать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	при	при	ADP	_	_	7	case	_	_
+7	рассмотрении	рассмотрение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
+12	недостаточного	недостаточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	nmod	_	_
+19	для	для	ADP	_	_	20	case	_	_
+20	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+21	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41
+# text = Конечно, правовое моделирование используется законодателем в современной правотворческой деятельности, например в рамках создания Модельного закона о конкуренции , для обеспечения бюджетного процесса в муниципальных образованиях , однако этот метод, по нашему мнению, используется недостаточно эффективно.
+1	Конечно	конечно	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+5	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	законодателем	законодатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+9	правотворческой	правотворческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	например	например	ADV	_	Degree=Pos	14	obl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	nmod	_	_
+15	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	Модельного	Модельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	о	о	ADP	_	_	19	case	_	_
+19	конкуренции	конкуренция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	_
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+23	бюджетного	бюджетный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	муниципальных	муниципальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	27	amod	_	_
+27	образованиях	образование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	22	nmod	_	_
+28	,	,	PUNCT	_	_	37	punct	_	_
+29	однако	однако	ADV	_	Degree=Pos	37	advmod	_	_
+30	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	31	det	_	_
+31	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	37	nsubj:pass	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	по	по	ADP	_	_	35	case	_	_
+34	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	35	det	_	_
+35	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	37	parataxis	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+38	недостаточно	недостаточно	ADV	_	Degree=Pos	39	advmod	_	_
+39	эффективно	эффективно	ADV	_	Degree=Pos	37	advmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 42
+# text = Сказанное выше позволяет сделать вывод о необходимости разрешения одной из проблем теории государства и права – отсутствия жизнеспособной методики модельного способа исследования правовых явлений.
+1	Сказанное	сказать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	_
+2	выше	высоко	ADV	_	Degree=Pos	1	advmod	_	_
+3	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	вывод	вывод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	о	о	ADP	_	_	7	case	_	_
+7	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	одной	один	NUM	_	Case=Gen|Gender=Fem	8	nummod	_	_
+10	из	из	ADP	_	_	11	case	_	_
+11	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+12	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	conj	_	_
+16	–	–	PUNCT	_	_	17	punct	_	_
+17	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+18	жизнеспособной	жизнеспособный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	методики	методика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	модельного	модельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	способа	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+22	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	явлений	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 43
+# text = В качестве одного из основных выводов данной статьи, используя мнения К.А. Стрельникова , а также А.С. Безрукова по поводу понятия "правовая модель", необходимо указать следующее.
+1	В	в	ADP	_	_	3	case	_	_
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	одного	один	NUM	_	Case=Gen|Gender=Masc	29	nummod	_	_
+4	из	из	ADP	_	_	6	case	_	_
+5	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	выводов	вывод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+7	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	29	advcl	_	_
+11	мнения	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+12	К.	К.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	flat:name	_	_
+14	Стрельникова	Стрельников	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	flat:name	_	_
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	а	а	CCONJ	_	_	18	cc	_	_
+17	также	также	PART	_	_	16	fixed	_	_
+18	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+19	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	flat:name	_	_
+20	Безрукова	Безруков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	flat:name	_	_
+21	по	по	ADP	_	_	23	case	_	_
+22	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	21	fixed	_	_
+23	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+24	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+25	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	10	punct	_	_
+29	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+30	указать	указывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	csubj	_	_
+31	следующее	следующий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	30	obj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = 44
+# text = Под государственно-правовым моделированием предлагаем понимать как специальный технико-юридический метод, так и процесс изучения государственноправовых явлений на примере конкретных моделей (прототипов) путем мысленного и реального воспроизведения исследуемых объектов, в том числе процесс внедрения определенных правоотношений на конкретной территории с последующим их изучением.
+1	Под	под	ADP	_	_	5	case	_	_
+2	государственно	государственный	ADJ	_	Degree=Pos	4	compound	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	моделированием	моделирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+6	предлагаем	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	как	как	SCONJ	_	_	11	mark	_	_
+9	специальный	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	технико-юридический	технико-юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	так	так	ADV	_	Degree=Pos	15	cc	_	_
+14	и	и	PART	_	_	13	fixed	_	_
+15	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+16	изучения	изучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	государственноправовых	государственноправовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	явлений	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	nmod	_	_
+21	конкретных	конкретный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	прототипов	прототип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	parataxis	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	24	punct	_	_
+26	путем	путем	ADP	_	_	30	case	_	_
+27	мысленного	мысленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+28	и	и	CCONJ	_	_	29	cc	_	_
+29	реального	реальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	conj	_	_
+30	воспроизведения	воспроизведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+31	исследуемых	исследовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	32	amod	_	_
+32	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	в	в	ADP	_	_	36	case	_	_
+35	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	36	det	_	_
+36	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	nmod	_	_
+37	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	parataxis	_	_
+38	внедрения	внедрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	_
+39	определенных	определенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+40	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	38	nmod	_	_
+41	на	на	ADP	_	_	43	case	_	_
+42	конкретной	конкретный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	nmod	_	_
+44	с	с	ADP	_	_	47	case	_	_
+45	последующим	последующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	47	amod	_	_
+46	их	их	DET	_	_	47	det	_	_
+47	изучением	изучение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 45
+# text = Суть данного метода заключается в том, что различные государственные и правовые явления в некоторых частях схожи – "идея подобия правоотношений" , в связи чем, обозначив искомое сходство, можно в достаточной мере предсказать иные право193
+1	Суть	суть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	20	punct	_	_
+8	что	что	SCONJ	_	_	20	mark	_	_
+9	различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+10	государственные	государственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	conj	_	_
+13	явления	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	некоторых	некоторый	DET	_	Case=Loc|Number=Plur	16	det	_	_
+16	частях	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	nmod	_	_
+17	схожи	схожий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	–	–	PUNCT	_	_	13	punct	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	acl	_	_
+21	подобия	подобие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	20	punct	_	_
+24	,	,	PUNCT	_	_	33	punct	_	_
+25	в	в	ADP	_	_	28	case	_	_
+26	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	fixed	_	_
+27	чем	что	SCONJ	_	_	25	fixed	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	обозначив	обозначить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	33	advcl	_	_
+30	искомое	искомый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	сходство	сходство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	29	punct	_	_
+33	можно	можно	ADV	_	Degree=Pos	20	acl:relcl	_	_
+34	в	в	ADP	_	_	36	case	_	_
+35	достаточной	достаточный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	37	obl	_	_
+37	предсказать	предсказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	csubj	_	_
+38	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	39	amod	_	_
+39	право193	право193	NOUN	_	_	37	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = вые явления в других конкретных правоотношениях, нежели исследуемые.
+1	вые	вой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	явления	явление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+5	конкретных	конкретный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	правоотношениях	правоотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	нежели	нежели	SCONJ	_	_	9	mark	_	_
+9	исследуемые	исследовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 47
+# text = В тезисах отметим соотношение государственноправового моделирования и правотворческого эксперимента.
+1	В	в	ADP	_	_	2	case	_	_
+2	тезисах	тезис	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	obl	_	_
+3	отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	соотношение	соотношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	государственноправового	государственноправовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	моделирования	моделирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	правотворческого	правотворческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 48
+# text = Правотворческий эксперимент – это организованное компетентными органами государства, органами государственных образований и органами муниципальных образований испытание предполагаемых правовых нововведений в ограниченной области применения, проводимое с целью проверки предположения правового характера по заранее разработанной программе, состоящее из подготовки, проведения и подведения итогов эксперимента, тогда как государственно-правовое моделирование – это метод или процесс изучения государственно-правовых явлений на примере конкретной модели; в правовой модели "правовое предположение" не всегда имеет место быть, в отличие от правотворческого эксперимента; имеется отличие по субъекту: в правотворческом эксперименте это исключительно орган государства, ор-
+1	Правотворческий	Правотворческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	эксперимент	эксперимент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	–	–	PUNCT	_	_	2	punct	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+5	организованное	организовывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	38	acl	_	_
+6	компетентными	компетентный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	_
+11	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	образований	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	_
+15	муниципальных	муниципальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	образований	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+17	испытание	испытание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	appos	_	_
+18	предполагаемых	предполагать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	20	amod	_	_
+19	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	нововведений	нововведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	ограниченной	ограничить	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	nmod	_	_
+24	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	проводимое	проводить	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	_
+29	проверки	проверка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+30	предположения	предположение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+31	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+33	по	по	ADP	_	_	36	case	_	_
+34	заранее	заранее	ADV	_	Degree=Pos	35	advmod	_	_
+35	разработанной	разработать	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	36	acl	_	_
+36	программе	программа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	26	punct	_	_
+38	состоящее	состоять	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+39	из	из	ADP	_	_	40	case	_	_
+40	подготовки	подготовка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	obl	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	проведения	проведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	conj	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	подведения	подведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	conj	_	_
+45	итогов	итог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	_
+46	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	56	punct	_	_
+48	тогда	тогда	ADV	_	Degree=Pos	56	mark	_	_
+49	как	как	SCONJ	_	_	48	fixed	_	_
+50	государственно	государственный	ADJ	_	Degree=Pos	52	compound	_	SpaceAfter=No
+51	-	-	PUNCT	_	_	50	punct	_	SpaceAfter=No
+52	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	56	nmod	_	_
+54	–	–	PUNCT	_	_	53	punct	_	_
+55	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	56	nsubj	_	_
+56	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	38	advcl	_	_
+57	или	или	CCONJ	_	_	58	cc	_	_
+58	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	56	conj	_	_
+59	изучения	изучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	58	nmod	_	_
+60	государственно	государственный	ADJ	_	Degree=Pos	62	compound	_	SpaceAfter=No
+61	-	-	PUNCT	_	_	60	punct	_	SpaceAfter=No
+62	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	63	amod	_	_
+63	явлений	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	59	nmod	_	_
+64	на	на	ADP	_	_	65	case	_	_
+65	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	59	nmod	_	_
+66	конкретной	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	67	amod	_	_
+67	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	65	nmod	_	SpaceAfter=No
+68	;	;	PUNCT	_	_	56	punct	_	_
+69	в	в	ADP	_	_	71	case	_	_
+70	правовой	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	71	amod	_	_
+71	модели	модель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	78	obl	_	_
+72	"	"	PUNCT	_	_	74	punct	_	SpaceAfter=No
+73	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	74	amod	_	_
+74	предположение	предположение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	71	appos	_	SpaceAfter=No
+75	"	"	PUNCT	_	_	74	punct	_	_
+76	не	не	PART	_	_	77	advmod	_	_
+77	всегда	всегда	ADV	_	Degree=Pos	78	advmod	_	_
+78	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	conj	_	_
+79	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	80	obj	_	_
+80	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	78	xcomp	_	SpaceAfter=No
+81	,	,	PUNCT	_	_	86	punct	_	_
+82	в	в	ADP	_	_	86	case	_	_
+83	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	82	fixed	_	_
+84	от	от	ADP	_	_	82	fixed	_	_
+85	правотворческого	правотворческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	86	amod	_	_
+86	эксперимента	эксперимент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	56	conj	_	SpaceAfter=No
+87	;	;	PUNCT	_	_	56	punct	_	_
+88	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	56	conj	_	_
+89	отличие	отличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	88	nsubj	_	_
+90	по	по	ADP	_	_	91	case	_	_
+91	субъекту	субъект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	89	nmod	_	SpaceAfter=No
+92	:	:	PUNCT	_	_	89	punct	_	_
+93	в	в	ADP	_	_	95	case	_	_
+94	правотворческом	правотворческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	95	amod	_	_
+95	эксперименте	эксперимент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	98	nmod	_	_
+96	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	98	nsubj	_	_
+97	исключительно	исключительно	ADV	_	Degree=Pos	98	obl	_	_
+98	орган	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	89	parataxis	_	_
+99	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	98	nmod	_	SpaceAfter=No
+100	,	,	PUNCT	_	_	101	punct	_	_
+101	ор	ор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	98	conj	_	SpaceAfter=No
+102	-	-	PUNCT	_	_	56	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = ган государственного образования или орган муниципального образования, тогда как в правовом моделировании субъект не ограничен лишь указанными.
+1	ган	ган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	или	или	CCONJ	_	_	5	cc	_	_
+5	орган	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	муниципального	муниципальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	тогда	тогда	ADV	_	Degree=Pos	16	mark	_	_
+10	как	как	SCONJ	_	_	9	fixed	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	моделировании	моделирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+14	субъект	субъект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj:pass	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	ограничен	ограничить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl	_	_
+17	лишь	лишь	PART	_	_	18	advmod	_	_
+18	указанными	указать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = Между правотворческим экспериментом и правовым моделированием имеются сходства: наличие конкретно сформулированной цели, существование определенной программы, сходный объект исследования.
+1	Между	между	ADP	_	_	3	case	_	_
+2	правотворческим	правотворческий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	экспериментом	эксперимент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	моделированием	моделирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	conj	_	_
+7	имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	сходства	сходство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	_
+11	конкретно	конкретно	ADV	_	Degree=Pos	10	obl	_	_
+12	сформулированной	формулировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	существование	существование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+16	определенной	определенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	программы	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	сходный	сходный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	объект	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+21	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 51
+# text = В качестве вывода укажем, что специальный технико-юридический метод – государственно-правовое моделирование, при должном внимании и изучении, будет являться эффективным способом исследования правоотношений.
+1	В	в	ADP	_	_	3	case	_	_
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	вывода	вывод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+4	укажем	указать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	23	punct	_	_
+6	что	что	SCONJ	_	_	23	mark	_	_
+7	специальный	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+8	технико-юридический	технико-юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+10	–	–	PUNCT	_	_	14	punct	_	_
+11	государственно	государственный	ADJ	_	Degree=Pos	13	compound	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	моделирование	моделирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	appos	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	9	punct	_	_
+16	при	при	ADP	_	_	18	case	_	_
+17	должном	должный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	внимании	внимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	изучении	изучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	18	punct	_	_
+22	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
+23	являться	являться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	ccomp	_	_
+24	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
+26	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Это направление, на наш взгляд, имеет большое теоретическое и практическое будущее: оно позволит лучше организовывать конкретные правовые отношения в государстве.
+1	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	6	det	_	_
+6	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+10	теоретическое	теоретический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	практическое	практический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	_
+13	будущее	будущее	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	8	punct	_	_
+15	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	16	nsubj	_	_
+16	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+17	лучше	хорошо	ADV	_	Degree=Cmp	18	advmod	_	_
+18	организовывать	организовывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+19	конкретные	конкретный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+20	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+21	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obj	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 53
+# text = Считаем, что будущее теории и истории государства и права как науки должно определяться необходимостью создания эффективных государственноправовых моделей для разрешения наиболее важных вопросов.
+1	Считаем	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	13	punct	_	_
+3	что	что	SCONJ	_	_	13	mark	_	_
+4	будущее	будущий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+5	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	как	как	SCONJ	_	_	12	mark	_	_
+12	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	acl	_	_
+13	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	ccomp	_	_
+14	определяться	определяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	13	xcomp	_	_
+15	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	_
+16	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+18	государственноправовых	государственноправовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+20	для	для	ADP	_	_	21	case	_	_
+21	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+22	наиболее	наиболее	ADV	_	Degree=Pos	23	obl	_	_
+23	важных	важный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

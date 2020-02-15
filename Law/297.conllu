@@ -1,0 +1,2862 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Европейский Союз всегда преследовал политическую цель, его непосредственные цели имели экономическую и социальную направленность, но средства и способы достижения этих целей традиционно остаются правовыми: применение и прогрессивное развитие общих правил и правоприменительных механизмов .
+1	Европейский	Европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	Союз	Союз	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	всегда	всегда	ADV	_	Degree=Pos	4	advmod	_	_
+4	преследовал	преследовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	политическую	политический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	его	его	DET	_	_	10	det	_	_
+9	непосредственные	непосредственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	цели	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+11	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+12	экономическую	экономический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	социальную	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
+15	направленность	направленность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	25	punct	_	_
+17	но	но	CCONJ	_	_	25	cc	_	_
+18	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	25	nsubj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	conj	_	_
+21	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	этих	этот	DET	_	Case=Gen|Number=Plur	23	det	_	_
+23	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+24	традиционно	традиционно	ADV	_	Degree=Pos	25	advmod	_	_
+25	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	conj	_	_
+26	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	25	obl	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	25	punct	_	_
+28	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	parataxis	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	прогрессивное	прогрессивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	conj	_	_
+32	общих	общий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	_
+34	и	и	CCONJ	_	_	36	cc	_	_
+35	правоприменительных	правоприменительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	conj	_	_
+37	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+# text = За время существования ЕС была разработана сложная и глубоко продуманная система правовых актов.
+1	За	за	ADP	_	_	2	case	_	_
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+3	существования	существование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	разработана	разработать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	сложная	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	глубоко	глубоко	ADV	_	Degree=Pos	10	obl	_	_
+10	продуманная	продуманный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	_
+11	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+12	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3
+# text = Так, в докладе IX Конвенционной рабочей группы по упрощению посчитаны 15 правовых актов, которые могут быть как обязательными, так и необязательными1.
+1	Так	так	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	докладе	доклад	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+5	IX	ix	NUM	_	_	8	nummod	_	_
+6	Конвенционной	Конвенционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	рабочей	рабочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	упрощению	упрощение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	_
+11	посчитаны	посчитать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	15	15	NUM	_	_	14	nummod	_	_
+13	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nsubj:pass	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которые	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+18	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	cop	_	_
+19	как	как	SCONJ	_	_	20	mark	_	_
+20	обязательными	обязательный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	так	так	ADV	_	Degree=Pos	24	cc	_	_
+23	и	и	PART	_	_	22	fixed	_	_
+24	необязательными1	необязательными1	NUM	_	_	20	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 4
+# text = Основные акты перечислены в ст. 288 Договора о функционировании Европейского Союза2 (далее — ДФЕС), в их число входят регламенты, директивы, решения, рекомендации и мнения.
+1	Основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	перечислены	перечислить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+7	288	288	NUM	_	_	5	nummod	_	_
+8	Договора	Договор	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+9	о	о	ADP	_	_	10	case	_	_
+10	функционировании	функционирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	_
+11	Европейского	Европейский	PROPN	_	_	12	amod	_	_
+12	Союза2	Союза2	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	далее	далее	ADV	_	Degree=Pos	12	parataxis	_	_
+15	—	—	PUNCT	_	_	14	punct	_	_
+16	ДФЕС	ДФЕС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	их	их	DET	_	_	21	det	_	_
+21	число	число	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	_
+22	входят	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+23	регламенты	регламент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	директивы	директива	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	решения	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	рекомендации	рекомендация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	conj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	мнения	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Договор также предусматривает возможность применения иных специальных актов для дальнейшей интеграции в специфических сферах.
+1	Договор	договор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	предусматривает	предусматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+7	специальных	специальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+9	для	для	ADP	_	_	11	case	_	_
+10	дальнейшей	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	специфических	специфический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Так, в рамках осуществления социальной политики может использоваться коллективное соглашение на уровне ЕС (ст. 155 ДФЕС), заключаемое в рамках европейского социального диалога.
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
+5	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	использоваться	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	8	xcomp	_	_
+10	коллективное	коллективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	соглашение	соглашение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+14	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	parataxis	_	_
+17	155	155	NUM	_	_	18	nummod	_	_
+18	ДФЕС	ДФЕС	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	заключаемое	заключаемь	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	11	acl	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	21	obl	_	_
+24	европейского	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+25	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	диалога	диалог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 7
+# text = В настоящее время принимается множество актов, которые легально не определены в учредительных договорах.
+1	В	в	ADP	_	_	4	advmod	_	_
+2	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	принимается	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	множество	множество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+6	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	которые	который	PRON	_	Case=Nom	11	nsubj:pass	_	_
+9	легально	легально	ADV	_	Degree=Pos	11	advmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	определены	определить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	учредительных	учредительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	договорах	договор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = В большинстве случаев на примере решений, по которым принимают план действий, такие не признанные договорами акты относят к актам особого рода (su geners).
+1	В	в	ADP	_	_	2	case	_	_
+2	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	_
+3	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+6	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	по	по	ADP	_	_	9	case	_	_
+9	которым	который	PRON	_	Case=Dat	10	obl	_	_
+10	принимают	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	5	punct	_	_
+14	такие	такой	DET	_	Case=Nom|Number=Plur	18	det	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	признанные	признать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	_
+17	договорами	договор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	16	obl	_	_
+18	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+19	относят	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	актам	акт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	obl	_	_
+22	особого	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	su	su	X	_	Foreign=Yes	23	flat:foreign	_	_
+26	geners	geners	X	_	Foreign=Yes	23	flat:foreign	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 9
+# text = Совершенно другим примером, формально не закрепленным в учредительных Договорах ЕС, но способствующим европейской интеграции, является открытый метод координации (далее — ОМК).
+1	Совершенно	совершенно	ADV	_	Degree=Pos	2	obl	_	_
+2	другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	примером	пример	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	формально	формально	ADV	_	Degree=Pos	7	advmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	закрепленным	закрепить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	advcl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	учредительных	учредительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	amod	_	_
+10	Договорах	договора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
+11	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	но	но	CCONJ	_	_	14	cc	_	_
+14	способствующим	способствовать	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	_
+15	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	7	punct	_	_
+18	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+19	открытый	открытый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+21	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+23	далее	далеко	ADV	_	Degree=Pos	25	obl	_	_
+24	—	—	PUNCT	_	_	23	punct	_	_
+25	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 10
+# text = Принято считать, что концепция открытого метода координации впервые сформулирована на Лиссабонском европейском совете 23–24 марта 2000 г. (далее — Лиссабонские выводы, Выводы)3 и предстала перед публикой в качестве идеи, которая поможет претворить в жизнь долгосрочную Стратегию создания конкурентоспособной экономики со все больше вовлекаемым трудовым ресурсом и высокой степенью социальной сплоченности4.
+1	Принято	принятый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	что	что	SCONJ	_	_	10	mark	_	_
+5	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	_
+6	открытого	открытый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	впервые	впервые	ADV	_	Degree=Pos	10	advmod	_	_
+10	сформулирована	формулировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	ccomp	_	_
+11	на	на	ADP	_	_	14	case	_	_
+12	Лиссабонском	Лиссабонский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+13	европейском	европейский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	совете	совет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+15	23	23	NUM	_	_	14	nummod	_	SpaceAfter=No
+16	–	–	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	24	24	NUM	_	_	15	nummod	_	_
+18	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	flat	_	_
+19	2000	2000	NUM	_	_	20	nummod	_	_
+20	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+22	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+23	далее	далеко	ADV	_	Degree=Pos	30	advmod	_	_
+24	—	—	PUNCT	_	_	23	punct	_	_
+25	Лиссабонские	Лиссабонский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	26	amod	_	_
+26	выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	30	nsubj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	Выводы)3	Выводы)3	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	conj	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	предстала	предстать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+31	перед	перед	ADP	_	_	32	case	_	_
+32	публикой	публика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	30	obl	_	_
+33	в	в	ADP	_	_	35	case	_	_
+34	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	fixed	_	_
+35	идеи	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	38	punct	_	_
+37	которая	который	PRON	_	Case=Nom	38	nsubj	_	_
+38	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+39	претворить	претворить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	38	xcomp	_	_
+40	в	в	ADP	_	_	41	case	_	_
+41	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	obl	_	_
+42	долгосрочную	долгосрочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	Стратегию	стратегия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	obj	_	_
+44	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	43	nmod	_	_
+45	конкурентоспособной	конкурентоспособный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	46	amod	_	_
+46	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	44	nmod	_	_
+47	со	с	ADP	_	_	52	case	_	_
+48	все	все	PART	_	_	49	advmod	_	_
+49	больше	больше	ADV	_	Degree=Cmp	50	advmod	_	_
+50	вовлекаемым	вовлекать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	52	acl	_	_
+51	трудовым	трудовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+52	ресурсом	ресурс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	44	nmod	_	_
+53	и	и	CCONJ	_	_	55	cc	_	_
+54	высокой	высокий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
+55	степенью	степень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	52	conj	_	_
+56	социальной	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
+57	сплоченности4	сплоченности4	X	_	Foreign=Yes	55	flat:foreign	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 11
+# text = ОМК нацелен также на создание благоприятной обстановки для разработки единого способа борьбы с глобальными проблемами с учетом местных особенностей.
+1	ОМК	Омк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+2	нацелен	нацелить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	также	также	ADV	_	Degree=Pos	2	advmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	создание	создание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+6	благоприятной	благоприятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	единого	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	способа	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	с	с	ADP	_	_	15	case	_	_
+14	глобальными	глобальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	_
+15	проблемами	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	nmod	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+18	местных	местный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	особенностей	особенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 12
+# text = Так, Лиссабонские выводы устанавливают новую стратегически важную цель Союза на ближайшие десять лет: стать самой конкурентоспособной и динамически развивающейся постиндустриальной экономикой в мире со стабильным экономическим ростом и все большим количеством рабочих мест и уровнем социальной сплоченности.
+1	Так	так	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Лиссабонские	Лиссабонский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+5	устанавливают	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	новую	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+7	стратегически	стратегически	ADV	_	Degree=Pos	8	advmod	_	_
+8	важную	важный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+10	Союза	Союз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	14	case	_	_
+12	ближайшие	ближайший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	десять	десять	NUM	_	Case=Acc	14	nummod:gov	_	_
+14	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	14	punct	_	_
+16	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	14	parataxis	_	_
+17	самой	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	конкурентоспособной	конкурентоспособный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	obl	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	динамически	динамически	ADV	_	Degree=Pos	21	advmod	_	_
+21	развивающейся	развиваться	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	conj	_	_
+22	постиндустриальной	постиндустриальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	экономикой	экономика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	obl	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	_
+26	со	с	ADP	_	_	29	case	_	_
+27	стабильным	стабильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+28	экономическим	экономический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	ростом	рост	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	_
+30	и	и	CCONJ	_	_	33	cc	_	_
+31	все	все	DET	_	Case=Nom|Number=Plur	33	det	_	_
+32	большим	больший	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	количеством	количество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	29	conj	_	_
+34	рабочих	рабочий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	29	conj	_	_
+38	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	сплоченности	сплоченность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 13
+# text = Далее § 5 Выводов указывает направления стратегии для достижения стратегически важной цели, в том числе указывая на "модернизацию европейской социальной модели, инвестирование в человеческий потенциал и борьбу с социальной изоляцией".
+1	Далее	далее	ADV	_	Degree=Pos	5	parataxis	_	_
+2	§	§	PUNCT	_	_	1	punct	_	_
+3	5	5	NUM	_	_	4	nummod	_	_
+4	Выводов	выводы	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	указывает	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	направления	направление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+7	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+10	стратегически	стратегически	ADV	_	Degree=Pos	11	advmod	_	_
+11	важной	важный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	16	det	_	_
+16	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+17	указывая	указывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	12	parataxis	_	_
+18	на	на	ADP	_	_	20	case	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	модернизацию	модернизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+21	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+22	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	инвестирование	инвестирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	conj	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	человеческий	человеческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	потенциал	потенциал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	борьбу	борьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	conj	_	_
+31	с	с	ADP	_	_	33	case	_	_
+32	социальной	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	изоляцией	изоляция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+34	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14
+# text = С самого момента разработки ОМК стал преобладать в правовом регулировании социальных отношений, такое регулирование все чаще стали именовать мяг1 Fnal report of Workng Group IX on Smplfcaton.
+1	С	с	ADP	_	_	3	case	_	_
+2	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	момента	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+4	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	преобладать	преобладать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	регулировании	регулирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+11	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	15	det	_	_
+15	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+16	все	все	PART	_	_	17	advmod	_	_
+17	чаще	часто	ADV	_	Degree=Cmp	18	advmod	_	_
+18	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
+19	именовать	именовывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	мяг1	мяг1	NOUN	_	_	18	nsubj	_	_
+21	Fnal	Fnal	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+22	report	report	X	_	Foreign=Yes	20	flat:foreign	_	_
+23	of	of	X	_	Foreign=Yes	20	flat:foreign	_	_
+24	Workng	Workng	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+25	Group	Group	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+26	IX	IX	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+27	on	on	X	_	Foreign=Yes	20	flat:foreign	_	_
+28	Smplfcaton	Smplfcaton	PROPN	_	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 15
+# text = CONV 424/02.
+1	CONV	Conv	NUM	_	_	0	root	_	_
+2	424/	424/	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	02	02	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 16
+# text = 29.11.2002.
+1	29.11.2002	29.11.2002	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = P. 3.
+1	P	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	3	3	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = 2 Consoldated verson of the Treaty on the Functonng of the European Unon and Treaty on European Unon // Offcal Journal of the European Unon.
+1	2	2	NUM	_	_	0	root	_	_
+2	Consoldated	Consoldated	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	verson	verson	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	Treaty	Treaty	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	on	on	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	Functonng	Functonng	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	Unon	Unon	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	Treaty	Treaty	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+16	on	on	X	_	Foreign=Yes	1	flat:foreign	_	_
+17	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+18	Unon	Unon	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+19	/	/	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	1	flat:foreign	_	_
+21	Offcal	Offcal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+22	Journal	Journal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+23	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+24	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+25	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+26	Unon	Unon	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = 30.03.2010.
+1	30.03.2010	30.03.2010	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = P. 83. 3 European Councl (2000), Presdency Conclusons 23–24 March 2000.
+1	P	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	83	83	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	3	3	NUM	_	_	3	nummod	_	_
+6	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	Councl	Councl	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	2000	2000	NUM	_	_	1	nummod	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Presdency	Presdency	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	Conclusons	Conclusons	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	23	23	NUM	_	_	1	nummod	_	SpaceAfter=No
+15	–	–	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	24	24	NUM	_	_	1	nummod	_	_
+17	March	March	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+18	2000	2000	NUM	_	_	1	nummod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = URL: http://www.europarl. europa.eu/summts/ls1_en.htm (дата обращения: 09.09.2016).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.europarl	http://www.europarl	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	europa.eu/summts/ls1_en.htm	europa.eu/summts/ls1_en.htm	X	_	Foreign=Yes	3	flat:foreign	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	flat:foreign	_	_
+8	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	09.09.2016	09.09.2016	X	_	Foreign=Yes	8	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = 4 European Councl, Presdency Conclusons, 7775/1/06 (Brussels, 18 May 2006).
+1	4	4	NUM	_	_	2	nummod	_	_
+2	European	European	PROPN	_	Foreign=Yes	0	root	_	_
+3	Councl	Councl	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Presdency	Presdency	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+6	Conclusons	Conclusons	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	7775/1/06	7775/1/06	X	_	Foreign=Yes	2	flat:foreign	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	Brussels	Brussels	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	18	18	NUM	_	_	13	nummod	_	_
+13	May	May	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+14	2006	2006	NUM	_	_	2	nummod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 27
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = 4
+1	4	4	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = ким, а ОМК — инструментом мягкого права.
+1	ким	кое	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	а	а	CCONJ	_	_	4	cc	_	_
+4	ОМК	ОМК	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	инструментом	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+7	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31
+# text = Тем не менее появление ОМК приветствовалось не всеми западными учеными : многие посчитали введение ОМК признанием провала в создании единых социальных и трудовых стандартов по всему Союзу посредством отказа от реализации программ и действия социальной модели Европы .
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	появление	появление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	приветствовалось	приветствовать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	всеми	весь	DET	_	Case=Ins|Number=Plur	10	det	_	_
+9	западными	западный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	_
+10	учеными	ученый	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	obl	_	_
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	многие	много	NUM	_	_	13	nsubj	_	_
+13	посчитали	счесть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+14	введение	введение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+15	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	признанием	признание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	nmod	_	_
+17	провала	провал	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	xcomp	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+20	единых	единый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+21	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	трудовых	трудовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	conj	_	_
+24	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+25	по	по	ADP	_	_	27	case	_	_
+26	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing	27	det	_	_
+27	Союзу	Союз	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	24	nmod	_	_
+28	посредством	посредством	ADP	_	_	29	case	_	_
+29	отказа	отказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	_
+30	от	от	ADP	_	_	31	case	_	_
+31	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+32	программ	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	17	conj	_	_
+35	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+37	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 32
+# text = В последнее время наблюдается все больше ученых, поддерживающих идею ОМК и рассматривающих его как уникальный прорыв в эффективном решении проблем, с которыми сталкивается ЕС в сфере социальной политики .
+1	В	в	ADP	_	_	3	case	_	_
+2	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+4	наблюдается	наблюдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	все	все	PART	_	_	6	advmod	_	_
+6	больше	много	ADV	_	Degree=Cmp	4	nsubj:pass	_	_
+7	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	поддерживающих	поддерживать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+10	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	appos	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	рассматривающих	рассматривать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	_
+14	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obj	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	уникальный	уникальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	прорыв	прорыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	эффективном	эффективный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	решении	решение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	_
+21	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	которыми	который	PRON	_	Case=Ins	25	obl	_	_
+25	сталкивается	сталкиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	acl:relcl	_	_
+26	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	obl	_	_
+29	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 33
+# text = Сам ОМК, во-первых, позволяет определять всесоюзные руководства, сопряженные со специфическим сроком достижения краткосрочных, среднесрочных и долгосрочных целей; во-вторых, устанавливает в тех случаях, когда необходимо, количественные и качественные показатели и критерии для сравнения типов политики, проводимой государствами-членами с учетом их потребностей; в-третьих, способствует заимствованию положений европейских руководящих принципов на национальном или региональном уровне путем установления специфических целей и принятия тех мер, которые будут учитывать национальные или региональные особенности; в-четвертых, обеспечивает постоянный мониторинг, оценку и обмен опытом в рамках взаимного обучения (§ 37 Выводов).
+1	Сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	ОМК	ОМК	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	во-первых	во-первых	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	определять	определять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	всесоюзные	всесоюзный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	руководства	руководство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	сопряженные	сопрячь	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+12	со	с	ADP	_	_	14	case	_	_
+13	специфическим	специфический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	сроком	срок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+15	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	краткосрочных	краткосрочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	среднесрочных	среднесрочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	conj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	долгосрочных	долгосрочный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	conj	_	_
+21	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+22	;	;	PUNCT	_	_	6	punct	_	_
+23	во-вторых	во-вторых	ADV	_	Degree=Pos	25	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	устанавливает	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	тех	тот	DET	_	Case=Loc|Number=Plur	28	det	_	_
+28	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	25	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	когда	когда	SCONJ	_	_	31	mark	_	_
+31	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	28	acl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	количественные	количественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	36	amod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	качественные	качественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	33	conj	_	_
+36	показатели	показатель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obj	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	критерии	критерий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	conj	_	_
+39	для	для	ADP	_	_	40	case	_	_
+40	сравнения	сравнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	_
+41	типов	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	40	nmod	_	_
+42	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	проводимой	проводить	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	42	acl	_	_
+45	государствами	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	44	obl	_	SpaceAfter=No
+46	-	-	PUNCT	_	_	47	punct	_	SpaceAfter=No
+47	членами	член	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	45	nmod	_	_
+48	с	с	ADP	_	_	49	case	_	_
+49	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	44	obl	_	_
+50	их	их	DET	_	_	51	det	_	_
+51	потребностей	потребность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	49	nmod	_	SpaceAfter=No
+52	;	;	PUNCT	_	_	6	punct	_	_
+53	в-третьих	в-третьих	ADV	_	Degree=Pos	6	conj	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	53	punct	_	_
+55	способствует	способствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+56	заимствованию	заимствование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	55	iobj	_	_
+57	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	56	nmod	_	_
+58	европейских	европейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	60	amod	_	_
+59	руководящих	руководить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	60	amod	_	_
+60	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	57	nmod	_	_
+61	на	на	ADP	_	_	65	case	_	_
+62	национальном	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	65	amod	_	_
+63	или	или	CCONJ	_	_	64	cc	_	_
+64	региональном	региональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	62	conj	_	_
+65	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	57	nmod	_	_
+66	путем	путем	ADP	_	_	67	case	_	_
+67	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	obl	_	_
+68	специфических	специфический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	69	amod	_	_
+69	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	67	nmod	_	_
+70	и	и	CCONJ	_	_	71	cc	_	_
+71	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	67	conj	_	_
+72	тех	тот	DET	_	Case=Gen|Number=Plur	73	det	_	_
+73	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	71	nmod	_	SpaceAfter=No
+74	,	,	PUNCT	_	_	77	punct	_	_
+75	которые	который	PRON	_	Case=Nom	77	nsubj	_	_
+76	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	77	aux	_	_
+77	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	73	acl:relcl	_	_
+78	национальные	национальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	81	amod	_	_
+79	или	или	CCONJ	_	_	80	cc	_	_
+80	региональные	региональный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	78	conj	_	_
+81	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	77	obl	_	SpaceAfter=No
+82	;	;	PUNCT	_	_	81	punct	_	_
+83	в-четвертых	в-четвертых	ADV	_	Degree=Pos	85	parataxis	_	SpaceAfter=No
+84	,	,	PUNCT	_	_	83	punct	_	_
+85	обеспечивает	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	81	conj	_	_
+86	постоянный	постоянный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	87	amod	_	_
+87	мониторинг	мониторинг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	85	obj	_	SpaceAfter=No
+88	,	,	PUNCT	_	_	89	punct	_	_
+89	оценку	оценка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	87	conj	_	_
+90	и	и	CCONJ	_	_	91	cc	_	_
+91	обмен	обмен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	87	conj	_	_
+92	опытом	опыт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	91	nmod	_	_
+93	в	в	ADP	_	_	94	case	_	_
+94	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	91	nmod	_	_
+95	взаимного	взаимный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	96	amod	_	_
+96	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	94	nmod	_	_
+97	(	(	PUNCT	_	_	100	punct	_	SpaceAfter=No
+98	§	§	PUNCT	_	_	100	punct	_	_
+99	37	37	NUM	_	_	100	nummod	_	_
+100	Выводов	выводы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	96	parataxis	_	SpaceAfter=No
+101	)	)	PUNCT	_	_	100	punct	_	SpaceAfter=No
+102	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34
+# text = Как известно, с созданием общего рынка интеграционные механизмы не остановились: Союз продолжил интегрировать ранее нетронутые наднациональным правом сферы, в том числе по социальным и трудовым вопросам.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	созданием	создание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+6	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	интеграционные	интеграционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	остановились	остановиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	Союз	Союз	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	продолжил	продолжить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+15	интегрировать	интегрировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	ранее	ранее	ADV	_	Degree=Pos	15	advmod	_	_
+17	нетронутые	нетронутый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+18	наднациональным	наднациональный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	_
+20	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	29	punct	_	_
+22	в	в	ADP	_	_	24	case	_	_
+23	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	24	det	_	_
+24	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	nmod	_	_
+25	по	по	ADP	_	_	29	case	_	_
+26	социальным	социальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	29	amod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	трудовым	трудовой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	26	conj	_	_
+29	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 35
+# text = В каждой стране существуют свои представления об уровне жизни населения, минимальных стандартах и политике солидарности.
+1	В	в	ADP	_	_	3	case	_	_
+2	каждой	каждый	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	свои	свой	DET	_	Case=Acc|Number=Plur	6	det	_	_
+6	представления	представление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+7	об	о	ADP	_	_	8	case	_	_
+8	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	минимальных	минимальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	стандартах	стандарт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	conj	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	политике	политика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	_	_
+16	солидарности	солидарность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 36
+# text = Тем не менее экономическая общность привела к возникновению одних и тех же проблем у большинства государств-членов.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	экономическая	экономический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	общность	общность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	привела	привести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	возникновению	возникновение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+9	одних	один	DET	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	тех	тот	DET	_	Case=Gen|Number=Plur	9	det	_	_
+12	же	же	PART	_	_	11	advmod	_	_
+13	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	большинства	большинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+16	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	appos	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 37
+# text = Например, государства совершенно по-разному справлялись с возросшим уровнем безработицы, что явно подрывало единообразие европейского регулирования и доверие к не так давно провозглашенной социальной модели .
+1	Например	например	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	государства	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+4	совершенно	совершенно	ADV	_	Degree=Pos	5	advmod	_	_
+5	по-разному	по-разному	ADV	_	Degree=Pos	6	advmod	_	_
+6	справлялись	справляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	с	с	ADP	_	_	9	case	_	_
+8	возросшим	возрасти	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	amod	_	_
+9	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+10	безработицы	безработица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	что	что	PRON	_	Case=Nom	14	nsubj	_	_
+13	явно	явно	ADV	_	Degree=Pos	14	advmod	_	_
+14	подрывало	подрывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+15	единообразие	единообразий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	obj	_	_
+16	европейского	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	доверие	доверие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	conj	_	_
+20	к	к	ADP	_	_	26	case	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	так	так	ADV	_	Degree=Pos	23	advmod	_	_
+23	давно	давно	ADV	_	Degree=Pos	24	advmod	_	_
+24	провозглашенной	провозглашеть	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	acl	_	_
+25	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 38
+# text = Было очевидно, что социальные проблемы эффективнее всего решать на уровне ЕС, однако государства не торопились передавать компетенцию в сфере социальной политики союзным институтам.
+1	Было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	очевидно	очевидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+7	эффективнее	эффективно	ADV	_	Degree=Cmp	9	advmod	_	_
+8	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+9	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	ccomp	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+12	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	однако	однако	ADV	_	Degree=Pos	17	advmod	_	_
+15	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	торопились	торопиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	_
+18	передавать	передавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	компетенцию	компетенция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	_
+22	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	союзным	союзный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	25	amod	_	_
+25	институтам	институт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	18	iobj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = Использование методов координации, которые относят к "новому управлению" ("новому регулированию"), позволило Союзу безболезненно решить эту проблему.
+1	Использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+2	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	которые	который	PRON	_	Case=Nom	6	nsubj	_	_
+6	относят	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+7	к	к	ADP	_	_	10	case	_	_
+8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	новому	новый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	управлению	управление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	новому	новый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	регулированию	регулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	1	punct	_	_
+19	позволило	позволить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+20	Союзу	Союз	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
+21	безболезненно	безболезненно	ADV	_	Degree=Pos	22	advmod	_	_
+22	решить	решить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+23	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	24	det	_	_
+24	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 40
+# text = Концепцию "нового управления" с точки зрения ее действия можно представить двумя подходами.
+1	Концепцию	концепция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+2	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+8	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	compound	_	_
+9	ее	ее	DET	_	_	10	det	_	_
+10	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+11	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+12	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	_
+13	двумя	два	NUM	_	Case=Ins	14	nummod	_	_
+14	подходами	подход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 41
+# text = Одни авторы традиционно проводят отграничение нового управления от традиционных типов управления, в первую очередь коммунитарного метода (когда союзные институты регулируют правоотношения посредством принятия обязательных актов).
+1	Одни	один	DET	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+3	традиционно	традиционно	ADV	_	Degree=Pos	4	advmod	_	_
+4	проводят	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	отграничение	отграничение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	от	от	ADP	_	_	10	case	_	_
+9	традиционных	традиционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	типов	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+11	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	в	в	ADP	_	_	17	discourse	_	_
+14	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	fixed	_	_
+15	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	fixed	_	_
+16	коммунитарного	коммунитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+18	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+19	когда	когда	SCONJ	_	_	22	mark	_	_
+20	союзные	союзный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	amod	_	_
+21	институты	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+22	регулируют	регулировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	_
+23	правоотношения	правоотношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+24	посредством	посредством	ADP	_	_	25	case	_	_
+25	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	_
+26	обязательных	обязательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 42
+# text = При этом одинаковые и обязывающие правила старого регулирования меняются на гораздо более гибкие и коллективные формы управления .
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+3	одинаковые	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	обязывающие	обязывавать	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	conj	_	_
+6	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+7	старого	старый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	меняются	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	на	на	ADP	_	_	16	case	_	_
+11	гораздо	гораздо	ADV	_	Degree=Pos	12	advmod	_	_
+12	более	более	ADV	_	Degree=Cmp	13	obl	_	_
+13	гибкие	гибкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	коллективные	коллективный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	conj	_	_
+16	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	obl	_	_
+17	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 43
+# text = Другие ученые, например профессоры Грэйн де Бурка и Джоан Скотт, определяют "новое регулирование" в том числе через его особенности: новое регулирование — подход, который ставит ожидаемый акцент на приспособлении и развитии многообразия, на важности предусмотрительности и исправляемости, а также на целях взаимного обучения.
+1	Другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	например	например	ADV	_	Degree=Pos	5	obl	_	_
+5	профессоры	профессор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	_
+6	Грэйн	Грэйн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+7	де	де	PART	_	_	6	appos	_	_
+8	Бурка	Бурк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	Джоан	Джоан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+11	Скотт	Скотт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	определяют	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	20	det	_	_
+20	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+21	через	через	ADP	_	_	23	case	_	_
+22	его	его	DET	_	_	23	det	_	_
+23	особенности	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+24	:	:	PUNCT	_	_	23	punct	_	_
+25	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	parataxis	_	_
+27	—	—	PUNCT	_	_	26	punct	_	_
+28	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	который	который	PRON	_	Case=Nom	31	nsubj	_	_
+31	ставит	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl:relcl	_	_
+32	ожидаемый	ожидать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	33	amod	_	_
+33	акцент	акцент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	obj	_	_
+34	на	на	ADP	_	_	35	case	_	_
+35	приспособлении	приспособление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	nmod	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	35	conj	_	_
+38	многообразия	многообразие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	на	на	ADP	_	_	41	case	_	_
+41	важности	важность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	35	conj	_	_
+42	предусмотрительности	предусмотрительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	исправляемости	исправляемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	conj	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	49	punct	_	_
+46	а	а	CCONJ	_	_	49	cc	_	_
+47	также	также	PART	_	_	46	fixed	_	_
+48	на	на	ADP	_	_	49	case	_	_
+49	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	35	conj	_	_
+50	взаимного	взаимный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	51	amod	_	_
+51	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 44
+# text = Более того, новое управление полностью вовлекает в процесс всех заинтересованных лиц, усиливает прозрачность каждого из этапов, в том числе оценивания и пересмотра, на добровольных или юридически необязательных нормах.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	полностью	полностью	ADV	_	Degree=Pos	7	advmod	_	_
+7	вовлекает	вовлекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+10	всех	весь	DET	_	Case=Gen|Number=Plur	12	det	_	_
+11	заинтересованных	заинтересованный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	усиливает	усиливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	прозрачность	прозрачность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	15	det	_	_
+17	из	из	ADP	_	_	18	case	_	_
+18	этапов	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	22	det	_	_
+22	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
+23	оценивания	оценивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	32	punct	_	_
+27	на	на	ADP	_	_	32	case	_	_
+28	добровольных	добровольный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	32	amod	_	_
+29	или	или	CCONJ	_	_	31	cc	_	_
+30	юридически	юридически	ADV	_	Degree=Pos	31	obl	_	_
+31	необязательных	необязательный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	conj	_	_
+32	нормах	норма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 45
+# text = Новое управление также представляет собой Вестник СПбГУ.
+1	Новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	также	также	ADV	_	Degree=Pos	4	advmod	_	_
+4	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	собой	себя	PRON	_	Case=Ins	4	fixed	_	_
+6	Вестник	Вестник	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 46
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = 4
+1	4	4	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = подход, "действующий посредством системы, центральное место в которой отводится координации ее элементов и их обмену" .
+1	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	12	punct	_	_
+3	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+4	действующий	действовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	_
+5	посредством	посредством	ADP	_	_	6	case	_	_
+6	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	центральное	центральный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	которой	который	PRON	_	Case=Loc	9	nmod	_	_
+12	отводится	отводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+13	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+14	ее	ее	DET	_	_	15	det	_	_
+15	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	их	их	DET	_	_	18	det	_	_
+18	обмену	обмен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 53
+# text = ОМК позиционируется как новый интеграционный механизм, при этом ему предшествовало несколько похожих механизмов, о чем умалчивается в большинстве научных работ по ОМК.
+1	ОМК	Омк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+2	позиционируется	позиционировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	как	как	SCONJ	_	_	6	mark	_	_
+4	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+5	интеграционный	интеграционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	при	при	ADP	_	_	9	case	_	_
+9	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+10	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	11	iobj	_	_
+11	предшествовало	предшествовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+12	несколько	несколько	NUM	_	Case=Nom	14	nummod:gov	_	_
+13	похожих	похожий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	чем	что	PRON	_	Case=Loc	18	obl	_	_
+18	умалчивается	умалчивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	parataxis	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+21	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	работ	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	_
+23	по	по	ADP	_	_	24	case	_	_
+24	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 54
+# text = Первый ("экономический") механизм создан в 1992 г.; он включал в себя обширные руководства в сфере экономической политики (Broad Economc Polcy Gudelnes, BEPG)5 и всесторонне контролировал их выполнение .
+1	Первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+2	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	экономический	экономический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	4	punct	_	_
+7	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+8	создан	создать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	1992	1992	NUM	_	_	11	nummod	_	_
+11	г	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	;	;	PUNCT	_	_	8	punct	_	_
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
+15	включал	включать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	себя	себя	PRON	_	Case=Acc	15	obl	_	_
+18	обширные	обширный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+19	руководства	руководство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	_
+22	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	Broad	Broad	PROPN	_	Foreign=Yes	23	flat:foreign	_	_
+26	Economc	Economc	PROPN	_	Foreign=Yes	23	flat:foreign	_	_
+27	Polcy	Polcy	PROPN	_	Foreign=Yes	23	flat:foreign	_	_
+28	Gudelnes	Gudelnes	PROPN	_	Foreign=Yes	23	flat:foreign	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	BEPG)5	BEPG)5	PROPN	_	Foreign=Yes	23	flat:foreign	_	_
+31	и	и	CCONJ	_	_	33	cc	_	_
+32	всесторонне	всесторонне	ADV	_	Degree=Pos	33	advmod	_	_
+33	контролировал	контролировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+34	их	они	DET	_	_	35	det	_	_
+35	выполнение	выполнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	obj	_	_
+36	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 55
+# text = Второй механизм был разработан в 1997 г. и определялся Европейской стратегией занятости (European Employment Strategy, EES)6, которая во многом рассматривается в качестве проекта ОМК.
+1	Второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	разработан	разработать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	1997	1997	NUM	_	_	7	nummod	_	_
+7	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	определялся	определяться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	4	conj	_	_
+10	Европейской	Европейский	PROPN	_	_	11	amod	_	_
+11	стратегией	стратегия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
+12	занятости	занятость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	European	European	PROPN	_	Foreign=Yes	11	flat:foreign	_	_
+15	Employment	Employment	PROPN	_	Foreign=Yes	11	flat:foreign	_	_
+16	Strategy	Strategy	PROPN	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	EES	EES	PROPN	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	6	6	NUM	_	_	11	nummod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	которая	который	PRON	_	Case=Nom	25	nsubj:pass	_	_
+23	во	в	ADP	_	_	24	case	_	_
+24	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	obl	_	_
+25	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	acl:relcl	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	fixed	_	_
+28	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	obl	_	_
+29	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 56
+# text = Методы координации в их традиционном понимании появляются лишь тогда, когда на союзном уровне отсутствует законодательная база, регулирующая отношения в определенных сферах.
+1	Методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+2	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	их	их	DET	_	_	6	det	_	_
+5	традиционном	традиционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	лишь	лишь	PART	_	_	9	advmod	_	_
+9	тогда	тогда	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	когда	когда	ADV	_	Degree=Pos	15	advmod	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	союзном	союзный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	_
+15	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+16	законодательная	законодательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	база	база	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	регулирующая	регулировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	19	obj	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	определенных	определенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	23	amod	_	_
+23	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 57
+# text = ОМК в сфере социальной защиты и социальной интеграции, например, позволяет принимать меры, которые призваны поощрять сотрудничество государств-членов с помощью инициатив по улучшению знаний, развитию обмена информацией и передовой практикой, продвижению новаторских подходов и оценке накопленного опыта, исключая при этом любую гармонизацию законодательных и регламентарных положений государств-членов (ст. 153(2) ДФЕС).
+1	ОМК	Омк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	например	например	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	принимать	принимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которые	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	призваны	призванный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	14	acl:relcl	_	_
+18	поощрять	поощрять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	сотрудничество	сотрудничество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+20	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+23	с	с	ADP	_	_	25	case	_	_
+24	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	fixed	_	_
+25	инициатив	инициатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	obl	_	_
+26	по	по	ADP	_	_	27	case	_	_
+27	улучшению	улучшение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	nmod	_	_
+28	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	27	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	развитию	развитие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	conj	_	_
+31	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	информацией	информация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	30	nmod	_	_
+33	и	и	CCONJ	_	_	35	cc	_	_
+34	передовой	передовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	практикой	практика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	32	conj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	продвижению	продвижение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	conj	_	_
+38	новаторских	новаторский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+39	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	оценке	оценка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	conj	_	_
+42	накопленного	накопить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	43	amod	_	_
+43	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	45	punct	_	_
+45	исключая	исключать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	18	advcl	_	_
+46	при	при	ADP	_	_	47	case	_	_
+47	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	45	obl	_	_
+48	любую	любой	DET	_	Case=Acc|Gender=Fem|Number=Sing	49	det	_	_
+49	гармонизацию	гармонизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	45	obj	_	_
+50	законодательных	законодательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	53	amod	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	регламентарных	регламентарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	50	conj	_	_
+53	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	49	nmod	_	_
+54	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	53	nmod	_	SpaceAfter=No
+55	-	-	PUNCT	_	_	56	punct	_	SpaceAfter=No
+56	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	54	appos	_	_
+57	(	(	PUNCT	_	_	58	punct	_	SpaceAfter=No
+58	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	56	parataxis	_	_
+59	153	153	NUM	_	_	63	nummod	_	SpaceAfter=No
+60	(	(	PUNCT	_	_	61	punct	_	SpaceAfter=No
+61	2	2	NUM	_	_	59	nummod	_	SpaceAfter=No
+62	)	)	PUNCT	_	_	61	punct	_	_
+63	ДФЕС	ДФЕС	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	58	nmod	_	SpaceAfter=No
+64	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
+65	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 58
+# text = Таким образом, существует множество методов координации, чье содержание определяется сферой, которую они регулируют.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	множество	множество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	чье	чей	DET	_	Case=Nom|Gender=Neut|Number=Sing	10	det	_	_
+10	содержание	содержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	_
+11	определяется	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl:relcl	_	_
+12	сферой	сфера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	которую	который	PRON	_	Case=Acc	16	obj	_	_
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	16	nsubj	_	_
+16	регулируют	регулировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59
+# text = В научной литературе по этому поводу приведено сравнение Лиссабонского ОМК с "рецептом, предлагающим различные ингредиенты для приготовления того метода координации, который будет соответствовать потребностям субъекта регулирования" .
+1	В	в	ADP	_	_	3	case	_	_
+2	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+4	по	по	ADP	_	_	6	case	_	_
+5	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+6	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+7	приведено	привести	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	сравнение	сравнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+9	Лиссабонского	Лиссабонский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	ОМК	ОМК	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	рецептом	рецепт	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	предлагающим	предлагать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+16	различные	различный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	ингредиенты	ингредиент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	приготовления	приготовление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+20	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	21	det	_	_
+21	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+22	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	который	который	PRON	_	Case=Nom	26	nsubj	_	_
+25	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	aux	_	_
+26	соответствовать	соответствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	acl:relcl	_	_
+27	потребностям	потребность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	26	iobj	_	_
+28	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+29	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	26	punct	_	_
+31	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 60
+# text = Так, ОМК в сфере социальной интеграции предполагает больше "ингредиентов", чем тот же ОМК в сфере пенсионного обеспечения и здравоохранения .
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	больше	больше	ADV	_	Degree=Cmp	8	advmod	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	ингредиентов	ингредиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	чем	чем	SCONJ	_	_	17	mark	_	_
+15	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	17	det	_	_
+16	же	же	PART	_	_	15	advmod	_	_
+17	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	advcl	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	_
+20	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	здравоохранения	здравоохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	conj	_	_
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 61
+# text = Следовательно, ОМК нельзя рассматривать как какой-то типичный инструмент правового регулирования по типу регламента, директивы или решения.
+1	Следовательно	следовательно	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obj	_	_
+4	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+5	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	как	как	SCONJ	_	_	9	mark	_	_
+7	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing	9	det	_	_
+8	типичный	типичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	инструмент	инструмент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	_
+10	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	типу	тип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	_
+14	регламента	регламент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	директивы	директива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	conj	_	_
+17	или	или	CCONJ	_	_	18	cc	_	_
+18	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 62
+# text = ОМК — особый механизм, состоящий из перечня последовательных взаимосвязанных элементов , направленных на достижение общих целей, которые поддерживаются руководствами и показателями.
+1	ОМК	Омк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	—	—	PUNCT	_	_	1	punct	_	_
+3	особый	особый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	состоящий	состоять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	из	из	ADP	_	_	8	case	_	_
+8	перечня	перечень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+9	последовательных	последовательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+10	взаимосвязанных	взаимосвязывать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+16	общих	общий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	которые	который	PRON	_	Case=Nom	20	nsubj:pass	_	_
+20	поддерживаются	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	acl:relcl	_	_
+21	руководствами	руководство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	20	obl	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	показателями	показатель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = Предполагается, что на их основе государства-члены будут устанавливать свои приоритеты в национальной политике .
+1	Предполагается	предполагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	11	punct	_	_
+3	что	что	SCONJ	_	_	11	mark	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	их	их	DET	_	_	6	det	_	_
+6	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+9	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+10	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+11	устанавливать	устанавливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	ccomp	_	_
+12	свои	свой	DET	_	Case=Acc|Number=Plur	13	det	_	_
+13	приоритеты	приоритет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	национальной	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	политике	политика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Чтобы проконтролировать прогресс в достижении общих целей, государствачлены должны составлять планы национальных действий, в которых они отражают свою политическую активность.
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	2	mark	_	_
+2	проконтролировать	контролировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	_
+3	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	достижении	достижение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	общих	общий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	государствачлены	государствачлен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+11	составлять	составлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	планы	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+13	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	которых	который	PRON	_	Case=Loc	19	obl	_	_
+18	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	19	nsubj	_	_
+19	отражают	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+20	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	22	det	_	_
+21	политическую	политический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	активность	активность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 65
+# text = Эти планы рассматриваются курирующими органами ЕС, и результаты их рассмотрения отражаются в совместном отчете Европейской комиссии и Совета ЕС.
+1	Эти	этот	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	планы	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	курирующими	курировать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
+5	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	_
+6	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	и	и	CCONJ	_	_	12	cc	_	_
+9	результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+10	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	11	nmod	_	_
+11	рассмотрения	рассмотрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	отражаются	отражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	совместном	совместный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	отчете	отчет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+16	Европейской	Европейский	PROPN	_	_	17	amod	_	_
+17	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	Совета	Совет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	conj	_	_
+20	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 66
+# text = В отчетах также содержатся обзор работы и сравнительный анализ ее показателей за отдельный период, что позволяет Европейской комиссии выделить более успешную и менее успешную программу действий (практику) с оглаской наиболее и наименее преуспевающих стран в отдельных областях.
+1	В	в	ADP	_	_	2	case	_	_
+2	отчетах	отчет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
+3	также	также	ADV	_	Degree=Pos	4	advmod	_	_
+4	содержатся	содержаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	обзор	обзор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	сравнительный	сравнительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+10	ее	она	DET	_	_	11	det	_	_
+11	показателей	казателеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	за	за	ADP	_	_	14	case	_	_
+13	отдельный	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	что	что	PRON	_	Case=Nom	17	nsubj	_	_
+17	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+18	Европейской	Европейский	PROPN	_	_	19	amod	_	_
+19	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
+20	выделить	выделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	obl	_	_
+21	более	более	ADV	_	Degree=Cmp	22	obl	_	_
+22	успешную	успешный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	obj	_	_
+23	и	и	CCONJ	_	_	26	cc	_	_
+24	менее	менее	ADV	_	Degree=Cmp	25	obl	_	_
+25	успешную	успешный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	программу	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	conj	_	_
+27	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	практику	практика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	appos	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	29	punct	_	_
+31	с	с	ADP	_	_	32	case	_	_
+32	оглаской	оглаский	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	nmod	_	_
+33	наиболее	наиболее	ADV	_	Degree=Pos	36	advmod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	наименее	наименее	ADV	_	Degree=Pos	33	conj	_	_
+36	преуспевающих	преуспевать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	37	acl	_	_
+37	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	_
+38	в	в	ADP	_	_	40	case	_	_
+39	отдельных	отдельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	40	amod	_	_
+40	областях	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	32	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 67
+# text = При этом каждой стране выставляются оценки исходя из различных критериев 5 Commsson of the European Communtes (1998).
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	каждой	каждый	DET	_	Case=Dat|Gender=Fem|Number=Sing	4	det	_	_
+4	стране	страна	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	_
+5	выставляются	выставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	оценки	оценка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+7	исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	_
+8	из	из	ADP	_	_	10	case	_	_
+9	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	критериев	критерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+11	5	5	NUM	_	_	10	nummod	_	_
+12	Commsson	Commsson	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+13	of	of	X	_	Foreign=Yes	10	flat:foreign	_	_
+14	the	the	X	_	Foreign=Yes	10	flat:foreign	_	_
+15	European	European	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+16	Communtes	Communtes	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	1998	1998	NUM	_	_	10	nummod	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 68
+# text = "1998 Broad Economc Polcy Gudelnes" // European Economy.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	1998	1998	NUM	_	_	0	root	_	_
+3	Broad	Broad	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+4	Economc	Economc	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+5	Polcy	Polcy	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+6	Gudelnes	Gudelnes	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+9	/	/	PUNCT	_	_	10	punct	_	_
+10	European	European	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+11	Economy	Economy	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 69
+# text = 1998.
+1	1998	1998	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = N 66.
+1	N	н-лат	PROPN	_	Foreign=Yes	0	root	_	_
+2	66	66	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = Offce for Offcal Publcatons of the EC, Luxembourg.
+1	Offce	offce	PROPN	_	Foreign=Yes	0	root	_	_
+2	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	Offcal	Offcal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	Publcatons	Publcatons	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	EC	EC	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Luxembourg	Luxembourg	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = 6 Communcaton from the Commsson to the Councl, the European Parlament, the Economc and Socal Commttee and the Commttee of the Regons: The future of the European Employment Strategy (EES).
+1	6	6	NUM	_	_	2	nummod	_	_
+2	Communcaton	Communcaton	PROPN	_	Foreign=Yes	0	root	_	_
+3	from	from	X	_	Foreign=Yes	2	flat:foreign	_	_
+4	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+5	Commsson	Commsson	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+6	to	to	X	_	Foreign=Yes	2	flat:foreign	_	_
+7	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+8	Councl	Councl	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+11	European	European	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+12	Parlament	Parlament	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+15	Economc	Economc	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+16	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+17	Socal	Socal	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+18	Commttee	Commttee	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+19	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+20	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+21	Commttee	Commttee	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+22	of	of	X	_	Foreign=Yes	2	flat:foreign	_	_
+23	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+24	Regons	Regons	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+25	:	:	PUNCT	_	_	2	punct	_	_
+26	The	The	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+27	future	future	X	_	Foreign=Yes	2	flat:foreign	_	_
+28	of	of	X	_	Foreign=Yes	2	flat:foreign	_	_
+29	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+30	European	European	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+31	Employment	Employment	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+32	Strategy	Strategy	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+33	(	(	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	EES	EES	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+35	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 73
+# text = "A strategy for full employment and better jobs for all" COM (2003) 6 fnal, Brussels, 14.01.2003.
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	A	a	PROPN	_	Foreign=Yes	0	root	_	_
+3	strategy	strategy	X	_	Foreign=Yes	2	flat:foreign	_	_
+4	for	for	X	_	Foreign=Yes	2	flat:foreign	_	_
+5	full	full	X	_	Foreign=Yes	2	flat:foreign	_	_
+6	employment	employment	X	_	Foreign=Yes	2	flat:foreign	_	_
+7	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+8	better	better	X	_	Foreign=Yes	2	flat:foreign	_	_
+9	jobs	jobs	X	_	Foreign=Yes	2	flat:foreign	_	_
+10	for	for	X	_	Foreign=Yes	2	flat:foreign	_	_
+11	all	all	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	13	punct	_	_
+13	COM	COM	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	2003	2003	NUM	_	_	2	nummod	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	_
+17	6	6	NUM	_	_	2	nummod	_	_
+18	fnal	fnal	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	Brussels	Brussels	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	14.01.2003	14.01.2003	NOUN	_	_	2	conj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 74
+# text = URL: http://eur-lex.europa.eu/legal-content/IT/TXT/?ur=URISERV:c11316 (дата обращения: 14.11.2016).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://eur-lex.europa.eu/legal-content/IT/TXT/?ur=URISERV:c11316	http://eur-lex.europa.eu/legal-content/IT/TXT/?ur=URISERV:c11316	PROPN	_	_	1	parataxis	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+6	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	14.11.2016	14.11.2016	X	_	Foreign=Yes	6	parataxis	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 75
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = 4
+1	4	4	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 82
+# text = успешности проведения той или иной политики.
+1	успешности	успешность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	проведения	проведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
+4	или	или	CCONJ	_	_	5	cc	_	_
+5	иной	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	conj	_	_
+6	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = В отдельных ОМК процесс обзора работы дополняется программами по обмену успешной практикой и новаторскими подходами.
+1	В	в	ADP	_	_	3	case	_	_
+2	отдельных	отдельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	3	amod	_	_
+3	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+4	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	обзора	обзор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	дополняется	дополняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	программами	программа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	obl	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	обмену	обмен	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	_
+11	успешной	успешный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	практикой	практика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	новаторскими	новаторский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	_
+15	подходами	подход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 84
+# text = Более того, оценивание результатов также имеет и обратный эффект — позволяет пересмотреть отдельные элементы ОМК, среди которых — общие задачи, руководства и показатели.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	оценивание	оценивание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	результатов	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	также	также	ADV	_	Degree=Pos	7	advmod	_	_
+7	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	и	и	PART	_	_	9	advmod	_	_
+9	обратный	обратный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	эффект	эффект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
+13	пересмотреть	пересмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	отдельные	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+16	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	среди	среди	ADP	_	_	19	case	_	_
+19	которых	который	PRON	_	Case=Gen	22	nmod	_	_
+20	—	—	PUNCT	_	_	19	punct	_	_
+21	общие	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	_	_
+22	задачи	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	руководства	руководство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	показатели	показатель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 85
+# text = После этого круг замыкается, расставляются новые приоритеты, пишутся новые планы и проводятся обзоры уже другой работы.
+1	После	после	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+3	круг	круг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	замыкается	замыкаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	расставляются	расставляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+7	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	приоритеты	приоритет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	пишутся	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+11	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	планы	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	проводятся	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+15	обзоры	обзор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	nsubj:pass	_	_
+16	уже	уже	ADV	_	Degree=Pos	17	obl	_	_
+17	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 86
+# text = Далее, ОМК направлены на помощь государствам-членам в развитии их собственной политики по двум направлениям: нормативное управление и когнитивное управление .
+1	Далее	далее	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+4	направлены	направить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+7	государствам	государство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	iobj	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	членам	член	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	appos	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+12	их	их	DET	_	_	14	det	_	_
+13	собственной	собственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+15	по	по	ADP	_	_	17	case	_	_
+16	двум	два	NUM	_	Case=Dat	17	nummod	_	_
+17	направлениям	направление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	17	punct	_	_
+19	нормативное	нормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	parataxis	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	когнитивное	когнитивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	conj	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 87
+# text = Под нормативным управлением понимается трансляция отдельных определений и направлений политики на уровне ЕС, которые государства-члены, как предполагается, должны учитывать при разработке своей внутренней стратегии.
+1	Под	под	ADP	_	_	3	case	_	_
+2	нормативным	нормативный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	управлением	управление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+4	понимается	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	трансляция	трансляция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+6	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	определений	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	направлений	направление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	conj	_	_
+10	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
+13	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	которые	который	PRON	_	Case=Nom	18	nsubj	_	_
+16	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+18	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	acl:relcl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	предполагается	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	21	obl	_	_
+24	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+25	при	при	ADP	_	_	26	case	_	_
+26	разработке	разработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	_
+27	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing	29	det	_	_
+28	внутренней	внутренний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 88
+# text = Элементы нормативного управления могут содержаться в руководствах и показателях .
+1	Элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	содержаться	содержаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	руководствах	руководство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	obl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	показателях	показатель	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 89
+# text = Когнитивное управление состоит в поддержке государств-членов при развитии их национальных курсов путем содействия их открытому обсуждению, взаимному обучению благодаря обмену информацией, успешным и новаторским опытом.
+1	Когнитивное	Когнитивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	состоит	состоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	поддержке	поддержка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	appos	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+11	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	13	nmod	_	_
+12	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	курсов	курс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+14	путем	путем	ADP	_	_	15	case	_	_
+15	содействия	содействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+16	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	18	nmod	_	_
+17	открытому	открытый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	обсуждению	обсуждение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	iobj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	взаимному	взаимный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обучению	обучение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	conj	_	_
+22	благодаря	благодаря	ADP	_	_	23	case	_	_
+23	обмену	обмен	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	nmod	_	_
+24	информацией	информация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	успешным	успешный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	новаторским	новаторский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	conj	_	_
+29	опытом	опыт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 90
+# text = Когнитивное управление оформляется в виде обзора работы или сравнительного анализа показателей (бенчмаркинг) .
+1	Когнитивное	Когнитивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+3	оформляется	оформлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	fixed	_	_
+6	обзора	обзор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+7	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	или	или	CCONJ	_	_	10	cc	_	_
+9	сравнительного	сравнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	анализа	анализ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	conj	_	_
+11	показателей	показатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	бенчмаркинг	бенчмаркинг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	parataxis	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 91
+# text = Такого рода координационная поддержка государств-членов отличается от более традиционных форм европейской интеграции, таких как коммунитарный метод и социальный диалог, поскольку основной акцент ставится на достижении общих целей, а не на гармонизации национальных законов.
+1	Такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	2	det	_	_
+2	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+3	координационная	координационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	поддержка	поддержка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+5	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	отличается	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	от	от	ADP	_	_	12	case	_	_
+10	более	более	ADV	_	Degree=Cmp	11	obl	_	_
+11	традиционных	традиционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	_
+13	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	таких	такой	DET	_	Case=Gen|Number=Plur	8	det	_	_
+17	как	как	SCONJ	_	_	19	mark	_	_
+18	коммунитарный	коммунитарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	социальный	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	диалог	диалог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	поскольку	поскольку	SCONJ	_	_	27	mark	_	_
+25	основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	акцент	акцент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj:pass	_	_
+27	ставится	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	advcl	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	достижении	достижение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	obl	_	_
+30	общих	общий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	а	а	CCONJ	_	_	36	cc	_	_
+34	не	не	PART	_	_	36	advmod	_	_
+35	на	на	ADP	_	_	36	case	_	_
+36	гармонизации	гармонизация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	conj	_	_
+37	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	_
+38	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 92
+# text = При использовании методов координации априори безразличен способ достижения целей, гармонизация не является обязательным средством достижения целей.
+1	При	при	ADP	_	_	2	case	_	_
+2	использовании	использование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	априори	априори	ADV	_	Degree=Pos	6	obl	_	_
+6	безразличен	безразличный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+7	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	гармонизация	гармонизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	_
+14	обязательным	обязательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+16	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 93
+# text = Более того, всячески поощряется вариативность в достижении целей, направленная на создание более эффективной модели правоприменения.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	всячески	всячески	ADV	_	Degree=Pos	5	advmod	_	_
+5	поощряется	поощрять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	вариативность	вариативность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	достижении	достижение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+9	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	направленная	направить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	создание	создание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+14	более	более	ADV	_	Degree=Cmp	15	obl	_	_
+15	эффективной	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+17	правоприменения	правоприменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 94
+# text = Теория разрывов (gap-thess), разработанная де Бурка и Скотт, описывает природу ОМК через его сравнение с коммунитарным методом.
+1	Теория	теория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+2	разрывов	разрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	gap-thess	gap-thess	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	разработанная	разработать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+8	де	де	PART	_	_	7	advmod	_	_
+9	Бурка	Бурк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	appos	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	Скотт	Скотт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	7	punct	_	_
+13	описывает	описывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	ОМК	ОМК	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	через	через	ADP	_	_	18	case	_	_
+17	его	его	DET	_	_	18	det	_	_
+18	сравнение	сравнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+19	с	с	ADP	_	_	21	case	_	_
+20	коммунитарным	коммунитарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	методом	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 95
+# text = Суть такого сравнения сводится к оценке невосприимчивости закона к новому управлению, существованию разрыва (gap) между формальным законом и практикой нового управления.
+1	Суть	суть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	3	det	_	_
+3	сравнения	сравнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	сводится	сводиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	оценке	оценка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
+7	невосприимчивости	невосприимчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	к	к	ADP	_	_	11	case	_	_
+10	новому	новый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	управлению	управление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	существованию	существование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	conj	_	_
+14	разрыва	разрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	gap	gap	NOUN	_	_	14	parataxis	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	_
+18	между	между	ADP	_	_	20	case	_	_
+19	формальным	формальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	практикой	практика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	conj	_	_
+23	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 96
+# text = Естественно, формальное право, к которому относится и конституционное право, не признает новое управление.
+1	Естественно	естественно	ADV	_	Degree=Pos	14	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	формальное	формальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	которому	который	PRON	_	Case=Dat	8	obl	_	_
+8	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	_
+9	и	и	PART	_	_	10	advmod	_	_
+10	конституционное	конституционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	4	punct	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	признает	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	управление	управление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 97
+# text = По мнению де Бурка, либо классическое право еще не в состоянии угнаться за развитием управления, либо управление игнорирует диспозицию, структуру или требования правовых актов .
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	_
+3	де	де	PART	_	_	8	parataxis	_	_
+4	Бурка	Бурк	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	либо	либо	CCONJ	_	_	8	cc	_	_
+7	классическое	классический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+9	еще	еще	ADV	_	Degree=Pos	12	obl	_	_
+10	не	не	PART	_	_	12	advmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+13	угнаться	угнаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	obl	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	развитием	развитие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+16	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	либо	либо	CCONJ	_	_	20	cc	_	_
+19	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+20	игнорирует	игнорировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+21	диспозицию	диспозиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	структуру	структура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	conj	_	_
+24	или	или	CCONJ	_	_	25	cc	_	_
+25	требования	требование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	21	conj	_	_
+26	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+28	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 98
+# text = Используя методологию теории разрывов, можно говорить об отличии ОМК не только от традиционного права ЕС, но и от того, что принято понимать под мягким правом ЕС.
+1	Используя	использовать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	_
+2	методологию	методология	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+3	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	разрывов	разрыв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+7	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	об	о	ADP	_	_	9	case	_	_
+9	отличии	отличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+10	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	только	только	PART	_	_	15	advmod	_	_
+13	от	от	ADP	_	_	15	case	_	_
+14	традиционного	традиционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+16	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	но	но	CCONJ	_	_	21	cc	_	_
+19	и	и	PART	_	_	18	advmod	_	_
+20	от	от	ADP	_	_	21	case	_	_
+21	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	что	что	PRON	_	Case=Acc	25	obj	_	_
+24	принято	принятый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	21	acl	_	_
+25	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	csubj	_	_
+26	под	под	ADP	_	_	28	case	_	_
+27	мягким	мягкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	_	_
+29	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 99
+# text = Концепция мягкого права до сих пор вызывает споры.
+1	Концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+2	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	до	до	ADP	_	_	7	advmod	_	_
+5	сих	сей	DET	_	Case=Gen|Number=Plur	4	fixed	_	_
+6	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	fixed	_	_
+7	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	споры	спор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 100
+# text = Меньшинство исследователей не признают концепцию мягкого права, утверждая, что право либо твердое, либо его вовсе нет (так называемая бинарная концепция) .
+1	Меньшинство	меньшинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	исследователей	исследователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	признают	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	концепцию	концепция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	утверждая	утверждать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	что	что	SCONJ	_	_	14	mark	_	_
+12	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+13	либо	либо	CCONJ	_	_	14	cc	_	_
+14	твердое	твердый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	ccomp	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	либо	либо	CCONJ	_	_	19	cc	_	_
+17	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nsubj	_	_
+18	вовсе	вовсе	ADV	_	Degree=Pos	19	advmod	_	_
+19	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+20	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+21	так	так	ADV	_	Degree=Pos	22	advmod	_	_
+22	называемая	называть	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+23	бинарная	бинарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	parataxis	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	24	punct	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 101
+# text = Сторонников признания мягкого права причисляют к сторонникам концепции относительной нормативности , которую в научной литературе именуют также континуумным подходом.
+1	Сторонников	сторонник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	признания	признание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	причисляют	причислять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	сторонникам	сторонник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	obl	_	_
+8	концепции	концепция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	_
+9	относительной	относительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	нормативности	нормативность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	которую	который	PRON	_	Case=Acc	16	obj	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	_
+16	именуют	именовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+17	также	также	ADV	_	Degree=Pos	18	obl	_	_
+18	континуумным	континуумный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	подходом	подход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 102
+# text = Наиболее продуманной видится концепция, разработанная исследователем Эбботтом, которая определяет мягкое право через международные соглашения.
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	obl	_	_
+2	продуманной	продуманный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	_
+3	видится	видеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	разработанная	разработать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+7	исследователем	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+8	Эбботтом	Эбботт	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	которая	который	PRON	_	Case=Nom	11	nsubj	_	_
+11	определяет	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+12	мягкое	мягкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+14	через	через	ADP	_	_	16	case	_	_
+15	международные	международный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_	_
+16	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 103
+# text = Теория построена на презумпции того, что международное право не является бинарной системой твердого права и политического соглашения; международное право представляет собой правовой континуум с широким перечВестник СПбГУ.
+1	Теория	теория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	построена	строить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	презумпции	презумпция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	что	что	SCONJ	_	_	11	mark	_	_
+8	международное	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	acl	_	_
+12	бинарной	бинарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	_
+14	твердого	твердый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+19	;	;	PUNCT	_	_	2	punct	_	_
+20	международное	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+22	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+23	собой	себя	PRON	_	Case=Ins	22	fixed	_	_
+24	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	континуум	континуум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+26	с	с	ADP	_	_	28	case	_	_
+27	широким	широкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	перечВестник	перечВестник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	_
+29	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 104
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 107
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = 4
+1	4	4	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 110
+# text = нем юридических инструментов, имеющих разный правовой статус .
+1	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+2	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	инструментов	инструмент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+6	разный	разный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 111
+# text = На поверхности этого континуума лежит идеальный тип международного твердого права, на дне континуума покоятся политические соглашения, которые вообще не могут генерировать право.
+1	На	на	ADP	_	_	2	case	_	_
+2	поверхности	поверхность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+3	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	4	det	_	_
+4	континуума	континуум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	лежит	лежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	идеальный	идеальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	тип	тип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	твердого	твердый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	дне	день	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+14	континуума	континуум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	покоятся	покоиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	_
+16	политические	политический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	которые	который	PRON	_	Case=Nom	22	nsubj	_	_
+20	вообще	вообще	ADV	_	Degree=Pos	22	advmod	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+23	генерировать	генерировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	xcomp	_	_
+24	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 112
+# text = А все, что находится между поверхностью и дном континуума, между двумя противоположными полюсами, называется мягким правом .
+1	А	а	CCONJ	_	_	17	cc	_	_
+2	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	что	что	PRON	_	Case=Nom	5	nsubj	_	_
+5	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	_
+6	между	между	ADP	_	_	7	case	_	_
+7	поверхностью	поверхность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	дном	дный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	континуума	континуум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	между	между	ADP	_	_	15	case	_	_
+13	двумя	два	NUM	_	Case=Ins	15	nummod	_	_
+14	противоположными	противоположный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	_
+15	полюсами	полюс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+18	мягким	мягкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	_
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 113
+# text = Определение Эбботта все же касается в первую очередь международного права.
+1	Определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	Эбботта	Эбботт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	все	все	PART	_	_	5	advmod	_	_
+4	же	же	PART	_	_	3	fixed	_	_
+5	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	10	discourse	_	_
+7	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	fixed	_	_
+8	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	fixed	_	_
+9	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 114
+# text = ЕС является уникальной гибридной правовой системой, сочетающей в себе международно-правовой, национальный и наднациональный способы правового регулирования, поэтому акты мягкого права могут существовать не только в форме международных соглашений.
+1	ЕС	ес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	уникальной	уникальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+4	гибридной	гибридный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	правовой	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	сочетающей	сочетать	VERB	_	Aspect=Imp|Case=Ins|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	себе	себя	PRON	_	Case=Loc	8	obl	_	_
+11	международно	международный	ADJ	_	Degree=Pos	13	compound	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	национальный	национальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	наднациональный	наднациональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	conj	_	_
+18	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+19	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	_	_
+22	поэтому	поэтому	ADV	_	Degree=Pos	26	advmod	_	_
+23	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	_
+24	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+26	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
+27	существовать	существовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	не	не	PART	_	_	29	advmod	_	_
+29	только	только	PART	_	_	31	advmod	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	форме	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	_
+32	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	соглашений	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 115
+# text = Полагаем, что все отличие мягкого права от твердого сводится: 1) к степени обязательности; 2) юридической ответственности.
+1	Полагаем	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	что	что	SCONJ	_	_	10	mark	_	_
+4	все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	5	det	_	_
+5	отличие	отличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+6	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	от	от	ADP	_	_	9	case	_	_
+9	твердого	твердый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	obl	_	_
+10	сводится	сводиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	ccomp	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	1	1	NUM	_	_	15	nummod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
+14	к	к	ADP	_	_	15	case	_	_
+15	степени	степень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	parataxis	_	_
+16	обязательности	обязательность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	;	;	PUNCT	_	_	16	punct	_	_
+18	2	2	NUM	_	_	21	nummod	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 116
+# text = Таким образом, говоря о правовой системе ЕС, положения мягкого права следует определить как не обладающие нормативными свойствами правовые положения, содержащиеся в актах институтов ЕС, носящие некий обязывающий характер, невыполнение которых не влечет за собой привлечение к юридической ответственности.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	правовой	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+8	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	_
+11	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	обладающие	обладать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	_
+18	нормативными	нормативный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+19	свойствами	свойство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	_
+20	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+21	положения	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	содержащиеся	содержаться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	21	acl	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	актах	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	obl	_	_
+26	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+27	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	носящие	носить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	conj	_	_
+30	некий	некий	DET	_	Case=Acc|Gender=Masc|Number=Sing	32	det	_	_
+31	обязывающий	обязывавать	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	невыполнение	невыполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	nsubj	_	_
+35	которых	который	PRON	_	Case=Gen	34	nmod	_	_
+36	не	не	PART	_	_	37	advmod	_	_
+37	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	conj	_	_
+38	за	за	ADP	_	_	39	case	_	_
+39	собой	себя	PRON	_	Case=Ins	37	obl	_	_
+40	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obj	_	_
+41	к	к	ADP	_	_	43	case	_	_
+42	юридической	юридический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	40	nmod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 117
+# text = Основные признаки ОМК можно вывести на основе сравнения этого метода с правом ЕС и мягким правом ЕС: 1) подход: в мягком праве ЕС царит наднациональный подход — Европейская комиссия и Суд ЕС имеют решающие позиции; ОМК свойствен межгосударственный подход — Совет ЕС, Европейская комиссия как основные политические институты имеют наибольший вес; 2) мониторинг: в мягком праве он административный, в ОМК — политический; 3) механизм принятия: мягкое право зачастую принимается органами в тех сферах, полномочиями по управлению которыми орган напрямую не наделен, поэтому процедура принятия актов мягкого права нигде не закреплена и ее легитимность вызывает вопросы; методам координации свойственны достаточно прозрачные процедуры и цикличный процесс учета показателей и принятия решений, отсюда и название — открытые методы координации; 4) сфера действия: мягкое право не связано с конкретной областью правового регулирования, оно зависит от компетенции генерирующего органа; методы координации принимаются для регулирования конкретной сферы общественных отношений, и для каждой сферы метод, как правило, свой; 5) межуровневая связь: в мягком праве нет связи между национальным уровнем и уровнем ЕС, в ОМК эта связь циклична и взаимодополняема; 6) участие социальных акторов: мягкое право не нуждается в участии социальных акторов; ОМК реализуют в том числе и социальные акторы; 7) обучение: мягкое право не ставит своей приоритетной целью "обучение" законодателя новым приемам правового регулирования с последующим реформированием самого мягкого права; взаимное обучение в ОМК — один из основных способов, при котором посредством обмена практическими приемами и результатами происходит совершенствование национального правового регулирования.
+1	Основные	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	amod	_	_
+2	признаки	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+3	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	вывести	вывести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+8	сравнения	сравнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	10	det	_	_
+10	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	_
+13	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	мягким	мягкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	conj	_	_
+17	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	5	punct	_	_
+19	1	1	NUM	_	_	21	nummod	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+22	:	:	PUNCT	_	_	21	punct	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	мягком	мягкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	obl	_	_
+26	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+27	царит	царить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	advcl	_	_
+28	наднациональный	наднациональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+30	—	—	PUNCT	_	_	32	punct	_	_
+31	Европейская	европейский	PROPN	_	_	32	amod	_	_
+32	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	Суд	Суд	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	conj	_	_
+35	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+36	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	_
+37	решающие	решающий	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	38	amod	_	_
+38	позиции	позиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	36	nsubj	_	SpaceAfter=No
+39	;	;	PUNCT	_	_	36	punct	_	_
+40	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	_
+41	свойствен	свойствный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	36	conj	_	_
+42	межгосударственный	межгосударственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	_
+43	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	54	nsubj	_	_
+44	—	—	PUNCT	_	_	45	punct	_	_
+45	Совет	Совет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	43	conj	_	_
+46	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	49	punct	_	_
+48	Европейская	европейский	PROPN	_	_	49	amod	_	_
+49	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	conj	_	_
+50	как	как	SCONJ	_	_	53	mark	_	_
+51	основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	53	amod	_	_
+52	политические	политический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	53	amod	_	_
+53	институты	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	43	acl	_	_
+54	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	parataxis	_	_
+55	наибольший	наибольший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
+56	вес	вес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	54	obj	_	SpaceAfter=No
+57	;	;	PUNCT	_	_	54	punct	_	_
+58	2	2	NUM	_	_	60	nummod	_	SpaceAfter=No
+59	)	)	PUNCT	_	_	58	punct	_	_
+60	мониторинг	мониторинг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	54	conj	_	SpaceAfter=No
+61	:	:	PUNCT	_	_	60	punct	_	_
+62	в	в	ADP	_	_	64	case	_	_
+63	мягком	мягкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	64	amod	_	_
+64	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	60	parataxis	_	_
+65	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	64	nsubj	_	_
+66	административный	административный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	65	amod	_	SpaceAfter=No
+67	,	,	PUNCT	_	_	69	punct	_	_
+68	в	в	ADP	_	_	69	case	_	_
+69	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	65	acl:relcl	_	_
+70	—	—	PUNCT	_	_	71	punct	_	_
+71	политический	политический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	69	acl	_	SpaceAfter=No
+72	;	;	PUNCT	_	_	71	punct	_	_
+73	3	3	NUM	_	_	71	conj	_	SpaceAfter=No
+74	)	)	PUNCT	_	_	71	punct	_	_
+75	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	69	nsubj	_	_
+76	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	75	nmod	_	SpaceAfter=No
+77	:	:	PUNCT	_	_	75	punct	_	_
+78	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	79	amod	_	_
+79	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	81	nsubj:pass	_	_
+80	зачастую	зачастую	ADV	_	Degree=Pos	81	advmod	_	_
+81	принимается	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	75	parataxis	_	_
+82	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	81	obl	_	_
+83	в	в	ADP	_	_	85	case	_	_
+84	тех	тот	DET	_	Case=Loc|Number=Plur	85	det	_	_
+85	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	82	nmod	_	SpaceAfter=No
+86	,	,	PUNCT	_	_	94	punct	_	_
+87	полномочиями	полномочие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	94	obl	_	_
+88	по	по	ADP	_	_	89	case	_	_
+89	управлению	управление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	87	nmod	_	_
+90	которыми	который	PRON	_	Case=Ins	89	nmod	_	_
+91	орган	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	94	nsubj:pass	_	_
+92	напрямую	напрямую	ADV	_	Degree=Pos	94	advmod	_	_
+93	не	не	PART	_	_	94	advmod	_	_
+94	наделен	наделить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	81	conj	_	SpaceAfter=No
+95	,	,	PUNCT	_	_	104	punct	_	_
+96	поэтому	поэтому	ADV	_	Degree=Pos	104	advmod	_	_
+97	процедура	процедура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	104	nsubj:pass	_	_
+98	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	97	nmod	_	_
+99	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	98	nmod	_	_
+100	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	101	amod	_	_
+101	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	99	nmod	_	_
+102	нигде	нигде	ADV	_	Degree=Pos	104	advmod	_	_
+103	не	не	PART	_	_	104	advmod	_	_
+104	закреплена	закреплить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	81	conj	_	_
+105	и	и	CCONJ	_	_	108	cc	_	_
+106	ее	ее	DET	_	_	107	det	_	_
+107	легитимность	легитимность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	108	nsubj	_	_
+108	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	81	conj	_	_
+109	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	108	obj	_	SpaceAfter=No
+110	;	;	PUNCT	_	_	75	punct	_	_
+111	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	113	iobj	_	_
+112	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	111	nmod	_	_
+113	свойственны	свойственный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	75	conj	_	_
+114	достаточно	достаточно	ADV	_	Degree=Pos	115	obl	_	_
+115	прозрачные	прозрачный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	116	amod	_	_
+116	процедуры	процедура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	113	nsubj	_	_
+117	и	и	CCONJ	_	_	119	cc	_	_
+118	цикличный	цикличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	119	amod	_	_
+119	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	116	conj	_	_
+120	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	119	nmod	_	_
+121	показателей	показатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	120	nmod	_	_
+122	и	и	CCONJ	_	_	123	cc	_	_
+123	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	121	conj	_	_
+124	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	123	nmod	_	SpaceAfter=No
+125	,	,	PUNCT	_	_	126	punct	_	_
+126	отсюда	отсюда	ADV	_	Degree=Pos	113	conj	_	_
+127	и	и	CCONJ	_	_	128	cc	_	_
+128	название	название	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	126	nsubj	_	_
+129	—	—	PUNCT	_	_	131	punct	_	_
+130	открытые	открытый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	131	amod	_	_
+131	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	128	appos	_	_
+132	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	131	nmod	_	SpaceAfter=No
+133	;	;	PUNCT	_	_	131	punct	_	_
+134	4	4	NUM	_	_	136	nummod	_	SpaceAfter=No
+135	)	)	PUNCT	_	_	134	punct	_	_
+136	сфера	сфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	131	conj	_	_
+137	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	136	nmod	_	SpaceAfter=No
+138	:	:	PUNCT	_	_	131	punct	_	_
+139	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	140	amod	_	_
+140	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	142	nsubj:pass	_	_
+141	не	не	PART	_	_	142	advmod	_	_
+142	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	131	parataxis	_	_
+143	с	с	ADP	_	_	145	case	_	_
+144	конкретной	конкретный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	145	amod	_	_
+145	областью	область	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	142	obl	_	_
+146	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	147	amod	_	_
+147	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	145	nmod	_	SpaceAfter=No
+148	,	,	PUNCT	_	_	150	punct	_	_
+149	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	150	nsubj	_	_
+150	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	142	conj	_	_
+151	от	от	ADP	_	_	152	case	_	_
+152	компетенции	компетенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	150	obl	_	_
+153	генерирующего	генерирующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	154	amod	_	_
+154	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	152	nmod	_	SpaceAfter=No
+155	;	;	PUNCT	_	_	142	punct	_	_
+156	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	158	nsubj:pass	_	_
+157	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	156	nmod	_	_
+158	принимаются	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	142	conj	_	_
+159	для	для	ADP	_	_	160	case	_	_
+160	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	158	obl	_	_
+161	конкретной	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	162	amod	_	_
+162	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	160	nmod	_	_
+163	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	164	amod	_	_
+164	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	162	nmod	_	SpaceAfter=No
+165	,	,	PUNCT	_	_	169	punct	_	_
+166	и	и	CCONJ	_	_	169	cc	_	_
+167	для	для	ADP	_	_	169	case	_	_
+168	каждой	каждый	DET	_	Case=Gen|Gender=Fem|Number=Sing	169	det	_	_
+169	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	158	conj	_	_
+170	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	169	conj	_	SpaceAfter=No
+171	,	,	PUNCT	_	_	170	punct	_	_
+172	как	как	SCONJ	_	_	173	mark	_	_
+173	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	175	parataxis	_	SpaceAfter=No
+174	,	,	PUNCT	_	_	173	punct	_	_
+175	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	170	det	_	SpaceAfter=No
+176	;	;	PUNCT	_	_	169	punct	_	_
+177	5	5	NUM	_	_	180	nummod	_	SpaceAfter=No
+178	)	)	PUNCT	_	_	177	punct	_	_
+179	межуровневая	межуровневой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	180	amod	_	_
+180	связь	связь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	169	conj	_	SpaceAfter=No
+181	:	:	PUNCT	_	_	180	punct	_	_
+182	в	в	ADP	_	_	184	case	_	_
+183	мягком	мягкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	184	amod	_	_
+184	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	185	obl	_	_
+185	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	180	parataxis	_	_
+186	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	185	nsubj	_	_
+187	между	между	ADP	_	_	189	case	_	_
+188	национальным	национальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	189	amod	_	_
+189	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	186	nmod	_	_
+190	и	и	CCONJ	_	_	191	cc	_	_
+191	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	189	conj	_	_
+192	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	191	nmod	_	SpaceAfter=No
+193	,	,	PUNCT	_	_	195	punct	_	_
+194	в	в	ADP	_	_	195	case	_	_
+195	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	189	conj	_	_
+196	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	195	det	_	_
+197	связь	связь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	189	conj	_	_
+198	циклична	цикличн	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	197	nmod	_	_
+199	и	и	CCONJ	_	_	200	cc	_	_
+200	взаимодополняема	взаимодополняем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	198	conj	_	SpaceAfter=No
+201	;	;	PUNCT	_	_	197	punct	_	_
+202	6	6	NUM	_	_	204	nummod	_	SpaceAfter=No
+203	)	)	PUNCT	_	_	202	punct	_	_
+204	участие	участие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	197	conj	_	_
+205	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	206	amod	_	_
+206	акторов	актор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	204	nmod	_	SpaceAfter=No
+207	:	:	PUNCT	_	_	197	punct	_	_
+208	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	209	amod	_	_
+209	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	211	nsubj	_	_
+210	не	не	PART	_	_	211	advmod	_	_
+211	нуждается	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	197	parataxis	_	_
+212	в	в	ADP	_	_	213	case	_	_
+213	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	211	obl	_	_
+214	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	215	amod	_	_
+215	акторов	актор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	213	nmod	_	SpaceAfter=No
+216	;	;	PUNCT	_	_	211	punct	_	_
+217	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	218	nsubj	_	_
+218	реализуют	реализовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	211	conj	_	_
+219	в	в	ADP	_	_	221	case	_	_
+220	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	221	det	_	_
+221	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	218	obl	_	_
+222	и	и	PART	_	_	223	advmod	_	_
+223	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	224	amod	_	_
+224	акторы	актор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	218	obj	_	SpaceAfter=No
+225	;	;	PUNCT	_	_	224	punct	_	_
+226	7	7	NUM	_	_	228	nummod	_	SpaceAfter=No
+227	)	)	PUNCT	_	_	226	punct	_	_
+228	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	224	conj	_	SpaceAfter=No
+229	:	:	PUNCT	_	_	224	punct	_	_
+230	мягкое	мягкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	231	amod	_	_
+231	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	233	nsubj	_	_
+232	не	не	PART	_	_	233	advmod	_	_
+233	ставит	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	224	parataxis	_	_
+234	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	236	det	_	_
+235	приоритетной	приоритетный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	236	amod	_	_
+236	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	233	obl	_	_
+237	"	"	PUNCT	_	_	238	punct	_	SpaceAfter=No
+238	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	236	nmod	_	SpaceAfter=No
+239	"	"	PUNCT	_	_	238	punct	_	_
+240	законодателя	законодатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	238	nmod	_	_
+241	новым	новый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	242	amod	_	_
+242	приемам	прием	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	238	iobj	_	_
+243	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	244	amod	_	_
+244	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	242	nmod	_	_
+245	с	с	ADP	_	_	247	case	_	_
+246	последующим	последующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	247	amod	_	_
+247	реформированием	реформирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	238	nmod	_	_
+248	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	249	amod	_	_
+249	мягкого	мягкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	250	amod	_	_
+250	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	247	nmod	_	SpaceAfter=No
+251	;	;	PUNCT	_	_	238	punct	_	_
+252	взаимное	взаимный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	253	amod	_	_
+253	обучение	обучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	238	conj	_	_
+254	в	в	ADP	_	_	255	case	_	_
+255	ОМК	ОМК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	253	nmod	_	_
+256	—	—	PUNCT	_	_	257	punct	_	_
+257	один	один	NUM	_	Case=Nom|Gender=Masc	238	conj	_	_
+258	из	из	ADP	_	_	260	case	_	_
+259	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	260	amod	_	_
+260	способов	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	257	nmod	_	SpaceAfter=No
+261	,	,	PUNCT	_	_	270	punct	_	_
+262	при	при	ADP	_	_	263	case	_	_
+263	котором	который	PRON	_	Case=Loc	270	obl	_	_
+264	посредством	посредством	ADP	_	_	265	case	_	_
+265	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	270	obl	_	_
+266	практическими	практический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	267	amod	_	_
+267	приемами	прием	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	270	obl	_	_
+268	и	и	CCONJ	_	_	269	cc	_	_
+269	результатами	результат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	267	conj	_	_
+270	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	260	acl:relcl	_	_
+271	совершенствование	совершенствование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	270	nsubj	_	_
+272	национального	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	274	amod	_	_
+273	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	274	amod	_	_
+274	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	271	nmod	_	SpaceAfter=No
+275	.	.	PUNCT	_	_	36	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 118
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 119
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 120
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 121
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 122
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 123
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 124
+# text = 4
+1	4	4	NUM	_	_	0	root	_	SpacesAfter=\n
+

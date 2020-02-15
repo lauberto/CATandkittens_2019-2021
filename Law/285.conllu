@@ -1,0 +1,3114 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Для цитирования: Абдуллаева, Эмилия Т. 2018.
+1	Для	для	ADP	_	_	2	case	_	_
+2	цитирования	цитирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	Абдуллаева	Абдуллаев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Эмилия	Эмилий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
+7	Т.	Т.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	flat:name	_	_
+8	2018	2018	NUM	_	_	6	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 2
+# text = "Проблема пенсионного возраста в Российской Федерации и Азербайджанской Республике".
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	Азербайджанской	Азербайджанский	PROPN	_	_	7	conj	_	_
+10	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 3
+# text = Вестник Санкт-Петербургского университета.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Санкт-Петербургского	санкт-петербургский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = Право 1: 112–120.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	1	punct	_	_
+4	112	112	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	–	–	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	120	120	NUM	_	_	4	nummod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = https://do.org/10.21638/11701/spbu14.2018.109 В статье рассматривается проблема пенсионного возраста в Российской Федерации и Азербайджанской Республике, проводится сравнительный анализ теоретических конструкций, нормативных актов, материалов правоприменительной практики государств.
+1	https://do.org/10.21638/11701/spbu14.2018.109	https://do.org/10.21638/11701/spbu14.2018.109	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+2	В	в	ADP	_	_	3	case	_	_
+3	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+6	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	Азербайджанской	Азербайджанский	PROPN	_	_	10	conj	_	_
+13	Республике	республика	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	iobj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	проводится	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+16	сравнительный	сравнительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj:pass	_	_
+18	теоретических	теоретический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	конструкций	конструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	нормативных	нормативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	conj	_	_
+25	правоприменительной	правоприменительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	практики	практика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+27	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6
+# text = Используются такие общенаучные методы, как исторический, диалектический, формально-логический, метод анализа и синтеза; основным специальным методом исследования является сравнительно-правовой.
+1	Используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	такие	такой	DET	_	Case=Nom|Number=Plur	4	det	_	_
+3	общенаучные	общенаучный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj:pass	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	как	как	SCONJ	_	_	7	mark	_	_
+7	исторический	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	диалектический	диалектический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	формально-логический	формально-логический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+14	анализа	анализ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	синтеза	синтез	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+17	;	;	PUNCT	_	_	1	punct	_	_
+18	основным	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+19	специальным	специальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	методом	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	obl	_	_
+21	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	_
+23	сравнительно-	сравнительно-	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	правовой	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Автор отмечает, что одна из главных причин пенсионных реформ — процесс демографического старения населения всего мира, который влечет ряд проблем.
+1	Автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	12	punct	_	_
+4	что	что	SCONJ	_	_	12	mark	_	_
+5	одна	один	NUM	_	Case=Nom|Gender=Fem	12	nsubj	_	_
+6	из	из	ADP	_	_	8	case	_	_
+7	главных	главный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+9	пенсионных	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	реформ	реформа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	—	—	PUNCT	_	_	5	punct	_	_
+12	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	_
+13	демографического	демографический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	старения	старение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing	17	det	_	_
+17	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	который	который	PRON	_	Case=Nom	20	nsubj	_	_
+20	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+21	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+22	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 8
+# text = Делается вывод, что повышение пенсионного возраста не является достаточно эффективным инструментом решения проблемы дефицита средств в пенсионной системе как Азербайджанской Республики, так и Российской Федерации.
+1	Делается	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	повышение	повышение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+6	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl	_	_
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	obl	_	_
+11	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	инструментом	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+13	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	дефицита	дефицит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	пенсионной	пенсионный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	_
+20	как	как	SCONJ	_	_	22	mark	_	_
+21	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	acl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	так	так	ADV	_	Degree=Pos	27	cc	_	_
+25	и	и	PART	_	_	24	fixed	_	_
+26	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 9
+# text = Рассматриваются проблемы, которые могут возникнуть при установлении императивной нормы, увеличивающей пенсионный возраст.
+1	Рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	которые	который	PRON	_	Case=Nom	5	nsubj	_	_
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+6	возникнуть	возникнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	установлении	установление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+9	императивной	императивный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	увеличивающей	увеличивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+13	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Представляются пути решения проблемы пенсионного возраста в Российской Федерации и Азербайджанской Республике.
+1	Представляются	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	пути	путь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj:pass	_	_
+3	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	Азербайджанской	Азербайджанский	PROPN	_	_	9	conj	_	_
+12	Республике	республика	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	iobj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = В частности, предлагается определить критерии для установления границ пенсионного возраста совместно с исследователями таких областей науки, как демография, социология, экономика, математика, медицина, и с учетом этих критериев на законодательном уровне установить математическую формулу для границ пенсионного возраста.
+1	В	в	ADP	_	_	4	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	предлагается	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj:pass	_	_
+6	критерии	критерий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	для	для	ADP	_	_	8	case	_	_
+8	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	совместно	совместно	ADV	_	Degree=Pos	5	advmod	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	obl	_	_
+15	таких	такой	DET	_	Case=Gen|Number=Plur	16	det	_	_
+16	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+17	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	как	как	SCONJ	_	_	20	mark	_	_
+20	демография	демография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	социология	социология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	экономика	экономика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	математика	математика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	медицина	медицина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	с	с	ADP	_	_	32	case	_	_
+32	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	conj	_	_
+33	этих	этот	DET	_	Case=Gen|Number=Plur	34	det	_	_
+34	критериев	критерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
+35	на	на	ADP	_	_	37	case	_	_
+36	законодательном	законодательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	nmod	_	_
+38	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	obl	_	_
+39	математическую	математический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	формулу	формула	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	38	obj	_	_
+41	для	для	ADP	_	_	42	case	_	_
+42	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	40	nmod	_	_
+43	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	_
+44	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 12
+# text = Ключевые слова: пенсионный возраст, пенсия, страховая пенсия по старости в Российской Федерации, трудовая пенсия по возрасту в Азербайджанской Республике, старение населения, пенсионная реформа.
+1	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	пенсия	пенсия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	страховая	страховой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	пенсия	пенсия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	старости	староста	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	трудовая	трудовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	пенсия	пенсия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+19	по	по	ADP	_	_	20	case	_	_
+20	возрасту	возраст	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	nmod	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	Азербайджанской	Азербайджанский	PROPN	_	_	23	amod	_	_
+23	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	старение	старение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+26	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	пенсионная	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	реформа	реформа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13
+# text = © Санкт-Петербургский государственный университет, 2018
+1	©	©	SYM	_	_	0	root	_	_
+2	Санкт-Петербургский	санкт-петербургский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	государственный	государственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	университет	университет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2018	2018	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = Возраст является важной физиологической характеристикой человека, а возрастная структура населения — общества.
+1	Возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	важной	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	физиологической	физиологический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	характеристикой	характеристика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+6	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	а	а	CCONJ	_	_	10	cc	_	_
+9	возрастная	возрастной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	структура	структура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
+11	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	—	—	PUNCT	_	_	13	punct	_	_
+13	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 15
+# text = С возрастом меняются не только физиологические возможности человека, но и социальные отношения и взаимосвязи.
+1	С	с	ADP	_	_	2	case	_	_
+2	возрастом	возраст	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+3	меняются	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	только	только	PART	_	_	6	advmod	_	_
+6	физиологические	физиологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	возможности	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+8	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	но	но	CCONJ	_	_	13	cc	_	_
+11	и	и	PART	_	_	10	advmod	_	_
+12	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	conj	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	взаимосвязи	взаимосвязь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 16
+# text = Утрачивается трудоспособность, возникает необходимость в пенсионном обеспечении.
+1	Утрачивается	утрачивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	трудоспособность	трудоспособность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	пенсионном	пенсионный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	обеспечении	обеспечение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 17
+# text = В праве социального обеспечения возраст — это юридический факт, определяющий право на страховую пенсию по старости в Российской Федерации и трудовую пенсию по возрасту в Азербайджанской Республике.
+1	В	в	ADP	_	_	2	case	_	_
+2	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	_	_
+3	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	—	—	PUNCT	_	_	5	punct	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	cop	_	_
+8	юридический	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	определяющий	определять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+12	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	на	на	ADP	_	_	15	case	_	_
+14	страховую	страховой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+16	по	по	ADP	_	_	17	case	_	_
+17	старости	староста	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	nmod	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	трудовую	трудовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	conj	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	возрасту	возраст	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	23	nmod	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	Азербайджанской	Азербайджанский	PROPN	_	_	28	amod	_	_
+28	Республике	республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 18
+# text = Возраст может стать и правоизменяющим юридическим фактом.
+1	Возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	правоизменяющим	правоизменять	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
+6	юридическим	юридический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	фактом	факт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Например, достижение пенсионером 80 лет в Российской Федерации является одним из оснований двукратного повышения фиксированной выплаты к страховой пенсии по старости согласно ч. 1 ст. 17 Федерального закона от 28.12.2013 № 400-ФЗ "О страховых пенсиях" (здесь и далее все ссылки на российские нормативно-правовые акты и судебную практику приводятся по СПС "КонсультантПлюс".
+1	Например	например	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	достижение	достижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+4	пенсионером	пенсионер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	_
+5	80	80	NUM	_	_	6	nummod	_	_
+6	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	одним	один	NUM	_	Case=Ins|Gender=Masc	10	nummod	_	_
+12	из	из	ADP	_	_	13	case	_	_
+13	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+14	двукратного	двукратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	фиксированной	фиксировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	выплаты	выплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	к	к	ADP	_	_	20	case	_	_
+19	страховой	страховой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	пенсии	пенсия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	nmod	_	_
+21	по	по	ADP	_	_	22	case	_	_
+22	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	20	nmod	_	_
+23	согласно	согласно	ADP	_	_	24	case	_	_
+24	ч	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	17	punct	_	_
+26	1	1	NUM	_	_	27	nummod	_	_
+27	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	27	punct	_	_
+29	17	17	NUM	_	_	31	nummod	_	_
+30	Федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+32	от	от	ADP	_	_	34	case	_	_
+33	28.12.2013	28.12.2013	NUM	_	_	34	nummod	_	_
+34	№	№	SYM	_	_	17	nmod	_	_
+35	400-ФЗ	400-ФЗ	PROPN	_	_	34	appos	_	_
+36	"	"	PUNCT	_	_	39	punct	_	SpaceAfter=No
+37	О	о	ADP	_	_	39	case	_	_
+38	страховых	страховой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	39	amod	_	_
+39	пенсиях	пенсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	34	appos	_	SpaceAfter=No
+40	"	"	PUNCT	_	_	39	punct	_	_
+41	(	(	PUNCT	_	_	56	punct	_	SpaceAfter=No
+42	здесь	здесь	ADV	_	Degree=Pos	56	advmod	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	далее	далее	ADV	_	Degree=Pos	42	conj	_	_
+45	все	весь	DET	_	Case=Acc|Number=Plur	46	det	_	_
+46	ссылки	ссылка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	56	obl	_	_
+47	на	на	ADP	_	_	52	case	_	_
+48	российские	российский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	52	amod	_	_
+49	нормативно	нормативный	ADJ	_	Degree=Pos	51	compound	_	SpaceAfter=No
+50	-	-	PUNCT	_	_	49	punct	_	SpaceAfter=No
+51	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	52	amod	_	_
+52	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	56	obl	_	_
+53	и	и	CCONJ	_	_	55	cc	_	_
+54	судебную	судебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
+55	практику	практика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	52	conj	_	_
+56	приводятся	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	34	parataxis	_	_
+57	по	по	ADP	_	_	58	case	_	_
+58	СПС	СПС	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	56	obl	_	_
+59	"	"	PUNCT	_	_	60	punct	_	SpaceAfter=No
+60	КонсультантПлюс	КонсультантПлюс	PROPN	_	_	56	obl	_	SpaceAfter=No
+61	"	"	PUNCT	_	_	60	punct	_	SpaceAfter=No
+62	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 20
+# text = Дата обращения 1 ноября, 2017.
+1	Дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	1	1	NUM	_	_	2	nummod	_	_
+4	ноября	ноябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2017	2017	NUM	_	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = http://www. consultant.ru).
+1	http://www.	http://www.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
+2	consultant.ru	consultant.ru	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	)	)	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = В настоящее время в Российской Федерации и Азербайджанской Республике проводятся пенсионные реформы, одной из причин которых является старение населения (Распоряжение Правительства РФ от 25.12.2012 № 2524-р "Об утверждении Стратегии долгосрочного развития пенсионной системы Российской Федерации";
+1	В	в	ADP	_	_	10	advmod	_	_
+2	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	Азербайджанской	Азербайджанский	PROPN	_	_	6	conj	_	_
+9	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+10	проводятся	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	пенсионные	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	реформы	реформа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	одной	один	NUM	_	Case=Ins|Gender=Fem	18	nummod	_	_
+15	из	из	ADP	_	_	16	case	_	_
+16	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+17	которых	который	PRON	_	Case=Gen	16	nmod	_	_
+18	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	acl:relcl	_	_
+19	старение	старение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+20	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	Распоряжение	распоряжение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	parataxis	_	_
+23	Правительства	Правительство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	от	от	ADP	_	_	26	case	_	_
+26	25.12.2012	25.12.2012	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+27	№	№	SYM	_	_	26	nmod	_	_
+28	2524-р	2524-р	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+29	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+30	Об	о	ADP	_	_	31	case	_	_
+31	утверждении	утверждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	nmod	_	_
+32	Стратегии	Стратегия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+33	долгосрочного	долгосрочный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+35	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+37	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
+38	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+39	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+40	;	;	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 23
+# text = Распоряжение Президента Азербайджанской Республики об утверждении "Концепции реформы системы пенсионного обеспечения в Азербайджанской Республике в 2014–2020 годах" (Официальный сайт Президента Азербайджана.
+1	Распоряжение	распоряжение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	Президента	Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	flat:name	_	_
+5	об	о	ADP	_	_	6	case	_	_
+6	утверждении	утверждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	реформы	реформа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	Азербайджанской	Азербайджанский	PROPN	_	_	15	amod	_	_
+15	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+16	в	в	ADP	_	_	20	case	_	_
+17	2014	2014	NUM	_	_	20	nummod	_	SpaceAfter=No
+18	–	–	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	2020	2020	NUM	_	_	17	nummod	_	_
+20	годах	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	_
+22	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+23	Официальный	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	сайт	сайт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	_
+25	Президента	Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	Азербайджана	Азербайджан	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	25	flat:name	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = Дата обращения 1 ноября, 2017.
+1	Дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	1	1	NUM	_	_	2	nummod	_	_
+4	ноября	ноябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2017	2017	NUM	_	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = http://ru.presdent.az/artcles/)).
+1	http://ru.presdent.az/artcles/	http://ru.presdent.az/artcles/	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	0	root	_	SpaceAfter=No
+3	)	)	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = Данный проблемный вопрос, требующий своего разрешения, рассматривается неоднозначно.
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	проблемный	проблемный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	требующий	требовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+6	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	7	det	_	_
+7	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	неоднозначно	неоднозначно	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 27
+# text = На мировую дискуссию о путях реформирования пенсионных систем решающее влияние оказало системное исследование Всемирного банка "Предупреждение всемирного кризиса старения" (Avertng the Old Age Crss: Polces to Protect the Old and Promote Growth) 1994 года, в котором сделан вывод о том, что старение населения мира приведет к дефициту пенсионной системы (Лаборатория пенсионной реформы 2017).
+1	На	на	ADP	_	_	3	case	_	_
+2	мировую	мировой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	дискуссию	дискуссия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	путях	путь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	nmod	_	_
+6	реформирования	реформирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	пенсионных	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	решающее	решающий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	влияние	влияние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+11	оказало	оказать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	системное	системный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	исследование	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	advcl	_	_
+14	Всемирного	всемирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	банка	банк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	Предупреждение	предупреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	appos	_	_
+18	всемирного	всемирный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	кризиса	кризис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	старения	старение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	25	punct	_	_
+22	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	Avertng	Avertng	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+24	the	the	X	_	Foreign=Yes	20	flat:foreign	_	_
+25	Old	Old	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+26	Age	age	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+27	Crss	Crss	PROPN	_	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+28	:	:	PUNCT	_	_	20	punct	_	_
+29	Polces	Polces	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+30	to	to	X	_	Foreign=Yes	20	flat:foreign	_	_
+31	Protect	Protect	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+32	the	the	X	_	Foreign=Yes	20	flat:foreign	_	_
+33	Old	Old	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+34	and	and	X	_	Foreign=Yes	20	flat:foreign	_	_
+35	Promote	Promote	PROPN	_	Foreign=Yes	20	flat:foreign	_	_
+36	Growth	Growth	PROPN	_	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	36	punct	_	_
+38	1994	1994	NUM	_	_	39	nummod	_	_
+39	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	43	punct	_	_
+41	в	в	ADP	_	_	42	case	_	_
+42	котором	который	PRON	_	Case=Loc	43	obl	_	_
+43	сделан	делать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	acl:relcl	_	_
+44	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	43	nsubj:pass	_	_
+45	о	о	ADP	_	_	46	case	_	_
+46	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	44	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	52	punct	_	_
+48	что	что	SCONJ	_	_	52	mark	_	_
+49	старение	старение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	52	nsubj	_	_
+50	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	_
+51	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	_
+52	приведет	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	46	acl	_	_
+53	к	к	ADP	_	_	54	case	_	_
+54	дефициту	дефицит	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	52	obl	_	_
+55	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	56	amod	_	_
+56	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	nmod	_	_
+57	(	(	PUNCT	_	_	58	punct	_	SpaceAfter=No
+58	Лаборатория	лаборатория	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	56	parataxis	_	_
+59	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	60	amod	_	_
+60	реформы	реформа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	_
+61	2017	2017	NUM	_	_	58	nummod	_	SpaceAfter=No
+62	)	)	PUNCT	_	_	58	punct	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 28
+# text = Согласно прогнозам ООН, к 2050 г. 22 % населения земли станут пенсионерами, а в развитых странах на каждого работающего гражданина будет приходиться по пенсионеру (Технологии пожилого общества 2017).
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	прогнозам	прогноз	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	12	parataxis	_	_
+3	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	к	к	ADP	_	_	7	case	_	_
+6	2050	2050	NUM	_	_	7	nummod	_	_
+7	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+8	22	22	NUM	_	_	9	nummod	_	_
+9	%	%	SYM	_	_	12	nsubj	_	_
+10	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	станут	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	пенсионерами	пенсионер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	24	punct	_	_
+15	а	а	CCONJ	_	_	24	cc	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	развитых	развитый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	24	obl	_	_
+19	на	на	ADP	_	_	22	case	_	_
+20	каждого	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	22	det	_	_
+21	работающего	работать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+22	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	24	obl	_	_
+23	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux:pass	_	_
+24	приходиться	приходиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	12	conj	_	_
+25	по	по	ADP	_	_	26	case	_	_
+26	пенсионеру	пенсионер	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	24	obl	_	_
+27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	Технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	26	parataxis	_	_
+29	пожилого	пожилой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+31	2017	2017	NUM	_	_	28	nummod	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 29
+# text = Старение населения влечет за собой сложные экономические проблемы, связанные с необходимостью перераспределения ресурсов между поколениями и достойным уровнем пенсионного обеспечения.
+1	Старение	старение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	за	за	ADP	_	_	5	case	_	_
+5	собой	себя	PRON	_	Case=Ins	3	obl	_	_
+6	сложные	сложный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+7	экономические	экономический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	связанные	связать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+13	перераспределения	перераспределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	между	между	ADP	_	_	16	case	_	_
+16	поколениями	поколение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	13	nmod	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	достойным	достойный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	уровнем	уровень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	conj	_	_
+20	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 30
+# text = Сравнительный анализ доли населения Азербайджана и России старше 60 лет в 2000 и 2050 гг. по прогнозу ООН показывает (табл. 1), что к 2050 г. страны будут находиться примерно в одинаковом положении.
+1	Сравнительный	сравнительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+3	доли	доля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	Азербайджана	Азербайджан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+8	старше	старший	ADJ	_	Degree=Cmp	7	obl	_	_
+9	60	60	NUM	_	_	10	nummod	_	_
+10	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
+11	в	в	ADP	_	_	15	case	_	_
+12	2000	2000	NUM	_	_	15	nummod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	2050	2050	NUM	_	_	12	conj	_	_
+15	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+16	по	по	ADP	_	_	17	case	_	_
+17	прогнозу	прогноз	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+18	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	табл.	таблийский	ADJ	_	_	19	parataxis	_	_
+22	1	1	NUM	_	_	21	nummod	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	31	punct	_	_
+25	что	что	SCONJ	_	_	31	mark	_	_
+26	к	к	ADP	_	_	28	case	_	_
+27	2050	2050	NUM	_	_	28	nummod	_	_
+28	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	obl	_	_
+29	страны	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	31	nsubj	_	_
+30	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	aux	_	_
+31	находиться	находиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	21	ccomp	_	_
+32	примерно	примерно	ADV	_	Degree=Pos	35	obl	_	_
+33	в	в	ADP	_	_	35	case	_	_
+34	одинаковом	одинаковый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	положении	положение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 31
+# text = В Конвенции МОТ № 102 "О минимальных нормах социального обеспечения" (1952 г.) определяется, что нормальный возраст для выхода на пенсию должен быть одинаковым и для мужчин, и для женщин — 65 лет.
+1	В	в	ADP	_	_	2	case	_	_
+2	Конвенции	Конвенция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+3	МОТ	МОТ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
+4	№	№	SYM	_	_	3	nmod	_	_
+5	102	102	NUM	_	_	4	nummod	_	_
+6	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+7	О	о	ADP	_	_	9	case	_	_
+8	минимальных	минимальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	нормах	норма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	appos	_	_
+10	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	9	punct	_	_
+13	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	1952	1952	NUM	_	_	15	nummod	_	_
+15	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	_
+17	определяется	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	26	punct	_	_
+19	что	что	SCONJ	_	_	26	mark	_	_
+20	нормальный	нормальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+22	для	для	ADP	_	_	23	case	_	_
+23	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	_
+26	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	17	ccomp	_	_
+27	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	cop	_	_
+28	одинаковым	одинаковый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	xcomp	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	для	для	ADP	_	_	31	case	_	_
+31	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	28	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	и	и	CCONJ	_	_	35	cc	_	_
+34	для	для	ADP	_	_	35	case	_	_
+35	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	31	conj	_	_
+36	—	—	PUNCT	_	_	38	punct	_	_
+37	65	65	NUM	_	_	38	nummod	_	_
+38	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 32
+# text = При этом допускается, что национальным законодательством разных стран может быть установлен и более высокий возраст, поскольку различия возникают из-за учета экономической ситуации страны и средней продолжительности жизни.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	допускается	допускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	что	что	SCONJ	_	_	10	mark	_	_
+6	национальным	национальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+8	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+11	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	aux:pass	_	_
+12	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	xcomp	_	_
+13	и	и	PART	_	_	14	advmod	_	_
+14	более	более	ADV	_	Degree=Cmp	15	obl	_	_
+15	высокий	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	поскольку	поскольку	SCONJ	_	_	20	mark	_	_
+19	различия	различие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	_
+20	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+21	из-за	из-за	ADP	_	_	22	case	_	_
+22	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	_
+23	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	и	и	CCONJ	_	_	28	cc	_	_
+27	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	продолжительности	продолжительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	conj	_	_
+29	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 33
+# text = Исследования показывают, что и ныне не существует научно разработанных критериев, которые могли бы служить для определения предельного возраста выхода на пенсию.
+1	Исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+2	показывают	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	что	что	SCONJ	_	_	8	mark	_	_
+5	и	и	PART	_	_	6	advmod	_	_
+6	ныне	ныне	ADV	_	Degree=Pos	8	advmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+9	научно	научно	ADV	_	Degree=Pos	10	advmod	_	_
+10	разработанных	разработать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+11	критериев	критерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	которые	который	PRON	_	Case=Nom	14	nsubj	_	_
+14	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+15	бы	бы	AUX	_	_	14	aux	_	_
+16	служить	служить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+17	для	для	ADP	_	_	18	case	_	_
+18	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	_
+19	предельного	предельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+21	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 34
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 37
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 38
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = Таблица 1.
+1	Таблица	таблица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 41
+# text = Доля населения Азербайджана и России старше 60 лет (%) Год
+1	Доля	доля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+2	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	Азербайджана	Азербайджан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+6	старше	старший	ADJ	_	Degree=Cmp	5	obl	_	_
+7	60	60	NUM	_	_	8	nummod	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	%	%	SYM	_	_	1	appos	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	Год	год	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = Азербайджанская Республика
+1	Азербайджанская	Азербайджанский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	Республика	Республика	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = Российская Федерация
+1	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	Федерация	Федерация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = Страна
+1	Страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = И с т о ч н и к: Организация Объединенных Наций.
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	т	то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	н	на	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+7	и	и	CCONJ	_	_	10	cc	_	_
+8	к	к	ADP	_	_	10	case	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	Организация	организация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+11	Объединенных	объединить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	Наций	Нация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 46
+# text = Дата обращения 1 ноября, 2017.
+1	Дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	1	1	NUM	_	_	2	nummod	_	_
+4	ноября	ноябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2017	2017	NUM	_	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = http://www.un.org/ru/ndex.html.
+1	http://www.un.org/ru/ndex.html	http://www.un.org/ru/ndex.html	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = В Российской Федерации установлен один из самых низких пенсионных возрастов в мире, обоснованность которого исследовали многие ученые.
+1	В	в	ADP	_	_	3	case	_	_
+2	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	один	один	NUM	_	Case=Nom|Gender=Masc	4	nsubj:pass	_	_
+6	из	из	ADP	_	_	10	case	_	_
+7	самых	самый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	низких	низкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+9	пенсионных	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	возрастов	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	обоснованность	обоснованность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+15	которого	который	PRON	_	Case=Gen	14	nmod	_	_
+16	исследовали	исследовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+17	многие	много	NUM	_	_	18	amod	_	_
+18	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 49
+# text = Еще в 1983 г. Е. Г. Азарова и А. Е. Козлов пришли к выводу, что биологические факторы и состояние здоровья лиц старших возрастных групп, социально-экономические факторы не давали оснований для повышения пенсионного возраста (Азарова и Козлов 1983, 72–91).
+1	Еще	еще	ADV	_	Degree=Pos	4	obl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	1983	1983	NUM	_	_	4	nummod	_	_
+4	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+5	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+6	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	Азарова	Азаров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+10	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	_
+11	Козлов	Козлов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	_
+12	пришли	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	к	к	ADP	_	_	14	case	_	_
+14	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	что	что	SCONJ	_	_	14	acl	_	_
+17	биологические	биологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	факторы	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	conj	_	_
+21	здоровья	здоровье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+23	старших	старший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+24	возрастных	возрастной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+25	групп	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	32	punct	_	_
+27	социально	социальный	ADJ	_	Degree=Pos	29	compound	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	экономические	экономический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	30	amod	_	_
+30	факторы	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	32	nsubj	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	давали	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+33	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	32	obl	_	_
+34	для	для	ADP	_	_	35	case	_	_
+35	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+36	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+38	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+39	Азарова	Азаров	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	35	parataxis	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	Козлов	Козлов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	39	conj	_	_
+42	1983	1983	NUM	_	_	41	nummod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	72	72	NUM	_	_	42	conj	_	SpaceAfter=No
+45	–	–	PUNCT	_	_	46	punct	_	SpaceAfter=No
+46	91	91	NUM	_	_	44	nummod	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	39	punct	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 50
+# text = Э. Г. Тучкова, М. Л. Захаров определяют социально оправданным тот возраст, когда есть необходимость признания права гражданина на материальное обеспечение; значительный процент пожилых лиц может продолжать профессио­ нальную деятельность за пределами этого возраста, однако им уже необходимы щадящие условия труда (Захаров и Тучкова 2008, 41–156).
+1	Э.	Э.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Тучкова	Тучков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Захаров	Захаров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	определяют	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	социально	социально	ADV	_	Degree=Pos	10	obl	_	_
+10	оправданным	оправдать	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	12	det	_	_
+12	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	когда	когда	SCONJ	_	_	15	mark	_	_
+15	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	_
+16	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+17	признания	признание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	материальное	материальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+23	;	;	PUNCT	_	_	12	punct	_	_
+24	значительный	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	процент	процент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+26	пожилых	пожилой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+28	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+29	продолжать	продолжать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	xcomp	_	_
+30	профессио­	профессио­	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	obl	_	_
+31	нальную	нальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+33	за	за	ADP	_	_	34	case	_	_
+34	пределами	предел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	32	nmod	_	_
+35	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	36	det	_	_
+36	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	41	punct	_	_
+38	однако	однако	ADV	_	Degree=Pos	41	obl	_	_
+39	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	41	iobj	_	_
+40	уже	уже	ADV	_	Degree=Pos	41	obl	_	_
+41	необходимы	необходимый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	28	conj	_	_
+42	щадящие	щадить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	43	amod	_	_
+43	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	41	obj	_	_
+44	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	_
+45	(	(	PUNCT	_	_	46	punct	_	SpaceAfter=No
+46	Захаров	Захаров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	44	parataxis	_	_
+47	и	и	CCONJ	_	_	48	cc	_	_
+48	Тучкова	Тучков	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	46	conj	_	_
+49	2008	2008	NUM	_	_	48	nummod	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	51	punct	_	_
+51	41	41	NUM	_	_	49	conj	_	SpaceAfter=No
+52	–	–	PUNCT	_	_	53	punct	_	SpaceAfter=No
+53	156	156	NUM	_	_	51	nummod	_	SpaceAfter=No
+54	)	)	PUNCT	_	_	46	punct	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 51
+# text = 11 февраля 1930 г.
+1	11	11	NUM	_	_	0	root	_	_
+2	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	1930	1930	NUM	_	_	4	nummod	_	_
+4	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = Народный комиссариат труда СССР утвердил "Правила обеспечения по старости".
+1	Народный	народный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	комиссариат	комиссариат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	СССР	СССР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	утвердил	утвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	obj	_	_
+8	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 53
+# text = Согласно п.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	п	п	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 54
+# text = 8 указанных Правил пенсия по старости назначалась мужчинам по достижении 60 лет, женщинам — 55 лет.
+1	8	8	NUM	_	_	3	nummod	_	_
+2	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	Правил	правил	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	пенсия	пенсия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+5	по	по	ADP	_	_	6	case	_	_
+6	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
+7	назначалась	назначать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	мужчинам	мужчина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	достижении	достижение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+11	60	60	NUM	_	_	12	nummod	_	_
+12	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	женщинам	женщина	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur	17	nmod	_	_
+15	—	—	PUNCT	_	_	14	punct	_	_
+16	55	55	NUM	_	_	17	nummod	_	_
+17	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 55
+# text = Данный возраст выхода на пенсию для мужчин и женщин был установлен также в ст. 12 "Положения о пенсиях и пособиях по социальному страхованию", утв.
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+3	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	7	conj	_	_
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+11	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	также	также	ADV	_	Degree=Pos	11	advmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	12	12	NUM	_	_	14	nummod	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	Положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	appos	_	_
+19	о	о	ADP	_	_	20	case	_	_
+20	пенсиях	пенсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	пособиях	пособие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	20	conj	_	_
+23	по	по	ADP	_	_	25	case	_	_
+24	социальному	социальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	страхованию	страхование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	утв	утво	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	conj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 56
+# text = Постановлением Совета Народных Комиссаров СССР от 13 февраля 1930 г.
+1	Постановлением	постановление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	_
+2	Совета	Совет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Народных	народный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	Комиссаров	комиссар	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	СССР	СССР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	от	от	ADP	_	_	7	case	_	_
+7	13	13	NUM	_	_	1	nummod	_	_
+8	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	1930	1930	NUM	_	_	10	nummod	_	_
+10	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = В отличие от Азербайджана с этого времени в России пенсионный возраст не повышался, и лишь с 1 января 2017 г. в РФ согласно Федеральному закону от 23.05.2016 № 143-ФЗ увеличился пенсионный возраст чиновников (государственных и муниципальных служащих) до 65 лет для мужчин и 63 лет для женщин.
+1	В	в	ADP	_	_	4	case	_	_
+2	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	от	от	ADP	_	_	1	fixed	_	_
+4	Азербайджана	Азербайджан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
+5	с	с	ADP	_	_	7	case	_	_
+6	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	7	det	_	_
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+10	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	повышался	повышаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	и	и	CCONJ	_	_	18	cc	_	_
+16	лишь	лишь	PART	_	_	18	advmod	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	1	1	NUM	_	_	31	nummod	_	_
+19	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	flat	_	_
+20	2017	2017	NUM	_	_	21	nummod	_	_
+21	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	РФ	РФ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	_
+24	согласно	согласно	ADP	_	_	26	case	_	_
+25	Федеральному	федеральный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	закону	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	31	obl	_	_
+27	от	от	ADP	_	_	29	case	_	_
+28	23.05.2016	23.05.2016	NUM	_	_	29	nummod	_	_
+29	№	№	SYM	_	_	31	obl	_	_
+30	143-ФЗ	143-ФЗ	ADV	_	Degree=Pos	31	advmod	_	_
+31	увеличился	увеличиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	xcomp	_	_
+32	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+34	чиновников	чиновник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+35	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+36	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	муниципальных	муниципальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	conj	_	_
+39	служащих	служащий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	34	parataxis	_	SpaceAfter=No
+40	)	)	PUNCT	_	_	39	punct	_	_
+41	до	до	ADP	_	_	43	case	_	_
+42	65	65	NUM	_	_	43	nummod	_	_
+43	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+44	для	для	ADP	_	_	45	case	_	_
+45	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	43	nmod	_	_
+46	и	и	CCONJ	_	_	48	cc	_	_
+47	63	63	NUM	_	_	48	nummod	_	_
+48	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	45	conj	_	_
+49	для	для	ADP	_	_	50	case	_	_
+50	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	48	nmod	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 58
+# text = Из указанного Закона следует также, что увеличение пенсионного возраста производится поэтапно, а именно каждый год по полгода.
+1	Из	из	ADP	_	_	3	case	_	_
+2	указанного	указать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	Закона	Закон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+4	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	также	также	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	что	что	SCONJ	_	_	11	mark	_	_
+8	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	_
+9	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	производится	производить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
+12	поэтапно	поэтапно	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	а	а	CCONJ	_	_	17	cc	_	_
+15	именно	именно	PART	_	_	16	advmod	_	_
+16	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
+17	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	conj	_	_
+18	по	по	ADP	_	_	20	case	_	_
+19	пол	пол	NUM	_	_	20	nummod	_	SpaceAfter=No
+20	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59
+# text = Для остальных лиц возраст выхода на пенсию не изменился.
+1	Для	для	ADP	_	_	3	case	_	_
+2	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	9	obl	_	_
+4	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	изменился	измениться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 60
+# text = В научной литературе встречаются, как представляется, недостаточно обоснованные утверждения, что пенсионный возраст 55 лет для женщин и 60 лет для мужчин был установлен в СССР в 1932 г.
+1	В	в	ADP	_	_	3	case	_	_
+2	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	встречаются	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	как	как	SCONJ	_	_	7	mark	_	_
+7	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	недостаточно	недостаточно	ADV	_	Degree=Pos	7	conj	_	_
+10	обоснованные	обоснованный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	утверждения	утверждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	26	punct	_	_
+13	что	что	SCONJ	_	_	26	mark	_	_
+14	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj:pass	_	_
+16	55	55	NUM	_	_	17	nummod	_	_
+17	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	60	60	NUM	_	_	22	nummod	_	_
+22	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	_
+23	для	для	ADP	_	_	24	case	_	_
+24	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+25	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	aux:pass	_	_
+26	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	acl	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	СССР	СССР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	obl	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	1932	1932	NUM	_	_	31	nummod	_	_
+31	г	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 61
+# text = Датой установления рассматриваемых возрастных границ является 11 февраля 1930 г., когда Народный комиссариат труда СССР утвердил указанные "Правила обеспечения по старости" (Новоселова 2016).
+1	Датой	Датый	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+2	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	рассматриваемых	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	_
+4	возрастных	возрастной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	11	11	NUM	_	_	6	nummod	_	_
+8	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	1930	1930	NUM	_	_	10	nummod	_	_
+10	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	когда	когда	SCONJ	_	_	18	mark	_	_
+14	Народный	народный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	комиссариат	комиссариат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+16	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	СССР	СССР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	утвердил	утвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+19	указанные	указать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	amod	_	_
+20	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	Правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	18	obj	_	_
+22	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	по	по	ADP	_	_	24	case	_	_
+24	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	21	punct	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	Новоселова	Новоселов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	parataxis	_	_
+28	2016	2016	NUM	_	_	27	nummod	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 62
+# text = Согласно Закону Азербайджанской Республики от 23.09.1992 № 305 "О пенсионном обеспечении граждан" (ныне утратил силу) на пенсию по возрасту (по старости) граждане выходили так же, как в СССР: мужчины — в 60 лет, женщины — в 55 лет.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	Закону	закон	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	29	obl	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	obj	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	23.09.1992	23.09.1992	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	№	№	SYM	_	_	6	nummod:entity	_	_
+8	305	305	NUM	_	_	7	nummod	_	_
+9	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	О	о	ADP	_	_	12	case	_	_
+11	пенсионном	пенсионный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	обеспечении	обеспечение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	appos	_	_
+13	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	12	punct	_	_
+15	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	ныне	ныне	ADV	_	Degree=Pos	17	advmod	_	_
+17	утратил	утратить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+18	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	17	punct	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+22	по	по	ADP	_	_	23	case	_	_
+23	возрасту	возраст	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	21	nmod	_	_
+24	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
+25	по	по	ADP	_	_	26	case	_	_
+26	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	23	parataxis	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	26	punct	_	_
+28	граждане	гражданин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	_
+29	выходили	выходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+30	так	так	ADV	_	Degree=Pos	29	advmod	_	_
+31	же	же	PART	_	_	30	advmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	как	как	SCONJ	_	_	35	mark	_	_
+34	в	в	ADP	_	_	35	case	_	_
+35	СССР	СССР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
+36	:	:	PUNCT	_	_	35	punct	_	_
+37	мужчины	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	35	parataxis	_	_
+38	—	—	PUNCT	_	_	37	punct	_	_
+39	в	в	ADP	_	_	41	case	_	_
+40	60	60	NUM	_	_	41	nummod	_	_
+41	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	женщины	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	37	conj	_	_
+44	—	—	PUNCT	_	_	47	punct	_	_
+45	в	в	ADP	_	_	47	case	_	_
+46	55	55	NUM	_	_	47	nummod	_	_
+47	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	43	orphan	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = 63
+# text = Но в отличие от Российской Федерации данный пенсионный возраст был повышен Законом Азербайджанской Республики от 07.02.2006 № 54-IIIГ "О трудовых пенсиях" (ст. 7), пенсионный возраст для мужчин составлял 62 года, а для женщин — 57 лет.
+1	Но	но	CCONJ	_	_	11	cc	_	_
+2	в	в	ADP	_	_	6	case	_	_
+3	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	_
+4	от	от	ADP	_	_	2	fixed	_	_
+5	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+7	данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+11	повышен	повысить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	Законом	Закон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+13	Азербайджанской	Азербайджанский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	12	flat:name	_	_
+14	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	от	от	ADP	_	_	14	case	_	_
+16	07.02.2006	07.02.2006	X	_	Foreign=Yes	14	flat:foreign	_	_
+17	№	№	SYM	_	_	14	appos	_	_
+18	54-IIIГ	54-IIIГ	PROPN	_	_	17	appos	_	_
+19	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+20	О	о	ADP	_	_	22	case	_	_
+21	трудовых	трудовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	22	amod	_	_
+22	пенсиях	пенсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	appos	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	22	punct	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	parataxis	_	_
+26	7	7	NUM	_	_	25	nummod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
+31	для	для	ADP	_	_	32	case	_	_
+32	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	_
+33	составлял	составлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+34	62	62	NUM	_	_	35	nummod	_	_
+35	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	42	punct	_	_
+37	а	а	CCONJ	_	_	42	cc	_	_
+38	для	для	ADP	_	_	39	case	_	_
+39	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	42	nmod	_	_
+40	—	—	PUNCT	_	_	42	punct	_	_
+41	57	57	NUM	_	_	42	nummod	_	_
+42	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	conj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 64
+# text = Статья 7 данного Закона была изменена в соответствии с Законом Азербайджанской Республики от 27.10.2009 № 904-IIIQD, согласно которому для мужчин на114
+1	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+2	7	7	NUM	_	_	1	nummod	_	_
+3	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	Закона	Закон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	изменена	изменить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	с	с	ADP	_	_	7	fixed	_	_
+10	Законом	Закон	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+11	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	от	от	ADP	_	_	15	case	_	_
+14	27.10.2009	27.10.2009	NUM	_	_	15	nummod	_	_
+15	№	№	SYM	_	_	12	nmod	_	_
+16	904-IIIQD	904-IIIQD	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	согласно	согласно	ADP	_	_	19	case	_	_
+19	которому	который	PRON	_	Case=Dat	15	nmod	_	_
+20	для	для	ADP	_	_	21	case	_	_
+21	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+22	на114	на114	X	_	Foreign=Yes	21	flat:foreign	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = Рис.
+1	Рис	рис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = Изменение границ пенсионного возраста в Азербайджанской Республике с 01.01.2006 по 01.01.2016 (и с т о ч н и к: график подготовлен автором на основе законодательства, 2017 г.) Таблица 2.
+1	Изменение	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+8	с	с	ADP	_	_	1	case	_	_
+9	01.01.2006	01.01.2006	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	по	по	ADP	_	_	1	case	_	_
+11	01.01.2016	01.01.2016	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	т	то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	conj	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+18	н	на	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	к	к	ADP	_	_	18	conj	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	20	punct	_	_
+22	график	график	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	_	_
+23	подготовлен	подготовить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	parataxis	_	_
+24	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	nmod	_	_
+27	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	2017	2017	NUM	_	_	30	nummod	_	_
+30	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	30	punct	_	_
+33	Таблица	таблица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	23	nsubj:pass	_	_
+34	2	2	NUM	_	_	33	nummod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = Изменение границ пенсионного возраста в Азербайджанской Республике с 01.01.2006 по 01.01.2016 Мужчины
+1	Изменение	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	01.01.2006	01.01.2006	NUM	_	_	1	nummod	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	01.01.2016	01.01.2016	X	_	Foreign=Yes	1	nmod	_	_
+12	Мужчины	мужчина	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 75
+# text = Женщины
+1	Женщины	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 76
+# text = Период
+1	Период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 77
+# text = Пол
+1	Пол	пол	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 78
+# text = И с т о ч н и к: таблица подготовлена автором на основе законодательства, 2017 г.
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	т	то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	н	на	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	к	к	ADP	_	_	6	conj	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	таблица	таблица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+11	подготовлена	подготовить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	parataxis	_	_
+12	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+15	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	2017	2017	NUM	_	_	15	nummod	_	_
+18	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	flat	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 79
+# text = чиная с 1 января 2010 г. пенсионный возраст повышался поэтапно за каждый год до 1 января 2012 г. на 6 месяцев, а для женщин — с 1 января 2010 г. за каждый год до 2016 г. тоже на 6 месяцев (табл. 2 и рис. 1).
+1	чиная	чиный	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	1	1	NUM	_	_	1	nummod	_	_
+4	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	_
+5	2010	2010	NUM	_	_	6	nummod	_	_
+6	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+8	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	повышался	повышаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	поэтапно	поэтапно	ADV	_	Degree=Pos	10	advmod	_	_
+12	за	за	ADP	_	_	14	case	_	_
+13	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	14	det	_	_
+14	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+15	до	до	ADP	_	_	16	case	_	_
+16	1	1	NUM	_	_	10	nummod	_	_
+17	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	flat	_	_
+18	2012	2012	NUM	_	_	19	nummod	_	_
+19	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	6	6	NUM	_	_	22	nummod	_	_
+22	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	а	а	CCONJ	_	_	26	cc	_	_
+25	для	для	ADP	_	_	26	case	_	_
+26	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	10	conj	_	_
+27	—	—	PUNCT	_	_	26	punct	_	_
+28	с	с	ADP	_	_	29	case	_	_
+29	1	1	NUM	_	_	27	nummod	_	_
+30	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	flat	_	_
+31	2010	2010	NUM	_	_	32	nummod	_	_
+32	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+33	за	за	ADP	_	_	35	case	_	_
+34	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	35	det	_	_
+35	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	nmod	_	_
+36	до	до	ADP	_	_	38	case	_	_
+37	2016	2016	NUM	_	_	38	nummod	_	_
+38	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+39	тоже	тоже	PART	_	_	42	advmod	_	_
+40	на	на	ADP	_	_	42	case	_	_
+41	6	6	NUM	_	_	42	nummod	_	_
+42	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
+43	(	(	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	табл	табласть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	42	parataxis	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	44	punct	_	_
+46	2	2	NUM	_	_	44	nummod	_	_
+47	и	и	CCONJ	_	_	48	cc	_	_
+48	рис.	рис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	conj	_	_
+49	1	1	NUM	_	_	48	nummod	_	SpaceAfter=No
+50	)	)	PUNCT	_	_	44	punct	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 80
+# text = Таким образом, пенсионный возраст достиг максимального значения для мужчин (63 года) 01.01.2012, а для женщин (60 лет) — 01.01.2016.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	достиг	достичь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	максимального	максимальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	63	63	NUM	_	_	13	nummod	_	_
+13	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	parataxis	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	01.01.2012	01.01.2012	NOUN	_	_	6	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	а	а	CCONJ	_	_	19	cc	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	6	conj	_	_
+20	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+21	60	60	NUM	_	_	22	nummod	_	_
+22	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	parataxis	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	_
+24	—	—	PUNCT	_	_	25	punct	_	_
+25	01.01.2016	01.01.2016	X	_	Foreign=Yes	6	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 81
+# text = Данный пенсионный возраст за очень короткое время был увеличен для женщин и мужчин до 65 лет (Бакинский журнал 2017).
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+4	за	за	ADP	_	_	7	case	_	_
+5	очень	очень	ADV	_	Degree=Pos	6	obl	_	_
+6	короткое	короткий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+8	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	увеличен	увеличить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	_
+14	до	до	ADP	_	_	16	case	_	_
+15	65	65	NUM	_	_	16	nummod	_	_
+16	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	_
+17	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	Бакинский	Бакинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	parataxis	_	_
+20	2017	2017	NUM	_	_	19	nummod	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 82
+# text = Уже в марте 2017 г. Милли Меджлис (парламент) АзерВестник СПбГУ.
+1	Уже	уже	ADV	_	Degree=Pos	3	obl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	марте	март	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+4	2017	2017	NUM	_	_	5	nummod	_	_
+5	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+7	Милли	Милли	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+8	Меджлис	Меджлис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	парламент	парламент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	АзерВестник	АзерВестник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+13	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 83
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 88
+# text = Рис.
+1	Рис	рис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = Изменение границ пенсионного возраста в Азербайджанской Республике с 01.07.2017 по 01.07.2027 (и с т о ч н и к: график подготовлен автором на основе законодательства, 2017 г.) Таблица 3.
+1	Изменение	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	01.07.2017	01.07.2017	NUM	_	_	1	nummod	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	01.07.2027	01.07.2027	NUM	_	_	1	nummod	_	_
+12	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	т	то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	conj	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+18	н	на	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	к	к	ADP	_	_	18	conj	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	20	punct	_	_
+22	график	график	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	_	_
+23	подготовлен	подготовить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	parataxis	_	_
+24	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	nmod	_	_
+27	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	2017	2017	NUM	_	_	30	nummod	_	_
+30	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	30	punct	_	_
+33	Таблица	таблица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	23	nsubj:pass	_	_
+34	3	3	NUM	_	_	33	nummod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Изменение границ пенсионного возраста в Азербайджанской Республике с 01.07.2017 по 01.07.2027 Мужчины
+1	Изменение	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	01.07.2017	01.07.2017	NUM	_	_	7	nummod	_	_
+10	по	по	ADP	_	_	12	case	_	_
+11	01.07.2027	01.07.2027	NUM	_	_	12	nummod	_	_
+12	Мужчины	мужчина	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 92
+# text = Женщины
+1	Женщины	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 93
+# text = Период
+1	Период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 94
+# text = Пол
+1	Пол	пол	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 95
+# text = И с т о ч н и к: таблица подготовлена автором на основе законодательства, 2017 г.
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	т	то	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	н	на	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	к	к	ADP	_	_	6	conj	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	таблица	таблица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+11	подготовлена	подготовить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	parataxis	_	_
+12	автором	автор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+15	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	2017	2017	NUM	_	_	15	nummod	_	_
+18	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	flat	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 96
+# text = байджанской Республики принял вступившие в силу с 01.07.2017 поправки в Закон "О трудовых пенсиях": пенсионный возраст увеличивается не более чем на полгода каждый последующий год.
+1	байджанской	байджанский	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+2	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вступившие	вступить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	xcomp	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+7	с	с	ADP	_	_	9	case	_	_
+8	01.07.2017	01.07.2017	NUM	_	_	9	nummod	_	_
+9	поправки	поправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	Закон	закон	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
+12	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	О	о	ADP	_	_	15	case	_	_
+14	трудовых	трудовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	15	amod	_	_
+15	пенсиях	пенсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	appos	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	:	:	PUNCT	_	_	9	punct	_	_
+18	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	_
+20	увеличивается	увеличиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	parataxis	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	более	более	ADV	_	Degree=Cmp	26	case	_	_
+23	чем	чем	SCONJ	_	_	22	fixed	_	_
+24	на	на	ADP	_	_	26	case	_	_
+25	пол	пол	NUM	_	_	26	nummod	_	SpaceAfter=No
+26	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	_
+27	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	29	det	_	_
+28	последующий	последующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 97
+# text = По такой схеме женщины будут на пенсии в 65 лет в 2027 г., а мужчины чуть раньше — в 2021 г. (табл. 3 и рис. 2).
+1	По	по	ADP	_	_	3	case	_	_
+2	такой	такой	DET	_	Case=Dat|Gender=Fem|Number=Sing	3	det	_	_
+3	схеме	схема	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	_
+4	женщины	женщина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+5	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	пенсии	пенсия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	65	65	NUM	_	_	10	nummod	_	_
+10	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	2027	2027	NUM	_	_	13	nummod	_	_
+13	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	а	а	CCONJ	_	_	18	cc	_	_
+16	мужчины	мужчина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	_
+17	чуть	чуть	ADV	_	Degree=Pos	18	advmod	_	_
+18	раньше	рано	ADV	_	Degree=Cmp	7	conj	_	_
+19	—	—	PUNCT	_	_	22	punct	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	2021	2021	NUM	_	_	22	nummod	_	_
+22	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	табл	табласть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	parataxis	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	24	punct	_	_
+26	3	3	NUM	_	_	24	nummod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	рис.	рис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	conj	_	_
+29	2	2	NUM	_	_	28	nummod	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 98
+# text = 116
+1	116	116	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 99
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 105
+# text = Таким образом, пенсионный возраст в Азербайджанской Республике станет таким же, как и во многих развитых странах.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+9	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	9	det	_	_
+11	же	же	PART	_	_	10	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	как	как	SCONJ	_	_	18	mark	_	_
+14	и	и	PART	_	_	18	advmod	_	_
+15	во	в	ADP	_	_	18	case	_	_
+16	многих	много	NUM	_	_	18	amod	_	_
+17	развитых	развитый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 106
+# text = Поскольку уровень социальной обеспеченности в Азербайджанской Республике ниже, чем в Российской Федерации, то подобное увеличение пенсионного возраста не находит достаточно обоснованных объяснений.
+1	Поскольку	поскольку	SCONJ	_	_	8	mark	_	_
+2	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	обеспеченности	обеспеченность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+8	ниже	низкий	ADJ	_	Degree=Cmp	21	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	чем	чем	SCONJ	_	_	13	mark	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	8	punct	_	_
+15	то	то	SCONJ	_	_	21	mark	_	_
+16	подобное	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+18	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	находит	находить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+22	достаточно	достаточно	ADV	_	Degree=Pos	23	obl	_	_
+23	обоснованных	обоснованный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	объяснений	объяснение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 107
+# text = В науке обращалось внимание на установление одинакового возраста выхода на пенсию для мужчин и женщин в Азербайджанской Республике — с 62 лет, а затем с 65 лет; в частности, это было предложено еще в 2007 г. в диссертации С. В. Ализаде.
+1	В	в	ADP	_	_	2	case	_	_
+2	науке	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+3	обращалось	обращаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	внимание	внимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	установление	установление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	одинакового	одинаковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	13	conj	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	Республике	республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+19	—	—	PUNCT	_	_	22	punct	_	_
+20	с	с	ADP	_	_	22	case	_	_
+21	62	62	NUM	_	_	22	nummod	_	_
+22	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	_
+24	а	а	CCONJ	_	_	28	cc	_	_
+25	затем	затем	ADV	_	Degree=Pos	28	obl	_	_
+26	с	с	ADP	_	_	28	case	_	_
+27	65	65	NUM	_	_	28	nummod	_	_
+28	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
+29	;	;	PUNCT	_	_	3	punct	_	_
+30	в	в	ADP	_	_	35	discourse	_	_
+31	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	fixed	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	30	punct	_	_
+33	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj:pass	_	_
+34	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	aux:pass	_	_
+35	предложено	предложить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	conj	_	_
+36	еще	еще	ADV	_	Degree=Pos	39	obl	_	_
+37	в	в	ADP	_	_	39	case	_	_
+38	2007	2007	NUM	_	_	39	nummod	_	_
+39	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	35	obl	_	_
+40	в	в	ADP	_	_	41	case	_	_
+41	диссертации	диссертация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	35	obl	_	_
+42	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	_
+43	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	42	flat:name	_	_
+44	Ализаде	Ализад	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	42	flat:name	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 108
+# text = Рассматривая пенсионный возраст как один из мощных механизмов управления финансовой устойчивостью пенсионной системы и оценив конкретную демографическую ситуацию страны, он предложил постепенный переход к новым условиям назначения пенсий.
+1	Рассматривая	рассматривать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	22	advcl	_	_
+2	пенсионный	пенсионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	1	advcl	_	_
+6	из	из	ADP	_	_	8	case	_	_
+7	мощных	мощный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+9	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	финансовой	финансовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	устойчивостью	устойчивость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+12	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	оценив	оценить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	11	conj	_	_
+16	конкретную	конкретный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	демографическую	демографический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+19	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	15	punct	_	_
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj	_	_
+22	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+23	постепенный	постепенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	переход	переход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+25	к	к	ADP	_	_	27	case	_	_
+26	новым	новый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	27	amod	_	_
+27	условиям	условие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	24	nmod	_	_
+28	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	пенсий	пенсия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 109
+# text = Примечательно, что С. В. Ализаде спрогнозировал рост коэффициента пенсионной нагрузки с 0,35 до 0,45 в период с 2006 по 2016 г., что указывало на обострение проблем государственного пенсионного обеспечения через 10 лет, и через 10 лет после защиты диссертации в указанный срок и был установлен одинаковый возраст выхода на пенсию в Азербайджанской Республике для мужчин и женщин — 65 лет (Ализаде 2007).
+1	Примечательно	примечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	что	что	SCONJ	_	_	7	mark	_	_
+4	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Ализаде	Ализад	PROPN	_	_	4	flat:name	_	_
+7	спрогнозировал	прогнозировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+8	рост	рост	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	коэффициента	коэффициент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	нагрузки	нагрузка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	0,35	0,35	NUM	_	_	7	nummod	_	_
+14	до	до	ADP	_	_	15	case	_	_
+15	0,45	0,45	NUM	_	_	13	nummod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	2006	2006	NUM	_	_	17	nummod	_	_
+20	по	по	ADP	_	_	22	case	_	_
+21	2016	2016	NUM	_	_	22	nummod	_	_
+22	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	что	что	PRON	_	Case=Nom	25	nsubj	_	_
+25	указывало	указывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	обострение	обострение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obl	_	_
+28	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+29	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+30	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+32	через	через	ADP	_	_	34	case	_	_
+33	10	10	NUM	_	_	34	nummod	_	_
+34	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	48	punct	_	_
+36	и	и	CCONJ	_	_	48	cc	_	_
+37	через	через	ADP	_	_	39	case	_	_
+38	10	10	NUM	_	_	39	nummod	_	_
+39	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	48	obl	_	_
+40	после	после	ADP	_	_	41	case	_	_
+41	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+42	диссертации	диссертация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	_
+43	в	в	ADP	_	_	45	case	_	_
+44	указанный	указать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	45	amod	_	_
+45	срок	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	42	nmod	_	_
+46	и	и	CCONJ	_	_	48	cc	_	_
+47	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	48	aux:pass	_	_
+48	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	28	conj	_	_
+49	одинаковый	одинаковый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	_
+50	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	48	nsubj:pass	_	_
+51	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	_
+52	на	на	ADP	_	_	53	case	_	_
+53	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	51	nmod	_	_
+54	в	в	ADP	_	_	56	case	_	_
+55	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	56	amod	_	_
+56	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	51	nmod	_	_
+57	для	для	ADP	_	_	58	case	_	_
+58	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	51	nmod	_	_
+59	и	и	CCONJ	_	_	60	cc	_	_
+60	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	58	conj	_	_
+61	—	—	PUNCT	_	_	63	punct	_	_
+62	65	65	NUM	_	_	63	nummod	_	_
+63	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	58	conj	_	_
+64	(	(	PUNCT	_	_	65	punct	_	SpaceAfter=No
+65	Ализаде	Ализад	PROPN	_	_	63	parataxis	_	_
+66	2007	2007	NUM	_	_	65	nummod	_	SpaceAfter=No
+67	)	)	PUNCT	_	_	65	punct	_	SpaceAfter=No
+68	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = Идея повышения пенсионного возраста или уравнивания пенсионного возраста мужчин и женщин привлекала внимание исследователей и в Российской Федерации.
+1	Идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+2	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	или	или	CCONJ	_	_	6	cc	_	_
+6	уравнивания	уравнивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+7	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	9	conj	_	_
+12	привлекала	привлекать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	исследователей	исследователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	и	и	CCONJ	_	_	18	cc	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 111
+# text = Е. Е. Мачульская считает дифференциацию пенсионного возраста в РФ по признаку пола недостаточно оправданной, так как продолжительность жизни у женщин дольше, чем у мужчин, а соотношение между реальными пенсионными взносами и суммой получаемой женщиной пенсии бывает меньше.
+1	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+3	Мачульская	Мачульский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+4	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	дифференциацию	дифференциация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	РФ	РФ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	признаку	признак	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	_
+12	пола	пол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	недостаточно	недостаточно	ADV	_	Degree=Pos	14	obl	_	_
+14	оправданной	оправдать	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	так	так	ADV	_	Degree=Pos	22	mark	_	_
+17	как	как	SCONJ	_	_	16	fixed	_	_
+18	продолжительность	продолжительность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+19	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	у	у	ADP	_	_	21	case	_	_
+21	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	22	obl	_	_
+22	дольше	долго	ADV	_	Degree=Cmp	4	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	чем	чем	SCONJ	_	_	26	mark	_	_
+25	у	у	ADP	_	_	26	case	_	_
+26	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	39	punct	_	_
+28	а	а	CCONJ	_	_	39	cc	_	_
+29	соотношение	соотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	39	nsubj	_	_
+30	между	между	ADP	_	_	33	case	_	_
+31	реальными	реальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	_
+32	пенсионными	пенсионный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	_
+33	взносами	взнос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	29	nmod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	суммой	сумма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	conj	_	_
+36	получаемой	получать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	37	amod	_	_
+37	женщиной	женщина	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	35	nmod	_	_
+38	пенсии	пенсия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+39	бывает	бывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+40	меньше	мало	NUM	_	_	39	advmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 112
+# text = Но сложная демографическая ситуация в стране неизбежно приведет к увеличению пенсионного возраста женщин.
+1	Но	но	CCONJ	_	_	8	cc	_	_
+2	сложная	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	демографическая	демографический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+7	неизбежно	неизбежно	ADV	_	Degree=Pos	8	advmod	_	_
+8	приведет	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+9	к	к	ADP	_	_	10	case	_	_
+10	увеличению	увеличение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+11	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 113
+# text = Если исходить из сравнивания средней продолжительности жизни мужчин и женщин, то, по мнению Е. Е. Мачульской, наиболее приемлемое решение — постепенное увеличение пенсионного возраста женщин до 60 лет.
+1	Если	если	SCONJ	_	_	2	mark	_	_
+2	исходить	исходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	22	advcl	_	_
+3	из	из	ADP	_	_	4	case	_	_
+4	сравнивания	сравнивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+5	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	продолжительности	продолжительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	то	то	SCONJ	_	_	22	mark	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	parataxis	_	_
+16	Е.	Е.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	Е.	Е.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	16	flat:name	_	_
+18	Мачульской	Мачульский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	16	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	15	punct	_	_
+20	наиболее	наиболее	ADV	_	Degree=Pos	21	advmod	_	_
+21	приемлемое	приемлемый	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	22	acl	_	_
+22	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+23	—	—	PUNCT	_	_	25	punct	_	_
+24	постепенное	постепенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nmod	_	_
+26	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+28	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+29	до	до	ADP	_	_	31	case	_	_
+30	60	60	NUM	_	_	31	nummod	_	_
+31	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 114
+# text = Это увеличение должно быть отложенным во времени, например до 2030 г.
+1	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	cop	_	_
+5	отложенным	отложить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+6	во	в	ADP	_	_	7	case	_	_
+7	времени	время	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	например	например	ADV	_	Degree=Pos	12	obl	_	_
+10	до	до	ADP	_	_	12	case	_	_
+11	2030	2030	NUM	_	_	12	nummod	_	_
+12	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 115
+# text = (Мачульская 2013, 116).
+1	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Мачульская	Мачульский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	2013	2013	NUM	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	116	116	NUM	_	_	3	conj	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 116
+# text = Конституционный Суд РФ в Определении от 21.12.2000 № 276-О пришел к выводу, что, "установив для мужчин и женщин разный возраст выхода на пенсию по старости, законодатель применил дифференциацию, основанную на физиологических и других различиях между ними, а также исходя из особой социальной роли женщины в обществе, связанной с материнством, что согласуется с положением ст. 38 (ч. 1) Конституции, в соответствии с которым материнство находится под защитой государства, и не может оцениваться как дискриминационное ограничение конституционных прав, так как такое решение законодателя обеспечивает — по смыслу ст. 19 Конституции — достижение подлинного, а не формального равенства".
+1	Конституционный	конституционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	Суд	Суд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	Определении	определение	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+6	от	от	ADP	_	_	9	case	_	_
+7	21.12.2000	21.12.2000	NUM	_	_	9	nummod	_	_
+8	№	№	SYM	_	_	7	flat	_	_
+9	276-О	276О	PROPN	_	_	10	obl	_	_
+10	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	31	punct	_	_
+14	что	что	SCONJ	_	_	31	mark	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	установив	установить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	31	advcl	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	19	conj	_	_
+22	разный	разный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	obj	_	_
+24	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	nmod	_	_
+27	по	по	ADP	_	_	28	case	_	_
+28	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	17	punct	_	_
+30	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+31	применил	применить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	_
+32	дифференциацию	дифференциация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	основанную	основать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	_
+35	на	на	ADP	_	_	39	case	_	_
+36	физиологических	физиологический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	39	amod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	36	conj	_	_
+39	различиях	различие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	34	obl	_	_
+40	между	между	ADP	_	_	41	case	_	_
+41	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	34	obl	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	45	punct	_	_
+43	а	а	CCONJ	_	_	45	cc	_	_
+44	также	также	PART	_	_	43	fixed	_	_
+45	исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	41	advcl	_	_
+46	из	из	ADP	_	_	49	case	_	_
+47	особой	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+48	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+49	роли	роль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	obl	_	_
+50	женщины	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	49	nmod	_	_
+51	в	в	ADP	_	_	52	case	_	_
+52	обществе	общество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	59	obl	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	связанной	связать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	52	acl	_	_
+55	с	с	ADP	_	_	56	case	_	_
+56	материнством	материнство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	54	obl	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	54	punct	_	_
+58	что	что	PRON	_	Case=Nom	59	nsubj	_	_
+59	согласуется	согласоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	49	parataxis	_	_
+60	с	с	ADP	_	_	61	case	_	_
+61	положением	положение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	59	obl	_	_
+62	ст	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	61	nmod	_	SpaceAfter=No
+63	.	.	PUNCT	_	_	62	punct	_	_
+64	38	38	NUM	_	_	62	nummod	_	_
+65	(	(	PUNCT	_	_	66	punct	_	SpaceAfter=No
+66	ч	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	62	parataxis	_	SpaceAfter=No
+67	.	.	PUNCT	_	_	66	punct	_	_
+68	1	1	NUM	_	_	66	nummod	_	SpaceAfter=No
+69	)	)	PUNCT	_	_	66	punct	_	_
+70	Конституции	Конституция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	62	nmod	_	SpaceAfter=No
+71	,	,	PUNCT	_	_	77	punct	_	_
+72	в	в	ADP	_	_	75	case	_	_
+73	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	72	fixed	_	_
+74	с	с	ADP	_	_	72	fixed	_	_
+75	которым	который	PRON	_	Case=Ins	77	obl	_	_
+76	материнство	материнство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	77	nsubj	_	_
+77	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	62	acl:relcl	_	_
+78	под	под	ADP	_	_	79	case	_	_
+79	защитой	защита	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	77	obl	_	_
+80	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	79	nmod	_	SpaceAfter=No
+81	,	,	PUNCT	_	_	84	punct	_	_
+82	и	и	CCONJ	_	_	84	cc	_	_
+83	не	не	PART	_	_	84	advmod	_	_
+84	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	62	conj	_	_
+85	оцениваться	оценивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	84	xcomp	_	_
+86	как	как	SCONJ	_	_	88	mark	_	_
+87	дискриминационное	дискриминационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	88	amod	_	_
+88	ограничение	ограничение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	85	advcl	_	_
+89	конституционных	конституционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	90	amod	_	_
+90	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	88	nmod	_	SpaceAfter=No
+91	,	,	PUNCT	_	_	97	punct	_	_
+92	так	так	ADV	_	Degree=Pos	97	mark	_	_
+93	как	как	SCONJ	_	_	92	fixed	_	_
+94	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	95	det	_	_
+95	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	97	nsubj	_	_
+96	законодателя	законодатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	95	nmod	_	_
+97	обеспечивает	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	84	advcl	_	_
+98	—	—	PUNCT	_	_	100	punct	_	_
+99	по	по	ADP	_	_	100	case	_	_
+100	смыслу	смысл	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	97	obl	_	_
+101	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	100	nmod	_	SpaceAfter=No
+102	.	.	PUNCT	_	_	100	punct	_	_
+103	19	19	NUM	_	_	104	nummod	_	_
+104	Конституции	Конституция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	100	nmod	_	_
+105	—	—	PUNCT	_	_	106	punct	_	_
+106	достижение	достижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	104	appos	_	_
+107	подлинного	подлинный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	112	amod	_	SpaceAfter=No
+108	,	,	PUNCT	_	_	111	punct	_	_
+109	а	а	CCONJ	_	_	111	cc	_	_
+110	не	не	PART	_	_	111	advmod	_	_
+111	формального	формальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	107	conj	_	_
+112	равенства	равенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	106	nmod	_	SpaceAfter=No
+113	"	"	PUNCT	_	_	106	punct	_	SpaceAfter=No
+114	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 117
+# text = Соответственно, уравнивание пенсионного возраста мужчин и женщин в Российской Федерации будет нарушением конституционных прав женщин.
+1	Соответственно	соответственно	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	уравнивание	уравнивание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+4	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	6	conj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+12	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	_
+14	конституционных	конституционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 118
+# text = Главным аргументом сторонников повышения пенсионного возраста является старение населения, приводящее к изменению соотношения между количеством работающих лиц, из заработка которых уплачиваются страховые взносы, и количеством пенсионеров, получающих пенсии по солидарной системе финансирования, Вестник СПбГУ.
+1	Главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	аргументом	аргумент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+3	сторонников	сторонник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	старение	старение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+9	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	приводящее	приводить	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	изменению	изменение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+14	соотношения	соотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	между	между	ADP	_	_	16	case	_	_
+16	количеством	количество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	nmod	_	_
+17	работающих	работать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	amod	_	_
+18	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	из	из	ADP	_	_	21	case	_	_
+21	заработка	заработок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	obl	_	_
+22	которых	который	PRON	_	Case=Gen	21	nmod	_	_
+23	уплачиваются	уплачивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	conj	_	_
+24	страховые	страховой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	_
+25	взносы	взнос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	количеством	количество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	conj	_	_
+29	пенсионеров	пенсионер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	получающих	получать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	29	acl	_	_
+32	пенсии	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	31	obj	_	_
+33	по	по	ADP	_	_	35	case	_	_
+34	солидарной	солидарный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	31	obl	_	_
+36	финансирования	финансирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	31	punct	_	_
+38	Вестник	Вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+39	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 119
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 120
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 121
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 122
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 123
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 124
+# text = в пользу последних.
+1	в	в	ADP	_	_	2	case	_	_
+2	пользу	польза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+3	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 125
+# text = Это приводит к возникновению дефицита средств.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	возникновению	возникновение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+5	дефицита	дефицит	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 126
+# text = По данным статистики для нормального финансирования пенсионной системы минимально необходимое соотношение между численностью работающих лиц и пенсионеров должно быть не менее трех к одному.
+1	По	по	ADP	_	_	2	case	_	_
+2	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	18	obl	_	_
+3	статистики	статистика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	для	для	ADP	_	_	6	case	_	_
+5	нормального	нормальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	финансирования	финансирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+7	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	минимально	минимально	ADV	_	Degree=Pos	10	obl	_	_
+10	необходимое	необходимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	соотношение	соотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+12	между	между	ADP	_	_	13	case	_	_
+13	численностью	численность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	_
+14	работающих	работать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	amod	_	_
+15	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	пенсионеров	пенсионер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	13	conj	_	_
+18	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+19	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	менее	менее	ADV	_	Degree=Cmp	22	nummod:gov	_	_
+22	трех	три	NUM	_	Case=Gen	19	nummod	_	_
+23	к	к	ADP	_	_	24	case	_	_
+24	одному	один	NUM	_	Case=Dat|Gender=Masc	22	nummod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 127
+# text = М. Л. Захаров и Э. Г. Тучкова отмечают, что как раньше, так и сейчас не было оснований для повышения пенсионного возраста, поскольку в Российской Федерации слишком высокая смертность во всех возрастных группах (Захаров, Тучкова 2012, 32).
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Захаров	Захаров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	Э.	Э.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	conj	_	_
+6	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Тучкова	Тучков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	18	punct	_	_
+10	что	что	SCONJ	_	_	18	mark	_	_
+11	как	как	SCONJ	_	_	12	mark	_	_
+12	раньше	рано	ADV	_	Degree=Cmp	18	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	так	так	ADV	_	Degree=Pos	18	cc	_	_
+15	и	и	PART	_	_	14	fixed	_	_
+16	сейчас	сейчас	ADV	_	Degree=Pos	18	advmod	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+19	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nsubj	_	_
+20	для	для	ADP	_	_	21	case	_	_
+21	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	поскольку	поскольку	SCONJ	_	_	28	mark	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	advcl	_	_
+29	слишком	слишком	ADV	_	Degree=Pos	30	obl	_	_
+30	высокая	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	смертность	смертность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+32	во	в	ADP	_	_	35	case	_	_
+33	всех	весь	DET	_	Case=Loc|Number=Plur	35	det	_	_
+34	возрастных	возрастной	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	35	amod	_	_
+35	группах	группа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	31	nmod	_	_
+36	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+37	Захаров	Захаров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	35	parataxis	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	Тучкова	Тучков	PROPN	_	_	37	conj	_	_
+40	2012	2012	NUM	_	_	39	nummod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	32	32	NUM	_	_	40	conj	_	SpaceAfter=No
+43	)	)	PUNCT	_	_	37	punct	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 128
+# text = Допустить повышение пенсионного возраста, по их мнению, можно лишь тогда, когда Россия приблизится к Европе по уровню продолжительности предстоящей жизни; кроме того, население нужно уведомлять о повышении пенсионного возраста заблаговременно, за 5–10 лет.
+1	Допустить	допустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+2	повышение	повышение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+3	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	по	по	ADP	_	_	8	case	_	_
+7	их	их	DET	_	_	8	det	_	_
+8	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	можно	можно	ADV	_	Degree=Pos	2	acl:relcl	_	_
+11	лишь	лишь	PART	_	_	12	advmod	_	_
+12	тогда	тогда	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	когда	когда	ADV	_	Degree=Pos	16	advmod	_	_
+15	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+16	приблизится	приблизиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	12	acl:relcl	_	_
+17	к	к	ADP	_	_	18	case	_	_
+18	Европе	Европа	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	obl	_	_
+19	по	по	ADP	_	_	20	case	_	_
+20	уровню	уровень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+21	продолжительности	продолжительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	предстоящей	предстоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	;	;	PUNCT	_	_	16	punct	_	_
+25	кроме	кроме	ADP	_	_	26	case	_	_
+26	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+29	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	26	acl	_	_
+30	уведомлять	уведомлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+31	о	о	ADP	_	_	32	case	_	_
+32	повышении	повышение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	_
+33	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+35	заблаговременно	заблаговременно	ADV	_	Degree=Pos	32	advmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	41	punct	_	_
+37	за	за	ADP	_	_	41	case	_	_
+38	5	5	NUM	_	_	41	nummod	_	SpaceAfter=No
+39	–	–	PUNCT	_	_	40	punct	_	SpaceAfter=No
+40	10	10	NUM	_	_	38	nummod	_	_
+41	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	35	conj	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 129
+# text = Повышение пенсионного возраста представляется неэффективным инструментом, как для Азербайджанской Республики, так и для Российской Федерации.
+1	Повышение	повышение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	неэффективным	неэффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	инструментом	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	как	как	SCONJ	_	_	11	mark	_	_
+9	для	для	ADP	_	_	11	case	_	_
+10	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	так	так	ADV	_	Degree=Pos	17	cc	_	_
+14	и	и	PART	_	_	13	fixed	_	_
+15	для	для	ADP	_	_	17	case	_	_
+16	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 130
+# text = Можно согласиться с А. К. Соловьевым, обоснованно доказывающим, что проблему "повышения пенсионного возраста" нельзя рассматривать как экономический инструмент для достижения сбалансированности бюджета государственного пенсионного фонда в частности и всей пенсионной системы страны (Соловьев 2015).
+1	Можно	можно	ADV	_	Degree=Pos	0	root	_	_
+2	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	csubj	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
+5	К.	К.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Соловьевым	Соловьев	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	обоснованно	обоснованно	ADV	_	Degree=Pos	9	advmod	_	_
+9	доказывающим	доказывать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	18	punct	_	_
+11	что	что	SCONJ	_	_	18	mark	_	_
+12	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	повышения	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	14	punct	_	_
+18	нельзя	нельзя	ADV	_	Degree=Pos	9	ccomp	_	_
+19	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	csubj	_	_
+20	как	как	SCONJ	_	_	22	mark	_	_
+21	экономический	экономический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	инструмент	инструмент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	advcl	_	_
+23	для	для	ADP	_	_	24	case	_	_
+24	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	сбалансированности	сбалансированность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	бюджета	бюджет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+27	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+28	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	фонда	фонд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+30	в	в	ADP	_	_	35	discourse	_	_
+31	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	fixed	_	_
+32	и	и	CCONJ	_	_	35	cc	_	_
+33	всей	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing	35	det	_	_
+34	пенсионной	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+36	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+37	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	Соловьев	Соловьев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	parataxis	_	_
+39	2015	2015	NUM	_	_	38	nummod	_	SpaceAfter=No
+40	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 131
+# text = Возраст выхода на пенсию в пенсионной системе, основанной на страховых принципах формирования пенсионных прав застрахованных лиц, зависит от внешних факторов, в первую очередь макроэкономических (объема и структуры ВВП, инфляции, фонда оплаты труда и распределения доходов), а также от развития и структуры рынка труда (уровня и структуры занятости).
+1	Возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+2	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	пенсионной	пенсионный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	основанной	основать	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+10	на	на	ADP	_	_	12	case	_	_
+11	страховых	страховой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	принципах	принцип	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	_
+13	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	пенсионных	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	застрахованных	страховать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	9	punct	_	_
+19	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	от	от	ADP	_	_	22	case	_	_
+21	внешних	внешний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	факторов	фактор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	в	в	ADP	_	_	27	discourse	_	_
+25	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	fixed	_	_
+26	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	fixed	_	_
+27	макроэкономических	макроэкономический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	obl	_	_
+28	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	объема	объем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	parataxis	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	структуры	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	conj	_	_
+32	ВВП	ВВП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	инфляции	инфляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	фонда	фонд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	conj	_	_
+37	оплаты	оплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
+39	и	и	CCONJ	_	_	40	cc	_	_
+40	распределения	распределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	conj	_	_
+41	доходов	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	40	nmod	_	SpaceAfter=No
+42	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	47	punct	_	_
+44	а	а	CCONJ	_	_	47	cc	_	_
+45	также	также	PART	_	_	44	fixed	_	_
+46	от	от	ADP	_	_	47	case	_	_
+47	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	conj	_	_
+48	и	и	CCONJ	_	_	49	cc	_	_
+49	структуры	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	conj	_	_
+50	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	nmod	_	_
+51	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	_
+52	(	(	PUNCT	_	_	53	punct	_	SpaceAfter=No
+53	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	51	appos	_	_
+54	и	и	CCONJ	_	_	55	cc	_	_
+55	структуры	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	53	conj	_	_
+56	занятости	занятость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	SpaceAfter=No
+57	)	)	PUNCT	_	_	53	punct	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 132
+# text = Установление императивной нормы, увеличивающей пенсионный возраст, также добавит новых проблем: повысится количество выходящих на пенсию по инвалидности, многие граждане фактически не смогут реализовать свое право на пенсию в связи с сокращением средней продолжительности жизни.
+1	Установление	установление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	императивной	императивный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	увеличивающей	увеличивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+6	пенсионный	пенсионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	также	также	ADV	_	Degree=Pos	10	advmod	_	_
+10	добавит	добавить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+11	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	10	punct	_	_
+14	повысится	повыситься	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	10	parataxis	_	_
+15	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+16	выходящих	выходить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	nmod	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+19	по	по	ADP	_	_	20	case	_	_
+20	инвалидности	инвалидность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	_	_
+22	многие	много	NUM	_	_	23	amod	_	_
+23	граждане	гражданин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	_
+24	фактически	фактически	ADV	_	Degree=Pos	26	advmod	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	смогут	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	conj	_	_
+27	реализовать	реализовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	29	det	_	_
+29	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+30	на	на	ADP	_	_	31	case	_	_
+31	пенсию	пенсия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	nmod	_	_
+32	в	в	ADP	_	_	35	case	_	_
+33	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	32	fixed	_	_
+34	с	с	ADP	_	_	32	fixed	_	_
+35	сокращением	сокращение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	27	obl	_	_
+36	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	_
+37	продолжительности	продолжительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+38	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 133
+# text = Предполагается, что проблема пенсионного возраста — это один из эффективных инструментов решения политических вопросов.
+1	Предполагается	предполагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	что	что	SCONJ	_	_	9	mark	_	_
+4	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+5	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	—	—	PUNCT	_	_	4	punct	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	один	один	NUM	_	Case=Nom|Gender=Masc	1	ccomp	_	_
+10	из	из	ADP	_	_	12	case	_	_
+11	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	инструментов	инструмент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+13	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	политических	политический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 134
+# text = Например, во Франции благодаря предвыборному обещанию бывшего президента Франсуа Олланда "исправить несправедливость", допущенную предыдущим главой государства Николя Саркози, в 2012 г. снизили пенсионный возраст с 62 до 60 лет для граждан с трудовым стажем от 41 года, с учетом шестимесячного отпуска по беременности и родам и периода отсутствия работы на такой же срок (Во Франции понизили пенсионный возраст… 2017).
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	во	в	ADP	_	_	4	case	_	_
+4	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+5	благодаря	благодаря	ADP	_	_	7	case	_	_
+6	предвыборному	предвыборный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	обещанию	обещание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	_
+8	бывшего	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	президента	президент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	Франсуа	Франсуа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	Олланда	Олланд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	исправить	исправить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	_
+14	несправедливость	несправедливость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	допущенную	допустить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	conj	_	_
+18	предыдущим	предыдущий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	главой	глава	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	_
+20	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	Николя	Николя	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
+22	Саркози	Саркози	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	21	flat:name	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	2012	2012	NUM	_	_	26	nummod	_	_
+26	г.	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obl	_	_
+27	снизили	снизить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+28	пенсионный	пенсионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
+30	с	с	ADP	_	_	31	case	_	_
+31	62	62	NUM	_	_	29	nummod	_	_
+32	до	до	ADP	_	_	34	case	_	_
+33	60	60	NUM	_	_	34	nummod	_	_
+34	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	31	obl	_	_
+35	для	для	ADP	_	_	36	case	_	_
+36	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	_
+37	с	с	ADP	_	_	39	case	_	_
+38	трудовым	трудовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	_
+39	стажем	стаж	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	36	nmod	_	_
+40	от	от	ADP	_	_	42	case	_	_
+41	41	41	NUM	_	_	42	nummod	_	_
+42	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	45	punct	_	_
+44	с	с	ADP	_	_	45	case	_	_
+45	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	42	conj	_	_
+46	шестимесячного	шестимесячный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
+47	отпуска	отпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	_
+48	по	по	ADP	_	_	49	case	_	_
+49	беременности	беременность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	47	nmod	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
+51	родам	род	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	49	conj	_	_
+52	и	и	CCONJ	_	_	53	cc	_	_
+53	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	conj	_	_
+54	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+55	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	nmod	_	_
+56	на	на	ADP	_	_	59	case	_	_
+57	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	59	det	_	_
+58	же	же	PART	_	_	57	advmod	_	_
+59	срок	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	45	nmod	_	_
+60	(	(	PUNCT	_	_	63	punct	_	SpaceAfter=No
+61	Во	в	ADP	_	_	62	case	_	_
+62	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	63	obl	_	_
+63	понизили	понизить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	59	parataxis	_	_
+64	пенсионный	пенсионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	65	amod	_	_
+65	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obj	_	SpaceAfter=No
+66	…	…	PUNCT	_	_	67	punct	_	_
+67	2017	2017	NUM	_	_	65	nummod	_	SpaceAfter=No
+68	)	)	PUNCT	_	_	63	punct	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 135
+# text = 1 октября 2017 г. в Польше вступил в силу закон, отменяющий пенсионную реформу правительства Дональда Туска 2012 г. и устанавливающий снижение пенсионного возраста для мужчин с 67 до 65 лет, а для женщин — с 67 до 60 лет.
+1	1	1	NUM	_	_	7	nummod	_	_
+2	октября	октябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	2017	2017	NUM	_	_	4	nummod	_	_
+4	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	вступил	вступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+10	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	отменяющий	отменять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+13	пенсионную	пенсионный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	реформу	реформа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+15	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	Дональда	Дональд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	Туска	Туск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	2012	2012	NUM	_	_	19	nummod	_	_
+19	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	устанавливающий	устанавливать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+22	снижение	снижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+23	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+25	для	для	ADP	_	_	26	case	_	_
+26	мужчин	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	67	67	NUM	_	_	22	nummod	_	_
+29	до	до	ADP	_	_	31	case	_	_
+30	65	65	NUM	_	_	31	nummod	_	_
+31	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	а	а	CCONJ	_	_	35	cc	_	_
+34	для	для	ADP	_	_	35	case	_	_
+35	женщин	женщина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	12	conj	_	_
+36	—	—	PUNCT	_	_	35	punct	_	_
+37	с	с	ADP	_	_	38	case	_	_
+38	67	67	NUM	_	_	36	nummod	_	_
+39	до	до	ADP	_	_	41	case	_	_
+40	60	60	NUM	_	_	41	nummod	_	_
+41	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	38	obl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 136
+# text = Снижение пенсионного возраста было также одним из предвыборных обещаний партии "Право и справедливость", одержавшей победу на парламентских выборах в октябре 2015 г.
+1	Снижение	снижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+2	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	также	также	ADV	_	Degree=Pos	6	advmod	_	_
+6	одним	один	NUM	_	Case=Ins|Gender=Masc	0	root	_	_
+7	из	из	ADP	_	_	9	case	_	_
+8	предвыборных	предвыборный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	обещаний	обещание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+10	партии	партия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	appos	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	справедливость	справедливость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	одержавшей	одержать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	_
+18	победу	победа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+19	на	на	ADP	_	_	21	case	_	_
+20	парламентских	парламентский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	_
+21	выборах	выборы	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	nmod	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	октябре	октябрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	_
+24	2015	2015	NUM	_	_	25	nummod	_	_
+25	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 137
+# text = (В Польше официально снизили пенсионный возраст 2017).
+1	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	В	в	ADP	_	_	3	case	_	_
+3	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	официально	официально	ADV	_	Degree=Pos	5	advmod	_	_
+5	снизили	снизить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	пенсионный	пенсионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	2017	2017	NUM	_	_	7	nummod	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 138
+# text = Представляется целесообразным и для Азербайджанской Республики, и для Российской Федерации определить критерии установления границ пенсионного возраста совместно с исследователями таких областей науки, как демография, социология, экономика, математика, медицина.
+1	Представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	целесообразным	целесообразный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	obl	_	_
+3	и	и	CCONJ	_	_	6	cc	_	_
+4	для	для	ADP	_	_	6	case	_	_
+5	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	для	для	ADP	_	_	11	case	_	_
+10	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+12	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+13	критерии	критерий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	obj	_	_
+14	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+16	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	совместно	совместно	ADV	_	Degree=Pos	12	advmod	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	18	obl	_	_
+21	таких	такой	DET	_	Case=Gen|Number=Plur	22	det	_	_
+22	областей	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	_
+23	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	как	как	SCONJ	_	_	26	mark	_	_
+26	демография	демография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	социология	социология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	экономика	экономика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	математика	математика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	медицина	медицина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 139
+# text = С учетом этих критериев на законодательном уровне необходимо установить математическую формулу для границ пенсионного возраста.
+1	С	с	ADP	_	_	2	case	_	_
+2	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+3	этих	этот	DET	_	Case=Gen|Number=Plur	4	det	_	_
+4	критериев	критерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	законодательном	законодательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+8	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+9	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	математическую	математический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	формулу	формула	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 140
+# text = 118
+1	118	118	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 141
+# text = Вестник СПбГУ.
+1	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	СПбГУ	спбгу	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 142
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 143
+# text = 2018.
+1	2018	2018	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 144
+# text = Т. 9.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	9	9	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 145
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 146
+# text = 1
+1	1	1	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 147
+# text = Дефицит пенсионного фонда может быть устранен при решении следующих проблем (список не исчерпывающий): —— безработица; —— справедливая оплата труда; —— повышение производительности труда; —— миграционная политика в отношении иностранных граждан; —— автоматизация (роботизация) труда.
+1	Дефицит	дефицит	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+2	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	фонда	фонд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	aux:pass	_	_
+6	устранен	устранить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	xcomp	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	решении	решение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+9	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+12	список	список	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	исчерпывающий	исчерпывавать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	14	punct	_	_
+17	—	—	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	—	—	PUNCT	_	_	19	punct	_	_
+19	безработица	безработица	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	parataxis	_	SpaceAfter=No
+20	;	;	PUNCT	_	_	19	punct	_	_
+21	—	—	PUNCT	_	_	24	punct	_	SpaceAfter=No
+22	—	—	PUNCT	_	_	24	punct	_	_
+23	справедливая	справедливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	оплата	оплата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	_
+25	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	;	;	PUNCT	_	_	25	punct	_	_
+27	—	—	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	—	—	PUNCT	_	_	29	punct	_	_
+29	повышение	повышение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	conj	_	_
+30	производительности	производительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+31	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+32	;	;	PUNCT	_	_	29	punct	_	_
+33	—	—	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	—	—	PUNCT	_	_	29	conj	_	_
+35	миграционная	миграционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	политика	политика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	nsubj	_	_
+37	в	в	ADP	_	_	40	case	_	_
+38	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	fixed	_	_
+39	иностранных	иностранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+40	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+41	;	;	PUNCT	_	_	40	punct	_	_
+42	—	—	PUNCT	_	_	44	punct	_	SpaceAfter=No
+43	—	—	PUNCT	_	_	44	punct	_	_
+44	автоматизация	автоматизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	40	parataxis	_	_
+45	(	(	PUNCT	_	_	46	punct	_	SpaceAfter=No
+46	роботизация	роботизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	appos	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	46	punct	_	_
+48	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n
+

@@ -1,0 +1,2011 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = – доведение преступления до конца будет предотвращено, так как спровоцированное лицо будет взято на месте преступления.
+1	–	–	PUNCT	_	_	7	punct	_	_
+2	доведение	доведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+3	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	до	до	ADP	_	_	5	case	_	_
+5	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	предотвращено	предотвратить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	так	так	ADV	_	Degree=Pos	14	mark	_	_
+10	как	как	SCONJ	_	_	9	fixed	_	_
+11	спровоцированное	провоцировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	_	_
+13	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+14	взято	брать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	advcl	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+17	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 2
+# text = Такие действия могут быть расценены по правилам добровольного отказа от преступления, что не влечет уголовной ответственности соучастника.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj:pass	_	_
+3	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	aux:pass	_	_
+5	расценены	расценить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	xcomp	_	_
+6	по	по	ADP	_	_	7	case	_	_
+7	правилам	правило	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	obl	_	_
+8	добровольного	добровольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	отказа	отказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	от	от	ADP	_	_	11	case	_	_
+11	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	5	punct	_	_
+13	что	что	PRON	_	Case=Nom	15	nsubj	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+16	уголовной	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+18	соучастника	соучастник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Такие оценки вызывают у нас чувство несправедливости.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	оценки	оценка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	вызывают	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	у	у	ADP	_	_	5	case	_	_
+5	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	3	obl	_	_
+6	чувство	чувство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+7	несправедливости	несправедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# text = Поэтому, на наш взгляд, даже в случае наличия количественного признака соучастия необходимо более основательно рассматривать деятельность каждого из участников готовящегося или совершенного преступления, не ограничиваться формальным чтением закона и посмотреть на деятельность провокатора как на особую преступную роль, имеющую свои внутренние мотивации, цели.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	14	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	даже	даже	PART	_	_	9	advmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+10	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	количественного	количественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	признака	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+15	более	более	ADV	_	Degree=Cmp	16	advmod	_	_
+16	основательно	основательно	ADV	_	Degree=Pos	17	advmod	_	_
+17	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	csubj	_	_
+18	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+19	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	18	det	_	_
+20	из	из	ADP	_	_	21	case	_	_
+21	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+22	готовящегося	готовиться	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	25	acl	_	_
+23	или	или	CCONJ	_	_	24	cc	_	_
+24	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	conj	_	_
+25	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	ограничиваться	ограничиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	17	conj	_	_
+29	формальным	формальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	чтением	чтение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	obl	_	_
+31	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	посмотреть	смотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	conj	_	_
+34	на	на	ADP	_	_	35	case	_	_
+35	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	33	obl	_	_
+36	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	33	obj	_	_
+37	как	как	SCONJ	_	_	41	mark	_	_
+38	на	на	ADP	_	_	41	case	_	_
+39	особую	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+40	преступную	преступный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	acl	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	имеющую	иметь	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	acl	_	_
+44	свои	свой	DET	_	Case=Acc|Number=Plur	46	det	_	_
+45	внутренние	внутренний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	46	amod	_	_
+46	мотивации	мотивация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	43	obj	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	цели	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	46	conj	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 5
+# text = Судебная и следственная практика показывает, что такая особая роль трудно установима, но мы не можем исключать ее теоретическое осмысление, что явилось бы предпосылкой для формулирования более практически применимых положений закона о провокации преступления, чем существующая ст. 304 УК РФ.
+1	Судебная	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	следственная	следственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	conj	_	_
+4	практика	практика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	что	что	SCONJ	_	_	12	mark	_	_
+8	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
+9	особая	особый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+11	трудно	трудный	ADV	_	Degree=Pos	12	obl	_	_
+12	установима	установим	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	ccomp	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	но	но	CCONJ	_	_	17	cc	_	_
+15	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	17	nsubj	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+18	исключать	исключать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	obj	_	_
+20	теоретическое	теоретический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	осмысление	осмысление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	что	что	PRON	_	Case=Nom	24	nsubj	_	_
+24	явилось	явиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	21	acl:relcl	_	_
+25	бы	бы	AUX	_	_	24	aux	_	_
+26	предпосылкой	предпосылкий	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	24	obl	_	_
+27	для	для	ADP	_	_	28	case	_	_
+28	формулирования	формулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	_
+29	более	более	ADV	_	Degree=Cmp	31	obl	_	_
+30	практически	практически	ADV	_	Degree=Pos	31	obl	_	_
+31	применимых	применить	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	_
+32	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	_
+33	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+34	о	о	ADP	_	_	35	case	_	_
+35	провокации	провокация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	nmod	_	_
+36	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	чем	чем	SCONJ	_	_	39	mark	_	_
+39	существующая	существовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	advcl	_	_
+40	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	iobj	_	_
+41	304	304	NUM	_	_	40	nummod	_	_
+42	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
+43	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 6
+# text = Правильная оценка содеянного является важным условием реализации принципа индивидуализации ответственности и наказания.
+1	Правильная	правильный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	оценка	оценка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	содеянного	содеять	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	nmod	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	условием	условие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+7	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	индивидуализации	индивидуализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Из определения соучастия, приведенного в ст. 32 УК РФ, следуют и субъективные признаки соучастия: умышленность совместного участия и совершение умышленного преступления.
+1	Из	из	ADP	_	_	2	case	_	_
+2	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+3	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	приведенного	приведить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	32	32	NUM	_	_	7	nummod	_	_
+10	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+11	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	5	punct	_	_
+13	следуют	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	и	и	PART	_	_	15	advmod	_	_
+15	субъективные	субъективный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	признаки	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+17	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	16	punct	_	_
+19	умышленность	умышленность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	parataxis	_	_
+20	совместного	совместный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	совершение	совершение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	conj	_	_
+24	умышленного	умышленный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	amod	_	_
+25	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 8
+# text = Не вызывает сомнений умышленная направленность действия провокатора и провоцируемого лица.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сомнений	сомнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	obl	_	_
+4	умышленная	умышленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	направленность	направленность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+6	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	провоцируемого	провоцировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Провокатор явно осознает общественную опасность своих действий, предвидит возможность или неизбежность наступления общественно опасных последствий и желает их наступления.
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	явно	явно	ADV	_	Degree=Pos	3	advmod	_	_
+3	осознает	осознавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	общественную	общественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	опасность	опасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	своих	свой	DET	_	Case=Gen|Number=Plur	7	det	_	_
+7	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	предвидит	предвидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	неизбежность	неизбежность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	_	_
+13	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	общественно	общественно	ADV	_	Degree=Pos	15	obl	_	_
+15	опасных	опасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+19	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	20	nmod	_	_
+20	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = Таким образом, с субъективной стороны действия провокатора совершаются с прямым умыслом.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	с	с	ADP	_	_	6	case	_	_
+5	субъективной	субъективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+7	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	совершаются	совершаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	прямым	прямой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 11
+# text = Здесь можно согласиться с С.Н. Радачинским, что одной из характеристик провокации является "наличие у провокатора только прямого умысла, причем этот умысел должен быть направлен не на вид и последствия совершенного вовлеченным преступления, а на сам факт его совершения" .
+1	Здесь	здесь	ADV	_	Degree=Pos	2	advmod	_	_
+2	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+3	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	csubj	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	С.	С.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	Н.	Н.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Радачинским	Радачинский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	что	что	SCONJ	_	_	14	mark	_	_
+10	одной	один	NUM	_	Case=Ins|Gender=Fem	14	nummod	_	_
+11	из	из	ADP	_	_	12	case	_	_
+12	характеристик	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+13	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+17	у	у	ADP	_	_	18	case	_	_
+18	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+19	только	только	PART	_	_	20	advmod	_	_
+20	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	причем	причем	CCONJ	_	_	26	cc	_	_
+24	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	25	det	_	_
+25	умысел	умысло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj:pass	_	_
+26	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	21	conj	_	_
+27	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	aux:pass	_	_
+28	направлен	направить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	26	xcomp	_	_
+29	не	не	PART	_	_	31	advmod	_	_
+30	на	на	ADP	_	_	31	case	_	_
+31	вид	вид	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	31	conj	_	_
+34	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	36	amod	_	_
+35	вовлеченным	вовлечеть	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	36	amod	_	_
+36	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	41	punct	_	_
+38	а	а	CCONJ	_	_	41	cc	_	_
+39	на	на	ADP	_	_	41	case	_	_
+40	сам	сам	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	факт	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	conj	_	_
+42	его	его	DET	_	_	43	det	_	_
+43	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	SpaceAfter=No
+44	"	"	PUNCT	_	_	26	punct	_	_
+45	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 12
+# text = В деятельности подстрекателя, в отличие от провокационной, имеет место направленность стараний подстрекателя на совершение лицом определенного, а не вообще преступления.
+1	В	в	ADP	_	_	2	case	_	_
+2	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+3	подстрекателя	подстрекатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	в	в	ADP	_	_	8	case	_	_
+6	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	fixed	_	_
+7	от	от	ADP	_	_	5	fixed	_	_
+8	провокационной	провокационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	направленность	направленность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+13	стараний	старание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+14	подстрекателя	подстрекатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	совершение	совершение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
+17	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	nmod	_	_
+18	определенного	определенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	а	а	CCONJ	_	_	23	cc	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	вообще	вообще	ADV	_	Degree=Pos	23	obl	_	_
+23	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 13
+# text = Усилия же провокатора направлены на совершение лицом неопределенного преступления.
+1	Усилия	усилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
+4	направлены	направить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	совершение	совершение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+7	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	_
+8	неопределенного	неопределенной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = Конечно, желая успешности своего агентурного плана, провокатор продумывает ход событий и то, каким образом он будет совершать провокацию, к чему склонять и что должно получиться в итоге.
+1	Конечно	конечно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	желая	желать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	_
+4	успешности	успешность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+5	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
+6	агентурного	агентурный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	продумывает	продумывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	ход	ход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	событий	событие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	каким	какой	DET	_	Case=Ins|Gender=Masc|Number=Sing	17	det	_	_
+17	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	_
+18	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
+19	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+20	совершать	совершать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	acl	_	_
+21	провокацию	провокация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	к	к	ADP	_	_	24	case	_	_
+24	чему	что	PRON	_	Case=Dat	25	obl	_	_
+25	склонять	склонять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	conj	_	_
+26	и	и	CCONJ	_	_	28	cc	_	_
+27	что	что	PRON	_	Case=Acc	29	obj	_	_
+28	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	20	conj	_	_
+29	получиться	получиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	28	xcomp	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	итоге	итог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 15
+# text = Тем не менее, думается, что если подстрекатель предлагал бы определённому лицу совершить мошенничество, а в ответ получил бы предложение совершить другое преступление, например нанести тяжкие телесные повреждения обидчику этого лица, то подстрекатель, не имея интереса, отказался бы, так как подстрекателю значим только определённый результат, у него имеется определённая преступная идея, на реализацию которой он и подговаривает склоняемое лицо.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	думается	думаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	43	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	20	punct	_	_
+7	что	что	SCONJ	_	_	20	mark	_	_
+8	если	если	SCONJ	_	_	10	mark	_	_
+9	подстрекатель	подстрекатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	предлагал	предлагать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	_
+11	бы	бы	AUX	_	_	10	aux	_	_
+12	определённому	определенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	iobj	_	_
+14	совершить	совершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+15	мошенничество	мошенничество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	10	punct	_	_
+17	а	а	CCONJ	_	_	20	cc	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
+20	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+21	бы	бы	AUX	_	_	20	aux	_	_
+22	предложение	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	совершить	совершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	obl	_	_
+24	другое	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	например	например	ADV	_	Degree=Pos	28	advmod	_	_
+28	нанести	нанести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	conj	_	_
+29	тяжкие	тяжкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+30	телесные	телесный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	28	obj	_	_
+32	обидчику	обидчик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	_
+33	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	34	det	_	_
+34	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	5	punct	_	_
+36	то	то	SCONJ	_	_	43	mark	_	_
+37	подстрекатель	подстрекатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	43	nsubj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	не	не	PART	_	_	40	advmod	_	_
+40	имея	иметь	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	43	advcl	_	_
+41	интереса	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	obl	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	40	punct	_	_
+43	отказался	отказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+44	бы	бы	AUX	_	_	43	aux	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	49	punct	_	_
+46	так	так	ADV	_	Degree=Pos	49	mark	_	_
+47	как	как	SCONJ	_	_	46	fixed	_	_
+48	подстрекателю	подстрекатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	49	iobj	_	_
+49	значим	значить	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	43	advcl	_	_
+50	только	только	PART	_	_	51	advmod	_	_
+51	определённый	определённый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+52	результат	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	49	nsubj	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	56	punct	_	_
+54	у	у	ADP	_	_	55	case	_	_
+55	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	56	obl	_	_
+56	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	52	acl:relcl	_	_
+57	определённая	определёть	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	59	amod	_	_
+58	преступная	преступный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	59	amod	_	_
+59	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	56	nsubj	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	66	punct	_	_
+61	на	на	ADP	_	_	62	case	_	_
+62	реализацию	реализация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	66	obl	_	_
+63	которой	который	PRON	_	Case=Gen	62	nmod	_	_
+64	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	66	nsubj	_	_
+65	и	и	PART	_	_	66	advmod	_	_
+66	подговаривает	подговаривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	59	acl:relcl	_	_
+67	склоняемое	склоняемый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	68	amod	_	_
+68	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	66	obj	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	43	punct	_	_
+
+# sent_id = 16
+# text = Провокатор же в такой ситуации, скорее всего, поддержал бы смену настроения провоцируемого им
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	5	det	_	_
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	скорее	скорее	ADV	_	Degree=Pos	10	parataxis	_	_
+8	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	поддержал	поддержать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	бы	бы	AUX	_	_	10	aux	_	_
+12	смену	смена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+13	настроения	настроение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	провоцируемого	провоцировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	13	nmod	_	_
+15	им	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	10	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = лица, взяв время на более детальное обдумывание плана преступления и своих действий по последующему изобличению лица.
+1	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	взяв	брать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	1	acl	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	на	на	ADP	_	_	8	case	_	_
+6	более	более	ADV	_	Degree=Cmp	7	obl	_	_
+7	детальное	детальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	обдумывание	обдумывание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+9	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	своих	свой	DET	_	Case=Gen|Number=Plur	13	det	_	_
+13	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	conj	_	_
+14	по	по	ADP	_	_	16	case	_	_
+15	последующему	последующий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	изобличению	изобличение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	_
+17	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Иными словами, и у подстрекателя, и у провокатора имеется умышленная форма вины, однако предметное содержание умысла у них разное.
+1	Иными	иной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	у	у	ADP	_	_	6	case	_	_
+6	подстрекателя	подстрекатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	у	у	ADP	_	_	10	case	_	_
+10	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+11	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	_
+12	умышленная	умышленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	форма	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+14	вины	вина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	однако	однако	ADV	_	Degree=Pos	22	obl	_	_
+17	предметное	предметный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	содержание	содержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+19	умысла	умысти	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	у	у	ADP	_	_	21	case	_	_
+21	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	22	obl	_	_
+22	разное	разный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Еще одной отличительной особенностью психического отношения провокатора к совершаемому деянию является первостепенная значимость для него не факта совершения спровоцированным лицом преступления, а возможность последующего раскрытия этого преступления правоохранительными органами и реальная возможность привлечения спровоцированного лица к уголовной ответственности. А.А. Пионтковский писал, что провокатор "руководствуется не стремлением в своей деятельности причинить вред объекту, на который направлено действие исполнителя, а стремлением изобличить преступника и передать его в руки государственной власти" , тем самым проводя отличие от подстрекательства.
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	_
+2	одной	один	NUM	_	Case=Ins|Gender=Fem	4	nummod	_	_
+3	отличительной	отличительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	особенностью	особенность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	_
+5	психического	психический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	к	к	ADP	_	_	10	case	_	_
+9	совершаемому	совершаемый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	деянию	деяние	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+11	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	44	xcomp	_	_
+12	первостепенная	первостепенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	значимость	значимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	nsubj	_	_
+14	для	для	ADP	_	_	15	case	_	_
+15	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	факта	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	obl	_	_
+18	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	спровоцированным	провоцировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+20	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+21	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	44	punct	_	_
+23	а	а	CCONJ	_	_	44	cc	_	_
+24	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	nsubj	_	_
+25	последующего	последующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	раскрытия	раскрытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	obl	_	_
+27	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	28	det	_	_
+28	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	правоохранительными	правоохранительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	amod	_	_
+30	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	44	obl	_	_
+31	и	и	CCONJ	_	_	33	cc	_	_
+32	реальная	реальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	conj	_	_
+34	привлечения	привлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+35	спровоцированного	спровоцированный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	36	amod	_	_
+36	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+37	к	к	ADP	_	_	39	case	_	_
+38	уголовной	уголовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	30	punct	_	_
+41	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	SpaceAfter=No
+42	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	flat:name	_	_
+43	Пионтковский	Пионтковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	flat:name	_	_
+44	писал	писать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	49	punct	_	_
+46	что	что	SCONJ	_	_	49	mark	_	_
+47	провокатор	провокатор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	49	nsubj	_	_
+48	"	"	PUNCT	_	_	49	punct	_	SpaceAfter=No
+49	руководствуется	руководствоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	44	ccomp	_	_
+50	не	не	PART	_	_	51	advmod	_	_
+51	стремлением	стремление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	55	obl	_	_
+52	в	в	ADP	_	_	54	case	_	_
+53	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	54	det	_	_
+54	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	51	nmod	_	_
+55	причинить	причинить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	49	xcomp	_	_
+56	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	55	obj	_	_
+57	объекту	объект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	55	iobj	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	61	punct	_	_
+59	на	на	ADP	_	_	60	case	_	_
+60	который	который	PRON	_	Case=Acc	61	obl	_	_
+61	направлено	направить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	57	acl:relcl	_	_
+62	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	61	nsubj:pass	_	_
+63	исполнителя	исполнитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	62	nmod	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	67	punct	_	_
+65	а	а	CCONJ	_	_	67	cc	_	_
+66	стремлением	стремление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	67	obl	_	_
+67	изобличить	изобличить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	61	conj	_	_
+68	преступника	преступник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	67	obj	_	_
+69	и	и	CCONJ	_	_	70	cc	_	_
+70	передать	передать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	61	conj	_	_
+71	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	70	obj	_	_
+72	в	в	ADP	_	_	73	case	_	_
+73	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	70	obl	_	_
+74	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	75	amod	_	_
+75	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	73	nmod	_	SpaceAfter=No
+76	"	"	PUNCT	_	_	49	punct	_	_
+77	,	,	PUNCT	_	_	80	punct	_	_
+78	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	80	obl	_	_
+79	самым	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	78	amod	_	_
+80	проводя	проводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	55	advcl	_	_
+81	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	80	obj	_	_
+82	от	от	ADP	_	_	83	case	_	_
+83	подстрекательства	подстрекательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	81	nmod	_	SpaceAfter=No
+84	.	.	PUNCT	_	_	44	punct	_	_
+
+# sent_id = 20
+# text = Конечной целью провокатора является извлечение личной выгоды, т.е. провокатор желает не столько наступления определенных преступных последствий, на которые он провоцирует, сколько того, чтобы противоправное поведение спровоцированного сыграло провокатору "на руку".
+1	Конечной	конечный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+3	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	извлечение	извлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	личной	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	выгоды	выгода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	т.е.	т.е.	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+10	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	столько	столько	ADV	_	Degree=Pos	11	advmod	_	_
+14	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+15	определенных	определить	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+16	преступных	преступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	которые	который	PRON	_	Case=Acc	22	obl	_	_
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	nsubj	_	_
+22	провоцирует	провоцировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	сколько	сколько	NUM	_	_	25	mark	_	_
+25	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	advcl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	31	punct	_	_
+27	чтобы	чтобы	SCONJ	_	Mood=Cnd	31	mark	_	_
+28	противоправное	противоправный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	поведение	поведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
+30	спровоцированного	провоцировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	nmod	_	_
+31	сыграло	сыграть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	acl	_	_
+32	провокатору	провокатор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	31	iobj	_	_
+33	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+34	на	на	ADP	_	_	35	case	_	_
+35	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obl	_	SpaceAfter=No
+36	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 21
+# text = Совершенное спровоцированным преступление является для провокатора средством достижения его действительных целей – наступления для спровоцированного неблагоприятных последствий в виде уголовного преследования и осуждения.
+1	Совершенное	совершенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	спровоцированным	провоцировать	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+7	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+8	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	его	его	DET	_	_	11	det	_	_
+10	действительных	действительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+12	–	–	PUNCT	_	_	13	punct	_	_
+13	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	для	для	ADP	_	_	17	case	_	_
+15	спровоцированного	спровоцированный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+16	неблагоприятных	неблагоприятный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+18	в	в	ADP	_	_	21	case	_	_
+19	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	fixed	_	_
+20	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	преследования	преследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	осуждения	осуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 22
+# text = Выгодность преступной ошибки спровоцированного может быть необходима провокатору из личной неприязни к человеку, когда, например, провокатор таким способом желает отомстить своему обидчику, или в целях дальнейшего шантажа для достижения реализации любых других своих намерений под предлогом неразглашения того, что провокатору теперь известно, либо как средство в своем стремлении карьеры, повышений, попустительства.
+1	Выгодность	Выгодность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	преступной	преступный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	ошибки	ошибка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	спровоцированного	провоцировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	_
+7	необходима	необходимый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	obl	_	_
+8	провокатору	провокатор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+9	из	из	ADP	_	_	11	case	_	_
+10	личной	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	неприязни	неприязнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	человеку	человек	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	22	punct	_	_
+15	когда	когда	SCONJ	_	_	22	mark	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	например	например	ADV	_	Degree=Pos	22	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+20	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	21	det	_	_
+21	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	obl	_	_
+22	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	_
+23	отомстить	отомстить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	xcomp	_	_
+24	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	25	det	_	_
+25	обидчику	обидчик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	или	или	CCONJ	_	_	29	cc	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	25	conj	_	_
+30	дальнейшего	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	шантажа	шантаж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+32	для	для	ADP	_	_	33	case	_	_
+33	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+34	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+35	любых	любой	DET	_	Case=Gen|Number=Plur	36	det	_	_
+36	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	_
+37	своих	свой	DET	_	Case=Gen|Number=Plur	38	det	_	_
+38	намерений	намерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+39	под	под	ADP	_	_	40	case	_	_
+40	предлогом	предлог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	34	nmod	_	_
+41	неразглашения	неразглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	_
+42	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	47	punct	_	_
+44	что	что	SCONJ	_	_	47	mark	_	_
+45	провокатору	провокатор	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	47	iobj	_	_
+46	теперь	теперь	ADV	_	Degree=Pos	47	advmod	_	_
+47	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	42	acl	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	51	punct	_	_
+49	либо	либо	CCONJ	_	_	51	cc	_	_
+50	как	как	SCONJ	_	_	51	mark	_	_
+51	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	conj	_	_
+52	в	в	ADP	_	_	54	case	_	_
+53	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	54	det	_	_
+54	стремлении	стремление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	51	nmod	_	_
+55	карьеры	карьера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	51	nmod	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	57	punct	_	_
+57	повышений	повышение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	55	conj	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	59	punct	_	_
+59	попустительства	попустительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	conj	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 23
+# text = Не исключена и цель обогащения, когда провокатор за уничтожение имеющихся у него улик и доказательств совершенного спровоцированным лицом преступления требует от последнего денежного вознаграждения.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	исключена	исключить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+5	обогащения	обогащение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	21	punct	_	_
+7	когда	когда	SCONJ	_	_	21	mark	_	_
+8	провокатор	провокатор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+9	за	за	ADP	_	_	10	case	_	_
+10	уничтожение	уничтожение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	_
+11	имеющихся	иметься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	14	acl	_	_
+12	у	у	ADP	_	_	13	case	_	_
+13	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	obl	_	_
+14	улик	улика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	доказательств	доказательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	conj	_	_
+17	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+18	спровоцированным	провоцировать	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	_
+20	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+21	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+22	от	от	ADP	_	_	25	case	_	_
+23	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+24	денежного	денежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	вознаграждения	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = Спровоцированное лицо также действует умышленно.
+1	Спровоцированное	Спровоцированный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	также	также	ADV	_	Degree=Pos	4	advmod	_	_
+4	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	умышленно	умышленно	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25
+# text = Его деяние может совершаться и с косвенным умыслом.
+1	Его	его	DET	_	_	2	det	_	_
+2	деяние	деяние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	совершаться	совершать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	3	xcomp	_	_
+5	и	и	CCONJ	_	_	8	cc	_	_
+6	с	с	ADP	_	_	8	case	_	_
+7	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 26
+# text = Однако он не подозревает о совершенной в отношении него провокации и не мыслит о совершении совместного с провокатором преступления.
+1	Однако	однако	ADV	_	Degree=Pos	4	advmod	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	подозревает	подозревать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	о	о	ADP	_	_	10	case	_	_
+6	совершенной	совершенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
+10	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	мыслит	мыслить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+14	о	о	ADP	_	_	15	case	_	_
+15	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+16	совместного	совместный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	nmod	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	провокатором	провокатор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	nmod	_	_
+19	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 27
+# text = Умысел провокатора и спровоцированного отличаются от умышленной деятельности соучастников, которые желают наступления единого преступного результата.
+1	Умысел	Умысесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+2	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	спровоцированного	провоцировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+5	отличаются	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	от	от	ADP	_	_	8	case	_	_
+7	умышленной	умышленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+9	соучастников	соучастник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	которые	который	PRON	_	Case=Nom	12	nsubj	_	_
+12	желают	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+13	наступления	наступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
+14	единого	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	преступного	преступный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	результата	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 28
+# text = Таким образом, провокатор не имеет умысла на совершение провоцируемого преступления, он не желает его совершить.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	совершение	совершение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
+10	провоцируемого	провоцировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nsubj	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+16	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obj	_	_
+17	совершить	совершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 29
+# text = Провокатор считает себя безучастным.
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	себя	себя	PRON	_	Case=Acc	2	obj	_	_
+4	безучастным	безучастный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Ему свойственно безразличное отношение к совершению определенного преступления провоцируемым лицом.
+1	Ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	iobj	_	_
+2	свойственно	свойственный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	безразличное	безразличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	отношение	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	совершению	совершение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+7	определенного	определенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	провоцируемым	провоцируть	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 31
+# text = В противном случае, если провокатор желает, чтобы было совершено именно определенное преступление, так как в наступлении преступного
+1	В	в	ADP	_	_	19	cc	_	_
+2	противном	противный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	1	fixed	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	если	если	SCONJ	_	_	7	mark	_	_
+6	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	_
+10	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+11	совершено	совершить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	ccomp	_	_
+12	именно	именно	PART	_	_	14	advmod	_	_
+13	определенное	определенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	7	punct	_	_
+16	так	так	ADV	_	Degree=Pos	19	mark	_	_
+17	как	как	SCONJ	_	_	16	fixed	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	наступлении	наступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+20	преступного	преступный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = результата кроются и интересы провокатора (корыстные, мести), то в таком случае мы могли бы говорить о соучастии.
+1	результата	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+2	кроются	кроться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	advcl	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	интересы	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+5	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	корыстные	корыстный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	мести	месть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	то	то	SCONJ	_	_	17	mark	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	15	det	_	_
+15	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	_
+16	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	17	nsubj	_	_
+17	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	бы	бы	AUX	_	_	17	aux	_	_
+19	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+20	о	о	ADP	_	_	21	case	_	_
+21	соучастии	соучастие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 33
+# text = В последнем случае желание провокатора преступных последствий довлеет над умыслом коварного плана, который в таком случае не должен получать юридической оценки провокации преступления, а как запасной выход в стремлении соучастника избежать уголовной ответственности и показать себя в выгодном свете перед сотрудниками правоохранительных органов.
+1	В	в	ADP	_	_	3	case	_	_
+2	последнем	последний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+4	желание	желание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+5	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	преступных	преступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+8	довлеет	довлеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	над	над	ADP	_	_	10	case	_	_
+10	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+11	коварного	коварный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	который	который	PRON	_	Case=Nom	19	nsubj	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	17	det	_	_
+17	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	acl:relcl	_	_
+20	получать	получать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+23	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	33	punct	_	_
+26	а	а	CCONJ	_	_	33	cc	_	_
+27	как	как	SCONJ	_	_	29	mark	_	_
+28	запасной	запасной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	выход	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	obl	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	стремлении	стремление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	nmod	_	_
+32	соучастника	соучастник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	избежать	избегнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
+34	уголовной	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	obl	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	показать	показать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
+38	себя	себя	PRON	_	Case=Acc	37	obj	_	_
+39	в	в	ADP	_	_	41	case	_	_
+40	выгодном	выгодный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	37	obl	_	_
+42	перед	перед	ADP	_	_	43	case	_	_
+43	сотрудниками	сотрудник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	41	nmod	_	_
+44	правоохранительных	правоохранительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	45	amod	_	_
+45	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	43	nmod	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 34
+# text = Безусловно, преследование соучастниками различных целей при совершении преступления может и не исключать соучастия.
+1	Безусловно	безусловно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	преследование	преследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+4	соучастниками	соучастник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	_
+5	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+9	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	и	и	PART	_	_	13	advmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	исключать	исключать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+14	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 35
+# text = Например, когда, совершая заказное убийство, один участник (заказчик) желает получить наследство, а второй (киллер) – гонорар.
+1	Например	например	ADV	_	Degree=Pos	24	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	когда	когда	SCONJ	_	_	14	mark	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	совершая	совершать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	_
+6	заказное	заказный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	убийство	убийство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	один	один	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	участник	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	заказчик	заказчик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
+14	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	наследство	наследство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	14	punct	_	_
+18	а	а	CCONJ	_	_	24	cc	_	_
+19	второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+20	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	киллер	киллер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	parataxis	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	21	punct	_	_
+23	–	–	PUNCT	_	_	19	punct	_	_
+24	гонорар	гонорар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 36
+# text = Однако в случае с провокацией речь идет о принципиально разном отношении участников к совершаемому преступлению.
+1	Однако	однако	ADV	_	Degree=Pos	7	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	провокацией	провокация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+6	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	о	о	ADP	_	_	11	case	_	_
+9	принципиально	принципиально	ADV	_	Degree=Pos	10	obl	_	_
+10	разном	разный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+12	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+13	к	к	ADP	_	_	15	case	_	_
+14	совершаемому	совершаемый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	преступлению	преступление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = Если в соучастии подстрекатель, пособник или организатор действуют с исполнителем заодно, сообща, то провокатор стремится не иметь прикосновенности к действиям спровоцированного, добиваясь непричастности и позиционируя себя не как преступник (соучастник), а наоборот, как разоблачитель преступников.
+1	Если	если	SCONJ	_	_	9	mark	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	соучастии	соучастие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+4	подстрекатель	подстрекатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	пособник	пособник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+7	или	или	CCONJ	_	_	8	cc	_	_
+8	организатор	организатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+9	действуют	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	исполнителем	исполнитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+12	заодно	заодно	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	9	punct	_	_
+14	сообща	сообща	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	9	punct	_	_
+16	то	то	SCONJ	_	_	18	mark	_	_
+17	провокатор	провокатор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+21	прикосновенности	прикосновенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+22	к	к	ADP	_	_	23	case	_	_
+23	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	21	nmod	_	_
+24	спровоцированного	спровоцированный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	добиваясь	добиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	20	advcl	_	_
+27	непричастности	непричастность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	26	obj	_	_
+28	и	и	CCONJ	_	_	29	cc	_	_
+29	позиционируя	позиционировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	26	conj	_	_
+30	себя	себя	PRON	_	Case=Acc	29	obj	_	_
+31	не	не	PART	_	_	33	advmod	_	_
+32	как	как	SCONJ	_	_	33	mark	_	_
+33	преступник	преступник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	29	obl	_	_
+34	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+35	соучастник	соучастник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	33	parataxis	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	35	punct	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	а	а	CCONJ	_	_	39	cc	_	_
+39	наоборот	наоборот	ADV	_	Degree=Pos	26	conj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	42	punct	_	_
+41	как	как	SCONJ	_	_	42	mark	_	_
+42	разоблачитель	разоблачитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	39	advcl	_	_
+43	преступников	преступник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 38
+# text = Провокатор действует тайно не только в отношении всех других лиц, но и самого провоцируемого лица.
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	тайно	тайно	ADV	_	Degree=Pos	2	advmod	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	только	только	PART	_	_	10	advmod	_	_
+6	в	в	ADP	_	_	10	case	_	_
+7	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	всех	весь	DET	_	Case=Gen|Number=Plur	10	det	_	_
+9	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	3	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	но	но	CCONJ	_	_	16	cc	_	_
+13	и	и	PART	_	_	12	advmod	_	_
+14	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	провоцируемого	провоцировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = Если соучастники действуют совместно, желают совершить преступление вместе, то действия провокатора представляют собой скрытую одностороннюю деятельность, направленную не на совершение совместного преступления, а на наступление для спровоцированного лица неблагоприятных последствий.
+1	Если	если	SCONJ	_	_	3	mark	_	_
+2	соучастники	соучастник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	действуют	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+4	совместно	совместно	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	желают	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	совершить	совершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+9	вместе	вместе	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	то	то	SCONJ	_	_	14	mark	_	_
+12	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	_
+13	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	представляют	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+15	собой	себя	PRON	_	Case=Ins	14	fixed	_	_
+16	скрытую	скрытовать	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	одностороннюю	односторонний	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	направленную	направить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	_
+21	не	не	PART	_	_	23	advmod	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	совершение	совершение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
+24	совместного	совместный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	а	а	CCONJ	_	_	29	cc	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	наступление	наступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	conj	_	_
+30	для	для	ADP	_	_	32	case	_	_
+31	спровоцированного	спровоцированный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	amod	_	_
+32	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+33	неблагоприятных	неблагоприятный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 40
+# text = Отметим также, что подстрекательство предполагает использование явного способа воздействия на волю и сознание склоняемого лица.
+1	Отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	также	также	ADV	_	Degree=Pos	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	что	что	SCONJ	_	_	6	mark	_	_
+5	подстрекательство	подстрекательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+7	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+8	явного	явный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	способа	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	волю	воля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	сознание	сознание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	conj	_	_
+15	склоняемого	склоняемый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 41
+# text = Так, в ч. 3 ст. 33 УК РФ отмечается, что подстрекателем признается лицо, склонившее другое лицо к совершению преступления путем уговора, подкупа, угрозы или другим способом.
+1	Так	так	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	ч	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+6	3	3	NUM	_	_	7	nummod	_	_
+7	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	33	33	NUM	_	_	7	nummod	_	_
+10	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+11	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	что	что	SCONJ	_	_	16	mark	_	_
+15	подстрекателем	подстрекатель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+16	признается	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	ccomp	_	_
+17	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj:pass	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	склонившее	склонить	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+20	другое	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	conj	_	_
+22	к	к	ADP	_	_	23	case	_	_
+23	совершению	совершение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	nmod	_	_
+24	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	путем	путем	ADP	_	_	26	case	_	_
+26	уговора	уговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	подкупа	подкуп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	conj	_	_
+31	или	или	CCONJ	_	_	33	cc	_	_
+32	другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	conj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 42
+# text = При совершении провокации действия провокатора носят скрытый характер.
+1	При	при	ADP	_	_	2	case	_	_
+2	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	носят	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	скрытый	скрыть	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 43
+# text = Провокатор предпринимает все усилия для того, чтобы провоцируемое лицо не догадалось о совершаемой в отношении него провокации, а значит, и вообще о том, что совершается какое-либо преступление.
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	предпринимает	предпринимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	все	весь	DET	_	Case=Acc|Number=Plur	4	det	_	_
+4	усилия	усилие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	_
+9	провоцируемое	провоцируеть	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	догадалось	догадать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl	_	_
+13	о	о	ADP	_	_	18	case	_	_
+14	совершаемой	совершать	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	fixed	_	_
+17	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	14	obl	_	_
+18	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	26	punct	_	_
+20	а	а	CCONJ	_	_	26	cc	_	_
+21	значит	значит	ADV	_	Degree=Pos	26	discourse	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	и	и	PART	_	_	26	advmod	_	_
+24	вообще	вообще	ADV	_	Degree=Pos	26	obl	_	_
+25	о	о	ADP	_	_	26	case	_	_
+26	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	что	что	SCONJ	_	_	29	mark	_	_
+29	совершается	совершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	26	acl	_	_
+30	какое-либо	какой-либо	DET	_	Case=Nom|Gender=Neut|Number=Sing	31	det	_	_
+31	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj:pass	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 44
+# text = Провокатор действует тайно, поэтому его попытки склонить к преступлению, как правило, не осознаваемы другим лицом и могут быть не заметны даже внешне ввиду воздействия провокатора не на склоняемое лицо, а на окружающую обстановку.
+1	Провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	тайно	тайно	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	поэтому	поэтому	ADV	_	Degree=Pos	7	advmod	_	_
+6	его	его	DET	_	_	7	det	_	_
+7	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+8	склонить	склонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	obl	_	_
+9	к	к	ADP	_	_	10	case	_	_
+10	преступлению	преступление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	как	как	SCONJ	_	_	13	mark	_	_
+13	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	осознаваемы	осознавать	VERB	_	Aspect=Imp|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	7	acl	_	_
+17	другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+21	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	cop	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	заметны	заметный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	20	obl	_	_
+24	даже	даже	PART	_	_	25	advmod	_	_
+25	внешне	внешне	ADV	_	Degree=Pos	23	advmod	_	_
+26	ввиду	ввиду	ADP	_	_	27	case	_	_
+27	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+28	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	_
+29	не	не	PART	_	_	32	advmod	_	_
+30	на	на	ADP	_	_	32	case	_	_
+31	склоняемое	склоняемый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	а	а	CCONJ	_	_	37	cc	_	_
+35	на	на	ADP	_	_	37	case	_	_
+36	окружающую	окружать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	37	amod	_	_
+37	обстановку	обстановка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	conj	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 45
+# text = Еще одно отличие провокации от соучастия – это спорная возможность установления при провокации преступления признака осведомленности всех участвующих лиц о совместном совершении преступления.
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	_
+2	одно	один	NUM	_	Case=Nom|Gender=Neut	3	nummod:gov	_	_
+3	отличие	отличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+4	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+7	–	–	PUNCT	_	_	3	punct	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+9	спорная	спорный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+11	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	при	при	ADP	_	_	13	case	_	_
+13	провокации	провокация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
+14	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	признака	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	осведомленности	осведомленность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	всех	весь	DET	_	Case=Gen|Number=Plur	19	det	_	_
+18	участвующих	участвовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	19	amod	_	_
+19	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+20	о	о	ADP	_	_	22	case	_	_
+21	совместном	совместный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+23	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 46
+# text = Деятельность провокатора, по сути, – предательство, что не предполагает открытости провокационных попыток склонить другое лицо к совершению преступления.
+1	Деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	провокатора	провокатор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	–	–	PUNCT	_	_	5	punct	_	_
+8	предательство	предательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	что	что	SCONJ	_	_	12	mark	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
+13	открытости	открытость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	iobj	_	_
+14	провокационных	провокационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	попыток	попытка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	склонить	склонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+17	другое	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	совершению	совершение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	obl	_	_
+21	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 47
+# text = Наоборот, как любой агент-предатель, провокатор стремится реализовать свою ловушку, как уже говорилось, без осведомленности провоцируемого лица о том, что будет совершено преступление.
+1	Наоборот	наоборот	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	5	mark	_	_
+4	любой	любой	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	_
+5	агент	агент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	предатель	предатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	acl:relcl	_	_
+11	реализовать	реализовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	13	det	_	_
+13	ловушку	ловушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	20	punct	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	уже	уже	ADV	_	Degree=Pos	17	advmod	_	_
+17	говорилось	говорить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	20	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	без	без	ADP	_	_	20	case	_	_
+20	осведомленности	осведомленность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	conj	_	_
+21	провоцируемого	провоцировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	о	о	ADP	_	_	24	case	_	_
+24	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	что	что	SCONJ	_	_	28	mark	_	_
+27	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	aux:pass	_	_
+28	совершено	совершить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	24	acl	_	_
+29	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj:pass	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 48
+# text = Даже если провокатор и провоцируемый хорошо знакомы, 155
+1	Даже	даже	PART	_	_	7	advmod	_	_
+2	если	если	SCONJ	_	_	7	mark	_	_
+3	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	провоцируемый	провоцируеть	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	conj	_	_
+6	хорошо	хорошо	ADV	_	Degree=Pos	7	advmod	_	_
+7	знакомы	знаком	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	155	155	NUM	_	_	7	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = то доверительные отношения используются не для сговора, а для облегчения провокации: назначение встречи, использование знания обстановки рабочего кабинета провоцируемого лица, времени присутствия и отсутствия дома либо на работе.
+1	то	то	SCONJ	_	_	4	mark	_	_
+2	доверительные	доверительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+4	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	не	не	PART	_	_	7	advmod	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	сговора	сговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	а	а	CCONJ	_	_	11	cc	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	облегчения	облегчение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	_
+12	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+14	назначение	назначение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	parataxis	_	_
+15	встречи	встреча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	conj	_	_
+18	знания	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	рабочего	рабочий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	кабинета	кабинет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+22	провоцируемого	провоцировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	_
+26	присутствия	присутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	conj	_	_
+29	дома	дома	ADV	_	Degree=Pos	28	advmod	_	_
+30	либо	либо	CCONJ	_	_	32	cc	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 50
+# text = Резюмируя наши соображения о провокации, соучастии, их сходствах и отличиях, можно сказать о главенстве различия в субъективной составляющей этих двух явлений.
+1	Резюмируя	Резюмировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	14	advcl	_	_
+2	наши	наш	DET	_	Case=Acc|Number=Plur	3	det	_	_
+3	соображения	соображение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	провокации	провокация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	соучастии	соучастие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	их	их	DET	_	_	10	det	_	_
+10	сходствах	сходство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	отличиях	отличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+15	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	csubj	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	главенстве	главенство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+18	различия	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	субъективной	субъективный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	составляющей	составляющая	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	_
+22	этих	этот	DET	_	Case=Gen|Number=Plur	23	det	_	_
+23	двух	два	NUM	_	Case=Gen	24	nummod	_	_
+24	явлений	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 51
+# text = При провокации преступления отсутствует внутренняя согласованность действий провокатора и провоцируемого, поэтому мы не можем их назвать соучастниками преступления, которое совершается в результате провокации, а значит, деяние каждого из них образует самостоятельный состав преступления.
+1	При	при	ADP	_	_	2	case	_	_
+2	провокации	провокация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+3	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	внутренняя	внутренний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	согласованность	согласованность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	провоцируемого	провоцировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	поэтому	поэтому	ADV	_	Degree=Pos	15	advmod	_	_
+13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	15	nsubj	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	17	obl	_	_
+17	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+18	соучастниками	соучастник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+19	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	которое	который	PRON	_	Case=Nom	22	nsubj	_	_
+22	совершается	совершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	acl:relcl	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	_
+25	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	34	punct	_	_
+27	а	а	CCONJ	_	_	34	cc	_	_
+28	значит	значит	ADV	_	Degree=Pos	34	discourse	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	34	punct	_	_
+30	деяние	деяние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	_
+31	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	30	det	_	_
+32	из	из	ADP	_	_	33	case	_	_
+33	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	31	nmod	_	_
+34	образует	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+35	самостоятельный	самостоятельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	_
+37	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Представляется, что роль провокатора отличается от роли каждого из соучастников более широким кругом совершаемых действий.
+1	Представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	что	что	SCONJ	_	_	6	mark	_	_
+4	роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	отличается	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	ccomp	_	_
+7	от	от	ADP	_	_	8	case	_	_
+8	роли	роль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+9	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	16	det	_	_
+10	из	из	ADP	_	_	11	case	_	_
+11	соучастников	соучастник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	более	более	ADV	_	Degree=Cmp	13	obl	_	_
+13	широким	широкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+14	кругом	кругом	ADV	_	Degree=Pos	15	advmod	_	_
+15	совершаемых	совершать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	16	acl	_	_
+16	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 53
+# text = Роль провокатора значительнее, чем роль одного лишь, например, подстрекателя.
+1	Роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	значительнее	значительный	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	чем	чем	SCONJ	_	_	6	mark	_	_
+6	роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	advcl	_	_
+7	одного	один	DET	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	det	_	_
+8	лишь	лишь	PART	_	_	12	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	например	например	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	подстрекателя	подстрекатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 54
+# text = Провокатор является и подстрекателем, и пособником, и организатором.
+1	Провокатор	провокатор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	подстрекателем	подстрекатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	пособником	пособник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	организатором	организатор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 55
+# text = Вся его провокационная деятельность направлена на то, чтобы и склонить, и
+1	Вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+2	его	его	DET	_	_	4	det	_	_
+3	провокационная	провокационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+5	направлена	направить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	_
+10	и	и	PART	_	_	11	advmod	_	_
+11	склонить	склонить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	и	и	CCONJ	_	_	5	cc	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = посодействовать, и организовать, т.е. на то, чтобы было за что наказать спровоцированное лицо, а для этого необходимо событие преступления.
+1	посодействовать	содействовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	т.е.	т.быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	11	mark	_	_
+11	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	_
+12	за	за	ADP	_	_	13	case	_	_
+13	что	что	PRON	_	Case=Acc	14	obl	_	_
+14	наказать	наказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	csubj	_	_
+15	спровоцированное	провоцировать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	а	а	CCONJ	_	_	21	cc	_	_
+19	для	для	ADP	_	_	20	case	_	_
+20	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	_
+21	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	conj	_	_
+22	событие	событие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+23	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = Мы считаем, что провокатор не является соучастником преступления, совершенного в результате его же провокации, что, тем не менее, не исключает общественной опасности его деяния, требующей уголовно-правовой оценки, но отличной от юридической оценки соучастия.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	считаем	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	что	что	SCONJ	_	_	7	mark	_	_
+5	провокатор	провокатор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	ccomp	_	_
+8	соучастником	соучастник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+9	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+14	его	его	DET	_	_	16	det	_	_
+15	же	же	PART	_	_	14	advmod	_	_
+16	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	что	что	PRON	_	Case=Nom	25	nsubj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	discourse	_	_
+21	не	не	PART	_	Polarity=Neg	20	fixed	_	_
+22	менее	менее	ADV	_	Degree=Cmp	20	fixed	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	20	punct	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	исключает	исключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+26	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	опасности	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	_
+28	его	его	DET	_	_	29	det	_	_
+29	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	требующей	требовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	_
+32	уголовно	уголовный	ADJ	_	Degree=Pos	34	compound	_	SpaceAfter=No
+33	-	-	PUNCT	_	_	32	punct	_	SpaceAfter=No
+34	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	iobj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	38	punct	_	_
+37	но	но	CCONJ	_	_	38	cc	_	_
+38	отличной	отличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	conj	_	_
+39	от	от	ADP	_	_	41	case	_	_
+40	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	obl	_	_
+42	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Так как следствием провокации является не только совершение преступления спровоцированным, но и привлечение его к уголовной ответственности (цель провокации – ее конструктивный признак), мы можем говорить о повышенной общественной опасности роли провокатора по сравнению с соучастниками.
+1	Так	так	ADV	_	Degree=Pos	5	mark	_	_
+2	как	как	SCONJ	_	_	1	fixed	_	_
+3	следствием	следствие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+4	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	29	advcl	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	только	только	PART	_	_	8	advmod	_	_
+8	совершение	совершение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+9	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	спровоцированным	провоцировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	но	но	CCONJ	_	_	14	cc	_	_
+13	и	и	PART	_	_	12	advmod	_	_
+14	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+15	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
+16	к	к	ADP	_	_	18	case	_	_
+17	уголовной	уголовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	nmod	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	parataxis	_	_
+21	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	–	–	PUNCT	_	_	25	punct	_	_
+23	ее	ее	DET	_	_	25	det	_	_
+24	конструктивный	конструктивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	признак	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	10	punct	_	_
+28	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	29	nsubj	_	_
+29	можем	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+30	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+31	о	о	ADP	_	_	34	case	_	_
+32	повышенной	повышенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+33	общественной	общественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	опасности	опасность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	obl	_	_
+35	роли	роль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+36	провокатора	провокатор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	35	appos	_	_
+37	по	по	ADP	_	_	40	case	_	_
+38	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	37	fixed	_	_
+39	с	с	ADP	_	_	37	fixed	_	_
+40	соучастниками	соучастник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	35	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = 59
+# text = Учитывая это, а также практическую неприменимость действующей ст. 304 УК РФ, законодатель мог бы переосмыслить свой подход к регулированию явления провокации преступления, предусмотрев провокацию преступления в качестве самостоятельного состава преступления.
+1	Учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	15	advcl	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	а	а	CCONJ	_	_	7	cc	_	_
+5	также	также	PART	_	_	4	fixed	_	_
+6	практическую	практический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	неприменимость	неприменимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
+8	действующей	действовать	VERB	_	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	_
+9	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	iobj	_	_
+10	304	304	NUM	_	_	11	nummod	_	_
+11	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+12	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+15	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	бы	бы	AUX	_	_	15	aux	_	_
+17	переосмыслить	переосмыслить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+18	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	19	det	_	_
+19	подход	подход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	регулированию	регулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	nmod	_	_
+22	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	предусмотрев	предусмотреть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	17	advcl	_	_
+27	провокацию	провокация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+28	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	в	в	ADP	_	_	32	case	_	_
+30	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	fixed	_	_
+31	самостоятельного	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	состава	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	obl	_	_
+33	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 60
+# text = Уголовный закон описывает провокацию только двух преступлений: взятки либо коммерческого подкупа.
+1	Уголовный	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	описывает	описывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	провокацию	провокация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	только	только	PART	_	_	6	advmod	_	_
+6	двух	два	NUM	_	Case=Gen	7	nummod	_	_
+7	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	7	punct	_	_
+9	взятки	взятка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	parataxis	_	_
+10	либо	либо	CCONJ	_	_	12	cc	_	_
+11	коммерческого	коммерческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	подкупа	подкуп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 61
+# text = В юридической литературе есть мнение о самостоятельном значении признаков "совершение преступления двумя или более лицами" и "совместность участия", что поддерживается не всеми представителями научного сообщества.
+1	В	в	ADP	_	_	3	case	_	_
+2	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	мнение	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	о	о	ADP	_	_	8	case	_	_
+7	самостоятельном	самостоятельный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	значении	значение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	_
+9	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	совершение	совершение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nmod	_	_
+12	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	двумя	два	NUM	_	Case=Ins	16	nummod	_	_
+14	или	или	CCONJ	_	_	15	cc	_	_
+15	более	более	ADV	_	Degree=Cmp	13	conj	_	_
+16	лицами	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	20	punct	_	_
+18	и	и	CCONJ	_	_	20	cc	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	совместность	совместность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	_
+21	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	что	что	PRON	_	Case=Nom	25	nsubj:pass	_	_
+25	поддерживается	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	21	parataxis	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	всеми	весь	DET	_	Case=Ins|Number=Plur	28	det	_	_
+28	представителями	представитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	25	obl	_	_
+29	научного	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 62
+# text = Например, позиции о необходимости рассмотрения названных признаков как одного придерживается Г.П. Новоселов . 2
+1	Например	например	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	позиции	позиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	рассмотрения	рассмотрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	названных	назвать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	как	как	SCONJ	_	_	10	mark	_	_
+10	одного	один	NUM	_	Case=Gen|Gender=Masc	8	acl	_	_
+11	придерживается	придерживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+13	П.	П.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+14	Новоселов	Новоселов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+15	.	.	PUNCT	_	_	12	punct	_	_
+16	2	2	NUM	_	_	11	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = ЛИТЕРАТУРА 1.
+1	ЛИТЕРАТУРА	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Уголовный кодекс Российской Федерации от 13.06.1996 г.
+1	Уголовный	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	кодекс	кодекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	7	case	_	_
+6	13.06.1996	13.06.1996	NUM	_	_	7	nummod	_	_
+7	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 65
+# text = № 63-ФЗ (ред. от 21.07.2014) (с изм. и доп., вступ. в силу с 04.08.2014) // Собрание законодательства РФ.
+1	№	№	SYM	_	_	0	root	_	_
+2	63-ФЗ	63-ФЗ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	ред.	редакция	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+5	от	от	ADP	_	_	4	case	_	_
+6	21.07.2014	21.07.2014	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+7	)	)	PUNCT	_	_	4	punct	_	_
+8	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	с	с	ADP	_	_	10	case	_	_
+10	изм.	измя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	parataxis	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	доп.	допункт	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	вступ.	вступункт	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	04.08.2014	04.08.2014	X	_	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	/	/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+21	/	/	PUNCT	_	_	22	punct	_	_
+22	Собрание	Собрание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	parataxis	_	_
+23	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = 1996.
+1	1996	1996	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = № 25.
+1	№	№	SYM	_	_	0	root	_	_
+2	25	25	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Ст. 2954.
+1	Ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	2954	2954	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = Комментарий к Уголовному кодексу Российской Федерации (постатейный) / Г.Н. Борзенков ; под ред. В.М. Лебедева. М. : Юрайт, 2013.
+1	Комментарий	комментарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	к	к	ADP	_	_	4	case	_	_
+3	Уголовному	уголовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	кодексу	кодекс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+5	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	постатейный	постатейный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+12	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	Борзенков	Борзенков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
+14	;	;	PUNCT	_	_	1	punct	_	_
+15	под	под	ADP	_	_	16	case	_	_
+16	ред.	редактор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	conj	_	_
+17	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	М.	М.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	_
+19	Лебедева	Лебедев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	_
+21	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	_
+22	:	:	PUNCT	_	_	21	punct	_	_
+23	Юрайт	Юрайт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	2013	2013	NUM	_	_	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Иванов В. Провокация или правомерная деятельность?
+1	Иванов	Иванов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Провокация	провокация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	или	или	CCONJ	_	_	6	cc	_	_
+5	правомерная	правомерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = // Уголовное право.
+1	/	/	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	/	/	PUNCT	_	_	4	punct	_	_
+3	Уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 74
+# text = 2001.
+1	2001	2001	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = № 3.
+1	№	№	SYM	_	_	0	root	_	_
+2	3	3	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = Новоселов Г.П. Понятие соучастия и признак совместности участия // Российский юридический журнал.
+1	Новоселов	Новоселов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	П	п	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	Понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	_
+6	соучастия	соучастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	признак	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+9	совместности	совместность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	/	/	PUNCT	_	_	15	punct	_	SpaceAfter=No
+12	/	/	PUNCT	_	_	15	punct	_	_
+13	Российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+14	юридический	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = 2012.
+1	2012	2012	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = № 6.
+1	№	№	SYM	_	_	0	root	_	_
+2	6	6	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = Радачинский С.Н. Юридическая природа провокации преступления // Уголовное право. 2008.
+1	Радачинский	Радачинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+3	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Юридическая	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	природа	природа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	провокации	провокация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	/	/	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	/	/	PUNCT	_	_	11	punct	_	_
+10	Уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	2008	2008	NUM	_	_	11	nummod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 82
+# text = № 1.
+1	№	№	SYM	_	_	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Пионтковский А.А. Учение о преступлении по советскому уголовному праву.
+1	Пионтковский	Пионтковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Учение	учение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	_
+5	о	о	ADP	_	_	6	case	_	_
+6	преступлении	преступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	по	по	ADP	_	_	10	case	_	_
+8	советскому	советский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	уголовному	уголовный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	праву	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = М., 1961.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1961	1961	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Статья представлена научной редакцией "Право" 22 июля 2015 г.
+1	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	представлена	представить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	научной	научный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	редакцией	редакция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	22	22	NUM	_	_	2	nummod	_	_
+9	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	2015	2015	NUM	_	_	11	nummod	_	_
+11	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

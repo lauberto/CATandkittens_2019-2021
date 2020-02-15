@@ -1,0 +1,2488 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Введение В переводе с латинского слово "status" означает положение, состояние, позицию объекта в какой-либо системе или структуре элементов.
+1	Введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	В	в	ADP	_	_	3	case	_	_
+3	переводе	перевод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+4	с	с	ADP	_	_	6	case	_	_
+5	латинского	латинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	слово	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	status	status	X	_	Foreign=Yes	6	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	conj	_	_
+16	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	какой-либо	какой-либо	DET	_	Case=Loc|Gender=Fem|Number=Sing	19	det	_	_
+19	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+20	или	или	CCONJ	_	_	21	cc	_	_
+21	структуре	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	conj	_	_
+22	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 2
+# text = При этом сам по себе термин "статус" является многозначным и многоаспектным.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+3	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	себе	себя	PRON	_	Case=Dat	3	nmod	_	_
+6	термин	термин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	многозначным	многозначный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	многоаспектным	многоаспектный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 3
+# text = Одним из его значений является термин "правовой статус", получивший широкое закрепление в российском праве.
+1	Одним	один	NUM	_	Case=Ins|Gender=Masc	5	nummod	_	_
+2	из	из	ADP	_	_	4	case	_	_
+3	его	его	DET	_	_	4	det	_	_
+4	значений	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+5	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	термин	термин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	получивший	получить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	_
+13	широкое	широкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	закрепление	закрепление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	российском	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = В настоящий момент в отечественном законодательстве можно найти несколько сотен упоминаний об этой категории.
+1	В	в	ADP	_	_	3	case	_	_
+2	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	отечественном	отечественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+8	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	_
+9	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	10	nummod:gov	_	_
+10	сотен	сотня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	_
+11	упоминаний	упоминание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	об	о	ADP	_	_	14	case	_	_
+13	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	14	det	_	_
+14	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 5
+# text = 
+1			NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text =  Казаков А.О., 2015 ложение юридических лиц и порядок их участия в гражданском обороте регулируется ГК РФ, а гражданско-правовое положение отдельных организационно-правовых форм, видов и типов юридических лиц – другими законами и нормативно-правовыми актами.
+1			NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+2	Казаков	Казаков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	О.	О.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	17	punct	_	_
+6	2015	2015	NUM	_	_	7	nummod	_	_
+7	ложение	ложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj:pass	_	_
+8	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+12	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	13	nmod	_	_
+13	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	гражданском	гражданский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	обороте	оборот	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	_
+17	регулируется	регулировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
+18	ГК	ГК	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+19	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	а	а	CCONJ	_	_	25	cc	_	_
+22	гражданско	гражданский	ADJ	_	Degree=Pos	24	compound	_	SpaceAfter=No
+23	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	conj	_	_
+26	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+27	организационно	организационный	ADJ	_	Degree=Pos	29	compound	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	conj	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	типов	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	conj	_	_
+35	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+37	–	–	PUNCT	_	_	39	punct	_	_
+38	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	39	amod	_	_
+39	законами	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	34	nmod	_	_
+40	и	и	CCONJ	_	_	44	cc	_	_
+41	нормативно	нормативный	ADJ	_	Degree=Pos	43	compound	_	SpaceAfter=No
+42	-	-	PUNCT	_	_	41	punct	_	SpaceAfter=No
+43	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	44	amod	_	_
+44	актами	акт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	39	conj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Следует упомянуть также ряд статей и пунктов ГК РФ, в которых термин "правовое положение" употребляется применительно к отдельным субъектам гражданского права.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	упомянуть	упомянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	также	также	ADV	_	Degree=Pos	2	advmod	_	_
+4	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	статей	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	пунктов	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
+8	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	18	punct	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	которых	который	PRON	_	Case=Loc	18	obl	_	_
+13	термин	термин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+14	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	appos	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	употребляется	употреблять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl:relcl	_	_
+19	применительно	применительно	ADV	_	Degree=Pos	18	advmod	_	_
+20	к	к	ADP	_	_	22	case	_	_
+21	отдельным	отдельный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	22	amod	_	_
+22	субъектам	субъект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	obl	_	_
+23	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 8
+# text = В частности, п.
+1	В	в	ADP	_	_	4	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 9
+# text = 7 ст. 66 ГК РФ указывает на правовое положение отдельных видов коммерческих корпоративных организаций, а п.
+1	7	7	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	66	66	NUM	_	_	5	nummod	_	_
+5	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	указывает	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+11	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	коммерческих	коммерческий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+14	корпоративных	корпоративный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	организаций	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	а	а	CCONJ	_	_	18	cc	_	_
+18	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10
+# text = 1 ст. 66.2 ГК РФ – на правовое положение отдельных видов хозяйственных обществ (например, п. 3 ст. 87 ГК РФ регламентирует правовое положение общества с ограниченной ответственностью, п. 3 ст. 96 ГК РФ – правовое положение акционерного общества и т.д.).
+1	1	1	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	66.2	66.2	NUM	_	_	5	nummod	_	_
+5	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	–	–	PUNCT	_	_	2	punct	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+11	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	хозяйственных	хозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	обществ	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+15	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	например	например	ADV	_	Degree=Pos	18	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	_
+20	3	3	NUM	_	_	21	nummod	_	_
+21	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	21	punct	_	_
+23	87	87	NUM	_	_	24	nummod	_	_
+24	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+25	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	регламентирует	регламентировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	_
+27	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obj	_	_
+29	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	с	с	ADP	_	_	32	case	_	_
+31	ограниченной	ограничить	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	ответственностью	ответственность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	32	conj	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	34	punct	_	_
+36	3	3	NUM	_	_	37	nummod	_	_
+37	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	37	punct	_	_
+39	96	96	NUM	_	_	37	nummod	_	_
+40	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	37	appos	_	_
+41	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
+42	–	–	PUNCT	_	_	44	punct	_	_
+43	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+44	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	conj	_	_
+45	акционерного	акционерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	46	amod	_	_
+46	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	nmod	_	_
+47	и	и	CCONJ	_	_	48	cc	_	_
+48	т.д.	т.демик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	46	conj	_	SpaceAfter=No
+49	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 11
+# text = Хотя упоминания о правовом положении в ГК РФ довольно многочисленны, содержательно эта категория недостаточно раскрыта.
+1	Хотя	хотя	SCONJ	_	_	10	mark	_	_
+2	упоминания	упоминание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+3	о	о	ADP	_	_	5	case	_	_
+4	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	положении	положение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	ГК	ГК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	довольно	довольно	ADV	_	Degree=Pos	10	obl	_	_
+10	многочисленны	многочисленный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	16	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	содержательно	содержательно	ADV	_	Degree=Pos	16	advmod	_	_
+13	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
+14	категория	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+15	недостаточно	недостаточно	ADV	_	Degree=Pos	16	advmod	_	_
+16	раскрыта	раскрыть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 12
+# text = В связи с этим в юридической литературе существует множество точек зрения относительно того, как определять правовой статус и что закладывать в его содержание.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	obl	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+8	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	множество	множество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+10	точек	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+11	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	compound	_	_
+12	относительно	относительно	ADP	_	_	13	case	_	_
+13	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	как	как	ADV	_	Degree=Pos	16	advmod	_	_
+16	определять	определять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	acl	_	_
+17	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	что	что	PRON	_	Case=Acc	21	obj	_	_
+21	закладывать	закладывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	conj	_	_
+22	в	в	ADP	_	_	24	case	_	_
+23	его	его	DET	_	_	24	det	_	_
+24	содержание	содержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = тельно на практике, а также не позволяет определить основной элемент в его содержании) .
+1	тельно	тельно	ADV	_	Degree=Pos	0	root	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	а	а	CCONJ	_	_	8	cc	_	_
+6	также	также	PART	_	_	5	fixed	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	основной	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	элемент	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
+14	содержании	содержание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	3	punct	_	_
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 14
+# text = С указанной точкой зрения согласиться сложно.
+1	С	с	ADP	_	_	3	case	_	_
+2	указанной	указанный	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	точкой	точка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+4	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	compound	_	_
+5	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	6	csubj	_	_
+6	сложно	сложно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 15
+# text = Во-первых, основным элементом содержания правового статуса всегда выступали права и обязанности его носителя.
+1	Во-первых	во-первых	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	основным	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	элементом	элемент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+5	содержания	содержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	всегда	всегда	ADV	_	Degree=Pos	9	advmod	_	_
+9	выступали	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	conj	_	_
+13	его	он	DET	_	_	14	det	_	_
+14	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 16
+# text = Это признается практически всеми учеными-юристами, поэтому определить основной элемент в содержании правового статуса даже при большом количестве его составляющих не должно вызывать особого труда.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	признается	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	практически	практически	ADV	_	Degree=Pos	4	obl	_	_
+4	всеми	весь	DET	_	Case=Ins|Number=Plur	5	det	_	_
+5	учеными	ученый	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	юристами	юрист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	поэтому	поэтому	ADV	_	Degree=Pos	10	advmod	_	_
+10	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	_
+11	основной	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	элемент	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	содержании	содержание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+15	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+17	даже	даже	PART	_	_	20	advmod	_	_
+18	при	при	ADP	_	_	20	case	_	_
+19	большом	большой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	количестве	количество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	obj	_	_
+22	составляющих	составлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	xcomp	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	obl	_	_
+25	вызывать	вызывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+26	особого	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 17
+# text = Во-вторых, широкое понимание правового статуса может быть действительно затруднительным, но не из-за количества входящих в его состав элементов, а от их качества, т.е. того смысла, что будет в них закладываться законодателем.
+1	Во-вторых	во-вторых	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	широкое	широкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	понимание	понимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	_
+9	действительно	действительно	ADV	_	Degree=Pos	10	obl	_	_
+10	затруднительным	затруднительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	но	но	CCONJ	_	_	15	cc	_	_
+13	не	не	PART	_	_	15	advmod	_	_
+14	из-за	из-за	ADP	_	_	15	case	_	_
+15	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	_
+16	входящих	входить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	его	его	DET	_	_	19	det	_	_
+19	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	_
+20	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	а	а	CCONJ	_	_	27	cc	_	_
+23	от	от	ADP	_	_	25	case	_	_
+24	их	их	DET	_	_	25	det	_	_
+25	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	т.е.	т.быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+28	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	29	det	_	_
+29	смысла	смысл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	35	punct	_	_
+31	что	что	PRON	_	Case=Nom	35	nsubj:pass	_	_
+32	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	aux:pass	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	35	obl	_	_
+35	закладываться	закладывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	29	acl:relcl	_	_
+36	законодателем	законодатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	35	obl	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 18
+# text = В этом смысле оригинальностью отличается подход А.В. Богданова относительно гражданско-правового статуса и его элементов на примере единоличного исполнительного органа акционерного общества.
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	оригинальностью	оригинальность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+5	отличается	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Богданова	Богданов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	_
+10	относительно	относительно	ADP	_	_	12	case	_	_
+11	гражданско-правового	гражданско-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
+15	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+18	единоличного	единоличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+19	исполнительного	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+21	акционерного	акционерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 19
+# text = Автор исходит из положения о том, что наличие правового статуса у участника правоотношений не обусловлено обязательностью отнесения его к субъектам права .
+1	Автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	исходит	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	из	из	ADP	_	_	4	case	_	_
+4	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+5	о	о	ADP	_	_	6	case	_	_
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	16	punct	_	_
+8	что	что	SCONJ	_	_	16	mark	_	_
+9	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj:pass	_	_
+10	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	у	у	ADP	_	_	13	case	_	_
+13	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+14	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl	_	_
+17	обязательностью	обязательность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	obl	_	_
+18	отнесения	отнесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	субъектам	субъект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	18	nmod	_	_
+22	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 20
+# text = Следовательно, категория "гражданско-правовой статус" характеризует не столько субъекта права, сколько участника гражданско-правовых отношений .
+1	Следовательно	следовательно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	категория	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+4	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+5	гражданско	гражданский	ADJ	_	Degree=Pos	7	compound	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	характеризует	характеризовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	не	не	PART	_	_	13	advmod	_	_
+12	столько	столько	ADV	_	Degree=Pos	13	mark	_	_
+13	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	сколько	сколько	NUM	_	_	17	mark	_	_
+17	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	conj	_	_
+18	гражданско-	гражданско-	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	parataxis	_	_
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 21
+# text = По мнению автора, правовой статус единоличного исполнительного органа акционерного общества включает в себя: 1) порядок образования и прекращения полномочий; 2) функции, задачи; 3) компетенция, права и обязанности, акты; 4) ответственность единоличного исполнительного органа .
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	parataxis	_	_
+3	автора	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+7	единоличного	единоличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+8	исполнительного	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+10	акционерного	акционерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	включает	включить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	себя	себя	PRON	_	Case=Acc	12	obl	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	12	punct	_	_
+16	1	1	NUM	_	_	18	nummod	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	_
+18	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	parataxis	_	_
+19	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	прекращения	прекращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	conj	_	_
+22	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+23	;	;	PUNCT	_	_	19	punct	_	_
+24	2	2	NUM	_	_	19	conj	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	18	punct	_	_
+26	функции	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	задачи	задача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	26	conj	_	SpaceAfter=No
+29	;	;	PUNCT	_	_	26	punct	_	_
+30	3	3	NUM	_	_	26	conj	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	18	punct	_	_
+32	компетенция	компетенция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	32	conj	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	32	conj	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	акты	акт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	conj	_	SpaceAfter=No
+39	;	;	PUNCT	_	_	32	punct	_	_
+40	4	4	NUM	_	_	42	nummod	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	40	punct	_	_
+42	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	conj	_	_
+43	единоличного	единоличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+44	исполнительного	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+45	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	_
+46	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 22
+# text = Таким образом, правовой статус можно определить как определенное правовое состояние, положение, основной элемент которого составляют права и обязанности субъекта права.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+6	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+7	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	как	как	SCONJ	_	_	11	mark	_	_
+9	определенное	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+10	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	основной	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	элемент	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+17	которого	который	PRON	_	Case=Gen	16	nmod	_	_
+18	составляют	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+19	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	18	nsubj	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	conj	_	_
+22	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 23
+# text = Однако вопрос относительно дальнейшей структуры правового статуса до сих пор остается не разрешенным в современной российской юридической науке.
+1	Однако	однако	ADV	_	Degree=Pos	11	advmod	_	_
+2	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+3	относительно	относительно	ADP	_	_	5	case	_	_
+4	дальнейшей	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	структуры	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	до	до	ADP	_	_	11	advmod	_	_
+9	сих	сей	DET	_	Case=Gen|Number=Plur	8	fixed	_	_
+10	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	fixed	_	_
+11	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	разрешенным	разрешить	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	_
+14	в	в	ADP	_	_	18	case	_	_
+15	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+16	российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	науке	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 24
+# text = Во многом именно поэтому правовой статус участника государственно-частного
+1	Во	в	ADP	_	_	2	case	_	_
+2	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+3	именно	именно	PART	_	_	4	advmod	_	_
+4	поэтому	поэтому	ADV	_	Degree=Pos	6	advmod	_	_
+5	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+7	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = Основное содержание По нашему мнению, особого внимания заслуживают представители гражданскоправовой науки.
+1	Основное	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	содержание	содержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	obj	_	_
+3	По	по	ADP	_	_	5	case	_	_
+4	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	5	det	_	_
+5	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	особого	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
+9	заслуживают	заслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	представители	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+11	гражданскоправовой	гражданскоправовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 26
+# text = Н.В. Летова, обращая внимание на неоднозначность толкования понятий "правовой статус" и "правовое положение" (а также их соотношения), классифицирует высказанные в литературе мнения относительно правового статуса гражданина на две основных точки зрения.
+1	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+3	Летова	Летов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	обращая	обращать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	_
+6	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	неоднозначность	неоднозначность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	толкования	толкование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	понятий	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	_
+15	и	и	CCONJ	_	_	18	cc	_	_
+16	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	conj	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+21	а	а	CCONJ	_	_	24	cc	_	_
+22	также	также	PART	_	_	21	fixed	_	_
+23	их	их	DET	_	_	24	det	_	_
+24	соотношения	соотношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	parataxis	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	классифицирует	классифицировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+28	высказанные	высказать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	xcomp	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	obl	_	_
+31	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	_
+32	относительно	относительно	ADP	_	_	34	case	_	_
+33	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+35	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+36	на	на	ADP	_	_	39	case	_	_
+37	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	39	nummod:gov	_	_
+38	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+39	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+40	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	compound	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 27
+# text = Если первая трактует правовой статус в узком значении (как простую совокупность прав и обязанностей гражданина), то вторая – в широком, так как включает в него и иные элементы (правовые нормы, правосубъектность, гражданство, ответственность и т.п.) .
+1	Если	если	SCONJ	_	_	3	mark	_	_
+2	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	трактует	трактовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	_
+4	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	узком	узкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	значении	значение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+9	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	как	как	SCONJ	_	_	12	mark	_	_
+11	простую	простой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	parataxis	_	_
+13	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	conj	_	_
+16	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	3	punct	_	_
+19	то	то	SCONJ	_	_	0	root	_	_
+20	вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+21	–	–	PUNCT	_	_	20	punct	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	широком	широкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	так	так	ADV	_	Degree=Pos	27	mark	_	_
+26	как	как	SCONJ	_	_	25	fixed	_	_
+27	включает	включить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	27	obl	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	_
+32	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	conj	_	_
+33	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+34	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	35	amod	_	_
+35	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	32	parataxis	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	правосубъектность	правосубъектность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	conj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	гражданство	гражданство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	conj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	conj	_	_
+42	и	и	CCONJ	_	_	43	cc	_	_
+43	т.п.	т.пункт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	conj	_	SpaceAfter=No
+44	)	)	PUNCT	_	_	35	punct	_	_
+45	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 28
+# text = По мнению ученого, узконормативное понимание правового статуса, является более предпочтительным (так как широкое понимание правового статуса затрудни56 партнерства до сих пор не стал объектом специального правового исследования.
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	ученого	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	узконормативное	узконормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	понимание	понимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	более	более	ADV	_	Degree=Cmp	12	obl	_	_
+12	предпочтительным	предпочтительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	obl	_	_
+13	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+14	так	так	ADV	_	Degree=Pos	17	mark	_	_
+15	как	как	SCONJ	_	_	14	fixed	_	_
+16	широкое	широкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	понимание	понимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+18	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	затрудни56	затрудни56	NOUN	_	_	19	nmod	_	_
+21	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	до	до	ADP	_	_	17	advmod	_	_
+23	сих	сей	DET	_	Case=Gen|Number=Plur	22	fixed	_	_
+24	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	fixed	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	_
+27	объектом	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	obl	_	_
+28	специального	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+29	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 29
+# text = В юридической литературе лишь подчеркивалось, что "участники государственночастного партнерства действительно различны и по организационно-правовым формам, и по правовому (административноправовому) статусу в целом" .
+1	В	в	ADP	_	_	3	case	_	_
+2	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	лишь	лишь	PART	_	_	5	advmod	_	_
+5	подчеркивалось	подчеркивать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	что	что	SCONJ	_	_	13	mark	_	_
+8	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+9	участники	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+10	государственночастного	государственночастный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	действительно	действительно	ADV	_	Degree=Pos	13	obl	_	_
+13	различны	различный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	5	ccomp	_	_
+14	и	и	CCONJ	_	_	19	cc	_	_
+15	по	по	ADP	_	_	19	case	_	_
+16	организационно	организационный	ADJ	_	Degree=Pos	18	compound	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	правовым	правовой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	19	amod	_	_
+19	формам	форма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	_
+21	и	и	CCONJ	_	_	27	cc	_	_
+22	по	по	ADP	_	_	27	case	_	_
+23	правовому	правовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	административноправовому	административноправовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	23	appos	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	25	punct	_	_
+27	статусу	статус	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	conj	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	29	punct	_	_
+31	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 30
+# text = По нашему мнению, под гражданскоправовым статусом участников государственно-частного партнерства следует понимать совокупность элементов, определяющих правовое положение его участников как субъектов гражданско-правовых отношений в рамках государственно-частного партнерства.
+1	По	по	ADP	_	_	3	case	_	_
+2	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	3	det	_	_
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	под	под	ADP	_	_	7	case	_	_
+6	гражданскоправовым	гражданскоправовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	статусом	статус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+8	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	csubj	_	_
+13	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	определяющих	определять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+17	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+19	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	20	nmod	_	_
+20	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	obl	_	_
+21	как	как	SCONJ	_	_	22	mark	_	_
+22	субъектов	субъект	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+23	гражданско	гражданский	ADJ	_	Degree=Pos	25	compound	_	SpaceAfter=No
+24	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	nmod	_	_
+29	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 31
+# text = Гражданско-правовой статус участника ГЧП по своей характеристике является разновидностью специального (родового) правового статуса, ибо в силу закона его может получить лишь ограниченный круг субъектов гражданских правоотношений, установленный в законодательстве.
+1	Гражданско	Гражданский	ADJ	_	Degree=Pos	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+5	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	по	по	ADP	_	_	9	case	_	_
+8	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	9	det	_	_
+9	характеристике	характеристика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	разновидностью	разновидность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+12	специального	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	родового	родовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	24	punct	_	_
+19	ибо	ибо	SCONJ	_	_	24	mark	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+22	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
+24	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+25	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+26	лишь	лишь	PART	_	_	27	advmod	_	_
+27	ограниченный	ограниченный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	круг	круг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+29	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+30	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	установленный	установить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	_
+34	в	в	ADP	_	_	35	case	_	_
+35	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 32
+# text = Структура гражданско-правового статуса участников ГЧП представляет собой сложный, комплексный характер и включает в себя две группы элементов: I.
+1	Структура	структура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+2	гражданско-	гражданско-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	собой	себя	PRON	_	Case=Ins	7	fixed	_	_
+9	сложный	сложный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	комплексный	комплексный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	_
+12	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	включает	включить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	себя	себя	PRON	_	Case=Acc	14	obl	_	_
+17	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	18	nummod:gov	_	_
+18	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
+19	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	19	punct	_	_
+21	I	i	NUM	_	_	19	nummod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 33
+# text = Регулятивные элементы гражданскоправового статуса участников государственно-частного партнерства.
+1	Регулятивные	Регулятивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	гражданскоправового	гражданскоправовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 34
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Порядок заключения, изменения и прекращения соглашения о государственночастном партнерстве.
+1	Порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	заключения	заключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	изменения	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	прекращения	прекращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+7	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+8	о	о	ADP	_	_	10	case	_	_
+9	государственночастном	государственночастный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 36
+# text = Этот элемент включает в себя этапы и процедуры заключения, изменения и прекращения соглашения о государственночастном партнерстве как в действующем федеральном, так и региональном законодательстве о ГЧП.
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	элемент	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	себя	себя	PRON	_	Case=Acc	3	obl	_	_
+6	этапы	этап	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	процедуры	процедура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	conj	_	_
+9	заключения	заключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	изменения	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	прекращения	прекращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
+14	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	о	о	ADP	_	_	17	case	_	_
+16	государственночастном	государственночастный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	nmod	_	_
+18	как	как	SCONJ	_	_	21	mark	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	действующем	действовать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	amod	_	_
+21	федеральном	федеральный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	так	так	ADV	_	Degree=Pos	26	cc	_	_
+24	и	и	PART	_	_	23	fixed	_	_
+25	региональном	региональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	conj	_	_
+27	о	о	ADP	_	_	28	case	_	_
+28	ГЧП.	ГЧП.	PROPN	_	_	26	nmod	_	_
+
+# sent_id = 37
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 38
+# text = Гражданские права и обязанности участников ГЧП.
+1	Гражданские	гражданский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = Безусловно, это центральный элемент гражданско-правового статуса участников ГЧП, его ядро и сердцевина.
+1	Безусловно	безусловно	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	центральный	центральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	элемент	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	гражданско-	гражданско-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+9	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	его	его	DET	_	_	13	det	_	_
+13	ядро	ядро	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	сердцевина	сердцевина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 40
+# text = Перечень прав и обязанностей партнеров, финансирующего лица устанавливается в федеральном и региональном законодательстве о ГЧП, а также в нормативно-правовых актах органов местного самоуправления.
+1	Перечень	перечень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+2	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	conj	_	_
+5	партнеров	партнер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	финансирующего	финансировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+8	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+9	устанавливается	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	в	в	ADP	_	_	14	case	_	_
+11	федеральном	федеральный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	региональном	региональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	11	conj	_	_
+14	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+15	о	о	ADP	_	_	16	case	_	_
+16	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	24	punct	_	_
+18	а	а	CCONJ	_	_	24	cc	_	_
+19	также	также	PART	_	_	18	fixed	_	_
+20	в	в	ADP	_	_	24	case	_	_
+21	нормативно	нормативный	ADJ	_	Degree=Pos	23	compound	_	SpaceAfter=No
+22	-	-	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	правовых	правовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	24	amod	_	_
+24	актах	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	conj	_	_
+25	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+26	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	самоуправления	самоуправление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 41
+# text = Права и обязанности конкретного участника ГЧП устанавливаются в самом соглашении о ГЧП,
+1	Права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+4	конкретного	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	устанавливаются	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	соглашении	соглашение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+11	о	о	ADP	_	_	12	case	_	_
+12	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = заключаемом между частным и публичным партнером, а также в прямом соглашении между частным партнером, публичным партнером и финансирующим лицом в соответствии с ГК РФ и законодательством о государственно-частном партнерстве.
+1	заключаемом	заключаем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
+2	между	между	ADP	_	_	6	case	_	_
+3	частным	частный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	публичным	публичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	conj	_	_
+6	партнером	партнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	а	а	CCONJ	_	_	12	cc	_	_
+9	также	также	PART	_	_	8	fixed	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	прямом	прямой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	соглашении	соглашение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	conj	_	_
+13	между	между	ADP	_	_	15	case	_	_
+14	частным	частный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	партнером	партнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	публичным	публичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	партнером	партнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	conj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	финансирующим	финансировать	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	conj	_	_
+22	в	в	ADP	_	_	25	case	_	_
+23	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	fixed	_	_
+24	с	с	ADP	_	_	22	fixed	_	_
+25	ГК	ГК	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+26	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	conj	_	_
+29	о	о	ADP	_	_	31	case	_	_
+30	государственно-частном	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = Во многом именно в правах и обязанностях участников ГЧП проявляется регулятивное правоотношение в его классическом виде – когда правам одного участника ГЧП корреспондируют обязанности другого.
+1	Во	в	ADP	_	_	2	case	_	_
+2	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+3	именно	именно	PART	_	_	5	advmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	правах	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	обязанностях	обязанность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	conj	_	_
+8	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	регулятивное	регулятивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	правоотношение	правоотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+13	в	в	ADP	_	_	16	case	_	_
+14	его	его	DET	_	_	16	det	_	_
+15	классическом	классический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+17	–	–	PUNCT	_	_	23	punct	_	_
+18	когда	когда	SCONJ	_	_	23	mark	_	_
+19	правам	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	23	iobj	_	_
+20	одного	один	NUM	_	Case=Gen|Gender=Masc	21	nummod	_	_
+21	участника	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+22	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	корреспондируют	корреспондировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	_
+24	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	obj	_	_
+25	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 44
+# text = II.
+1	II	ii	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = Охранительные элементы гражданскоправового статуса участников государственно-частного партнерства.
+1	Охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	гражданскоправового	гражданскоправовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 46
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Гражданско-правовая ответственность участников ГЧП.
+1	Гражданско	Гражданский	ADJ	_	Degree=Pos	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 48
+# text = Права и обязанности участников ГЧП не могут быть реализованы без работающего механизма их гражданско-правовой ответственности по своим обязательствам (например, гражданско-правовая ответственность частного партнера в случае неисполнения или ненадлежащего исполнения своих обязательств по соглашению о ГЧП перед публичным партнером).
+1	Права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj:pass	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+4	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	aux:pass	_	_
+9	реализованы	реализовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	xcomp	_	_
+10	без	без	ADP	_	_	12	case	_	_
+11	работающего	работать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	amod	_	_
+12	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	_
+13	их	их	DET	_	_	17	det	_	_
+14	гражданско	гражданский	ADJ	_	Degree=Pos	16	compound	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+18	по	по	ADP	_	_	20	case	_	_
+19	своим	свой	DET	_	Case=Dat|Number=Plur	20	det	_	_
+20	обязательствам	обязательство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	12	nmod	_	_
+21	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+22	например	например	ADV	_	Degree=Pos	27	parataxis	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	гражданско	гражданский	ADJ	_	Degree=Pos	26	compound	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	parataxis	_	_
+28	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	партнера	партнер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	nmod	_	_
+32	неисполнения	неисполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	или	или	CCONJ	_	_	35	cc	_	_
+34	ненадлежащего	ненадлежащий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	исполнения	исполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	conj	_	_
+36	своих	свой	DET	_	Case=Gen|Number=Plur	37	det	_	_
+37	обязательств	обязательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+38	по	по	ADP	_	_	39	case	_	_
+39	соглашению	соглашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	37	nmod	_	_
+40	о	о	ADP	_	_	41	case	_	_
+41	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	nmod	_	_
+42	перед	перед	ADP	_	_	44	case	_	_
+43	публичным	публичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	_
+44	партнером	партнер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	32	nmod	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 49
+# text = При этом такую ответственность в определенных случаях будет нести не только частный, но и публичный партнер, а также финансирующее лицо в случае невыполнения им условий прямого соглашения.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+3	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+4	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	определенных	определенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	9	obl	_	_
+8	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	нести	нести	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	только	только	PART	_	_	12	advmod	_	_
+12	частный	частный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	но	но	CCONJ	_	_	17	cc	_	_
+15	и	и	PART	_	_	14	advmod	_	_
+16	публичный	публичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	партнер	партнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	а	а	CCONJ	_	_	22	cc	_	_
+20	также	также	PART	_	_	19	fixed	_	_
+21	финансирующее	финансировать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+22	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	conj	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	nmod	_	_
+25	невыполнения	невыполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	25	iobj	_	_
+27	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+28	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 50
+# text = Особое значение будет иметь финансовая ответственность участников ГЧП за осуществление финансирования ГЧП-проекта в рамках установленных объемов и сроков.
+1	Особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+5	финансовая	финансовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	за	за	ADP	_	_	10	case	_	_
+10	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	_
+11	финансирования	финансирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	-проекта	-проекта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	nmod	_	_
+16	установленных	установить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	объемов	объем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	сроков	срок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 51
+# text = Все это отвечает сути охранительных правоотношений в сфере государственно-частного партнерства, направленных на охрану интересов участников ГЧП и общества в целом.
+1	Все	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	отвечает	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
+5	охранительных	охранительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+15	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	ГЧП	ГЧП	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 52
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 53
+# text = Гарантии гражданско-правовой защиты прав участников ГЧП.
+1	Гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	гражданско	гражданский	ADJ	_	Degree=Pos	4	compound	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = Права и законные интересы участников ГЧП нуждаются в повышенной защите, поэтому законодатель и стремится установить соответствующие правовые механизмы.
+1	Права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+2	и	и	CCONJ	_	_	4	cc	_	_
+3	законные	законный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	интересы	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	нуждаются	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	повышенной	повышенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	защите	защита	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	поэтому	поэтому	ADV	_	Degree=Pos	15	advmod	_	_
+13	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	_
+16	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	соответствующие	соответствующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+18	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+19	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 55
+# text = К примеру, таковыми являются государственные или муниципальные гарантии, которые вправе взять на себя публичный партнер в соответствии с действующим законодательством.
+1	К	к	ADP	_	_	2	case	_	_
+2	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	таковыми	таковой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	obl	_	_
+5	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	государственные	государственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+7	или	или	CCONJ	_	_	8	cc	_	_
+8	муниципальные	муниципальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	_
+9	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	которые	который	PRON	_	Case=Acc	13	obj	_	_
+12	вправе	вправе	ADV	_	Degree=Pos	13	advmod	_	_
+13	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	acl:relcl	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	себя	себя	PRON	_	Case=Acc	13	obl	_	_
+16	публичный	публичный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	партнер	партнер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+18	в	в	ADP	_	_	22	case	_	_
+19	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	fixed	_	_
+20	с	с	ADP	_	_	18	fixed	_	_
+21	действующим	действовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+22	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 56
+# text = Ими могут быть также особые гарантии защиты прав частного 57 партнера от принятия новых правовых норм, ухудшающих его положение в случаях, если он лишается того, на что был вправе рассчитывать при заключении соглашения (т.н. стабилизационная, или "дедушкина", оговорка).
+1	Ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	2	obl	_	_
+2	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	cop	_	_
+4	также	также	ADV	_	Degree=Pos	2	advmod	_	_
+5	особые	особый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+7	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	57	57	NUM	_	_	11	nummod	_	_
+11	партнера	партнер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+14	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+15	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	ухудшающих	ухудшать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+19	его	его	DET	_	_	20	det	_	_
+20	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	18	punct	_	_
+24	если	если	SCONJ	_	_	26	mark	_	_
+25	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	nsubj	_	_
+26	лишается	лишать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl	_	_
+27	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	на	на	ADP	_	_	30	case	_	_
+30	что	что	PRON	_	Case=Acc	33	obl	_	_
+31	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	32	cop	_	_
+32	вправе	вправе	ADV	_	Degree=Pos	27	acl:relcl	_	_
+33	рассчитывать	рассчитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	32	csubj	_	_
+34	при	при	ADP	_	_	35	case	_	_
+35	заключении	заключение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	obl	_	_
+36	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	_
+37	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+38	т.н.	т.н.	DET	_	Case=Gen|Gender=Fem|Number=Sing	39	det	_	_
+39	стабилизационная	стабилизационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	36	parataxis	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	43	punct	_	_
+41	или	или	CCONJ	_	_	43	cc	_	_
+42	"	"	PUNCT	_	_	43	punct	_	SpaceAfter=No
+43	дедушкина	дедушкин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	38	conj	_	SpaceAfter=No
+44	"	"	PUNCT	_	_	39	punct	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	оговорка	оговорка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	39	conj	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	39	punct	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 57
+# text = Они детально регламентируются и осуществляются исключительно в рамках законно установленных процедур.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	3	nsubj:pass	_	_
+2	детально	детально	ADV	_	Degree=Pos	3	advmod	_	_
+3	регламентируются	регламентировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	осуществляются	осуществляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	_
+6	исключительно	исключительно	ADV	_	Degree=Pos	8	obl	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	_
+9	законно	законно	ADV	_	Degree=Pos	10	advmod	_	_
+10	установленных	установить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+11	процедур	процедура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 58
+# text = Необходимо также внедрить в российское законодательство такие распространенные в мировой практике механизмы, как освобождение соглашений о ГЧП от требований отраслевого законодательного регулирования на региональном уровне, а также определение специального порядка установления тарифов и стандартов оказываемых услуг для проектов ГЧП.
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	также	также	ADV	_	Degree=Pos	1	obl	_	_
+3	внедрить	внедрить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	российское	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+7	такие	такой	DET	_	Case=Acc|Number=Plur	12	det	_	_
+8	распространенные	распространить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	мировой	мировой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+12	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	как	как	SCONJ	_	_	15	mark	_	_
+15	освобождение	освобождение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	parataxis	_	_
+16	соглашений	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	от	от	ADP	_	_	20	case	_	_
+20	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+21	отраслевого	отраслевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+22	законодательного	законодательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+24	на	на	ADP	_	_	26	case	_	_
+25	региональном	региональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	а	а	CCONJ	_	_	30	cc	_	_
+29	также	также	PART	_	_	28	fixed	_	_
+30	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	conj	_	_
+31	специального	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	nmod	_	_
+32	порядка	порядка	ADP	_	_	33	case	_	_
+33	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+34	тарифов	тариф	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	стандартов	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	34	conj	_	_
+37	оказываемых	оказывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	38	amod	_	_
+38	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	_
+39	для	для	ADP	_	_	40	case	_	_
+40	проектов	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+41	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = Кроме того, следует создать единую систему гарантий, предоставляемых участникам государственно-частного партнерства как в рамках законодательства о государственно-частном партнерстве, так и в рамках инвестиционного законодательства.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	единую	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+8	гарантий	гарантия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	предоставляемых	предоставлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	8	acl	_	_
+11	участникам	участник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	_
+12	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	как	как	SCONJ	_	_	16	mark	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	nmod	_	_
+17	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	о	о	ADP	_	_	20	case	_	_
+19	государственно-частном	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	так	так	ADV	_	Degree=Pos	25	cc	_	_
+23	и	и	PART	_	_	22	fixed	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	16	conj	_	_
+26	инвестиционного	инвестиционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 60
+# text = 5) справедливое распределение рисков и обязательств между сторонами соглашения; 6) свобода заключения соглашения.
+1	5	5	NUM	_	_	4	nummod	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	_
+3	справедливое	справедливый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	распределение	распределение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	рисков	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	обязательств	обязательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	conj	_	_
+8	между	между	ADP	_	_	9	case	_	_
+9	сторонами	сторона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	nmod	_	_
+10	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	;	;	PUNCT	_	_	4	punct	_	_
+12	6	6	NUM	_	_	14	nummod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
+14	свобода	свобода	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+15	заключения	заключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 61
+# text = Принципы государственно-частного партнерства предусмотрены и в региональных законах о ГЧП (см. ст. 3 закона Санкт-Петербурга "О государственно-частных партнерствах" , ст.
+1	Принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	_
+2	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	предусмотрены	предусмотреть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	и	и	PART	_	_	8	advmod	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	региональных	региональный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	_	_
+8	законах	закон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
+9	о	о	ADP	_	_	10	case	_	_
+10	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	см.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+13	ст	статья	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	3	3	NUM	_	_	13	nummod	_	_
+16	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+17	Санкт-Петербурга	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+19	О	о	ADP	_	_	21	case	_	_
+20	государственно-частных	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	_
+21	партнерствах	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	17	appos	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 62
+# text = 4 закона Республики Татарстан "О государственно-частном партнерстве в Республике Татарстан" и др. , ст. 5 Закона Самарской области "Об участии Самарской области в государственно-частных партнерствах" ).
+1	4	4	NUM	_	_	2	nummod	_	_
+2	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+3	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	Татарстан	Татарстан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+5	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+6	О	о	INTJ	_	_	9	parataxis	_	_
+7	государственно-	государственно-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	частном	частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+12	Татарстан	Татарстан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	9	punct	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	др.	др	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	_
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	_
+19	5	5	NUM	_	_	20	nummod	_	_
+20	Закона	Закон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
+21	Самарской	самарский	PROPN	_	_	22	amod	_	_
+22	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	Об	о	ADP	_	_	25	case	_	_
+25	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	appos	_	_
+26	Самарской	самарский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	государственно-частных	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	amod	_	_
+30	партнерствах	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	27	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	_
+32	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 63
+# text = Так как действие указанных принципов должно распространяться на весь объем правоотношений государственно-частного парнерства, выделять отдельные принципы правового статуса участников ГЧП мы считаем излишним.
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	_
+2	как	как	SCONJ	_	_	1	fixed	_	_
+3	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+7	распространяться	распространяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	23	xcomp	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+10	объем	объем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+11	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	парнерства	парнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	выделять	выделять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+16	отдельные	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+18	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	23	nsubj	_	_
+23	считаем	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	xcomp	_	_
+24	излишним	излишний	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 64
+# text = Такие принципы характеризовали бы не существенные особенности правового положения участников государственно-частного партнерства, а их наиболее типичные свойства как субъектов гражданско-правовых отношений, которые, в свою очередь, вытекают из отдельных элементов их правового статуса (в первую очередь соответствующих прав и обязанностей).
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	характеризовали	характеризовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	бы	бы	AUX	_	_	3	aux	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	существенные	существенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	obj	_	_
+8	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	20	punct	_	_
+14	а	а	CCONJ	_	_	20	cc	_	_
+15	их	они	DET	_	_	18	det	_	_
+16	наиболее	наиболее	ADV	_	Degree=Pos	17	obl	_	_
+17	типичные	типичный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	свойства	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	_
+19	как	как	SCONJ	_	_	20	mark	_	_
+20	субъектов	субъект	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	conj	_	_
+21	гражданско	гражданский	ADJ	_	Degree=Pos	23	compound	_	SpaceAfter=No
+22	-	-	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	32	punct	_	_
+26	которые	который	PRON	_	Case=Nom	32	nsubj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	30	det	_	_
+30	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	parataxis	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	30	punct	_	_
+32	вытекают	вытекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+33	из	из	ADP	_	_	35	case	_	_
+34	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	obl	_	_
+36	их	их	DET	_	_	38	det	_	_
+37	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
+38	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+39	(	(	PUNCT	_	_	44	punct	_	SpaceAfter=No
+40	в	в	ADP	_	_	44	discourse	_	_
+41	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	fixed	_	_
+42	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	fixed	_	_
+43	соответствующих	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	44	amod	_	_
+44	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	38	parataxis	_	_
+45	и	и	CCONJ	_	_	46	cc	_	_
+46	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	44	conj	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	44	punct	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 65
+# text = Во-вторых, правосубъектность является основанием возникновения правового статуса, правовой предпосылкой обретения каким-либо лицом статуса субъекта права.
+1	Во-вторых	во-вторых	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	правосубъектность	правосубъектность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	основанием	основание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+6	возникновения	возникновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	правовой	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	предпосылкой	предпосылка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	conj	_	_
+12	обретения	обретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	каким-либо	какой-либо	DET	_	Case=Ins|Gender=Masc|Number=Sing	14	det	_	_
+14	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+15	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+16	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 66
+# text = По своей юридической природе правосубъектность означает правовую возможность потенциального участия в конкретных правоотношениях.
+1	По	по	ADP	_	_	4	case	_	_
+2	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	4	det	_	_
+3	юридической	юридический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	природе	природа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+5	правосубъектность	правосубъектность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+6	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	потенциального	потенциальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	конкретных	конкретный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	правоотношениях	правоотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 67
+# text = Следовательно, правосубъектность – это только предпосылка к обладанию статусом, его правообразующая основа.
+1	Следовательно	следовательно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	правосубъектность	правосубъектность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	–	–	PUNCT	_	_	7	punct	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	предпосылка	предпосылка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	обладанию	обладание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	_
+10	статусом	статус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	его	он	DET	_	_	14	det	_	_
+13	правообразующая	правообразуть	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	основа	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Поэтому попытки выделения правосубъектности в качестве элемента правового статуса, по сути, не позволяют выйти за рамки общепринятых представлений о правовом статусе как правовом положении его носителя.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	15	advmod	_	_
+2	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+3	выделения	выделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	правосубъектности	правосубъектность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	fixed	_	_
+7	элемента	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+8	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	позволяют	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	за	за	ADP	_	_	18	case	_	_
+18	рамки	рамка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obl	_	_
+19	общепринятых	общепринятый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	представлений	представление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+21	о	о	ADP	_	_	23	case	_	_
+22	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	статусе	статус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+24	как	как	SCONJ	_	_	26	mark	_	_
+25	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	положении	положение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
+27	его	его	DET	_	_	28	det	_	_
+28	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 69
+# text = В-третьих, наличие большого количества различных элементов делает конструкцию правового статуса чрезмерно объемной и от этого малооприменимой.
+1	В-третьих	в-третьих	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+4	большого	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	конструкцию	конструкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+10	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	чрезмерно	чрезмерно	ADV	_	Degree=Pos	13	obl	_	_
+13	объемной	объемный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	obl	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	conj	_	_
+17	малооприменимой	малооприменимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 70
+# text = В то же время выделение только одного центрального элемента – прав и обязанностей субъекта
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+5	выделение	выделение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	одного	один	NUM	_	Case=Gen|Gender=Masc	9	nummod	_	_
+8	центрального	центральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	элемента	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
+11	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+14	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = Результаты Предложенная нами совокупность элементов существенно отличается от большинства точек зрения на структуру правового статуса.
+1	Результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+2	Предложенная	предложить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+3	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	2	obl	_	_
+4	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+5	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	существенно	существенно	ADV	_	Degree=Pos	7	advmod	_	_
+7	отличается	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	от	от	ADP	_	_	9	case	_	_
+9	большинства	большинство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+10	точек	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+11	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	compound	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	структуру	структура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+14	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 72
+# text = В числе выделяемых нами элементов отсутствует выделяемые многими учеными принципы правового статуса и правосубъектность.
+1	В	в	ADP	_	_	2	case	_	_
+2	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	выделяемых	выделять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
+4	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	3	obl	_	_
+5	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	выделяемые	выделять	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	_
+8	многими	много	NUM	_	_	7	nummod	_	_
+9	учеными	ученый	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	_
+10	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+11	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	правосубъектность	правосубъектность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 73
+# text = По нашему мнению, включать их в число элементов правового статуса не следует по ряду причин.
+1	По	по	ADP	_	_	3	case	_	_
+2	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	3	det	_	_
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	включать	включать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	csubj	_	_
+6	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	5	obj	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	число	число	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+9	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	ряду	ряд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+16	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 74
+# text = Во-первых, принятый 1 июля 2015 года Государственной Думой федеральный закон о ГЧП в ст.
+1	Во-первых	во-первых	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	принятый	принять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+4	1	1	NUM	_	_	3	nummod	_	_
+5	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	flat	_	_
+6	2015	2015	NUM	_	_	7	nummod	_	_
+7	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+8	Государственной	государственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Думой	Дума	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+10	федеральный	федеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+12	о	о	ADP	_	_	13	case	_	_
+13	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 75
+# text = 4 содержит в себе принципы государственно-частного партнерства, муниципально-частного партнерства, в число которых включает: 1) открытость и доступность информации о государственночастном партнерстве, муниципальночастном партнерстве, за исключением сведений, составляющих государственную тайну и иную охраняемую законом тайну; 2) обеспечение конкуренции; 3) отсутствие дискриминации, равноправие сторон соглашения и равенство их перед законом; 4) добросовестное исполнение сторонами соглашения обязательств по соглашению; 58 права также нельзя признать верным вследствие существенного сужения содержания этой важной гражданско-правовой категории.
+1	4	4	NUM	_	_	2	nsubj	_	_
+2	содержит	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	себе	себя	PRON	_	Case=Loc	2	obl	_	_
+5	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+6	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	муниципально-частного	муниципально-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	число	число	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obl	_	_
+14	которых	который	PRON	_	Case=Gen	13	nmod	_	_
+15	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	1	1	NUM	_	_	19	nummod	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	17	punct	_	_
+19	открытость	открытость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	доступность	доступность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	_
+22	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	о	о	ADP	_	_	25	case	_	_
+24	государственночастном	государственночастный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	муниципальночастном	муниципальночастный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	за	за	ADP	_	_	32	case	_	_
+31	исключением	исключение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	30	fixed	_	_
+32	сведений	сведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	conj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	составляющих	составлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	acl	_	_
+35	государственную	государственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	тайну	тайна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+37	и	и	CCONJ	_	_	41	cc	_	_
+38	иную	иной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+39	охраняемую	охраняемый	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	41	acl	_	_
+40	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	39	obl	_	_
+41	тайну	тайна	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
+42	;	;	PUNCT	_	_	41	punct	_	_
+43	2	2	NUM	_	_	45	nummod	_	SpaceAfter=No
+44	)	)	PUNCT	_	_	43	punct	_	_
+45	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	75	nsubj	_	_
+46	конкуренции	конкуренция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+47	;	;	PUNCT	_	_	46	punct	_	_
+48	3	3	NUM	_	_	46	conj	_	SpaceAfter=No
+49	)	)	PUNCT	_	_	46	punct	_	_
+50	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	nmod	_	_
+51	дискриминации	дискриминация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	равноправие	равноправие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	50	conj	_	_
+54	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	53	nmod	_	_
+55	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+56	и	и	CCONJ	_	_	57	cc	_	_
+57	равенство	равенство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	50	conj	_	_
+58	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	57	nmod	_	_
+59	перед	перед	ADP	_	_	60	case	_	_
+60	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	57	nmod	_	SpaceAfter=No
+61	;	;	PUNCT	_	_	50	punct	_	_
+62	4	4	NUM	_	_	65	nummod	_	SpaceAfter=No
+63	)	)	PUNCT	_	_	62	punct	_	_
+64	добросовестное	добросовестный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	65	amod	_	_
+65	исполнение	исполнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	50	conj	_	_
+66	сторонами	сторона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	65	nmod	_	_
+67	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	66	nmod	_	_
+68	обязательств	обязательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	67	nmod	_	_
+69	по	по	ADP	_	_	70	case	_	_
+70	соглашению	соглашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	68	nmod	_	SpaceAfter=No
+71	;	;	PUNCT	_	_	50	punct	_	_
+72	58	58	NUM	_	_	73	nummod	_	_
+73	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	50	conj	_	_
+74	также	также	ADV	_	Degree=Pos	75	advmod	_	_
+75	нельзя	нельзя	ADV	_	Degree=Pos	41	conj	_	_
+76	признать	признать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	45	obl	_	_
+77	верным	верный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	76	obl	_	_
+78	вследствие	вследствие	ADP	_	_	80	case	_	_
+79	существенного	существенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	80	amod	_	_
+80	сужения	сужение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	76	obl	_	_
+81	содержания	содержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	80	nmod	_	_
+82	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	87	det	_	_
+83	важной	важный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	87	amod	_	_
+84	гражданско	гражданский	ADJ	_	Degree=Pos	86	compound	_	SpaceAfter=No
+85	-	-	PUNCT	_	_	84	punct	_	SpaceAfter=No
+86	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	87	amod	_	_
+87	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	81	nmod	_	SpaceAfter=No
+88	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 76
+# text = Поэтому нами была предпринята попытка классифицировать элементы правового статуса участников ГЧП на две группы: регулятивные и охранительные.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	4	advmod	_	_
+2	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	4	obl	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	предпринята	предпринять	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	попытка	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+6	классифицировать	классифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	obl	_	_
+7	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	14	nummod:gov	_	_
+14	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	14	punct	_	_
+16	регулятивные	регулятивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	parataxis	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 77
+# text = гражданско-правовой защиты прав участников ГЧП.
+1	гражданско	гражданский	ADJ	_	Degree=Pos	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+5	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 78
+# text = Присутствие указанных элементов во многом обусловлено необходимостью принудительного вмешательства государства в деятельность участников ГЧП для осуществления должных мер принуждения в связи с нарушением ими положений действующего законодательства и (или) соглашения о ГЧП.
+1	Присутствие	присутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
+2	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	во	в	ADP	_	_	5	case	_	_
+5	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+8	принудительного	принудительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	вмешательства	вмешательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+13	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+17	должных	должный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	в	в	ADP	_	_	23	case	_	_
+21	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	fixed	_	_
+22	с	с	ADP	_	_	20	fixed	_	_
+23	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	_
+24	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	23	nmod	_	_
+25	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+26	действующего	действовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	amod	_	_
+27	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+28	и	и	CCONJ	_	_	32	cc	_	_
+29	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+30	или	или	CCONJ	_	_	32	cc	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	30	punct	_	_
+32	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	conj	_	_
+33	о	о	ADP	_	_	34	case	_	_
+34	ГЧП	ГЧП	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 79
+# text = Таким образом, установленная нами совокупность элементов в полной мере отражает сущность правового статуса участников государственно-частного партнерства.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	установленная	установить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+5	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	4	obl	_	_
+6	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+7	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+11	отражает	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	сущность	сущность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+15	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+16	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 80
+# text = Выводы Предложенная нами классификация построена на делении основных функций права на регулятивную и охранительную.
+1	Выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+2	Предложенная	предложить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+3	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	2	obl	_	_
+4	классификация	классификация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	_	_
+5	построена	строить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	делении	деление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	функций	функция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	регулятивную	регулятивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	obl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	охранительную	охранительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 81
+# text = Правоотношения в сфере государственночастного партнерства возникают на основе юридических фактов, а именно в результате действий его участников.
+1	Правоотношения	Правоотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	государственночастного	государственночастный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+9	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	фактов	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	а	а	CCONJ	_	_	15	cc	_	_
+13	именно	именно	PART	_	_	15	advmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	conj	_	_
+16	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+17	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
+18	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 82
+# text = Действия таких лиц (правомерные или неправомерные) порождают регулятивные или охранительные правоотношения, которые, в свою очередь, позволяют соответствующе классифицировать элементы правового статуса участников государственно-частного партнерства.
+1	Действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+2	таких	такой	DET	_	Case=Gen|Number=Plur	3	det	_	_
+3	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	правомерные	правомерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	parataxis	_	_
+6	или	или	CCONJ	_	_	7	cc	_	_
+7	неправомерные	неправомерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	conj	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	5	punct	_	_
+9	порождают	порождать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	регулятивные	регулятивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	conj	_	_
+13	правоотношения	правоотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	21	punct	_	_
+15	которые	который	PRON	_	Case=Nom	21	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	19	det	_	_
+19	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	позволяют	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+22	соответствующе	соответствующе	ADV	_	Degree=Pos	23	advmod	_	_
+23	классифицировать	классифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+24	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
+25	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+27	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+28	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 83
+# text = Кроме того, нормы права, посвященные регулированию правового положения участников государственно-частного партнерства, также по своему содержанию можно подразделить на регулятивные и охранительные.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	_
+5	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	посвященные	посвятить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+8	регулированию	регулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	_
+9	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	7	punct	_	_
+15	также	также	ADV	_	Degree=Pos	18	obl	_	_
+16	по	по	ADP	_	_	18	case	_	_
+17	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing	18	det	_	_
+18	содержанию	содержание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	obl	_	_
+19	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+20	подразделить	подразделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	csubj	_	_
+21	на	на	ADP	_	_	22	case	_	_
+22	регулятивные	регулятивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	obl	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	охранительные	охранительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 84
+# text = Поскольку регулятивные элементы правового статуса участников ГЧП призваны должным образом упорядочить общественные отношения в области государственно-частного партнерства, в том числе деятельность его участников, в их состав следует включать: 1) порядок возникновения и прекращения гражданско-правового статуса участников ГЧП; 2) гражданские права и обязанности участников ГЧП.
+1	Поскольку	поскольку	SCONJ	_	_	8	mark	_	_
+2	регулятивные	регулятивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+4	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	призваны	призванный	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	должным	должный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	_
+11	упорядочить	упорядочивать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+12	общественные	общественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	_
+16	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	21	det	_	_
+21	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	nmod	_	_
+22	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	_
+23	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
+24	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	их	их	DET	_	_	28	det	_	_
+28	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obl	_	_
+29	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+30	включать	включать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	csubj	_	SpaceAfter=No
+31	:	:	PUNCT	_	_	29	punct	_	_
+32	1	1	NUM	_	_	34	nummod	_	SpaceAfter=No
+33	)	)	PUNCT	_	_	32	punct	_	_
+34	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	parataxis	_	_
+35	возникновения	возникновение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	прекращения	прекращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	conj	_	_
+38	гражданско-	гражданско-	PUNCT	_	_	40	punct	_	SpaceAfter=No
+39	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
+40	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
+41	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	40	nmod	_	_
+42	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
+43	;	;	PUNCT	_	_	40	punct	_	_
+44	2	2	NUM	_	_	47	nummod	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	44	punct	_	_
+46	гражданские	гражданский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	47	amod	_	_
+47	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	40	conj	_	_
+48	и	и	CCONJ	_	_	49	cc	_	_
+49	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	40	conj	_	_
+50	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	49	nmod	_	_
+51	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 85
+# text = Такие элементы основаны на правомерных действиях участников ГЧП и не нуждаются в участии принудительной силы со стороны государства.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
+3	основаны	основать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	правомерных	правомерный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	действиях	действие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	3	obl	_	_
+7	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	нуждаются	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+14	принудительной	принудительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	со	со	ADP	_	_	18	case	_	_
+17	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	fixed	_	_
+18	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 86
+# text = В свою очередь, так как охранительные элементы обеспечивают поддержание стабильности гражданского оборота в рамках государственно-частного партнерства, а также служат охране, защите и восстановлению прав участников государственно-частного партнерства, к их числу мы отнесли: 1) гражданско-правовую ответственность участников ГЧП; 2) гарантии
+1	В	в	ADP	_	_	3	case	_	_
+2	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
+3	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	так	так	ADV	_	Degree=Pos	9	mark	_	_
+6	как	как	SCONJ	_	_	5	fixed	_	_
+7	охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	обеспечивают	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	поддержание	поддержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+11	стабильности	стабильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	оборота	оборот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	nmod	_	_
+16	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	а	а	CCONJ	_	_	21	cc	_	_
+20	также	также	PART	_	_	19	fixed	_	_
+21	служат	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+22	охране	охрана	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	восстановлению	восстановление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	conj	_	_
+27	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	_
+28	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	_
+29	государственно-частного	государственно-частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	партнерства	партнерство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	к	к	ADP	_	_	34	case	_	_
+33	их	их	DET	_	_	34	det	_	_
+34	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	36	obl	_	_
+35	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	36	nsubj	_	_
+36	отнесли	отнести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	SpaceAfter=No
+37	:	:	PUNCT	_	_	36	punct	_	_
+38	1	1	NUM	_	_	43	nummod	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	38	punct	_	_
+40	гражданско	гражданский	ADJ	_	Degree=Pos	42	compound	_	SpaceAfter=No
+41	-	-	PUNCT	_	_	40	punct	_	SpaceAfter=No
+42	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obj	_	_
+44	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	43	nmod	_	_
+45	ГЧП	ГЧП	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+46	;	;	PUNCT	_	_	36	punct	_	_
+47	2	2	NUM	_	_	36	nummod	_	SpaceAfter=No
+48	)	)	PUNCT	_	_	47	punct	_	_
+49	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 87
+# text = Библиографический список 1.
+1	Библиографический	Библиографический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	список	список	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	1	1	NUM	_	_	2	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 88
+# text = Богданов А.В. Понятие и элементы гражданско-правового статуса единоличного исполнительного органа акционерного общества // Вестник Пермского университета.
+1	Богданов	Богданов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Понятие	Понятие	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	элементы	элемент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+7	гражданско-	гражданско-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+8	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+10	единоличного	единоличный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	исполнительного	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+13	акционерного	акционерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	/	/	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	parataxis	_	_
+18	Пермского	Пермский	PROPN	_	_	19	amod	_	_
+19	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Юридические науки.
+1	Юридические	юридический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	науки	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 90
+# text = 2011.
+1	2011	2011	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Вып. 4(14).
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	4	4	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	14	14	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = Игнатюк Н.А. Государственно-частное партнерство в Российской Федерации. М.: Эксмо, 2009. 398 c.
+1	Игнатюк	Игнатюк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Государственно-	государственно-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	частное	частный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	партнерство	партнерство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+11	М.	м.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	Эксмо	Эксмо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	2009	2009	NUM	_	_	13	nummod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+17	398	398	NUM	_	_	15	nummod	_	_
+18	c	c	X	_	Foreign=Yes	13	flat:foreign	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = Летова Н.В. Правовой статус ребенка // Государство и право.
+1	Летова	Летов	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	SpaceAfter=No
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	flat:name	_	_
+4	Правовой	правовой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	2	flat:name	_	_
+5	статус	статус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	/	/	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	/	/	PUNCT	_	_	9	punct	_	_
+9	Государство	Государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 96
+# text = 2010.
+1	2010	2010	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = № 11.
+1	№	№	SYM	_	_	0	root	_	_
+2	11	11	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = Об участии Санкт-Петербурга в государственно-частных партнерствах: закон Санкт-Петербурга от 25 дек.
+1	Об	о	ADP	_	_	2	case	_	_
+2	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+3	Санкт-Петербурга	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	государственно-частных	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	партнерствах	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	2	punct	_	_
+8	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+9	Санкт-Петербурга	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	от	от	ADP	_	_	12	case	_	_
+11	25	25	NUM	_	_	12	nummod	_	_
+12	дек	дка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 100
+# text = 2006 г.
+1	2006	2006	NUM	_	_	2	nummod	_	_
+2	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 101
+# text = № 627-100.
+1	№	№	SYM	_	_	0	root	_	_
+2	627	627	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	100	100	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = URL: http://gov.spb.ru/law? d&nd=8442332&nh=0 (дата обращения: 01.12.2014).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://gov.spb.ru/law	http://gov.spb.ru/law	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+5	d&nd=8442332&nh=0	d&nd=8442332&nh=0	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	flat:foreign	_	_
+8	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	01.12.2014	01.12.2014	X	_	Foreign=Yes	8	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = Об участии Самарской области в государственно-частных партнерствах: закон Самар. обл. от 2 июля 2010 г.
+1	Об	о	ADP	_	_	2	case	_	_
+2	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+3	Самарской	самарский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	государственно-частных	государственно-частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	партнерствах	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	2	punct	_	_
+9	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+10	Самар.	Самар.	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	обл.	обловек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	2	2	NUM	_	_	9	nummod	_	_
+14	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	flat	_	_
+15	2010	2010	NUM	_	_	16	nummod	_	_
+16	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 105
+# text = № 72-ГД.
+1	№	№	SYM	_	_	0	root	_	_
+2	72-ГД.	72-ГД.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 106
+# text = URL:http://economy.gov.ru/mnec/actvty/ sectons/prvgovpartnerdev/doc20140122_5 7 (дата обращения: 01.12.2014).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	http://economy.gov.ru/mnec/actvty/	http://economy.gov.ru/mnec/actvty/	PUNCT	_	_	4	punct	_	_
+4	sectons	sectons	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+5	/prvgovpartnerdev/doc20140122_5	/prvgovpartnerdev/doc20140122_5	PROPN	_	Foreign=Yes	4	flat:foreign	_	_
+6	7	7	NUM	_	_	4	nummod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
+9	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	_	_
+11	01.12.2014	01.12.2014	X	_	Foreign=Yes	9	parataxis	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 107
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = О государственно-частном партнерстве в Республике Татарстан: закон Респ.
+1	О	о	INTJ	_	_	0	root	_	_
+2	государственно-	государственно-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	частном	частный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	партнерстве	партнерство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+7	Татарстан	Татарстан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	1	punct	_	_
+9	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+10	Респ	Респ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = Татарстан от 1 авг. 2011 г. № 50-ЗРТ.
+1	Татарстан	Татарстан	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	от	от	ADP	_	_	4	case	_	_
+3	1	1	NUM	_	_	4	nummod	_	_
+4	авг.	авод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	2011	2011	NUM	_	_	6	nummod	_	_
+6	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+8	№	№	SYM	_	_	4	appos	_	_
+9	50-ЗРТ	50-ЗРТ	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = URL:http://economy.gov.ru/mnec/actvty/ sectons/prvgovpartnerdev/doc20140122_5 3 (дата обращения: 01.12.2014).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	http://economy.gov.ru/mnec/actvty/	http://economy.gov.ru/mnec/actvty/	PUNCT	_	_	4	punct	_	_
+4	sectons	sectons	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	prvgovpartnerdev/doc20140122_5	prvgovpartnerdev/doc20140122_5	NOUN	_	_	4	conj	_	_
+7	3	3	NUM	_	_	6	nummod	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	_
+10	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	01.12.2014	01.12.2014	X	_	Foreign=Yes	10	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\n
+

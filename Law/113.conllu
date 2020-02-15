@@ -1,0 +1,3065 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Коми (зыряне), к сожалению, относятся к бесписьменному народу, у которого пока еще не найдено полных письменных памятников обычного этнического права, фиксировавших распространенные образцы должного поведения.
+1	Коми	Коми	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	obl	_	_
+2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	зыряне	зырянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	parataxis	_	SpaceAfter=No
+4	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	к	к	ADP	_	_	12	case	_	_
+11	бесписьменному	бесписьменный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	народу	народ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	которого	который	PRON	_	Case=Gen	19	obl	_	_
+16	пока	пока	ADV	_	Degree=Pos	19	advmod	_	_
+17	еще	еще	ADV	_	Degree=Pos	19	advmod	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	найдено	найти	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+20	полных	полный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+21	письменных	письменный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	памятников	памятник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nsubj:pass	_	_
+23	обычного	обычный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+24	этнического	этнический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	фиксировавших	фиксировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	25	acl	_	_
+28	распространенные	распространенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	29	amod	_	_
+29	образцы	образец	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
+30	должного	должный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 2
+# text = Поэтому исследовать институты преступления и наказания в обычном этническом праве коми (зырян) представляется возможным путем реконструкции данных из фольклорных, литературных и архивных документов.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	2	advmod	_	_
+2	исследовать	исследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	csubj	_	_
+3	институты	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+11	коми	ко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	parataxis	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	obl	_	_
+17	путем	путем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+18	реконструкции	реконструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	18	nmod	_	_
+20	из	из	ADP	_	_	26	case	_	_
+21	фольклорных	фольклорный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	литературных	литературный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	conj	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	архивных	архивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	conj	_	_
+26	документов	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 3
+# text = Народные воззрения на институты преступления и наказания формировались в зырянском обычном этническом праве постепенно.
+1	Народные	народный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	воззрения	воззрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	институты	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	nmod	_	_
+5	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	conj	_	_
+8	формировались	формироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	в	в	ADP	_	_	13	case	_	_
+10	зырянском	зырянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+11	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+12	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+14	постепенно	постепенно	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 4
+# text = Особенностью зырянских уголовно-правовых институтов являлось то, что они включали в себя не только обычно-правовые нормы, но и, как правило, морально-нравственные, религиозные, а порой и языческие правила.
+1	Особенностью	особенность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+2	зырянских	зырянский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+3	уголовно-	уголовно-	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+6	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	что	что	SCONJ	_	_	11	mark	_	_
+10	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	11	nsubj	_	_
+11	включали	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	себя	себя	PRON	_	Case=Acc	11	obl	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	только	только	PART	_	_	16	advmod	_	_
+16	обычно	обычно	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	37	punct	_	_
+21	но	но	CCONJ	_	_	37	cc	_	_
+22	и	и	PART	_	_	21	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	37	punct	_	_
+24	как	как	SCONJ	_	_	25	mark	_	_
+25	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	parataxis	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	37	punct	_	_
+27	морально	морально	ADV	_	Degree=Pos	37	advmod	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	нравственные	нравственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	37	amod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	религиозные	религиозный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	а	а	CCONJ	_	_	36	cc	_	_
+34	порой	порой	ADV	_	Degree=Pos	36	obl	_	_
+35	и	и	PART	_	_	36	advmod	_	_
+36	языческие	языческий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	conj	_	_
+37	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	conj	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 5
+# text = Причина этого явления состоит в том, что обычное этническое право коми (зырян) было синкретизировано с религиозно-моральными и мифологическими воззрениями, которые бытовали в народе коми.
+1	Причина	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	3	det	_	_
+3	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	состоит	состоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	что	что	SCONJ	_	_	17	mark	_	_
+9	обычное	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+10	этническое	этнический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj:pass	_	_
+12	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	nmod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	12	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+17	синкретизировано	инкретизировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl	_	_
+18	с	с	ADP	_	_	24	case	_	_
+19	религиозно	религиозный	ADJ	_	Degree=Pos	21	compound	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	моральными	моральный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	мифологическими	мифологический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	conj	_	_
+24	воззрениями	воззрение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	которые	который	PRON	_	Case=Nom	27	nsubj	_	_
+27	бытовали	бытовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+30	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 6
+# text = Исследователи Коми края обращают внимание на то, что в коми языке даже в XIX в. не существовало не только специального термина "преступник", но и понятия, обозначавшего субъекта, совершившего преступное деяние, и, соответственно, термина "наказание".
+1	Исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	Коми	Коми	PROPN	_	_	3	amod	_	_
+3	края	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	обращают	обращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	18	punct	_	_
+9	что	что	SCONJ	_	_	18	mark	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	коми	кой	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	_
+12	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+13	даже	даже	PART	_	_	16	advmod	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	XIX	xix	NUM	_	_	16	nummod	_	_
+16	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	существовало	существовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	только	только	PART	_	_	21	advmod	_	_
+21	специального	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	термина	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nsubj	_	_
+23	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	преступник	преступник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	но	но	CCONJ	_	_	29	cc	_	_
+28	и	и	PART	_	_	27	advmod	_	_
+29	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	conj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	обозначавшего	обозначать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	acl	_	_
+32	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	obl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	совершившего	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	acl	_	_
+35	преступное	преступный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	деяние	деяние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	obj	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	42	punct	_	_
+38	и	и	CCONJ	_	_	42	cc	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	_
+40	соответственно	соответственно	ADV	_	Degree=Pos	42	parataxis	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	термина	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	conj	_	_
+43	"	"	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	42	appos	_	SpaceAfter=No
+45	"	"	PUNCT	_	_	44	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Н. Е. Ермилов указывал на "отсутствие в их языке коренного собственного слова, означающего понятие "воровство".
+1	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Ермилов	Ермилов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	указывал	указывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	их	их	DET	_	_	10	det	_	_
+10	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+11	коренного	коренной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+12	собственного	собственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	означающего	означать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+16	понятие	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	воровство	воровство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	appos	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = По ижемскому наречию вор обозначается словом "гусьясьись", которое производится от русского же слова "гусь" (подобно выражению "вот так гусь!")".7 Ф. А. Арсеньев, отмечая честность и простоту нравов, а также уважение прав человека и собственности другого человека, придерживается аналогичной точки зрения: "Воровство вовсе не было известно зырянам; на языке их даже нет коренного слова "вор"".
+1	По	по	ADP	_	_	3	case	_	_
+2	ижемскому	ижемский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	наречию	наречие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	obl	_	_
+4	вор	вор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+5	обозначается	обозначать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	словом	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	гусьясьись	гусьясьись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	которое	который	PRON	_	Case=Nom	12	nsubj:pass	_	_
+12	производится	производить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl:relcl	_	_
+13	от	от	ADP	_	_	16	case	_	_
+14	русского	русский	DET	_	Case=Gen|Gender=Neut|Number=Sing	16	det	_	_
+15	же	же	PART	_	_	14	advmod	_	_
+16	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	гусь	гуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	12	advcl	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
+21	подобно	подобно	ADP	_	_	22	case	_	_
+22	выражению	выражение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	obl	_	_
+23	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+24	вот	вот	PART	_	_	25	advmod	_	_
+25	так	так	ADV	_	Degree=Pos	26	advmod	_	_
+26	гусь	гуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	18	parataxis	_	SpaceAfter=No
+27	!	!	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+31	.7	.7	NUM	_	_	26	nummod	_	_
+32	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+33	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	flat:name	_	_
+34	Арсеньев	Арсеньев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	flat:name	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	отмечая	отмечать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	26	advcl	_	_
+37	честность	честность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obj	_	_
+38	и	и	CCONJ	_	_	39	cc	_	_
+39	простоту	простота	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	conj	_	_
+40	нравов	нрав	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	44	punct	_	_
+42	а	а	CCONJ	_	_	44	cc	_	_
+43	также	также	PART	_	_	42	fixed	_	_
+44	уважение	уважение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	conj	_	_
+45	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	44	nmod	_	_
+46	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	_
+47	и	и	CCONJ	_	_	48	cc	_	_
+48	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	46	conj	_	_
+49	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	_
+50	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	36	punct	_	_
+52	придерживается	придерживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	xcomp	_	_
+53	аналогичной	аналогичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	54	amod	_	_
+54	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	obl	_	_
+55	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	54	compound	_	SpaceAfter=No
+56	:	:	PUNCT	_	_	54	punct	_	_
+57	"	"	PUNCT	_	_	62	punct	_	SpaceAfter=No
+58	Воровство	воровство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	62	nsubj	_	_
+59	вовсе	вовсе	ADV	_	Degree=Pos	60	advmod	_	_
+60	не	не	PART	_	_	62	advmod	_	_
+61	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	62	cop	_	_
+62	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	54	parataxis	_	_
+63	зырянам	зырянин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	62	iobj	_	SpaceAfter=No
+64	;	;	PUNCT	_	_	62	punct	_	_
+65	на	на	ADP	_	_	66	case	_	_
+66	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	69	obl	_	_
+67	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	69	nsubj	_	_
+68	даже	даже	PART	_	_	69	advmod	_	_
+69	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	62	conj	_	_
+70	коренного	коренной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	71	amod	_	_
+71	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	69	obl	_	_
+72	"	"	PUNCT	_	_	73	punct	_	SpaceAfter=No
+73	вор	вор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	71	appos	_	SpaceAfter=No
+74	"	"	PUNCT	_	_	73	punct	_	SpaceAfter=No
+75	"	"	PUNCT	_	_	73	punct	_	SpaceAfter=No
+76	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+
+# sent_id = 9
+# text = 8 "Преступлений и пороков, в особенности резко выдающихся, здесь встречается мало", — считает И. Попов.9 Понятия "преступление" и "наказание" не встречаются при исследовании зырянских литературных, исторических, некоторых правовых источников.
+1	8	8	NUM	_	_	3	nummod	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nsubj	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	пороков	порок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	в	в	ADP	_	_	10	advmod	_	_
+8	особенности	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	fixed	_	_
+9	резко	резко	ADV	_	Degree=Pos	10	advmod	_	_
+10	выдающихся	выдающийся	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	3	acl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	здесь	здесь	ADV	_	Degree=Pos	13	advmod	_	_
+13	встречается	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	30	parataxis	_	_
+14	мало	мало	ADV	_	Degree=Pos	30	advmod	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	—	—	PUNCT	_	_	18	punct	_	_
+18	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	parataxis	_	_
+19	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	amod	_	_
+20	Попов.9	Попов.9	NUM	_	_	19	nummod	_	_
+21	Понятия	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	_
+22	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	conj	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	27	punct	_	_
+29	не	не	PART	_	_	30	advmod	_	_
+30	встречаются	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+31	при	при	ADP	_	_	32	case	_	_
+32	исследовании	исследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	_
+33	зырянских	зырянский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+34	литературных	литературный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	conj	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	34	punct	_	_
+36	исторических	исторический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	40	punct	_	_
+38	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	40	det	_	_
+39	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+40	источников	источник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 10
+# text = Зырянское обычное этническое право не было знакомо и с составом преступления, представленным в современной правовой доктрине.
+1	Зырянское	Зырянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	обычное	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+3	этническое	этнический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	знакомо	знакомый	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	parataxis	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	составом	состав	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	_
+11	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	представленным	представить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+14	в	в	ADP	_	_	17	case	_	_
+15	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+16	правовой	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	доктрине	доктрина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 11
+# text = Под наказанием понимали способ воздаяния за совершенные противоправные деяния.
+1	Под	под	ADP	_	_	2	case	_	_
+2	наказанием	наказание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+3	понимали	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	способ	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	воздаяния	воздаяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	за	за	ADP	_	_	9	case	_	_
+7	совершенные	совершить	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+8	противоправные	противоправный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	деяния	деяние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text = В целом уголовно-правовые институты в обычном этническом праве коми (зырян) не были детально разработаны.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+3	уголовно	уголовный	ADJ	_	Degree=Pos	5	compound	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	институты	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj:pass	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+11	коми	ко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	appos	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	appos	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	не	не	PART	_	_	18	advmod	_	_
+16	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	aux:pass	_	_
+17	детально	детально	ADV	_	Degree=Pos	18	advmod	_	_
+18	разработаны	разработать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 13
+# text = Одной из причин такого состояния, возможно, являлось отсутствие необходимости в его разработке: если правовой институт не применяется либо применяется нечасто, то нет необходимости в его детальном регулировании.
+1	Одной	один	NUM	_	Case=Ins|Gender=Fem	9	nummod	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+4	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	5	det	_	_
+5	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	возможно	возможно	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	являлось	являться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+11	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	его	его	DET	_	_	14	det	_	_
+14	разработке	разработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	14	punct	_	_
+16	если	если	SCONJ	_	_	20	mark	_	_
+17	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	институт	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	применяется	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	advcl	_	_
+21	либо	либо	CCONJ	_	_	22	cc	_	_
+22	применяется	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	conj	_	_
+23	нечасто	нечасто	ADV	_	Degree=Pos	22	advmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	20	punct	_	_
+25	то	то	SCONJ	_	_	26	mark	_	_
+26	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+27	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nsubj	_	_
+28	в	в	ADP	_	_	31	case	_	_
+29	его	его	DET	_	_	31	det	_	_
+30	детальном	детальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	регулировании	регулирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 14
+# text = Например, не было необходимости закрывать дома на замок, так как кражи совершались крайне редко, и каждый, опасаясь "религиозно-морального возмездия", боялся посягать на имущество другого; не существовало обмана при займе денег, так как зырянское население соблюдало не только нормы зырянского обычного этнического права, но и связанные с ними религиозно-моральные установки и т. д.
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	закрывать	закрывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	obl	_	_
+7	дома	дома	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	замок	замок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	так	так	ADV	_	Degree=Pos	14	mark	_	_
+12	как	как	SCONJ	_	_	11	fixed	_	_
+13	кражи	кража	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
+14	совершались	совершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	advcl	_	_
+15	крайне	крайне	ADV	_	Degree=Pos	16	advmod	_	_
+16	редко	редко	ADV	_	Degree=Pos	14	advmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	29	punct	_	_
+18	и	и	CCONJ	_	_	29	cc	_	_
+19	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	опасаясь	опасаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	19	advcl	_	_
+22	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+23	религиозно	религиозный	ADJ	_	Degree=Pos	25	compound	_	SpaceAfter=No
+24	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	морального	моральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	возмездия	возмездие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	21	punct	_	_
+29	боялся	бояться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	conj	_	_
+30	посягать	посягать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	имущество	имущество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obl	_	_
+33	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	obl	_	SpaceAfter=No
+34	;	;	PUNCT	_	_	4	punct	_	_
+35	не	не	PART	_	_	36	advmod	_	_
+36	существовало	существовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+37	обмана	обман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nsubj	_	_
+38	при	при	ADP	_	_	39	case	_	_
+39	займе	займе	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	37	nmod	_	_
+40	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	46	punct	_	_
+42	так	так	ADV	_	Degree=Pos	46	mark	_	_
+43	как	как	SCONJ	_	_	42	fixed	_	_
+44	зырянское	зырянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	45	amod	_	_
+45	население	население	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	nsubj	_	_
+46	соблюдало	соблюдать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	36	advcl	_	_
+47	не	не	PART	_	_	48	advmod	_	_
+48	только	только	PART	_	_	49	advmod	_	_
+49	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	46	obj	_	_
+50	зырянского	зырянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+51	обычного	обычный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+52	этнического	этнический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	63	punct	_	_
+55	но	но	CCONJ	_	_	63	cc	_	_
+56	и	и	PART	_	_	55	advmod	_	_
+57	связанные	связать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	63	acl	_	_
+58	с	с	ADP	_	_	59	case	_	_
+59	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	57	obl	_	_
+60	религиозно	религиозный	ADJ	_	Degree=Pos	62	compound	_	SpaceAfter=No
+61	-	-	PUNCT	_	_	60	punct	_	SpaceAfter=No
+62	моральные	моральный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	63	amod	_	_
+63	установки	установка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	49	conj	_	_
+64	и	и	CCONJ	_	_	65	cc	_	_
+65	т.	так	ADV	_	Degree=Pos	49	conj	_	_
+66	д	далее	ADV	_	Degree=Pos	65	fixed	_	SpaceAfter=No
+67	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 15
+# text = "В глухих местах замки были до сих пор неизвестны, и если иногда запираются амбары и кладовые, то не от людей, а от животных.
+1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	В	в	ADP	_	_	4	case	_	_
+3	глухих	глухой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	amod	_	_
+4	местах	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	_	_
+5	замки	замок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+6	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+7	до	до	ADP	_	_	10	advmod	_	_
+8	сих	сей	DET	_	Case=Gen|Number=Plur	7	fixed	_	_
+9	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	fixed	_	_
+10	неизвестны	неизвестный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	если	если	SCONJ	_	_	15	mark	_	_
+14	иногда	иногда	ADV	_	Degree=Pos	15	advmod	_	_
+15	запираются	запирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	_
+16	амбары	амбар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	кладовые	кладовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	то	то	SCONJ	_	_	23	cc	_	_
+21	не	не	PART	_	_	23	advmod	_	_
+22	от	от	ADP	_	_	23	case	_	_
+23	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	а	а	CCONJ	_	_	27	cc	_	_
+26	от	от	ADP	_	_	27	case	_	_
+27	животных	животное	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	15	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 16
+# text = Если хозяин дома, почему бы то ни было, не желает, чтобы во время его отсутствия к нему входили посторонние, то ставит у дверей пас, т. е. коромысло или простую палку наискось — 7
+1	Если	если	SCONJ	_	_	12	mark	_	_
+2	хозяин	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+3	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	12	punct	_	_
+5	почему	почему	ADV	_	Degree=Pos	12	advmod	_	_
+6	бы	бы	PART	_	_	5	fixed	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+8	ни	ни	PART	_	Polarity=Neg	7	fixed	_	_
+9	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	fixed	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	21	punct	_	_
+14	чтобы	чтобы	SCONJ	_	Mood=Cnd	21	mark	_	_
+15	во	во	ADP	_	_	18	case	_	_
+16	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	fixed	_	_
+17	его	его	DET	_	_	18	det	_	_
+18	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
+21	входили	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+22	посторонние	посторонний	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	12	punct	_	_
+24	то	то	SCONJ	_	_	25	mark	_	_
+25	ставит	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+26	у	у	ADP	_	_	27	case	_	_
+27	дверей	дверь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	obl	_	_
+28	пас	пас	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	mark	_	_
+31	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	fixed	_	_
+32	коромысло	коромысло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	parataxis	_	_
+33	или	или	CCONJ	_	_	35	cc	_	_
+34	простую	простой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	палку	палка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	conj	_	_
+36	наискось	наискось	ADV	_	Degree=Pos	38	advmod	_	_
+37	—	—	PUNCT	_	_	38	punct	_	_
+38	7	7	NUM	_	_	35	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = Ермилов Н. Е. Поездка на Печору.
+1	Ермилов	Ермилов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Поездка	поездка	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	Печору	Печор	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Путевые заметки.
+1	Путевые	Путевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	заметки	заметка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = С. 62.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	62	62	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Арсеньев Ф. А. Зырянин-охотник в недавнем прошлом // Охота и рыболовство.
+1	Арсеньев	Арсеньев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Зырянин	Зырянин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	охотник	охотник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	недавнем	недавний	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	прошлом	прошлое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+10	/	/	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	/	/	PUNCT	_	_	12	punct	_	_
+12	Охота	охота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	рыболовство	рыболовство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 21
+# text = 1921.
+1	1921	1921	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 22
+# text = № 5–6.
+1	№	№	SYM	_	_	0	root	_	_
+2	5	5	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	–	–	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	6	6	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 23
+# text = С. 5. 9 Попов И. Черты из быта, нравов и обычаев Зырян Яренского уезда, Удорского края // Вологодские губернские ведомости.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	5	5	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	9	9	NUM	_	_	1	nummod	_	_
+5	Попов	Попов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	И	И	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+8	Черты	черта	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+9	из	из	ADP	_	_	10	case	_	_
+10	быта	быт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	нравов	нрав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	обычаев	обычай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
+15	Зырян	Зырян	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	_
+16	Яренского	Яренский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	уезда	уезд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	Удорского	Удорский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	края	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	conj	_	_
+21	/	/	PUNCT	_	_	25	punct	_	SpaceAfter=No
+22	/	/	PUNCT	_	_	25	punct	_	_
+23	Вологодские	Вологодский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	_
+24	губернские	губернский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	_
+25	ведомости	ведомость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = 1875.
+1	1875	1875	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = № 90.
+1	№	№	SYM	_	_	0	root	_	_
+2	90	90	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = С. 4.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	4	4	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 27
+# text = 8
+1	8	8	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = и это служит лучше всякого замка.
+1	и	и	CCONJ	_	_	3	cc	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	служит	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	лучше	хорошо	ADV	_	Degree=Cmp	3	advmod	_	_
+5	всякого	всякий	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+6	замка	замок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 29
+# text = Тогда немного было замков; воры редкие находились (воры были редки): все своим трудом пропитывались; умалялись ли запасы — соломы лучше подбавляли, нежели кабалили себя, содержа семейство!
+1	Тогда	тогда	ADV	_	Degree=Pos	2	advmod	_	_
+2	немного	немного	ADV	_	Degree=Pos	4	obl	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	замков	замок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	;	;	PUNCT	_	_	4	punct	_	_
+6	воры	вор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	редкие	редкий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+8	находились	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+9	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	воры	вор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	редки	редкий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	8	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	8	punct	_	_
+15	все	весь	DET	_	Case=Nom|Number=Plur	18	det	_	_
+16	своим	свой	DET	_	Case=Ins|Gender=Masc|Number=Sing	17	det	_	_
+17	трудом	труд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	obl	_	_
+18	пропитывались	пропитываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	8	parataxis	_	SpaceAfter=No
+19	;	;	PUNCT	_	_	4	punct	_	_
+20	умалялись	умаляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	4	conj	_	_
+21	ли	ли	PART	_	_	20	advmod	_	_
+22	запасы	запас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	nsubj:pass	_	_
+23	—	—	PUNCT	_	_	26	punct	_	_
+24	соломы	солома	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	_
+25	лучше	хорошо	ADV	_	Degree=Cmp	26	advmod	_	_
+26	подбавляли	подбавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	нежели	нежели	SCONJ	_	_	29	mark	_	_
+29	кабалили	кабалить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	26	advcl	_	_
+30	себя	себя	PRON	_	Case=Acc	29	obj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	содержа	содержить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	29	advcl	_	_
+33	семейство	семейство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	32	obj	_	SpaceAfter=No
+34	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 30
+# text = У кого денег не хватало — друг друга ссужали (ими), обратно честно рвались отдать (с рвением отдавали); обмана, проволочки не соблюдали (не делали), из лести не дружились".10 Превентивные меры в виде общественного порицания или боязнь наказания со стороны "высших сил (духов)", которое, как считалось, неминуемо настигнет виновное лицо, были направлены на предупреждение совершения противоправного деяния, выполняя профилактическую роль.
+1	У	у	ADP	_	_	2	case	_	_
+2	кого	кто	PRON	_	Case=Gen	5	obl	_	_
+3	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	хватало	хватать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+6	—	—	PUNCT	_	_	5	punct	_	_
+7	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	друга	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	fixed	_	_
+9	ссужали	сужать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	9	parataxis	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	обратно	обратно	ADV	_	Degree=Pos	16	advmod	_	_
+15	честно	честно	ADV	_	Degree=Pos	16	advmod	_	_
+16	рвались	рвать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	conj	_	_
+17	отдать	отдать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+19	с	с	ADP	_	_	20	case	_	_
+20	рвением	рвение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	obl	_	_
+21	отдавали	отдавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	;	;	PUNCT	_	_	9	punct	_	_
+24	обмана	обман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	проволочки	проволочка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	obl	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	соблюдали	соблюдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+29	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
+30	не	не	PART	_	_	31	advmod	_	_
+31	делали	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	28	parataxis	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	31	punct	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	из	из	ADP	_	_	35	case	_	_
+35	лести	лесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	obl	_	_
+36	не	не	PART	_	_	37	advmod	_	_
+37	дружились	дружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	28	conj	_	SpaceAfter=No
+38	"	"	PUNCT	_	_	41	punct	_	SpaceAfter=No
+39	.10	.10	NUM	_	_	41	nummod	_	_
+40	Превентивные	Превентивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	41	amod	_	_
+41	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	37	nsubj	_	_
+42	в	в	ADP	_	_	45	case	_	_
+43	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	42	fixed	_	_
+44	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	45	amod	_	_
+45	порицания	порицание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+46	или	или	CCONJ	_	_	47	cc	_	_
+47	боязнь	боязнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	45	conj	_	_
+48	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	47	nmod	_	_
+49	со	со	ADP	_	_	53	case	_	_
+50	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	fixed	_	_
+51	"	"	PUNCT	_	_	53	punct	_	SpaceAfter=No
+52	высших	высший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	53	amod	_	_
+53	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	47	nmod	_	_
+54	(	(	PUNCT	_	_	55	punct	_	SpaceAfter=No
+55	духов	дух	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	53	appos	_	SpaceAfter=No
+56	)	)	PUNCT	_	_	55	punct	_	SpaceAfter=No
+57	"	"	PUNCT	_	_	55	punct	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	65	punct	_	_
+59	которое	который	PRON	_	Case=Nom	65	nsubj	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	59	punct	_	_
+61	как	как	SCONJ	_	_	62	mark	_	_
+62	считалось	считать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	65	parataxis	_	SpaceAfter=No
+63	,	,	PUNCT	_	_	62	punct	_	_
+64	неминуемо	неминуемо	ADV	_	Degree=Pos	65	advmod	_	_
+65	настигнет	настичь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	55	acl:relcl	_	_
+66	виновное	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	67	amod	_	_
+67	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	65	obj	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	70	punct	_	_
+69	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	70	aux:pass	_	_
+70	направлены	направить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	55	conj	_	_
+71	на	на	ADP	_	_	72	case	_	_
+72	предупреждение	предупреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	70	obl	_	_
+73	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	72	nmod	_	_
+74	противоправного	противоправный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	75	amod	_	_
+75	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	73	nmod	_	SpaceAfter=No
+76	,	,	PUNCT	_	_	77	punct	_	_
+77	выполняя	выполнять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	70	advcl	_	_
+78	профилактическую	профилактический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	79	amod	_	_
+79	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	77	obj	_	SpaceAfter=No
+80	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 31
+# text = Однако выделить институты преступления и наказания при анализе различных источников все же представляется возможным.
+1	Однако	однако	ADV	_	Degree=Pos	2	advmod	_	_
+2	выделить	выделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	csubj	_	_
+3	институты	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	анализе	анализ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
+9	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	источников	источник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	все	все	PART	_	_	13	advmod	_	_
+12	же	же	PART	_	_	11	fixed	_	_
+13	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 32
+# text = Реконструируя литературные, архивные источники, можно отметить, что в дохристианский период у зырян совершались кражи.
+1	Реконструируя	Реконструировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	_
+2	литературные	литературный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	архивные	архивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	2	conj	_	_
+5	источники	источник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+8	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	что	что	SCONJ	_	_	16	mark	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	дохристианский	дохристианский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	obl	_	_
+16	совершались	совершаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	8	ccomp	_	_
+17	кражи	кража	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj:pass	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 33
+# text = В мифологических сказаниях, былинах и других фольклорных источниках, отражавших дохристианский период, упоминаются кражи имущества с могил, скота у соплеменников.
+1	В	в	ADP	_	_	3	case	_	_
+2	мифологических	мифологический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	3	amod	_	_
+3	сказаниях	сказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	15	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	былинах	былина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	3	conj	_	_
+6	и	и	CCONJ	_	_	9	cc	_	_
+7	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+8	фольклорных	фольклорный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	источниках	источник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	отражавших	отражать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	_
+12	дохристианский	дохристианский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	упоминаются	упоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	кражи	кража	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	nsubj:pass	_	_
+17	имущества	имущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	могил	могила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	скота	скот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
+22	у	у	ADP	_	_	23	case	_	_
+23	соплеменников	соплеменник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 34
+# text = Наказание в таких случаях осуществлялось в виде смертной казни.
+1	Наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	таких	такой	DET	_	Case=Loc|Number=Plur	4	det	_	_
+4	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	_
+5	осуществлялось	осуществляться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	fixed	_	_
+8	смертной	смертный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	казни	казнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 35
+# text = Так, мифические герои Юрка, живший около села Маджа, Гулень, обитавший около села Позтыкерос, воровали скот у своих односельчан.
+1	Так	так	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	мифические	мифический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	герои	герой	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+5	Юрка	Юрка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	живший	жить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
+8	около	около	ADP	_	_	9	case	_	_
+9	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+10	Маджа	Мадж	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Гулень	Гулень	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	обитавший	обитать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
+15	около	около	ADP	_	_	16	case	_	_
+16	села	село	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+17	Позтыкерос	Позтыкерос	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	appos	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	воровали	воровать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+20	скот	скот	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	obl	_	_
+21	у	у	ADP	_	_	23	case	_	_
+22	своих	свой	DET	_	Case=Gen|Number=Plur	23	det	_	_
+23	односельчан	односельчанин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 36
+# text = Решение о наказании таких похитителей скота выносилось коллективно, причем при участии близких родственников.
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	наказании	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+4	таких	такой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+5	похитителей	похититель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	скота	скот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	выносилось	выносить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	коллективно	коллективно	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	причем	причем	CCONJ	_	_	12	cc	_	_
+11	при	при	ADP	_	_	12	case	_	_
+12	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	conj	_	_
+13	близких	близкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	родственников	родственник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = Осуществление наказания происходило также коллективно, так как виновного либо спаивали крепким пивом и топили в озере, либо обездвиживали, связывая его, и также топили в реке.
+1	Осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	происходило	происходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+5	коллективно	коллективно	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	так	так	ADV	_	Degree=Pos	11	mark	_	_
+8	как	как	SCONJ	_	_	7	fixed	_	_
+9	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	_
+10	либо	либо	CCONJ	_	_	11	cc	_	_
+11	спаивали	спаивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+12	крепким	крепкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	пивом	пиво	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	топили	топать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	озере	озеро	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	либо	либо	CCONJ	_	_	20	cc	_	_
+20	обездвиживали	обездвиживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	связывая	связывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	20	advcl	_	_
+23	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	также	также	ADV	_	Degree=Pos	27	advmod	_	_
+27	топили	топать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	реке	река	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 38
+# text = Весь "грех" за убийство от совершенного наказания коллектив делил поровну на каждого члена данного общества, поедая ритуальную кашу, сваренную после совершения наказания.11 Со времени распространения христианства в XIV в. фольклорные источники упоминают о краже дичи, пушнины, рыбы, так как после включения в общероссийские рыночные отношения Коми края существенное значение приобрели пушнина и объекты промысла.12 О воровстве некоторых зырян упоминает и И. И. Лепехин, посещавший в конце XVIII в.
+1	Весь	весь	DET	_	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	грех	грех	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	за	за	ADP	_	_	6	case	_	_
+6	убийство	убийство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+7	от	от	ADP	_	_	9	case	_	_
+8	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+10	коллектив	коллектив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	делил	делить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	поровну	поровн	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	на	на	ADP	_	_	15	case	_	_
+14	каждого	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	члена	член	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+16	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	поедая	поедать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	11	advcl	_	_
+20	ритуальную	ритуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	кашу	каша	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	сваренную	свареть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+24	после	после	ADP	_	_	25	case	_	_
+25	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	obl	_	_
+26	наказания.11	наказания.11	NOUN	_	_	37	obl	_	_
+27	Со	с	ADP	_	_	28	case	_	_
+28	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	распространения	распространение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	христианства	христианство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	XIV	xiv	NUM	_	_	33	nummod	_	_
+33	в	в	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	26	punct	_	_
+35	фольклорные	фольклорный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	_
+36	источники	источник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	37	nsubj	_	_
+37	упоминают	упоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	xcomp	_	_
+38	о	о	ADP	_	_	39	case	_	_
+39	краже	кража	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	37	obl	_	_
+40	дичи	дич	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	пушнины	пушнина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	conj	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	рыбы	рыба	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	40	conj	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	67	punct	_	_
+46	так	так	ADV	_	Degree=Pos	67	mark	_	_
+47	как	как	SCONJ	_	_	46	fixed	_	_
+48	после	после	ADP	_	_	49	case	_	_
+49	включения	включение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	67	obl	_	_
+50	в	в	ADP	_	_	53	case	_	_
+51	общероссийские	общероссийский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	53	amod	_	_
+52	рыночные	рыночный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	53	amod	_	_
+53	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	49	nmod	_	_
+54	Коми	Коми	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	67	obj	_	_
+55	края	край	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	58	advcl	_	_
+56	существенное	существенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	57	amod	_	_
+57	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	55	obj	_	_
+58	приобрели	приобрести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	67	xcomp	_	_
+59	пушнина	пушнина	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	58	obj	_	_
+60	и	и	CCONJ	_	_	61	cc	_	_
+61	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	59	conj	_	_
+62	промысла.12	промысла.12	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	61	nmod	_	_
+63	О	о	ADP	_	_	64	case	_	_
+64	воровстве	воровство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	62	nmod	_	_
+65	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	66	det	_	_
+66	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	64	nmod	_	_
+67	упоминает	упоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	_
+68	и	и	PART	_	_	69	advmod	_	_
+69	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	67	nsubj	_	_
+70	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	69	flat:name	_	_
+71	Лепехин	Лепехин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	69	flat:name	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	73	punct	_	_
+73	посещавший	посещать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	69	acl	_	_
+74	в	в	ADP	_	_	75	case	_	_
+75	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	73	obl	_	_
+76	XVIII	xviii	NUM	_	_	77	nummod	_	_
+77	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	75	nmod	_	SpaceAfter=No
+78	.	.	PUNCT	_	_	67	punct	_	_
+
+# sent_id = 39
+# text = Коми край: "Богачи Сухановы прозываемые, которые и сами произошли от зырянского племени.
+1	Коми	Кой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	край	край	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Богачи	Богача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	_
+6	Сухановы	Суханов	PROPN	_	_	5	appos	_	_
+7	прозываемые	прозывать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	которые	который	PRON	_	Case=Acc	12	nsubj	_	_
+10	и	и	PART	_	_	11	advmod	_	_
+11	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	obl	_	_
+12	произошли	произойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	от	от	ADP	_	_	15	case	_	_
+14	зырянского	зырянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	племени	племя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = Провороство их в торговле обогатило их и сделало зырянскими князьками".13 Однако подобных богачей, наживших свое состояние на воровстве в торговле среди коми (зырян), было очень немного.
+1	Провороство	Провороство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	их	они	DET	_	_	1	det	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+5	обогатило	обогатять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	_
+6	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	5	obj	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	сделало	делать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	30	conj	_	_
+9	зырянскими	зырянский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	_
+10	князьками	князька	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	30	obl	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+12	.13	.13	NUM	_	_	30	nummod	_	_
+13	Однако	однако	ADV	_	Degree=Pos	30	advmod	_	_
+14	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	богачей	богач	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	30	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	наживших	нажить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	acl	_	_
+18	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	19	det	_	_
+19	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	воровстве	воровство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+24	среди	среди	ADP	_	_	25	case	_	_
+25	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	17	obl	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	parataxis	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	17	punct	_	_
+30	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+31	очень	очень	ADV	_	Degree=Pos	32	advmod	_	_
+32	немного	немного	ADV	_	Degree=Pos	30	advmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 41
+# text = Коми мифология включает ряд сюжетов, в которых содержатся различные виды преступлений и проступков.
+1	Коми	Ко	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	мифология	мифология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	сюжетов	сюжет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	которых	который	PRON	_	Case=Loc	9	obl	_	_
+9	содержатся	содержаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	_
+10	различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	виды	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+12	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	проступков	проступок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 42
+# text = Такое наказание, как превращение человека в лягушку из-за инцеста (его сожительства с матерью), свидетельствует о наличии запрета на кровосмешение и существовании табу инцеста, так как половая связь между близкими кровными родственниками у коми (зырян) издревле запрещалась.
+1	Такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	превращение	превращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	acl	_	_
+6	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	лягушку	лягушка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+9	из-за	из-за	ADP	_	_	10	case	_	_
+10	инцеста	инцест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	его	его	DET	_	_	13	det	_	_
+13	сожительства	сожительство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	parataxis	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	матерью	мать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	2	punct	_	_
+18	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	о	о	ADP	_	_	20	case	_	_
+20	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+21	запрета	запрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	кровосмешение	кровосмешение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	существовании	существование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	conj	_	_
+26	табу	табу	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	_
+27	инцеста	инцест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	43	punct	_	_
+29	так	так	ADV	_	Degree=Pos	43	mark	_	_
+30	как	как	SCONJ	_	_	29	fixed	_	_
+31	половая	половой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	связь	связь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	nsubj	_	_
+33	между	между	ADP	_	_	36	case	_	_
+34	близкими	близкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	36	amod	_	_
+35	кровными	кровный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	36	amod	_	_
+36	родственниками	родственник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	32	nmod	_	_
+37	у	у	ADP	_	_	38	case	_	_
+38	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	43	obl	_	_
+39	(	(	PUNCT	_	_	40	punct	_	SpaceAfter=No
+40	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	38	parataxis	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	40	punct	_	_
+42	издревле	издревле	ADV	_	Degree=Pos	43	advmod	_	_
+43	запрещалась	запрещать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	advcl	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 43
+# text = Кроме того, в коми быличках сохранился запрет и на браки между крестными, между крестным и матерью ребенка, между крестным и повитухой ребенка; существовали и до сих пор сохраняются половые табуированные нормы, регламентирующие 10
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	коми	кой	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+6	быличках	быличка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	_
+7	сохранился	сохраниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	запрет	запрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	браки	брак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	conj	_	_
+12	между	между	ADP	_	_	13	case	_	_
+13	крестными	крестный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	между	между	ADP	_	_	16	case	_	_
+16	крестным	крестный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	conj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	матерью	мать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	13	conj	_	_
+19	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	между	между	ADP	_	_	22	case	_	_
+22	крестным	крестный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	13	conj	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	повитухой	повитухый	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	conj	_	_
+25	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	;	;	PUNCT	_	_	7	punct	_	_
+27	существовали	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+28	и	и	PART	_	_	32	advmod	_	_
+29	до	до	ADP	_	_	32	advmod	_	_
+30	сих	сей	DET	_	Case=Gen|Number=Plur	29	fixed	_	_
+31	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	fixed	_	_
+32	сохраняются	сохраняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	27	ccomp	_	_
+33	половые	половой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
+34	табуированные	табуированный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
+35	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	32	nsubj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	регламентирующие	регламентировать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	35	acl	_	_
+38	10	10	NUM	_	_	7	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = Михайлов М. И. Физические и нравственные свойства зырян.
+1	Михайлов	Михайлов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Физические	физический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	нравственные	нравственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	conj	_	_
+7	свойства	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+8	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = С. 77.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	77	77	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 46
+# text = Соционормативная мифология коми // www.kom.com/folk/myth/31.htm.
+1	Соционормативная	Соционормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	мифология	мифология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	коми	ко	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+4	/	/	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	3	punct	_	_
+6	www.kom.com/folk/myth/31.htm	www.kom.com/folk/myth/31.htm	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 47
+# text = 12 Там же.
+1	12	12	NUM	_	_	2	nummod	_	_
+2	Там	там	ADV	_	Degree=Pos	0	root	_	_
+3	же	же	PART	_	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 48
+# text = 13 Лепехин И. И. Продолжение дневных записок путешествия Ивана Лепехина по разным провинциям Российского государства в 1771 году // Савельева Э. А., Королев К. С. Письменные известия о народе коми.
+1	13	13	NUM	_	_	2	nummod	_	_
+2	Лепехин	Лепехин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+5	Продолжение	Продолжение	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
+6	дневных	дневной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	записок	записка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	путешествия	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	Ивана	Иван	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	Лепехина	Лепехин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	flat:name	_	_
+11	по	по	ADP	_	_	13	case	_	_
+12	разным	разный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	amod	_	_
+13	провинциям	провинция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	nmod	_	_
+14	Российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	1771	1771	NUM	_	_	18	nummod	_	_
+18	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	_
+19	/	/	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	Савельева	Савельев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+22	Э.	Э.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	flat:name	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	Королев	Королев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+26	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	flat:name	_	_
+27	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	flat:name	_	_
+28	Письменные	письменный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	amod	_	_
+29	известия	известие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	25	appos	_	_
+30	о	о	ADP	_	_	31	case	_	_
+31	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	29	nmod	_	_
+32	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 49
+# text = Сыктывкар, 2007.
+1	Сыктывкар	Сыктывкар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2007	2007	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = С. 142.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	142	142	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = 11
+1	11	11	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = запрет интимных отношений, в том числе и между супругами, для промысловиков, которым предстоял промысел.14 Такая регламентация личной жизни индивида свидетельствует о наличии контроля со стороны общества.
+1	запрет	запрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+2	интимных	интимный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	7	det	_	_
+7	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	nmod	_	_
+8	и	и	PART	_	_	10	cc	_	_
+9	между	между	ADP	_	_	10	case	_	_
+10	супругами	супруга	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	промысловиков	промысловик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	которым	который	PRON	_	Case=Dat	16	iobj	_	_
+16	предстоял	предстоять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+17	промысел.14	промысел.14	NUM	_	_	19	nummod	_	_
+18	Такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	19	det	_	_
+19	регламентация	регламентация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+20	личной	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	индивида	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+24	о	о	ADP	_	_	25	case	_	_
+25	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+26	контроля	контроль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+27	со	со	ADP	_	_	29	case	_	_
+28	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	fixed	_	_
+29	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 53
+# text = После XIV в. ценностные ориентиры сместились от личного скота в сторону товарной продукции, добываемой на промыслах.
+1	После	после	ADP	_	_	3	case	_	_
+2	XIV	xiv	NUM	_	_	3	nummod	_	_
+3	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	ценностные	ценностный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	ориентиры	ориентир	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+7	сместились	сместиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	от	от	ADP	_	_	10	case	_	_
+9	личного	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	скота	скот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	сторону	сторона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+13	товарной	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	добываемой	добывать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	14	acl	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	промыслах	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 54
+# text = Поэтому в обычном этническом праве появляются новые виды и объекты преступлений.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	6	advmod	_	_
+2	в	в	ADP	_	_	5	case	_	_
+3	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+4	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	виды	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	объекты	объект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
+11	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 55
+# text = Это большой вид "промысловых преступлений и проступков", к которым относятся: — хищение чужой добычи из капканов и иных снарядов для ловли зверей и некоторых видов птиц; — убийство объекта промысла, ранее подстреленного, но не убитого, другим охотником; — хищение имущества из чужих кладовых; — хищение рыбы из сетей и ловушек для рыбы; — ссоры, вражда, распри между артельщиками во время промыслов; — оскорбление совершенными на промысле непродуманными, противоречащими общепринятым нормам поведения действиями и др.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	большой	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	промысловых	промысловый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	проступков	проступок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	которым	который	PRON	_	Case=Dat	13	obl	_	_
+13	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	13	punct	_	_
+15	—	—	PUNCT	_	_	16	punct	_	_
+16	хищение	хищение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	parataxis	_	_
+17	чужой	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	добычи	добыча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+19	из	из	ADP	_	_	20	case	_	_
+20	капканов	капкан	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	снарядов	снаряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	conj	_	_
+24	для	для	ADP	_	_	25	case	_	_
+25	ловли	ловля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+26	зверей	зверь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	_
+27	и	и	CCONJ	_	_	29	cc	_	_
+28	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	29	det	_	_
+29	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	conj	_	_
+30	птиц	птица	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+31	;	;	PUNCT	_	_	16	punct	_	_
+32	—	—	PUNCT	_	_	33	punct	_	_
+33	убийство	убийство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	_
+34	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+35	промысла	промысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	38	punct	_	_
+37	ранее	ранее	ADV	_	Degree=Pos	38	advmod	_	_
+38	подстреленного	подстрелить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	35	acl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	_
+40	но	но	CCONJ	_	_	42	cc	_	_
+41	не	не	PART	_	_	42	advmod	_	_
+42	убитого	убить	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	conj	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+45	охотником	охотник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	42	obl	_	SpaceAfter=No
+46	;	;	PUNCT	_	_	45	punct	_	_
+47	—	—	PUNCT	_	_	48	punct	_	_
+48	хищение	хищение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	45	conj	_	_
+49	имущества	имущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	nmod	_	_
+50	из	из	ADP	_	_	52	case	_	_
+51	чужих	чужой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	52	amod	_	_
+52	кладовых	кладовой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	49	nmod	_	SpaceAfter=No
+53	;	;	PUNCT	_	_	45	punct	_	_
+54	—	—	PUNCT	_	_	55	punct	_	_
+55	хищение	хищение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	45	conj	_	_
+56	рыбы	рыба	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	_
+57	из	из	ADP	_	_	58	case	_	_
+58	сетей	сеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	56	nmod	_	_
+59	и	и	CCONJ	_	_	60	cc	_	_
+60	ловушек	ловушка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	56	conj	_	_
+61	для	для	ADP	_	_	62	case	_	_
+62	рыбы	рыба	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	60	nmod	_	SpaceAfter=No
+63	;	;	PUNCT	_	_	62	punct	_	_
+64	—	—	PUNCT	_	_	65	punct	_	_
+65	ссоры	ссора	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	62	conj	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	67	punct	_	_
+67	вражда	вражда	ADV	_	Degree=Pos	65	advmod	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	74	punct	_	_
+69	распри	распря	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	74	nsubj	_	_
+70	между	между	ADP	_	_	71	case	_	_
+71	артельщиками	артельщика	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	69	nmod	_	_
+72	во	во	ADP	_	_	74	case	_	_
+73	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	72	fixed	_	_
+74	промыслов	промысл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	67	conj	_	SpaceAfter=No
+75	;	;	PUNCT	_	_	67	punct	_	_
+76	—	—	PUNCT	_	_	77	punct	_	_
+77	оскорбление	оскорбление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	67	conj	_	_
+78	совершенными	совершить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	86	acl	_	_
+79	на	на	ADP	_	_	80	case	_	_
+80	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	78	obl	_	_
+81	непродуманными	непродуманный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	86	acl	_	SpaceAfter=No
+82	,	,	PUNCT	_	_	83	punct	_	_
+83	противоречащими	противоречить	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	81	conj	_	_
+84	общепринятым	общепринятый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	85	amod	_	_
+85	нормам	норма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	83	iobj	_	_
+86	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	77	nmod	_	_
+87	действиями	действие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	77	nmod	_	_
+88	и	и	CCONJ	_	_	89	cc	_	_
+89	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	87	conj	_	SpaceAfter=No
+90	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 56
+# text = "Считалось большим правонарушением убить белку, на которую лает в лесу собака другого охотника; убить зверя, раненного другим охотником".15 Наказание за подобные деяния состояло из двух последовательных действий и осуществлялось сперва в виде изгнания из промысловых угодий либо "распятия", часто применявшегося в селениях, расположенных по течению рек Вычегда и Печора, и заключавшегося в том, что руки виновного привязывали к палке, образуя форму креста, и отпускали его домой через густой лес.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Считалось	считать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	правонарушением	правонарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+5	убить	убить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj:pass	_	_
+6	белку	белок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	которую	который	PRON	_	Case=Acc	10	obl	_	_
+10	лает	лаять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	лесу	лес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+14	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	охотника	охотник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	;	;	PUNCT	_	_	5	punct	_	_
+17	убить	убить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	_
+18	зверя	зверь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	раненного	ранить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	_
+21	другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	охотником	охотник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	.15	.15	NUM	_	_	25	nummod	_	_
+25	Наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	appos	_	_
+26	за	за	ADP	_	_	28	case	_	_
+27	подобные	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	28	amod	_	_
+28	деяния	деяние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	25	nmod	_	_
+29	состояло	состоять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	advmod	_	_
+30	из	из	ADP	_	_	33	case	_	_
+31	двух	два	NUM	_	Case=Gen	33	nummod	_	_
+32	последовательных	последовательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	obl	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	осуществлялось	осуществлять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	29	conj	_	_
+36	сперва	сперва	ADV	_	Degree=Pos	39	obl	_	_
+37	в	в	ADP	_	_	39	case	_	_
+38	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	37	fixed	_	_
+39	изгнания	изгнание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	obl	_	_
+40	из	из	ADP	_	_	42	case	_	_
+41	промысловых	промысловый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	42	amod	_	_
+42	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	39	nmod	_	_
+43	либо	либо	CCONJ	_	_	45	cc	_	_
+44	"	"	PUNCT	_	_	45	punct	_	SpaceAfter=No
+45	распятия	распятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
+46	"	"	PUNCT	_	_	45	punct	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	49	punct	_	_
+48	часто	часто	ADV	_	Degree=Pos	49	advmod	_	_
+49	применявшегося	применяться	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	45	acl	_	_
+50	в	в	ADP	_	_	51	case	_	_
+51	селениях	селение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	49	obl	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	расположенных	расположенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	49	conj	_	_
+54	по	по	ADP	_	_	55	case	_	_
+55	течению	течение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	53	obl	_	_
+56	рек	река	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	55	nmod	_	_
+57	Вычегда	Вычегд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	56	nmod	_	_
+58	и	и	CCONJ	_	_	59	cc	_	_
+59	Печора	Печор	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	57	conj	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	62	punct	_	_
+61	и	и	CCONJ	_	_	62	cc	_	_
+62	заключавшегося	заключаться	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	49	conj	_	_
+63	в	в	ADP	_	_	64	case	_	_
+64	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	62	obl	_	SpaceAfter=No
+65	,	,	PUNCT	_	_	69	punct	_	_
+66	что	что	SCONJ	_	_	69	mark	_	_
+67	руки	рука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	69	nsubj	_	_
+68	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	67	nmod	_	_
+69	привязывали	привязать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	64	acl	_	_
+70	к	к	ADP	_	_	71	case	_	_
+71	палке	палка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	69	obl	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	73	punct	_	_
+73	образуя	образовывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	69	advcl	_	_
+74	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	73	obj	_	_
+75	креста	крест	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	74	nmod	_	SpaceAfter=No
+76	,	,	PUNCT	_	_	78	punct	_	_
+77	и	и	CCONJ	_	_	78	cc	_	_
+78	отпускали	отпускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	69	conj	_	_
+79	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	78	obj	_	_
+80	домой	домой	ADV	_	Degree=Pos	78	advmod	_	_
+81	через	через	ADP	_	_	83	case	_	_
+82	густой	густой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	83	amod	_	_
+83	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	78	obl	_	SpaceAfter=No
+84	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 57
+# text = Добраться до своего селения в таком виде было очень сложно.
+1	Добраться	добраться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	csubj	_	_
+2	до	до	ADP	_	_	4	case	_	_
+3	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	4	det	_	_
+4	селения	селение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obl	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	7	det	_	_
+7	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	очень	очень	ADV	_	Degree=Pos	10	obl	_	_
+10	сложно	сложный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 58
+# text = Второе действие, направленное на осуществление наказания, состояло в том, что виновное лицо подвергалось позорящим его честь действиям в виде общественного наказания и порицания.
+1	Второе	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	направленное	направить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+7	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	состояло	состоять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	что	что	SCONJ	_	_	16	mark	_	_
+14	виновное	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+16	подвергалось	подвергаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl	_	_
+17	позорящим	позорящить	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+18	его	его	DET	_	_	19	det	_	_
+19	честь	честь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+20	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	16	iobj	_	_
+21	в	в	ADP	_	_	24	case	_	_
+22	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	fixed	_	_
+23	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	порицания	порицание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 59
+# text = Это приводило к тому, что виновное в совершении противоправных деяний лицо, претерпев первую часть наказания, пожизненно не могло избавиться от общественного порицания, что вынуждало его переселиться в другое место.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	приводило	приводить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	к	к	ADP	_	_	4	case	_	_
+4	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	21	punct	_	_
+6	что	что	SCONJ	_	_	21	mark	_	_
+7	виновное	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+10	противоправных	противоправный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	деяний	деяний	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+12	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	претерпев	претерпеть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	_
+15	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+17	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	пожизненно	пожизненно	ADV	_	Degree=Pos	21	advmod	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
+22	избавиться	избавиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	21	xcomp	_	_
+23	от	от	ADP	_	_	25	case	_	_
+24	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	порицания	порицание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	что	что	PRON	_	Case=Nom	28	nsubj	_	_
+28	вынуждало	вынуждать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+29	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	28	obj	_	_
+30	переселиться	переселить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	28	xcomp	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	другое	другой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 60
+# text = Литературные источники отмечают, что в конце XIX — начале XX в. за систематическое хищение чужой добычи появилось суровое наказание нарушителей права собственности.
+1	Литературные	литературный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	источники	источник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	18	punct	_	_
+5	что	что	SCONJ	_	_	18	mark	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
+8	XIX	xix	NUM	_	_	10	nummod	_	_
+9	—	—	PUNCT	_	_	10	punct	_	_
+10	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+11	XX	xx	NUM	_	_	12	nummod	_	_
+12	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	за	за	ADP	_	_	15	case	_	_
+14	систематическое	систематический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	хищение	хищение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+16	чужой	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	добычи	добыча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	появилось	появиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
+19	суровое	суровый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+21	нарушителей	нарушитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+22	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 61
+# text = Такое наказание называлось "сар пуктм" ("на царство посажение").
+1	Такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	называлось	называться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	сар	сар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	obj	_	_
+6	пуктм	пуктм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	5	punct	_	_
+8	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	на	на	ADP	_	_	11	case	_	_
+11	царство	царство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	parataxis	_	_
+12	посажение	посажение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	appos	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 62
+# text = Оно заключалось в том, что виновное лицо прищемлялось за волосы в расщепе дерева.
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj	_	_
+2	заключалось	заключаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	виновное	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	прищемлялось	прищемляться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	_
+10	за	за	ADP	_	_	11	case	_	_
+11	волосы	волос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obl	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	расщепе	расщеп	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+14	дерева	дерево	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 63
+# text = В таком виде его оставляли в лесу.
+1	В	в	ADP	_	_	3	case	_	_
+2	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obj	_	_
+5	оставляли	оставляти	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	лесу	лес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 64
+# text = Кроме того, его могли сжечь живьем в его собственной избе и т. д.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+5	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	сжечь	сжечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	живьем	живьем	ADV	_	Degree=Pos	11	obl	_	_
+8	в	в	ADP	_	_	11	case	_	_
+9	его	его	DET	_	_	11	det	_	_
+10	собственной	собственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	избе	изба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	т.	так	ADV	_	Degree=Pos	11	conj	_	_
+14	д	далее	ADV	_	Degree=Pos	13	fixed	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 65
+# text = За похищение объектов рыбного промысла также сурово наказывали.
+1	За	за	ADP	_	_	2	case	_	_
+2	похищение	похищение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+3	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	рыбного	рыбный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	промысла	промысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	также	также	ADV	_	Degree=Pos	8	advmod	_	_
+7	сурово	сурово	ADV	_	Degree=Pos	8	advmod	_	_
+8	наказывали	наказать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 66
+# text = Виновное лицо, неоднократно совершавшее подобные действия, подвергалось смерти.16 За нарушение охотничьего права собственности в соответствии с народными воззрениями наступала неудача на промысле.
+1	Виновное	Виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	неоднократно	неоднократно	ADV	_	Degree=Pos	5	advmod	_	_
+5	совершавшее	совершать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	_
+6	подобные	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	подвергалось	подвергать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	смерти.16	смерти.16	NOUN	_	_	9	iobj	_	_
+11	За	за	ADP	_	_	12	case	_	_
+12	нарушение	нарушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+13	охотничьего	охотничий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	в	в	ADP	_	_	20	case	_	_
+17	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	fixed	_	_
+18	с	с	ADP	_	_	16	fixed	_	_
+19	народными	народный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	amod	_	_
+20	воззрениями	воззрение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	21	obl	_	_
+21	наступала	наступать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+22	неудача	неудача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 67
+# text = Так, при артельной добыче в случае утайки части добычи одним из членов артели он рисковал, по мнению артельщиков, остаться без добычи в будущем.
+1	Так	так	ADV	_	Degree=Pos	16	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	при	при	ADP	_	_	5	case	_	_
+4	артельной	артельный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	добыче	добыча	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+8	утайки	утайка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	добычи	добыча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	одним	один	NUM	_	Case=Ins|Gender=Masc	5	nummod	_	_
+12	из	из	ADP	_	_	13	case	_	_
+13	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+14	артели	артель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+16	рисковал	рисковать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	по	по	ADP	_	_	19	case	_	_
+19	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	parataxis	_	_
+20	артельщиков	артельщик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	остаться	остаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	xcomp	_	_
+23	без	без	ADP	_	_	24	case	_	_
+24	добычи	добыча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	obl	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 68
+# text = Превентивные меры в виде порицания общества или наказания со стороны "высших сил", направленные на предупреждение совершения противоправного деяния, выполняли свою роль.
+1	Превентивные	Превентивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	fixed	_	_
+5	порицания	порицание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+6	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	или	или	CCONJ	_	_	8	cc	_	_
+8	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	conj	_	_
+9	со	со	ADP	_	_	13	case	_	_
+10	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	fixed	_	_
+11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	высших	высший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	направленные	направить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	предупреждение	предупреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+19	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	противоправного	противоправный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	16	punct	_	_
+23	выполняли	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+24	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	25	det	_	_
+25	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 69
+# text = 14 15 16
+1	14	14	NUM	_	_	0	root	_	_
+2	15	15	NUM	_	_	1	nummod	_	_
+3	16	16	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 70
+# text = Соционормативная мифология коми.
+1	Соционормативная	Соционормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	мифология	мифология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 71
+# text = Михайлов М. И. Физические и нравственные свойства зырян.
+1	Михайлов	Михайлов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Физические	физический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	нравственные	нравственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	conj	_	_
+7	свойства	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+8	зырян.	зырянута	DET	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+
+# sent_id = 72
+# text = С. 152.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	152	152	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = Соционормативная мифология коми.
+1	Соционормативная	Соционормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	мифология	мифология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 74
+# text = Такие промысловые проступки, как ссоры, вражда, распри между артельщиками во время ведения промысла, т. е. действия, посягающие на установленные обычным этническим правом нормы коллективного поведения, отличались небольшой общественной опасностью, но серьезным наказанием.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	промысловые	промысловый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	проступки	проступок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	как	как	SCONJ	_	_	6	mark	_	_
+6	ссоры	ссора	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	acl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	вражда	вражда	ADV	_	Degree=Pos	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	распри	распря	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	conj	_	_
+11	между	между	ADP	_	_	12	case	_	_
+12	артельщиками	артельщика	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	10	nmod	_	_
+13	во	во	ADP	_	_	15	case	_	_
+14	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	fixed	_	_
+15	ведения	ведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+16	промысла	промысел	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	mark	_	_
+19	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	fixed	_	_
+20	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	посягающие	посягать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+23	на	на	ADP	_	_	27	case	_	_
+24	установленные	установить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	amod	_	_
+25	обычным	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+26	этническим	этнический	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+28	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+29	коллективного	коллективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	отличались	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	16	conj	_	_
+33	небольшой	небольшой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+34	общественной	общественный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	опасностью	опасность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	38	punct	_	_
+37	но	но	CCONJ	_	_	38	cc	_	_
+38	серьезным	серьезный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+39	наказанием	наказание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 75
+# text = Наказание носило также двойной характер.
+1	Наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	носило	носить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	также	также	ADV	_	Degree=Pos	2	advmod	_	_
+4	двойной	двойной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 76
+# text = Так, с одной стороны, зачинщика ссоры могли наказать сами артельщики путем применения обычно-правовой нормы, санкционирующей исключение его из артельного коллектива.
+1	Так	так	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	с	с	ADP	_	_	5	case	_	_
+4	одной	один	NUM	_	Case=Gen|Gender=Fem	5	nummod	_	_
+5	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	зачинщика	зачинщик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+8	ссоры	ссора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	наказать	наказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	артельщики	артельщик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+13	путем	путем	ADP	_	_	14	case	_	_
+14	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	обычно-правовой	обычно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	санкционирующей	санкционировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+19	исключение	исключение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+20	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	obj	_	_
+21	из	из	ADP	_	_	23	case	_	_
+22	артельного	артельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	коллектива	коллектив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 77
+# text = С другой стороны, применялся морально-нравственный норматив поведения на промысле.
+1	С	с	ADP	_	_	3	case	_	_
+2	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	применялся	применять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	морально	морально	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	нравственный	нравственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	норматив	норматив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	_
+10	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 78
+# text = Как считалось, виновника могли наказать "духи": он мог "потерять удачу на промысле", либо же "духи" приводили в негодность орудия промысла, от чего мог пострадать весь коллектив артельщиков.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	считалось	считать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	виновника	виновник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+5	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	наказать	наказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	духи	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	5	punct	_	_
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+12	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	потерять	терять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+15	удачу	удача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	25	punct	_	_
+20	либо	либо	CCONJ	_	_	25	cc	_	_
+21	же	же	PART	_	_	25	advmod	_	_
+22	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	духи	дух	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	_
+25	приводили	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	негодность	негодность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+28	орудия	орудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	промысла	промысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	от	от	ADP	_	_	32	case	_	_
+32	чего	что	PRON	_	Case=Gen	34	obl	_	_
+33	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	_
+34	пострадать	страдать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	xcomp	_	_
+35	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	36	det	_	_
+36	коллектив	коллектив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	_
+37	артельщиков	артельщик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 79
+# text = Коми былины содержат информацию о ругавшемся охотнике, который в наказание потерял удачу на промысле, о рыбаке, которому водяной (васа) порвал рыболовную сеть за аналогичные действия.
+1	Коми	Ко	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	былины	былина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	содержат	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	информацию	информация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	ругавшемся	ругаться	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	7	amod	_	_
+7	охотнике	охотник	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	который	который	PRON	_	Case=Nom	12	nsubj	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	наказание	наказание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+12	потерял	терять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	удачу	удача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	рыбаке	рыбак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	25	punct	_	_
+20	которому	который	PRON	_	Case=Dat	21	iobj	_	_
+21	водяной	водяной	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	iobj	_	_
+22	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	васа	вас	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	23	punct	_	_
+25	порвал	рвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
+26	рыболовную	рыболовный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	сеть	сеть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	_
+28	за	за	ADP	_	_	30	case	_	_
+29	аналогичные	аналогичный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	30	amod	_	_
+30	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 80
+# text = Также к промысловым проступкам относилось и оскорбление совершенными на промысле непродуманными, противоречащими общепринятым нормам поведения действиями.
+1	Также	также	ADV	_	Degree=Pos	5	advmod	_	_
+2	к	к	ADP	_	_	4	case	_	_
+3	промысловым	промысловый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	amod	_	_
+4	проступкам	проступк	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	_
+5	относилось	относиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	оскорбление	оскорбление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+8	совершенными	совершить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	промысле	промысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+11	непродуманными	непродуманный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	противоречащими	противоречить	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	_
+14	общепринятым	общепринятый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	15	amod	_	_
+15	нормам	норма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	13	iobj	_	_
+16	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	действиями	действие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 81
+# text = "Так, в коми легенде о колдуне Тюв говорится, что однажды по дороге на промысел его артель обогнала другая артель, что осуждалось нормами охотничьей морали.
+1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	Так	так	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	коми	кой	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+6	легенде	легенда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	колдуне	колдуна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	Тюв	Тюв	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+10	говорится	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	20	punct	_	_
+12	что	что	SCONJ	_	_	20	mark	_	_
+13	однажды	однажды	ADV	_	Degree=Pos	20	advmod	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	20	obl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	промысел	промысел	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
+18	его	его	DET	_	_	19	det	_	_
+19	артель	артель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+20	обогнала	обогнать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+21	другая	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	артель	артель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	что	что	PRON	_	Case=Nom	25	nsubj	_	_
+25	осуждалось	осуждать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	acl:relcl	_	_
+26	нормами	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	25	obl	_	_
+27	охотничьей	охотничий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	морали	мораль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 82
+# text = Тюв со своими артельщиками остановился в ближайшей охотничьей избушке, и все время промысла они проиграли в шахматы.
+1	Тюв	Тюв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	со	с	ADP	_	_	4	case	_	_
+3	своими	свой	DET	_	Case=Ins|Number=Plur	4	det	_	_
+4	артельщиками	артельщика	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
+5	остановился	остановиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	ближайшей	ближайший	ADJ	_	Case=Loc|Degree=Sup|Gender=Fem|Number=Sing	9	amod	_	_
+8	охотничьей	охотничий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	избушке	избушка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	и	и	CCONJ	_	_	14	cc	_	_
+12	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	13	det	_	_
+13	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+14	промысла	мысть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+15	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	14	nsubj	_	_
+16	проиграли	проиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	xcomp	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 83
+# text = Вторая артель, возвращаясь домой с богатой добычей, переночевала в избушке Тюв и дважды трогалась в путь, но возвращалась обратно.
+1	Вторая	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	артель	артель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	возвращаясь	возвращаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	advcl	_	_
+5	домой	домой	ADV	_	Degree=Pos	4	advmod	_	_
+6	с	с	ADP	_	_	8	case	_	_
+7	богатой	богатый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	добычей	добыча	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	переночевала	переночевать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	избушке	избушка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	Тюв	Тюв	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	дважды	дважды	ADV	_	Degree=Pos	16	advmod	_	_
+16	трогалась	трогаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	10	conj	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	путь	путь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	но	но	CCONJ	_	_	21	cc	_	_
+21	возвращалась	возвращаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	10	conj	_	_
+22	обратно	обратно	ADV	_	Degree=Pos	21	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 84
+# text = На третий раз вожак этой артели попросил отпустить их.
+1	На	на	ADP	_	_	3	case	_	_
+2	третий	третий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+4	вожак	вожак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	6	det	_	_
+6	артели	артель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	попросил	просить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	отпустить	отпустить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 85
+# text = Тюв отпустил артель, но без добычи и вожака.
+1	Тюв	Тюв	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	отпустил	отпустить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	артель	артель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	но	но	CCONJ	_	_	7	cc	_	_
+6	без	без	ADP	_	_	7	case	_	_
+7	добычи	добыча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	вожака	вожак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 86
+# text = Затем он зарядил ружье осиновой пулей, выстрелил в лес и велел руководителю второй артели найти ее.
+1	Затем	затем	ADV	_	Degree=Pos	3	advmod	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	зарядил	зарядить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ружье	ружье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	осиновой	осиновый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	пулей	пуля	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	выстрелил	выстрелять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	лес	лес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	велел	велеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+13	руководителю	руководитель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
+14	второй	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	артели	артель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+17	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 87
+# text = Тот пошел искать пулю и так и не вернулся".17 Сохранившихся сведений об иных видах совершавшихся краж и других видах преступлений у коми (зырян) очень немного.
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	искать	искать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	пулю	пуля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+5	и	и	CCONJ	_	_	9	cc	_	_
+6	так	так	ADV	_	Degree=Pos	9	advmod	_	_
+7	и	и	PART	_	_	6	fixed	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	вернулся	вернуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+11	.17	.17	NUM	_	_	13	nummod	_	_
+12	Сохранившихся	сохраниться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	amod	_	_
+13	сведений	сведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	obl	_	_
+14	об	о	ADP	_	_	16	case	_	_
+15	иных	иной	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	16	amod	_	_
+16	видах	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	obl	_	_
+17	совершавшихся	совершаться	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	18	acl	_	_
+18	краж	кража	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	_
+21	видах	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	conj	_	_
+22	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+23	у	у	ADP	_	_	24	case	_	_
+24	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	21	nmod	_	_
+25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	parataxis	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	26	punct	_	_
+28	очень	очень	ADV	_	Degree=Pos	29	advmod	_	_
+29	немного	немного	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 88
+# text = "Имеются сведения, что в верхневычегодских селениях уличенному в краже какой-либо бытовой вещи надевали на шею хомут и водили в таком виде по селу".18 В народном фольклоре часто упоминается наказание вора с помощью магических средств, применяемых колдунами.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	сведения	сведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	15	punct	_	_
+5	что	что	SCONJ	_	_	15	mark	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	верхневычегодских	верхневычегодский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	_	_
+8	селениях	селение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	obl	_	_
+9	уличенному	уличить	VERB	_	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	краже	кража	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+12	какой-либо	какой-либо	DET	_	Case=Gen|Gender=Fem|Number=Sing	14	det	_	_
+13	бытовой	бытовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	вещи	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+15	надевали	надевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	шею	шея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+18	хомут	хонять	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	водили	водить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	23	det	_	_
+23	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	селу	село	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	obl	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	32	punct	_	SpaceAfter=No
+27	.18	.18	NUM	_	_	32	nummod	_	_
+28	В	в	ADP	_	_	30	case	_	_
+29	народном	народный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	фольклоре	фольклор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	obl	_	_
+31	часто	часто	ADV	_	Degree=Pos	32	advmod	_	_
+32	упоминается	упоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	20	xcomp	_	_
+33	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+34	вора	вор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+35	с	с	ADP	_	_	38	case	_	_
+36	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	35	fixed	_	_
+37	магических	магический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	_
+38	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	применяемых	применять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	38	acl	_	_
+41	колдунами	колдун	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	40	obl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 89
+# text = Выделялся даже такой отдельный вид кражи, опасный своими последствиями, как кража личного имущества у человека, обладающего сверхъестественными колдовскими способностями, так как суровое наказание в таком случае наступало без промедления.
+1	Выделялся	выделяться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	даже	даже	PART	_	_	3	advmod	_	_
+3	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	_
+4	отдельный	отдельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+6	кражи	кража	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	опасный	опасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	своими	свой	DET	_	Case=Ins|Number=Plur	10	det	_	_
+10	последствиями	последствие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	5	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	как	как	SCONJ	_	_	13	mark	_	_
+13	кража	кража	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	_
+14	личного	личный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	имущества	имущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	у	у	ADP	_	_	17	case	_	_
+17	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	обладающего	обладать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	сверхъестественными	сверхъестественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	_
+21	колдовскими	колдовской	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	_
+22	способностями	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	19	punct	_	_
+24	так	так	ADV	_	Degree=Pos	31	mark	_	_
+25	как	как	SCONJ	_	_	24	fixed	_	_
+26	суровое	суровый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	30	det	_	_
+30	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	obl	_	_
+31	наступало	наступать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	_
+32	без	без	ADP	_	_	33	case	_	_
+33	промедления	промедление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = "Так, в одной из коми быличек некто украл у мельника-колдуна из ящика деньги.
+1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	Так	так	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	одной	один	NUM	_	Case=Loc|Gender=Fem	10	nummod	_	_
+6	из	из	ADP	_	_	7	case	_	_
+7	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	nmod	_	_
+8	быличек	быличка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+9	некто	некто	PRON	_	Case=Nom	10	nsubj	_	_
+10	украл	красть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	у	у	ADP	_	_	12	case	_	_
+12	мельника	мельник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	колдуна	колдун	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+15	из	из	ADP	_	_	16	case	_	_
+16	ящика	ящик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+17	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	appos	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 91
+# text = Тот оторвал от ящика доску и закопал ее в землю, после чего вор стал горбатым".19 О кражах начали часто упоминать источники XIX в.
+1	Тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	оторвал	отрыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	ящика	ящик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+5	доску	доска	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	закопал	закопать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+8	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	obj	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	после	после	ADP	_	_	13	case	_	_
+13	чего	что	PRON	_	Case=Gen	15	obl	_	_
+14	вор	вор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+15	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+16	горбатым	горбатый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	.19	.19	NUM	_	_	21	nummod	_	_
+19	О	о	ADP	_	_	20	case	_	_
+20	кражах	кража	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	obl	_	_
+21	начали	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	xcomp	_	_
+22	часто	часто	ADV	_	Degree=Pos	23	advmod	_	_
+23	упоминать	упоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+24	источники	источник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	23	obj	_	_
+25	XIX	xix	NUM	_	_	26	nummod	_	_
+26	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 92
+# text = Так, у северных зырян распространено было оленекрадство и конокрадство.
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	у	у	ADP	_	_	5	case	_	_
+4	северных	северный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+6	распространено	распространенный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+8	оленекрадство	оленекрадство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	конокрадство	конокрадство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 93
+# text = Крали они, как правило, на ярмарках у остяков.
+1	Крали	Крать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	1	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	ярмарках	ярмарка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	obl	_	_
+9	у	у	ADP	_	_	10	case	_	_
+10	остяков	остяк	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = "Остяки... сами подвергаются кражам оленей во время обдорской ярмарки.
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Остяки	Остяк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+6	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	obl	_	_
+7	подвергаются	подвергаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	кражам	кража	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
+9	оленей	олень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	во	во	ADP	_	_	13	case	_	_
+11	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	fixed	_	_
+12	обдорской	обдорский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	ярмарки	ярмарка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 95
+# text = Воры преимущественно зыряне, обделывают свое дело ловко.
+1	Воры	вор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	преимущественно	преимущественно	ADV	_	Degree=Pos	3	obl	_	_
+3	зыряне	зырянин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	обделывают	обделывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	7	det	_	_
+7	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+8	ловко	ловко	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 96
+# text = Заметив в окрестностях Обдорска, где располагаются инородцы с чумами, стадо оленей или часть его вдали от хозяйского глаза, они отгоняют оленей и гонят их по хорошо выбитой дороге в Обдорск".20 "Кражи и обман, прежде небывалые на слуху, 17 18 19 20
+1	Заметив	заметить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	23	advcl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	окрестностях	окрестность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	obl	_	_
+4	Обдорска	Обдорск	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	где	где	ADV	_	Degree=Pos	7	advmod	_	_
+7	располагаются	располагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	_
+8	инородцы	инородец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	чумами	чума	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	стадо	стадо	ADP	_	_	13	case	_	_
+13	оленей	олень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	conj	_	_
+14	или	или	CCONJ	_	_	15	cc	_	_
+15	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+16	его	его	DET	_	_	15	det	_	_
+17	вдали	вдали	ADV	_	Degree=Pos	15	advmod	_	_
+18	от	от	ADP	_	_	20	case	_	_
+19	хозяйского	хозяйский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	глаза	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	1	punct	_	_
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	23	nsubj	_	_
+23	отгоняют	отгонять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+24	оленей	олень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	obl	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	гонят	гнать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
+27	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	26	obj	_	_
+28	по	по	ADP	_	_	31	case	_	_
+29	хорошо	хорошо	ADV	_	Degree=Pos	30	advmod	_	_
+30	выбитой	выбить	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	_
+31	дороге	дорога	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	obl	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	Обдорск"	обдорск"	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
+34	.20	.20	NUM	_	_	33	nummod	_	_
+35	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	Кражи	Кражи	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	33	appos	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	обман	обман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	36	conj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	прежде	прежде	ADV	_	Degree=Pos	41	advmod	_	_
+41	небывалые	небывалый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	_
+42	на	на	ADP	_	_	43	case	_	_
+43	слуху	слух	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	17	17	NUM	_	_	46	nummod	_	_
+46	18	18	NUM	_	_	47	nummod	_	_
+47	19	19	NUM	_	_	43	nummod	_	_
+48	20	20	NUM	_	_	23	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 97
+# text = расплодились в последнее время довольно в больших объемах, затмевая племенное достоинство зырян",21 — считает Ф. А. Арсеньев.
+1	расплодились	расплодиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+5	довольно	довольно	ADV	_	Degree=Pos	8	obl	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	больших	большой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	_	_
+8	объемах	объем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	затмевая	затмевать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	17	advcl	_	_
+11	племенное	племенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	достоинство	достоинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+13	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	,21	,21	NUM	_	_	12	appos	_	_
+16	—	—	PUNCT	_	_	15	punct	_	_
+17	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+18	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+19	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	_
+20	Арсеньев	Арсеньев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = Сохранились краткие сведения о том, что зырянам не чужд был и разбой.
+1	Сохранились	сохраниться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	краткие	краткий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	сведения	сведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	что	что	SCONJ	_	_	10	mark	_	_
+8	зырянам	зырянин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	чужд	чуждый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	acl	_	_
+11	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	разбой	разбой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = Так, один из участников путешествия из Москвы в Китай в 1692 г.
+1	Так	так	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	один	один	NUM	_	Case=Nom|Gender=Masc	1	nsubj	_	_
+4	из	из	ADP	_	_	5	case	_	_
+5	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	путешествия	путешествие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	из	из	ADP	_	_	8	case	_	_
+8	Москвы	Москва	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	Китай	Китай	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	1692	1692	NUM	_	_	13	nummod	_	_
+13	г	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = Адам Бранд опубликовал свои "Записки о русском посольстве в Китае", в которых упоминает о разбое зырян как нападении в целях хищения чужого имущества с применением насильственных действий: "Здесь проживает воевода, которому эти места поручено их царскими величествами особенно охранять, так как зырянам, которым они принадлежат, нельзя доверять ни на волос.
+1	Адам	Ада	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Бранд	Бранд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	опубликовал	опубликовать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	свои	свой	DET	_	Case=Acc|Number=Plur	6	det	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Записки	записка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+7	о	о	ADP	_	_	9	case	_	_
+8	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	посольстве	посольство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	Китае	Китай	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	которых	который	PRON	_	Case=Loc	16	obl	_	_
+16	упоминает	упоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	разбое	разбой	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+19	зырян	зырянин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	нападении	нападение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	acl	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	21	nmod	_	_
+24	хищения	хищение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	чужого	чужой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	имущества	имущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	применением	применение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	nmod	_	_
+29	насильственных	насильственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	SpaceAfter=No
+31	:	:	PUNCT	_	_	21	punct	_	_
+32	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+33	Здесь	здесь	ADV	_	Degree=Pos	34	advmod	_	_
+34	проживает	проживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	_
+35	воевода	воевод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nsubj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	40	punct	_	_
+37	которому	который	PRON	_	Case=Dat	40	iobj	_	_
+38	эти	этот	DET	_	Case=Acc|Number=Plur	39	det	_	_
+39	места	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	40	nsubj:pass	_	_
+40	поручено	поручить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	35	acl:relcl	_	_
+41	их	их	PRON	_	Case=Acc|Number=Plur|Person=3	43	det	_	_
+42	царскими	царский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	43	amod	_	_
+43	величествами	величество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	45	obl	_	_
+44	особенно	особенно	ADV	_	Degree=Pos	45	advmod	_	_
+45	охранять	охранять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	40	csubj:pass	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	55	punct	_	_
+47	так	так	ADV	_	Degree=Pos	55	mark	_	_
+48	как	как	SCONJ	_	_	47	fixed	_	_
+49	зырянам	зырянин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	56	iobj	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	53	punct	_	_
+51	которым	который	PRON	_	Case=Dat	53	iobj	_	_
+52	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	53	nsubj	_	_
+53	принадлежат	принадлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	49	acl:relcl	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	49	punct	_	_
+55	нельзя	нельзя	ADV	_	Degree=Pos	45	advcl	_	_
+56	доверять	доверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	55	csubj	_	_
+57	ни	ни	PART	_	_	59	advmod	_	_
+58	на	на	ADP	_	_	59	case	_	_
+59	волос	волос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	56	obl	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 101
+# text = Город часто подвергался нападениям со стороны разбойников из среды этого народа.
+1	Город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	часто	часто	ADV	_	Degree=Pos	3	advmod	_	_
+3	подвергался	подвергаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	нападениям	нападения	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	3	iobj	_	_
+5	со	со	ADP	_	_	7	case	_	_
+6	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	fixed	_	_
+7	разбойников	разбойник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+8	из	из	ADP	_	_	9	case	_	_
+9	среды	среда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+10	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	11	det	_	_
+11	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 102
+# text = Местный воевода Иван Никитич Лопухин, уважаемый правитель области, рассказал нам, что в первый же год после его вступления в должность, т. е. в 1690 г., тридцать разбойников сговорились и решили напасть на Кайгород со стороны реки, а город тогда не имел никаких средств защиты.
+1	Местный	местный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	воевода	воевод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+3	Иван	Иван	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+4	Никитич	Никитич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Лопухин	Лопухин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	уважаемый	уважать	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	правитель	правитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+9	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	рассказал	рассказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	11	iobj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	33	punct	_	_
+14	что	что	SCONJ	_	_	33	mark	_	_
+15	в	в	ADP	_	_	18	case	_	_
+16	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+17	же	же	PART	_	_	16	advmod	_	_
+18	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	33	obl	_	_
+19	после	после	ADP	_	_	21	case	_	_
+20	его	его	DET	_	_	21	det	_	_
+21	вступления	вступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	obl	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	должность	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	mark	_	_
+26	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	fixed	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	1690	1690	NUM	_	_	29	nummod	_	_
+29	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	parataxis	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	21	punct	_	_
+31	тридцать	тридцать	NUM	_	Case=Nom	32	nummod:gov	_	_
+32	разбойников	разбойник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	33	nsubj	_	_
+33	сговорились	сговориться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	11	ccomp	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	_
+36	напасть	напасть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	obj	_	_
+37	на	на	ADP	_	_	38	case	_	_
+38	Кайгород	Кайгород	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	nmod	_	_
+39	со	со	ADP	_	_	41	case	_	_
+40	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	fixed	_	_
+41	реки	река	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	47	punct	_	_
+43	а	а	CCONJ	_	_	47	cc	_	_
+44	город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	47	nsubj	_	_
+45	тогда	тогда	ADV	_	Degree=Pos	47	advmod	_	_
+46	не	не	PART	_	_	47	advmod	_	_
+47	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	_
+48	никаких	никакой	DET	_	Case=Gen|Number=Plur	49	det	_	_
+49	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	47	obl	_	_
+50	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	nmod	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = 103
+# text = Приготовив все, что нужно было для этого предприятия, вооруженные единственной большой, но грубой пушкой, мушкетами, пиками и саблями, на оснащенных судах они неожиданно напали на город ночью.
+1	Приготовив	Приготовить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	0	root	_	_
+2	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	что	что	PRON	_	Case=Acc	5	nsubj	_	_
+5	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	acl:relcl	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	этого	это	DET	_	Case=Gen|Gender=Neut|Number=Sing	9	det	_	_
+9	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	вооруженные	вооружить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+12	единственной	единственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	большой	большой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	но	но	CCONJ	_	_	17	cc	_	_
+16	грубой	грубый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	пушкой	пушка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	мушкетами	мушкет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	пиками	пик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	conj	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	саблями	сабль	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	30	punct	_	_
+25	на	на	ADP	_	_	27	case	_	_
+26	оснащенных	оснастить	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	amod	_	_
+27	судах	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	30	obl	_	_
+28	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	30	nsubj	_	_
+29	неожиданно	неожиданно	ADV	_	Degree=Pos	30	advmod	_	_
+30	напали	напасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obl	_	_
+33	ночью	ночь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = Они хотя и православной веры, говорят на своем особом языке, ничего общего не имеющем с русским".22 Однако подобные данные необходимо подвергнуть сомнению, так как многие российские (Епифаний, В. Н. Татищев, Г. Ф. Миллер, Н. М. Карамзин, И. И. Лепехин и др.) и зарубежные (Геродот, Корнелий Тацит, Иордан, Саксон Граматик, Орозий короля Альфреда, Ахмед Ибн Фадлан, Матвей Меховский, Джильс Флетчер и др.) авторы высказывались о зырянах как о терпеливом, миролюбивом, трудолюбивом и, к сожалению, небогатом народе, никогда не стремившемся к завоевательным действиям, а тем более с применением серьезного оружия, приобрести которое у зырян не было средств.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	7	nsubj	_	_
+2	хотя	хотя	SCONJ	_	_	5	mark	_	_
+3	и	и	PART	_	_	5	advmod	_	_
+4	православной	православный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	веры	вера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	на	на	ADP	_	_	11	case	_	_
+9	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing	11	det	_	_
+10	особом	особый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	ничего	ничто	PRON	_	Case=Gen	16	nsubj	_	_
+14	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	имеющем	иметь	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	conj	_	_
+17	с	с	ADP	_	_	23	case	_	_
+18	русским"	русским"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.22	.22	NUM	_	_	23	nummod	_	_
+20	Однако	однако	ADV	_	Degree=Pos	19	appos	_	_
+21	подобные	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	_	_
+22	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	24	obj	_	_
+23	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	16	obl	_	_
+24	подвергнуть	подвергнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	csubj	_	_
+25	сомнению	сомнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	iobj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	82	punct	_	_
+27	так	так	ADV	_	Degree=Pos	82	mark	_	_
+28	как	как	SCONJ	_	_	27	fixed	_	_
+29	многие	много	NUM	_	_	81	amod	_	_
+30	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	81	amod	_	_
+31	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	Епифаний	Епифание	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	parataxis	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+35	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	34	flat:name	_	_
+36	Татищев	Татищев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	34	flat:name	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+39	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	38	flat:name	_	_
+40	Миллер	Миллер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	38	flat:name	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+43	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	42	flat:name	_	_
+44	Карамзин	Карамзин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	42	flat:name	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	conj	_	_
+47	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	46	flat:name	_	_
+48	Лепехин	Лепехин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	46	flat:name	_	_
+49	и	и	CCONJ	_	_	50	cc	_	_
+50	др.	др	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	conj	_	SpaceAfter=No
+51	)	)	PUNCT	_	_	32	punct	_	_
+52	и	и	CCONJ	_	_	53	cc	_	_
+53	зарубежные	зарубежный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	30	conj	_	_
+54	(	(	PUNCT	_	_	55	punct	_	SpaceAfter=No
+55	Геродот	Геродот	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	53	parataxis	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	58	punct	_	_
+57	Корнелий	Корнелие	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	58	nsubj	_	_
+58	Тацит	Тацит	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	conj	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	Иордан	Иордан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	62	punct	_	_
+62	Саксон	Саксон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	_
+63	Граматик	Граматик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	62	flat:name	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	65	punct	_	_
+65	Орозий	Орозий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	_
+66	короля	король	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	65	nmod	_	_
+67	Альфреда	Альфред	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	66	appos	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	69	punct	_	_
+69	Ахмед	Ахмед	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	_
+70	Ибн	Ибн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	69	flat:name	_	_
+71	Фадлан	Фадлан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	69	flat:name	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	74	punct	_	_
+73	Матвей	Матвь	ADV	_	Degree=Cmp	74	advmod	_	_
+74	Меховский	Меховский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	SpaceAfter=No
+75	,	,	PUNCT	_	_	76	punct	_	_
+76	Джильс	Джильс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	55	conj	_	_
+77	Флетчер	Флетчер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	76	flat:name	_	_
+78	и	и	CCONJ	_	_	79	cc	_	_
+79	др.	др	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	55	conj	_	SpaceAfter=No
+80	)	)	PUNCT	_	_	55	punct	_	_
+81	авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	82	nsubj	_	_
+82	высказывались	высказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	24	advcl	_	_
+83	о	о	ADP	_	_	84	case	_	_
+84	зырянах	зырянин	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	82	obl	_	_
+85	как	как	SCONJ	_	_	113	mark	_	_
+86	о	о	ADP	_	_	113	case	_	_
+87	терпеливом	терпеливо	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	113	amod	_	SpaceAfter=No
+88	,	,	PUNCT	_	_	89	punct	_	_
+89	миролюбивом	миролюбиво	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	87	conj	_	SpaceAfter=No
+90	,	,	PUNCT	_	_	91	punct	_	_
+91	трудолюбивом	трудолюбив	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	87	conj	_	_
+92	и	и	CCONJ	_	_	98	cc	_	SpaceAfter=No
+93	,	,	PUNCT	_	_	98	punct	_	_
+94	к	к	ADP	_	_	95	case	_	_
+95	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	98	parataxis	_	SpaceAfter=No
+96	,	,	PUNCT	_	_	98	punct	_	_
+97	небогатом	небогатый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	98	amod	_	_
+98	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	87	conj	_	SpaceAfter=No
+99	,	,	PUNCT	_	_	102	punct	_	_
+100	никогда	никогда	ADV	_	Degree=Pos	102	advmod	_	_
+101	не	не	PART	_	_	102	advmod	_	_
+102	стремившемся	стремиться	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	87	conj	_	_
+103	к	к	ADP	_	_	105	case	_	_
+104	завоевательным	завоевательный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	105	amod	_	_
+105	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	102	obl	_	SpaceAfter=No
+106	,	,	PUNCT	_	_	111	punct	_	_
+107	а	а	CCONJ	_	_	111	cc	_	_
+108	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	109	obl	_	_
+109	более	более	ADV	_	Degree=Cmp	111	obl	_	_
+110	с	с	ADP	_	_	111	case	_	_
+111	применением	применение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	87	conj	_	_
+112	серьезного	серьезный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	113	amod	_	_
+113	оружия	оружие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	84	nmod	_	SpaceAfter=No
+114	,	,	PUNCT	_	_	120	punct	_	_
+115	приобрести	приобрести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	120	csubj	_	_
+116	которое	который	PRON	_	Case=Acc	115	obj	_	_
+117	у	у	ADP	_	_	118	case	_	_
+118	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	115	obl	_	_
+119	не	не	PART	_	_	120	advmod	_	_
+120	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	84	acl:relcl	_	_
+121	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	120	obl	_	SpaceAfter=No
+122	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 105
+# text = Достоверность приведенных сведений вызывает сомнение еще и потому, что автор мог не разбираться в тех народах, которые населяли данную территорию либо проживали по соседству с зырянами.
+1	Достоверность	достоверность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	приведенных	приведеть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	сведений	сведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+4	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	сомнение	сомнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	еще	еще	ADV	_	Degree=Pos	8	advmod	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	потому	потому	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	что	что	SCONJ	_	_	12	mark	_	_
+11	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	разбираться	разбираться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	xcomp	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	тех	тот	DET	_	Case=Loc|Number=Plur	17	det	_	_
+17	народах	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	которые	который	PRON	_	Case=Nom	20	nsubj	_	_
+20	населяли	населять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+21	данную	данный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+23	либо	либо	CCONJ	_	_	24	cc	_	_
+24	проживали	проживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	_
+25	по	по	ADP	_	_	26	case	_	_
+26	соседству	соседство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	obl	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	зырянами	зырян	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 106
+# text = Не исключено, что в этом документе под зырянами он мог понимать манси (вогулов) или хантов (остяков), живших по соседству.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	исключено	исключить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	7	det	_	_
+7	документе	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+8	под	под	ADP	_	_	9	case	_	_
+9	зырянами	зырян	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	obl	_	_
+10	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+11	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+12	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	манси	мансь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	вогулов	вогул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	parataxis	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	_
+17	или	или	CCONJ	_	_	18	cc	_	_
+18	хантов	хант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	conj	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	остяков	остяк	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	appos	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	живших	жить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	13	acl	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	соседству	соседство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 107
+# text = Поэтому разбой, приписываемый А. Брандом зырянам, было редким правовым явлением.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	12	advmod	_	_
+2	разбой	разбой	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	приписываемый	приписывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+6	Брандом	Бранд	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	зырянам	зырянин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+10	редким	редкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+11	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	явлением	явление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 108
+# text = Таким образом, анализ дошедших до нас источников позволяет утверждать, что в обычном этническом праве коми (зырян) существовали преступления против личности и против имущества, которые зачастую наказывались не только правовыми, но и морально-нравственными, религиозными способами.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	дошедших	дойти	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	_
+6	до	до	ADP	_	_	7	case	_	_
+7	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	5	obl	_	_
+8	источников	источник	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+9	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	утверждать	утверждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	21	punct	_	_
+12	что	что	SCONJ	_	_	21	mark	_	_
+13	в	в	ADP	_	_	16	case	_	_
+14	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+15	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	_
+17	коми	ко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	17	parataxis	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	существовали	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+22	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	21	obj	_	_
+23	против	против	ADP	_	_	24	case	_	_
+24	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	против	против	ADP	_	_	27	case	_	_
+27	имущества	имущество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	которые	который	PRON	_	Case=Nom	31	nsubj	_	_
+30	зачастую	зачастую	ADV	_	Degree=Pos	31	advmod	_	_
+31	наказывались	наказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	27	acl:relcl	_	_
+32	не	не	PART	_	_	33	advmod	_	_
+33	только	только	PART	_	_	34	advmod	_	_
+34	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	43	amod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	40	punct	_	_
+36	но	но	CCONJ	_	_	40	cc	_	_
+37	и	и	PART	_	_	36	advmod	_	_
+38	морально	морально	ADV	_	Degree=Pos	40	advmod	_	SpaceAfter=No
+39	-	-	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	нравственными	нравственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	34	conj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	религиозными	религиозный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	34	conj	_	_
+43	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 109
+# text = Высокий уровень правовой культуры и правового сознания зырянского населения способствовал не только низкому количественному показателю в совершении противоправных и антиобщественных деяний, но и отсутствию детальной разработанности институтов преступления и наказания в обычном этническом праве коми (зырян).
+1	Высокий	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	культуры	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	сознания	сознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+8	зырянского	зырянский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	способствовал	способствовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	только	только	PART	_	_	13	advmod	_	_
+13	низкому	низкий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+14	количественному	количественный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	показателю	показатель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+18	противоправных	противоправный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	антиобщественных	антиобщественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	conj	_	_
+21	деяний	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	но	но	CCONJ	_	_	25	cc	_	_
+24	и	и	PART	_	_	23	advmod	_	_
+25	отсутствию	отсутствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	conj	_	_
+26	детальной	детальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	разработанности	разработанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+28	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	_
+29	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	conj	_	_
+32	в	в	ADP	_	_	35	case	_	_
+33	обычном	обычный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+34	этническом	этнический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	_
+36	коми	ко	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	35	appos	_	_
+37	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	зырян	зырянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	appos	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 110
+# text = Статья поступила в редакцию 17 сентября 2014 г.
+1	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	редакцию	редакция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	17	17	NUM	_	_	2	nummod	_	_
+6	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	_	_
+7	2014	2014	NUM	_	_	8	nummod	_	_
+8	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 111
+# text = Арсеньев Ф. А.
+1	Арсеньев	Арсеньев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 112
+# text = Зырянская корреспонденция // Зыряне и зырянский край в литературных документах XIX века.
+1	Зырянская	Зырянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	корреспонденция	корреспонденция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	/	/	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	Зыряне	Зырян	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	зырянский	зырянский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	край	край	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	литературных	литературный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	_
+11	документах	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	8	nmod	_	_
+12	XIX	xix	NUM	_	_	13	nummod	_	_
+13	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 113
+# text = С. 38. 22 Бранд А. Записки о русском посольстве в Китае // Савельева Э. А., Королев К. С. Письменные известия о народе коми.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	38	38	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	22	22	NUM	_	_	2	nummod	_	_
+5	Бранд	Бранд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	Записки	Записки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	appos	_	_
+8	о	о	ADP	_	_	10	case	_	_
+9	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	посольстве	посольство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	Китае	Китай	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
+13	/	/	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	/	/	PUNCT	_	_	15	punct	_	_
+15	Савельева	Савельев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+16	Э.	Э.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+17	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	flat:name	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	Королев	Королев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+20	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	_
+21	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	_
+22	Письменные	письменный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	известия	известие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	appos	_	_
+24	о	о	ADP	_	_	25	case	_	_
+25	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	nmod	_	_
+26	коми	ко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 114
+# text = Сыктывкар, 2007.
+1	Сыктывкар	Сыктывкар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2007	2007	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 115
+# text = С. 142.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	142	142	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

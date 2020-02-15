@@ -1,0 +1,2698 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Порядок и условия обжалования действий эмитента Закон предоставляет право обжалования действий компании-эмитента достаточно широкому кругу лиц, включая регистрирующий орган и орган, осуществляющий государственную регистрацию юридических лиц, а также участникам (акционерам) эмитента или владельцам эмиссионных ценных бумаг эмитента того же вида, категории (типа), что и эмиссионные ценные бумаги выпуска (дополнительного выпуска).
+1	Порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	условия	условие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	conj	_	_
+4	обжалования	обжалование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Закон	закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+8	предоставляет	предоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	обжалования	обжалование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	appos	_	_
+15	достаточно	достаточно	ADV	_	Degree=Pos	16	obl	_	_
+16	широкому	широкий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	кругу	круг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	_
+18	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	включая	включая	ADV	_	Degree=Pos	21	advmod	_	_
+21	регистрирующий	регистрировать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+22	орган	орган	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	орган	орган	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	осуществляющий	осуществлять	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+27	государственную	государственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	регистрацию	регистрация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+29	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	34	punct	_	_
+32	а	а	CCONJ	_	_	34	cc	_	_
+33	также	также	PART	_	_	32	fixed	_	_
+34	участникам	участник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	22	conj	_	_
+35	(	(	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	акционерам	акционер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	34	appos	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	36	punct	_	_
+38	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+39	или	или	CCONJ	_	_	40	cc	_	_
+40	владельцам	владелец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	22	conj	_	_
+41	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	43	amod	_	_
+42	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	43	amod	_	_
+43	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	40	nmod	_	_
+44	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	_
+45	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	47	det	_	_
+46	же	же	PART	_	_	45	advmod	_	_
+47	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	49	punct	_	_
+49	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	conj	_	_
+50	(	(	PUNCT	_	_	51	punct	_	SpaceAfter=No
+51	типа	тип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	parataxis	_	SpaceAfter=No
+52	)	)	PUNCT	_	_	51	punct	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	что	что	SCONJ	_	_	21	advmod	_	_
+55	и	и	PART	_	_	56	advmod	_	_
+56	эмиссионные	эмиссионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	58	amod	_	_
+57	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	58	amod	_	_
+58	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	54	obj	_	_
+59	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	58	nmod	_	_
+60	(	(	PUNCT	_	_	62	punct	_	SpaceAfter=No
+61	дополнительного	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	62	amod	_	_
+62	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	appos	_	SpaceAfter=No
+63	)	)	PUNCT	_	_	62	punct	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 2
+# text = При этом предполагается возможным признание незаконными действий компании-эмитента в судебном порядке по заявлению отдельного инвестора или государственного органа в интересах всех инвесторов (в случае обнаружения существенных нарушений в действиях эмитента на основании заявлений инвесторов).
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	предполагается	предполагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	признание	признание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	незаконными	незаконный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+8	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	appos	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	судебном	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	заявлению	заявление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	_
+16	отдельного	отдельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	инвестора	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	или	или	CCONJ	_	_	20	cc	_	_
+19	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	conj	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	интересах	интерес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	nmod	_	_
+23	всех	весь	DET	_	Case=Gen|Number=Plur	24	det	_	_
+24	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+25	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+26	в	в	ADP	_	_	27	case	_	_
+27	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	parataxis	_	_
+28	обнаружения	обнаружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	существенных	существенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	нарушений	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	действиях	действие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	30	nmod	_	_
+33	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+34	на	на	ADP	_	_	35	case	_	_
+35	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	nmod	_	_
+36	заявлений	заявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+37	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+38	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = При этом действующее законодательство не предусматривает в качестве возможной меры защиты предъявление отдельным инвестором иска о возмещении убытков в индивидуальном порядке, не затрагивая права других держателей ценных бумаг .
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	действующее	действовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+4	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	предусматривает	предусматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	возможной	возможный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	меры	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+11	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	предъявление	предъявление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+13	отдельным	отдельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	инвестором	инвестор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+15	иска	иск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	возмещении	возмещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	_
+18	убытков	убыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	индивидуальном	индивидуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	затрагивая	затрагивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	_
+25	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	iobj	_	_
+26	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	держателей	держатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+28	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = В связи с этим уместно привести факт из истории США, которые в этом плане продвинулись несколько дальше отечественного законодателя.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+5	уместно	уместный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+6	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	факт	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	из	из	ADP	_	_	9	case	_	_
+9	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	которые	который	PRON	_	Case=Nom	16	nsubj	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	15	det	_	_
+15	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+16	продвинулись	продвинуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	_
+17	несколько	несколько	ADV	_	Degree=Pos	18	advmod	_	_
+18	дальше	далеко	ADV	_	Degree=Cmp	16	advmod	_	_
+19	отечественного	отечественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	законодателя	законодатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 5
+# text = В процессе принятия Securtes Act of 1933 в первоначальной редакции проект закона предусматривал возможность аннулирования регистрации выпуска ценных бумаг в случае обнаружения в деятельности эмитента какихлибо нарушений существующих норм и положений .
+1	В	в	ADP	_	_	2	case	_	_
+2	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+3	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	Securtes	Securtes	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+5	Act	Act	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	of	of	X	_	Foreign=Yes	3	flat:foreign	_	_
+7	1933	1933	NUM	_	_	3	nummod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	первоначальной	первоначальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	редакции	редакция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+11	проект	проект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	предусматривал	предусматривать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	аннулирования	аннулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	obl	_	_
+22	обнаружения	обнаружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+25	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	какихлибо	какихлибо	ADV	_	Degree=Pos	14	obl	_	_
+27	нарушений	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	obl	_	_
+28	существующих	существовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	29	amod	_	_
+29	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	conj	_	_
+32	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 6
+# text = Но в дальнейшем члены Конгресса под давлением аргументов о том, что делать с деньгами, собранными в ходе публичной подписки, аннулированной уже после направления средств на развитие бизнеса, согласились об исключении этой нормы из последующих редакций проекта.
+1	Но	но	CCONJ	_	_	32	cc	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	дальнейшем	дальнейший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	32	obl	_	_
+4	члены	член	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	32	nsubj	_	_
+5	Конгресса	конгресс	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	под	под	ADP	_	_	7	case	_	_
+7	давлением	давление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	32	obl	_	_
+8	аргументов	аргумент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	о	о	ADP	_	_	10	case	_	_
+10	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	что	что	PRON	_	Case=Acc	13	obj	_	_
+13	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	acl	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	деньгами	деньги	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	собранными	собрать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+18	в	в	ADP	_	_	21	case	_	_
+19	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	fixed	_	_
+20	публичной	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	подписки	подписка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	17	punct	_	_
+23	аннулированной	аннулировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	_
+24	уже	уже	ADV	_	Degree=Pos	26	obl	_	_
+25	после	после	ADP	_	_	26	case	_	_
+26	направления	направление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
+27	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	nmod	_	_
+30	бизнеса	бизнес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	23	punct	_	_
+32	согласились	согласиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+33	об	о	ADP	_	_	34	case	_	_
+34	исключении	исключение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	obl	_	_
+35	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	36	det	_	_
+36	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+37	из	из	ADP	_	_	39	case	_	_
+38	последующих	последующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+39	редакций	редакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	_
+40	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	32	punct	_	_
+
+# sent_id = 7
+# text = В современной практике США в случае нарушения порядка осуществления эмиссии инвестор имеет возможность защитить свое право путем подачи иска о взыскании убытков.
+1	В	в	ADP	_	_	3	case	_	_
+2	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+4	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	3	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+7	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	порядка	порядка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	эмиссии	эмиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	инвестор	инвестор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	obl	_	_
+15	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	16	det	_	_
+16	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+17	путем	путем	ADP	_	_	18	case	_	_
+18	подачи	подача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
+19	иска	иск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	о	о	ADP	_	_	21	case	_	_
+21	взыскании	взыскание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	_
+22	убытков	убыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 8
+# text = В связи с тем, что ценные бумаги возникают в момент передачи инвестором инвестиционных средств компании-эмитенту, у компании-эмитента не может возникнуть обязанности по выкупу и погашению ценных бумаг, выпущенных сверх количества, объявленного к выпуску.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	_
+9	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+12	передачи	передача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	инвестором	инвестор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+14	инвестиционных	инвестиционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	эмитенту	эмитент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	4	punct	_	_
+20	у	у	ADP	_	_	21	case	_	_
+21	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+22	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	appos	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+26	возникнуть	возникнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+27	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	26	obj	_	_
+28	по	по	ADP	_	_	29	case	_	_
+29	выкупу	выкуп	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	27	nmod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	погашению	погашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	29	conj	_	_
+32	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	31	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	выпущенных	выпустить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+36	сверх	сверй	ADP	_	_	37	case	_	_
+37	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	obl	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	объявленного	объявить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	37	acl	_	_
+40	к	к	ADP	_	_	41	case	_	_
+41	выпуску	выпуск	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	39	obl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 9
+# text = Нет инвестиционных средств, переданных компании-эмитенту, – нет ценных бумаг, а соответственно, нет и указанной обязанности .
+1	Нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	инвестиционных	инвестиционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	переданных	передать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	эмитенту	эмитент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
+11	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+12	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	а	а	CCONJ	_	_	18	cc	_	_
+16	соответственно	соответственно	ADV	_	Degree=Pos	18	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+19	и	и	PART	_	_	20	advmod	_	_
+20	указанной	указать	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nsubj	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = В результате признания выпуска эмиссионных ценных бумаг недействительным происходит прекращение прав и обязанностей между эмитентом и инвестором в регулятивном правоотношении и возникновение охранительных правоотношений, в рамках которых и осуществляется восстановление нарушенных прав инвесторов.
+1	В	в	ADP	_	_	2	case	_	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+3	признания	признание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+6	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+8	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	_
+9	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	прекращение	прекращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	nsubj	_	_
+11	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+14	между	между	ADP	_	_	15	case	_	_
+15	эмитентом	эмитент	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	инвестором	инвестор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	conj	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	регулятивном	регулятивный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	правоотношении	правоотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	возникновение	возникновение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	conj	_	_
+23	охранительных	охранительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	30	punct	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	30	obl	_	_
+28	которых	который	PRON	_	Case=Gen	27	nmod	_	_
+29	и	и	PART	_	_	30	advmod	_	_
+30	осуществляется	осуществляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+31	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj:pass	_	_
+32	нарушенных	нарушить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	amod	_	_
+33	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	_
+34	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 11
+# text = В отношении эмиссионных ценных бумаг, имеющих в подавляющем большинстве бездокументарную форму выпуска, применяется не признание ценной бумаги недействительной, а специальный способ защиты – признание выпуска эмиссионных ценных бумаг несостоявшимся или недействительным.
+1	В	в	ADP	_	_	5	case	_	_
+2	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	подавляющем	подавляющий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+11	бездокументарную	бездокументарный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	форму	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+13	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	7	punct	_	_
+15	применяется	применяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+18	ценной	ценный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	недействительной	недействительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	acl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	32	punct	_	_
+22	а	а	CCONJ	_	_	32	cc	_	_
+23	специальный	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	32	nsubj:pass	_	_
+25	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	–	–	PUNCT	_	_	27	punct	_	_
+27	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	conj	_	_
+28	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+29	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+30	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	_
+32	несостоявшимся	несостоявшийся	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	20	conj	_	_
+33	или	или	CCONJ	_	_	34	cc	_	_
+34	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	32	conj	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	32	punct	_	_
+
+# sent_id = 12
+# text = По мнению Г.Н. Шевченко, применение такого способа защиты обусловлено как тем, что отсутствует
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	parataxis	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Шевченко	Шевченко	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	_
+8	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	9	det	_	_
+9	способа	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	как	как	SCONJ	_	_	13	mark	_	_
+13	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	что	что	SCONJ	_	_	16	mark	_	_
+16	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = отдельный документ, обладающий определенной формой и обязательными реквизитами, так и тем, что эмиссионные ценные бумаги не обладают индивидуальными признаками, а в пределах одного выпуска каждая эмиссионная ценная бумага закрепляет совокупность прав, имеющих равные объем и сроки осуществления прав со всеми другими ценными бумагами этого выпуска .
+1	отдельный	отдельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	документ	документ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	обладающий	обладать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+5	определенной	определенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	обязательными	обязательный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+9	реквизитами	реквизит	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	так	так	ADV	_	Degree=Pos	0	root	_	_
+12	и	и	PART	_	_	13	cc	_	_
+13	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	20	punct	_	_
+15	что	что	SCONJ	_	_	20	mark	_	_
+16	эмиссионные	эмиссионный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+17	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	обладают	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	_
+21	индивидуальными	индивидуальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	_
+22	признаками	признак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	а	а	CCONJ	_	_	26	cc	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	пределах	предел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	conj	_	_
+27	одного	один	NUM	_	Case=Gen|Gender=Masc	28	nummod	_	_
+28	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+29	каждая	каждый	DET	_	Case=Nom|Gender=Fem|Number=Sing	32	det	_	_
+30	эмиссионная	эмиссионный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	ценная	ценный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	бумага	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	_
+33	закрепляет	закреплять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
+34	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	obj	_	_
+35	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	35	acl	_	_
+38	равные	равный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	39	amod	_	_
+39	объем	объем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	37	obj	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	39	conj	_	_
+42	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	42	nmod	_	_
+44	со	с	ADP	_	_	48	case	_	_
+45	всеми	весь	DET	_	Case=Ins|Number=Plur	48	det	_	_
+46	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	48	amod	_	_
+47	ценными	ценный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	48	amod	_	_
+48	бумагами	бумага	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	43	nmod	_	_
+49	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	50	det	_	_
+50	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	_
+51	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 14
+# text = В то же время относительно публичной природы исковых требований отдельных инвесторов существует и иная точка зрения, согласно которой признание выпуска ценных бумаг недействительным по иску нескольких инвесторов влечет охранительные последствия, по каким-либо причинам нежелательные для другой части инвесторов.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+5	относительно	относительно	ADP	_	_	7	case	_	_
+6	публичной	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+8	исковых	исковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nsubj	_	_
+10	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	advcl	_	_
+13	и	и	PART	_	_	14	advmod	_	_
+14	иная	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	точка	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	_
+16	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	compound	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	24	punct	_	_
+18	согласно	согласно	ADP	_	_	19	case	_	_
+19	которой	который	PRON	_	Case=Dat	24	obl	_	_
+20	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+21	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+24	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+25	по	по	ADP	_	_	26	case	_	_
+26	иску	иск	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	24	obl	_	_
+27	нескольких	несколько	NUM	_	Case=Gen	28	nummod	_	_
+28	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+29	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+30	охранительные	охранительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	29	obj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	по	по	ADP	_	_	35	case	_	_
+34	каким-либо	какой-либо	DET	_	Case=Dat|Number=Plur	35	det	_	_
+35	причинам	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	31	parataxis	_	_
+36	нежелательные	нежелательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	40	amod	_	_
+37	для	для	ADP	_	_	39	case	_	_
+38	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+40	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = 15
+# text = Защита гражданских прав помимо воли управомоченных субъектов противоречит началам гражданского права и вследствие этого недопустима .
+1	Защита	защита	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	гражданских	гражданский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+4	помимо	помимо	ADP	_	_	5	case	_	_
+5	воли	воля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	управомоченных	управомоченный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	противоречит	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	началам	начало	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	_
+10	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	вследствие	вследствие	ADP	_	_	14	case	_	_
+14	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+15	недопустима	недопустимый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	8	conj	_	_
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 16
+# text = И все же публично-правовой оттенок исковых требований, касающихся обжалования действий эмитента, нам видится более предпочтительным.
+1	И	и	CCONJ	_	_	7	cc	_	_
+2	все	все	PART	_	_	7	advmod	_	_
+3	же	же	PART	_	_	2	fixed	_	_
+4	публично	публичный	ADJ	_	Degree=Pos	6	compound	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	оттенок	оттенок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+8	исковых	исковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	касающихся	касаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	9	acl	_	_
+12	обжалования	обжалование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+13	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+14	эмитента	эмитент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	17	iobj	_	_
+17	видится	видеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+18	более	более	ADV	_	Degree=Cmp	19	obl	_	_
+19	предпочтительным	предпочтительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 17
+# text = Признание выпуска эмиссионных ценных бумаг недействительным затрагивает интересы абсолютно всех инвесторов, число которых достаточно велико и многие из которых могут быть не заинтересованы в признании выпуска недействительным.
+1	Признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+6	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+7	затрагивает	затрагивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	интересы	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+9	абсолютно	абсолютно	ADV	_	Degree=Pos	10	obl	_	_
+10	всех	весь	DET	_	Case=Gen|Number=Plur	11	det	_	_
+11	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+14	которых	который	PRON	_	Case=Gen	13	nmod	_	_
+15	достаточно	достаточно	ADV	_	Degree=Pos	16	obl	_	_
+16	велико	большой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	acl:relcl	_	_
+17	и	и	CCONJ	_	_	21	cc	_	_
+18	многие	много	NUM	_	_	21	nsubj	_	_
+19	из	из	ADP	_	_	20	case	_	_
+20	которых	который	PRON	_	Case=Gen	18	nmod	_	_
+21	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+22	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	заинтересованы	заинтересованный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	21	obl	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	признании	признание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+27	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 18
+# text = Не учитывать интересы таких лиц нельзя.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	_
+3	интересы	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	таких	такой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+5	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+6	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 19
+# text = Поэтому в случае, когда нарушения допущены в отношении отдельных инвесторов при осуществлении определенных этапов эмиссии, следует применять не признание всего выпуска эмиссионных ценных бумаг недействительным, а иные способы защиты нарушенного права, предусмотренные гражданским законодательством, например, признание недействительной сделки, связанной с размещением ценных бумаг.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	18	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	когда	когда	SCONJ	_	_	7	mark	_	_
+6	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj:pass	_	_
+7	допущены	допустить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	advcl	_	_
+8	в	в	ADP	_	_	11	case	_	_
+9	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	fixed	_	_
+10	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+12	при	при	ADP	_	_	13	case	_	_
+13	осуществлении	осуществление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+14	определенных	определенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	этапов	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+16	эмиссии	эмиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	7	punct	_	_
+18	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	применять	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	csubj	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	признание	признание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+22	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing	23	det	_	_
+23	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+25	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	_
+27	недействительным	недействительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	а	а	CCONJ	_	_	31	cc	_	_
+30	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	способы	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	conj	_	_
+32	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+33	нарушенного	нарушить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	34	amod	_	_
+34	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	предусмотренные	предусмотреть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	_
+37	гражданским	гражданский	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	36	obl	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	_
+40	например	например	ADV	_	Degree=Pos	42	parataxis	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	40	punct	_	_
+42	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	38	parataxis	_	_
+43	недействительной	недействительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	_
+44	сделки	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	связанной	связать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	44	acl	_	_
+47	с	с	ADP	_	_	48	case	_	_
+48	размещением	размещение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	46	obl	_	_
+49	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	50	amod	_	_
+50	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	48	nmod	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 20
+# text = По такому пути и идет судебная практика.
+1	По	по	ADP	_	_	3	case	_	_
+2	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing	3	det	_	_
+3	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	obl	_	_
+4	и	и	PART	_	_	5	advmod	_	_
+5	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	судебная	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	практика	практика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 21
+# text = Президиум ВАС РФ по делу № 4665/03 установил, что размещение дополнительных акций ЗАО "Волна" было произведено с нарушением установленного порядка.
+1	Президиум	президиум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	ВАС	ВАС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+3	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+6	№	№	SYM	_	_	8	nsubj	_	_
+7	4665/03	4665/03	NUM	_	_	6	nummod	_	_
+8	установил	установить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	19	punct	_	_
+10	что	что	SCONJ	_	_	19	mark	_	_
+11	размещение	размещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj:pass	_	_
+12	дополнительных	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	акций	акция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	ЗАО	ЗАО	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	Волна	волна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	appos	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	aux:pass	_	_
+19	произведено	произвести	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	8	ccomp	_	_
+20	с	с	ADP	_	_	21	case	_	_
+21	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+22	установленного	установить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	amod	_	_
+23	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 22
+# text = "Сделка по размещению ценных бумаг является одним из этапов их выпуска и может быть оспорена в самостоятельном порядке".
+1	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	Сделка	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	размещению	размещение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+5	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	одним	один	NUM	_	Case=Ins|Gender=Masc	7	nummod	_	_
+9	из	из	ADP	_	_	10	case	_	_
+10	этапов	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	их	их	DET	_	_	12	det	_	_
+12	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	aux:pass	_	_
+16	оспорена	оспорить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	xcomp	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	самостоятельном	самостоятельный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 23
+# text = При этом Президиум ВАС РФ указал, что совершенные с нарушением установленного порядка сделки являются недействительными как не отвечающие требованиям правовых актов (ст. 168 ГК РФ).
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	Президиум	Президиум	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	ВАС	ВАС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	указал	указать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	что	что	SCONJ	_	_	15	mark	_	_
+9	совершенные	совершить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	_
+12	установленного	установить	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	сделки	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+15	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	ccomp	_	_
+16	недействительными	недействительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	amod	_	_
+17	как	как	SCONJ	_	_	19	mark	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	отвечающие	отвечать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+20	требованиям	требование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	15	iobj	_	_
+21	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	parataxis	_	_
+25	168	168	NUM	_	_	26	nummod	_	_
+26	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+27	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 24
+# text = Следует оговорить, что не все способы защиты, применяемые в сфере ценных бумаг, носят охранительный характер; некоторые из них являются регулятивными, поскольку не связаны с применением санкций, с определенным имущественным воздействием на правонарушителя.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	оговорить	говорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	16	punct	_	_
+4	что	что	SCONJ	_	_	16	mark	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	все	весь	DET	_	Case=Nom|Number=Plur	7	det	_	_
+7	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+8	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	применяемые	применять	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+13	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	10	punct	_	_
+16	носят	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+17	охранительный	охранительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+19	;	;	PUNCT	_	_	1	punct	_	_
+20	некоторые	некоторый	DET	_	Case=Nom|Number=Plur	23	nsubj	_	_
+21	из	из	ADP	_	_	22	case	_	_
+22	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	20	nmod	_	_
+23	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	_
+24	регулятивными	регулятивный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	поскольку	поскольку	SCONJ	_	_	28	mark	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	связаны	связать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	23	advcl	_	_
+29	с	с	ADP	_	_	30	case	_	_
+30	применением	применение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	obl	_	_
+31	санкций	санкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	с	с	ADP	_	_	36	case	_	_
+34	определенным	определенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+35	имущественным	имущественный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	воздействием	воздействие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	30	conj	_	_
+37	на	на	ADP	_	_	38	case	_	_
+38	правонарушителя	правонарушитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = Владелец ценных бумаг и эмитент состоят между собой в относительных правоотношениях, и поэтому для защиты прав такого владельца могут применяться обязательственно-правовые способы защиты в рамках относительного правоотношения.
+1	Владелец	владелец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	эмитент	эмитент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	состоят	состоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	между	между	ADP	_	_	8	case	_	_
+8	собой	себя	PRON	_	Case=Ins	6	obl	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	относительных	относительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	_
+11	правоотношениях	правоотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	20	punct	_	_
+13	и	и	CCONJ	_	_	20	cc	_	_
+14	поэтому	поэтому	ADV	_	Degree=Pos	20	advmod	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+17	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	19	det	_	_
+19	владельца	владельец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+21	применяться	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	20	xcomp	_	_
+22	обязательственно	обязательственно	ADV	_	Degree=Pos	21	advmod	_	SpaceAfter=No
+23	-	-	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	_
+25	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+26	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	26	nmod	_	_
+29	относительного	относительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	правоотношения	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 26
+# text = Например, хозяйственное общество, выпустившее облигации, обязано обеспечить осуществление прав, закрепленных такой бумагой.
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	хозяйственное	хозяйственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	общество	общество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	выпустившее	выпустить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
+7	облигации	облигация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	обязано	обязать	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+10	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	закрепленных	закрепить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	16	det	_	_
+16	бумагой	бумага	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 27
+# text = Для осуществления прав, закрепленных в эмиссионных ценных бумагах, требуется наступление определенных юридических фактов, как правило, нескольких, образующих фактический состав.
+1	Для	для	ADP	_	_	2	case	_	_
+2	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	закрепленных	закрепить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	эмиссионных	эмиссионный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+8	ценных	ценный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	бумагах	бумага	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	наступление	наступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+13	определенных	определить	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+14	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	фактов	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	как	как	SCONJ	_	_	18	mark	_	_
+18	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	нескольких	несколько	NUM	_	Case=Gen	11	nummod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	образующих	образовывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+23	фактический	фактический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 28
+# text = Так, ак-
+1	Так	так	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ак	ак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = ционер приобретает право на получение дивидендов только после их объявления – принятия акционерным обществом решения о выплате дивидендов.
+1	ционер	ционер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	приобретает	приобретать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	получение	получение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	дивидендов	дивиденд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	только	только	PART	_	_	10	advmod	_	_
+8	после	после	ADP	_	_	10	case	_	_
+9	их	их	DET	_	_	10	det	_	_
+10	объявления	объявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	акционерным	акционерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	обществом	общество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	nmod	_	_
+15	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	выплате	выплата	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	_
+18	дивидендов	дивиденд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Неисполнение эмитентом прав, удостоверенных ценной бумагой, означает возможность для владельца эмиссионных ценных бумаг требовать защиты своих прав обязательственно-правовыми способами.
+1	Неисполнение	неисполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	эмитентом	эмитент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	_
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	удостоверенных	удостоверить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	ценной	ценный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	бумагой	бумага	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	владельца	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+14	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+16	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	obl	_	_
+17	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	_
+18	своих	свой	DET	_	Case=Gen|Number=Plur	19	det	_	_
+19	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+20	обязательственно	обязательственный	ADJ	_	Degree=Pos	22	compound	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	amod	_	_
+23	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 31
+# text = Неисполнение эмитентом прав, удостоверенных ценной бумагой, означает возможность для владельца эмиссионных ценных бумаг требовать защиты своих прав обязательственно-правовыми способами.
+1	Неисполнение	неисполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	эмитентом	эмитент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	_
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	удостоверенных	удостоверить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	ценной	ценный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	бумагой	бумага	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	владельца	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+14	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+16	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	obl	_	_
+17	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	obl	_	_
+18	своих	свой	DET	_	Case=Gen|Number=Plur	19	det	_	_
+19	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+20	обязательственно	обязательственный	ADJ	_	Degree=Pos	22	compound	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	amod	_	_
+23	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 32
+# text = Вещно-правовые и обязательственно-правовые способы защиты: динамика соотношения В российской и зарубежной литературе неоднократно отмечалось, что российский рынок корпоративных ценных бумаг является наиболее типичным представителем концентрированной системы корпоративной собственности в противовес дисперсной системе, характерной для США и Великобритании.
+1	Вещно	Вещный	ADJ	_	Degree=Pos	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	обязательственно	обязательственный	ADJ	_	Degree=Pos	3	conj	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+9	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	_	_
+11	динамика	динамика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+12	соотношения	соотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	В	в	ADP	_	_	17	case	_	_
+14	российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	зарубежной	зарубежный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	conj	_	_
+17	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+18	неоднократно	неоднократно	ADV	_	Degree=Pos	19	advmod	_	_
+19	отмечалось	отмечать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	9	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	_
+21	что	что	SCONJ	_	_	27	mark	_	_
+22	российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	рынок	рынок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+24	корпоративных	корпоративный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+25	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	_
+27	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	ccomp	_	_
+28	наиболее	наиболее	ADV	_	Degree=Pos	29	obl	_	_
+29	типичным	типичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	представителем	представитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	27	obl	_	_
+31	концентрированной	концентрированный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+33	корпоративной	корпоративный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	противовес	противовес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	nmod	_	_
+37	дисперсной	дисперсный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
+38	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	36	iobj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	характерной	характерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
+41	для	для	ADP	_	_	42	case	_	_
+42	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	40	obl	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	Великобритании	Великобритания	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	conj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 33
+# text = При концентрированной системе корпоративной собственности ценные бумаги – акции – находятся у небольшого числа крупных акционеров, которые и определяют судьбу акционерного общества.
+1	При	при	ADP	_	_	3	case	_	_
+2	концентрированной	концентрированный	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+4	корпоративной	корпоративный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+8	–	–	PUNCT	_	_	7	punct	_	_
+9	акции	акция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
+10	–	–	PUNCT	_	_	9	punct	_	_
+11	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	у	у	ADP	_	_	14	case	_	_
+13	небольшого	небольшой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	числа	число	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+15	крупных	крупный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	акционеров	акционер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	которые	который	PRON	_	Case=Nom	20	nsubj	_	_
+19	и	и	PART	_	_	20	advmod	_	_
+20	определяют	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+21	судьбу	судьба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+22	акционерного	акционерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 34
+# text = При дисперсной системе, напротив, корпоративные ценные бумаги, распределенные среди множества инвесторов, не составляют контрольных пакетов и потому не предоставляют своим владельцам определяющей роли в бизнесе.
+1	При	при	ADP	_	_	3	case	_	_
+2	дисперсной	дисперсный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	напротив	напротив	ADV	_	Degree=Pos	17	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	корпоративные	корпоративный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+8	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	распределенные	распределить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+12	среди	среди	ADP	_	_	13	case	_	_
+13	множества	множество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+14	инвесторов	инвестор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	составляют	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	контрольных	контрольный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	пакетов	пакет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+20	и	и	CCONJ	_	_	23	cc	_	_
+21	потому	потому	ADV	_	Degree=Pos	23	advmod	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	предоставляют	предоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	_
+24	своим	свой	DET	_	Case=Dat|Number=Plur	25	det	_	_
+25	владельцам	владелец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	23	iobj	_	_
+26	определяющей	определять	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	amod	_	_
+27	роли	роль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	obl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	бизнесе	бизнес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 35
+# text = Поэтому интересы таких владельцев в случае утраты ценных бумаг достаточно эффективно могут быть защищены исками о возмещении убытков и о возврате неосновательного обогащения.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	12	advmod	_	_
+2	интересы	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj:pass	_	_
+3	таких	такой	DET	_	Case=Gen|Number=Plur	4	det	_	_
+4	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+7	утраты	утрата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	advmod	_	_
+11	эффективно	эффективно	ADV	_	Degree=Pos	12	advmod	_	_
+12	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	aux:pass	_	_
+14	защищены	защитить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	xcomp	_	_
+15	исками	иск	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	_
+16	о	о	ADP	_	_	17	case	_	_
+17	возмещении	возмещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	_
+18	убытков	убыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	о	о	ADP	_	_	21	case	_	_
+21	возврате	возврат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	conj	_	_
+22	неосновательного	неосновательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	обогащения	обогащение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 36
+# text = Вещно-правовые средства защиты более эффективны в этом плане, поскольку предоставляют возможность истребовать ценные бумаги у любого лица; их применение позволяет защитить абсолютное право на бездокументарные ценные бумаги.
+1	Вещно	Вещный	ADJ	_	Degree=Pos	3	compound	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	более	более	ADV	_	Degree=Cmp	7	obl	_	_
+7	эффективны	эффективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	10	det	_	_
+10	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	поскольку	поскольку	SCONJ	_	_	13	mark	_	_
+13	предоставляют	предоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+14	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+15	истребовать	истребовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	obl	_	_
+16	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	obj	_	_
+18	у	у	ADP	_	_	20	case	_	_
+19	любого	любой	DET	_	Case=Gen|Gender=Neut|Number=Sing	20	det	_	_
+20	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+21	;	;	PUNCT	_	_	7	punct	_	_
+22	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	23	nmod	_	_
+23	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
+24	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+25	защитить	защитить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+26	абсолютное	абсолютный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obj	_	_
+28	на	на	ADP	_	_	31	case	_	_
+29	бездокументарные	бездокументарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+30	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	27	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = В то же время В.А. Белов, комментируя судебную практику, отмечает что "судами защищается уже нечто другое – абсолютные права на бездокументарные ценные бумаги" .
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+5	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Белов	Белов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	комментируя	комментировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	13	advcl	_	_
+10	судебную	судебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	практику	практика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	что	что	SCONJ	_	_	17	mark	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	судами	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+17	защищается	защищаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	ccomp	_	_
+18	уже	уже	ADV	_	Degree=Pos	17	advmod	_	_
+19	нечто	нечто	PRON	_	Case=Nom	17	nsubj:pass	_	_
+20	другое	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+21	–	–	PUNCT	_	_	23	punct	_	_
+22	абсолютные	абсолютный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	nsubj	_	_
+24	на	на	ADP	_	_	27	case	_	_
+25	бездокументарные	бездокументарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	amod	_	_
+26	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	amod	_	_
+27	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	23	punct	_	_
+29	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 38
+# text = Специалисты признают возможность осуществлять защиту прав на бездокументарные ценные бумаги вещно-правовыми и обязательственно-правовыми средствами защиты; среди последних основными являются признание сделок недействительными и требования к лицу, осуществляющему трансферт .
+1	Специалисты	специалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	признают	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	осуществлять	осуществлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	obl	_	_
+5	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	на	на	ADP	_	_	10	case	_	_
+8	бездокументарные	бездокументарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+9	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+11	вещно-	вещно-	PUNCT	_	_	17	punct	_	SpaceAfter=No
+12	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	обязательственно	обязательственный	ADJ	_	Degree=Pos	12	conj	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+16	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+17	средствами	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	obl	_	_
+18	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+19	;	;	PUNCT	_	_	2	punct	_	_
+20	среди	среди	ADP	_	_	22	case	_	_
+21	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	основными	основной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	obl	_	_
+23	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+24	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+25	сделок	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	_
+26	недействительными	недействительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	25	obl	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	требования	требование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	conj	_	_
+29	к	к	ADP	_	_	30	case	_	_
+30	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	осуществляющему	осуществлять	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	acl	_	_
+33	трансферт	трансферт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	obj	_	_
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = При этом, в любом случае, применение данных средств защиты обязательно должно учитывать особенности перехода прав на бездокументарные ценные бумаги – в порядке трансферта.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing	6	det	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+9	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	_
+10	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	обязательно	обязательно	ADV	_	Degree=Pos	13	advmod	_	_
+13	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+14	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	особенности	особенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+16	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	на	на	ADP	_	_	21	case	_	_
+19	бездокументарные	бездокументарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+20	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+21	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	16	nmod	_	_
+22	–	–	PUNCT	_	_	14	punct	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+25	трансферта	трансферт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 40
+# text = Применение виндикационного иска в сфере ценных бумаг достаточно ограниченно, поскольку виндицировать можно только документарные ценные бумаги, которые в подавляющем большинстве случаев являются предъявительскими и виндикация которых от добросовестного приобретателя законодательно запрещена.
+1	Применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	виндикационного	виндикационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	иска	иск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	достаточно	достаточно	ADV	_	Degree=Pos	9	advmod	_	_
+9	ограниченно	ограниченно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	поскольку	поскольку	SCONJ	_	_	13	mark	_	_
+12	виндицировать	виндицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	csubj	_	_
+13	можно	можно	ADV	_	Degree=Pos	9	advcl	_	_
+14	только	только	PART	_	_	15	advmod	_	_
+15	документарные	документарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+16	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	24	punct	_	_
+19	которые	который	PRON	_	Case=Nom	24	nsubj	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	подавляющем	подавляющий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+23	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+24	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	acl:relcl	_	_
+25	предъявительскими	предъявительский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	obl	_	_
+26	и	и	CCONJ	_	_	33	cc	_	_
+27	виндикация	виндикация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	nsubj:pass	_	_
+28	которых	который	PRON	_	Case=Gen	27	nmod	_	_
+29	от	от	ADP	_	_	31	case	_	_
+30	добросовестного	добросовестный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	приобретателя	приобретатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+32	законодательно	законодательно	ADV	_	Degree=Pos	33	advmod	_	_
+33	запрещена	запретить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	25	conj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 41
+# text = Тем не менее вопрос о возможности применения виндикационного иска в отношении бездокументар219
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	о	о	ADP	_	_	6	case	_	_
+6	возможности	возможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+7	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	виндикационного	виндикационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	иска	иск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	fixed	_	_
+12	бездокументар219	бездокументар219	NUM	_	_	9	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = ных ценных бумаг, большинство которых являются эмиссионными, а также допустимость их залога вызвали в юридической литературе многочисленные споры.
+1	ных	ный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+2	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	которых	который	PRON	_	Case=Gen	5	nmod	_	_
+7	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl:relcl	_	_
+8	эмиссионными	эмиссионный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	а	а	CCONJ	_	_	12	cc	_	_
+11	также	также	PART	_	_	10	fixed	_	_
+12	допустимость	допустимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	_
+13	их	их	DET	_	_	14	det	_	_
+14	залога	залог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+15	вызвали	вызвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	_
+19	многочисленные	многочисленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	споры	спор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 43
+# text = Большинство цивилистов считают недопустимым применение виндикационных исков для защиты прав владельцев бездокументарных ценных бумаг.
+1	Большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	цивилистов	цивилист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	недопустимым	недопустимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	3	obl	_	_
+5	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	виндикационных	виндикационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	исков	иск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+13	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 44
+# text = Однако есть и частные точки зрения, свидетельствующие об обратном.
+1	Однако	однако	ADV	_	Degree=Pos	2	advmod	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	частные	частный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	точки	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+6	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	свидетельствующие	свидетельствовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+9	об	о	ADP	_	_	10	case	_	_
+10	обратном	обратный	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 45
+# text = Так, Г.Н. Шевченко считает, что "вещно-правовые средства защиты прав владельцев эмиссионных ценных бумаг позволяют в большей мере обеспечить их права на ценные бумаги.
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Шевченко	Шевченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+6	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	20	punct	_	_
+8	что	что	SCONJ	_	_	20	mark	_	_
+9	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+10	вещно	вещный	ADJ	_	Degree=Pos	12	compound	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	средства	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	obj	_	_
+14	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+16	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+17	эмиссионных	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+18	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+20	позволяют	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	большей	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	_
+24	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+25	их	их	DET	_	_	26	det	_	_
+26	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	24	obj	_	_
+27	на	на	ADP	_	_	29	case	_	_
+28	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	29	amod	_	_
+29	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46
+# text = Обязательственно-правовые средства менее эффективны при незаконном списании бездокументарных ценных бумаг.
+1	Обязательственно	Обязательственно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+3	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+5	менее	менее	ADV	_	Degree=Cmp	6	obl	_	_
+6	эффективны	эффективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	1	parataxis	_	_
+7	при	при	ADP	_	_	9	case	_	_
+8	незаконном	незаконный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	списании	списание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+10	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Признание первоначальной сделки недействительной еще не означает, что ущемленные права владельца ценных бумаг будут восстановлены, поскольку не означает недействительности всех последующих сделок" . В.И. Яковлев пишет, что, "если неправомерное отчуждение имущественных прав произошло безвозмездно или вопреки воле кредитора, права должны признаваться за кредитором, а добросовестному их приобретателю должно быть предоставлено право требовать возмещения убытков с причинителя или регистратора.
+1	Признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	первоначальной	первоначальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	сделки	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	недействительной	недействительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+5	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	что	что	SCONJ	_	_	16	mark	_	_
+10	ущемленные	ущемленный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	nsubj:pass	_	_
+12	владельца	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux:pass	_	_
+16	восстановлены	восстановить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	ccomp	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	поскольку	поскольку	SCONJ	_	_	20	mark	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
+21	недействительности	недействительность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+22	всех	весь	DET	_	Case=Gen|Number=Plur	24	det	_	_
+23	последующих	последующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	сделок	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	obl	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	27	punct	_	_
+26	.	.	PUNCT	_	_	24	punct	_	_
+27	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	SpaceAfter=No
+28	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	flat:name	_	_
+29	Яковлев	Яковлев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	flat:name	_	_
+30	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	parataxis	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	48	punct	_	_
+32	что	что	SCONJ	_	_	48	mark	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	"	"	PUNCT	_	_	48	punct	_	SpaceAfter=No
+35	если	если	SCONJ	_	_	40	mark	_	_
+36	неправомерное	неправомерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	_
+37	отчуждение	отчуждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	40	nsubj	_	_
+38	имущественных	имущественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+39	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	nmod	_	_
+40	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	48	advcl	_	_
+41	безвозмездно	безвозмездно	ADV	_	Degree=Pos	40	advmod	_	_
+42	или	или	CCONJ	_	_	44	cc	_	_
+43	вопреки	вопреки	ADP	_	_	44	case	_	_
+44	воле	воля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	41	conj	_	_
+45	кредитора	кредитор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	40	punct	_	_
+47	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	nsubj	_	_
+48	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	30	ccomp	_	_
+49	признаваться	признавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	48	xcomp	_	_
+50	за	за	ADP	_	_	51	case	_	_
+51	кредитором	кредитор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	49	obl	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	57	punct	_	_
+53	а	а	CCONJ	_	_	57	cc	_	_
+54	добросовестному	добросовестный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
+55	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	56	nmod	_	_
+56	приобретателю	приобретатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	59	iobj	_	_
+57	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	48	conj	_	_
+58	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	59	aux:pass	_	_
+59	предоставлено	предоставить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	57	xcomp	_	_
+60	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	57	nsubj:pass	_	_
+61	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	60	obl	_	_
+62	возмещения	возмещение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	61	obj	_	_
+63	убытков	убыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	62	nmod	_	_
+64	с	с	ADP	_	_	65	case	_	_
+65	причинителя	причинитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	63	nmod	_	_
+66	или	или	CCONJ	_	_	67	cc	_	_
+67	регистратора	регистратор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	65	conj	_	SpaceAfter=No
+68	.	.	PUNCT	_	_	48	punct	_	_
+
+# sent_id = 48
+# text = Если же неправомерное отчуждение имущественных прав стало возможно из-за халатного отношения к ним их обладателя, то нет решительно никаких оснований признавать за ним эти права: значит, он в них не был сильно заинтересован" .
+1	Если	если	SCONJ	_	_	7	mark	_	_
+2	же	же	PART	_	_	7	advmod	_	_
+3	неправомерное	неправомерный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	отчуждение	отчуждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	имущественных	имущественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	18	advcl	_	_
+8	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	obl	_	_
+9	из-за	из-за	ADP	_	_	11	case	_	_
+10	халатного	халатный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	11	nmod	_	_
+14	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	15	nmod	_	_
+15	обладателя	обладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	7	punct	_	_
+17	то	то	SCONJ	_	_	18	mark	_	_
+18	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	решительно	решительно	ADV	_	Degree=Pos	21	obl	_	_
+20	никаких	никакой	DET	_	Case=Gen|Number=Plur	21	det	_	_
+21	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nsubj	_	_
+22	признавать	признавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	obl	_	_
+23	за	за	ADP	_	_	24	case	_	_
+24	ним	они	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	22	obl	_	_
+25	эти	этот	DET	_	Case=Acc|Number=Plur	26	det	_	_
+26	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	18	punct	_	_
+28	значит	значит	ADV	_	Degree=Pos	36	discourse	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	36	nsubj	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	36	obl	_	_
+33	не	не	PART	_	_	36	advmod	_	_
+34	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	36	cop	_	_
+35	сильно	сильно	ADV	_	Degree=Pos	36	obl	_	_
+36	заинтересован	заинтересованный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	18	parataxis	_	SpaceAfter=No
+37	"	"	PUNCT	_	_	36	punct	_	_
+38	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 49
+# text = Создание абсолютно-правового средства судебной защиты прав владельцев бездокументарных ценных бумаг, построенного на принципах виндикационного требования, но учитывающего специфику бездокументарных ценных бумаг, особенности учета и перехода прав на них, позволит более адекватно отразить особенности регулируемых отношений.
+1	Создание	создание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	_
+2	абсолютно-правового	абсолютно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	средства	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+9	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	построенного	построить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	принципах	принцип	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+15	виндикационного	виндикационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	требования	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	но	но	CCONJ	_	_	19	cc	_	_
+19	учитывающего	учитывать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+20	специфику	специфика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+21	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+22	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	conj	_	_
+26	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	conj	_	_
+29	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	_
+30	на	на	ADP	_	_	31	case	_	_
+31	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	29	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	19	punct	_	_
+33	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+34	более	более	ADV	_	Degree=Cmp	35	advmod	_	_
+35	адекватно	адекватно	ADV	_	Degree=Pos	36	advmod	_	_
+36	отразить	отразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	xcomp	_	_
+37	особенности	особенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	36	obj	_	_
+38	регулируемых	регулировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	39	amod	_	_
+39	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = 50
+# text = В то же время такое средство защиты не должно противоречить постулатам гражданского права, а также должно быть проверено практикой.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+5	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	6	det	_	_
+6	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+7	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+10	противоречить	противоречить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	постулатам	постулат	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	_
+12	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	а	а	CCONJ	_	_	17	cc	_	_
+16	также	также	PART	_	_	15	fixed	_	_
+17	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	conj	_	_
+18	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	aux:pass	_	_
+19	проверено	проверить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	xcomp	_	_
+20	практикой	практика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 51
+# text = Специфика учета прав на эмиссионные именные ценные бумаги, права по которым передаются по системе трансферта, означает, что списание таких ценных бумаг со счета владельца невозможно без обращения к лицу, осуществляющему трансферт, в качестве которого выступает либо эмитент, либо профессиональный участник рынка ценных бумаг – регистратор .
+1	Специфика	специфика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+2	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	на	на	ADP	_	_	8	case	_	_
+5	эмиссионные	эмиссионный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+6	именные	иметь	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+7	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	nsubj:pass	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	которым	который	PRON	_	Case=Dat	13	obl	_	_
+13	передаются	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+16	трансферта	трансферт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	13	punct	_	_
+18	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	28	punct	_	_
+20	что	что	SCONJ	_	_	28	mark	_	_
+21	списание	списание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+22	таких	такой	DET	_	Case=Gen|Number=Plur	24	det	_	_
+23	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+25	со	с	ADP	_	_	26	case	_	_
+26	счета	счет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+27	владельца	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	18	ccomp	_	_
+29	без	без	ADP	_	_	30	case	_	_
+30	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	obl	_	_
+31	к	к	ADP	_	_	32	case	_	_
+32	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	осуществляющему	осуществлять	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	32	acl	_	_
+35	трансферт	трансферт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	34	punct	_	_
+37	в	в	ADP	_	_	39	case	_	_
+38	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	fixed	_	_
+39	которого	который	PRON	_	Case=Gen	40	obl	_	_
+40	выступает	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	csubj	_	_
+41	либо	либо	CCONJ	_	_	42	cc	_	_
+42	эмитент	эмитент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	46	punct	_	_
+44	либо	либо	CCONJ	_	_	46	cc	_	_
+45	профессиональный	профессиональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	_
+46	участник	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	42	conj	_	_
+47	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
+48	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	49	amod	_	_
+49	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	47	nmod	_	_
+50	–	–	PUNCT	_	_	51	punct	_	_
+51	регистратор	регистратор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	42	conj	_	_
+52	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 52
+# text = Восстановление нарушенного права в полном объеме должно быть общим правилом, а компенсация убытков должна применяться как дополнительный способ, направленный на восстановление имущественной сферы потерпевшего.
+1	Восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	нарушенного	нарушить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	полном	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	объеме	объем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+7	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	cop	_	_
+9	общим	общий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	правилом	правило	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	а	а	CCONJ	_	_	15	cc	_	_
+13	компенсация	компенсация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+14	убытков	убыток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	7	conj	_	_
+16	применяться	применяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	15	xcomp	_	_
+17	как	как	SCONJ	_	_	19	mark	_	_
+18	дополнительный	дополнительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	направленный	направить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+24	имущественной	имущественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+26	потерпевшего	потерпевший	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	25	acl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 53
+# text = Лишь тогда, когда вернуть объект невозможно, поскольку, например, он уже не существует, невозможно и восстановление нарушенного права .
+1	Лишь	лишь	PART	_	_	2	advmod	_	_
+2	тогда	тогда	ADV	_	Degree=Pos	18	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	когда	когда	ADV	_	Degree=Pos	7	advmod	_	_
+5	вернуть	вернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	_
+6	объект	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+7	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	acl:relcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	поскольку	поскольку	SCONJ	_	_	16	mark	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	например	например	ADV	_	Degree=Pos	16	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	_
+14	уже	уже	ADV	_	Degree=Pos	16	advmod	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	2	punct	_	_
+18	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	восстановление	восстановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+21	нарушенного	нарушить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	amod	_	_
+22	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 54
+# text = В рамках относительного правоотношения в случае незаконного списания ценных бумаг могут предъявляться реституционный иск, а также иск к лицу, ответственному за совершение трансферта.
+1	В	в	ADP	_	_	2	case	_	_
+2	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	_
+3	относительного	относительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	правоотношения	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+7	незаконного	незаконной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	списания	списание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	предъявляться	предъявлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	11	xcomp	_	_
+13	реституционный	реституционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	иск	иск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	а	а	CCONJ	_	_	18	cc	_	_
+17	также	также	PART	_	_	16	fixed	_	_
+18	иск	иск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	ответственному	ответственный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+23	за	за	ADP	_	_	24	case	_	_
+24	совершение	совершение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	_
+25	трансферта	трансферт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 55
+# text = Несмотря на известные мнения, имеющиеся в литературе, о необходимости формирования охрани220
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	4	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	известные	известный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	_	_
+4	мнения	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	имеющиеся	иметься	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	acl	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	о	о	ADP	_	_	11	case	_	_
+11	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+12	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	охрани220	охрани220	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = тельного субинститута ценных бумаг, следует предположить, что такой субинститут еще в полной мере не сформировался, а находится в стадии формирования.
+1	тельного	тельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	субинститута	субинститута	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+3	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	предположить	предположить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	17	punct	_	_
+9	что	что	SCONJ	_	_	17	mark	_	_
+10	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	11	det	_	_
+11	субинститут	субинституть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+12	еще	еще	ADV	_	Degree=Pos	17	advmod	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	сформировался	сформироваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	ccomp	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	а	а	CCONJ	_	_	20	cc	_	_
+20	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	conj	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	стадии	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	_
+23	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 57
+# text = Охранительные нормы должны соответствовать регулятивным нормам и находятся в отношении соподчинения.
+1	Охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+4	соответствовать	соответствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	регулятивным	регулятивный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	6	amod	_	_
+6	нормам	норма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	4	iobj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	соподчинения	соподчинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 58
+# text = Поскольку понятие ценных бумаг, соотношение документарных и бездокументарных ценных бумаг не получили однозначного ни законодательного закрепления, ни теоретического обоснования, это не могло не привести к сложностям и в сфере охраны ценных бумаг.
+1	Поскольку	поскольку	SCONJ	_	_	13	mark	_	_
+2	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+3	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	соотношение	соотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+7	документарных	документарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	conj	_	_
+10	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	25	advcl	_	_
+14	однозначного	однозначный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+15	ни	ни	CCONJ	_	_	16	cc	_	_
+16	законодательного	законодательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	conj	_	_
+17	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	ни	ни	CCONJ	_	_	20	cc	_	_
+20	теоретического	теоретический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обоснования	обоснование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	13	punct	_	_
+23	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+28	к	к	ADP	_	_	29	case	_	_
+29	сложностям	сложность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	27	obl	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	conj	_	_
+33	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 59
+# text = Между тем, последние новеллы гражданского законодательства вроде бы поставили точку в спорах научной общественности относительно возможных способов защиты прав владельцев ценных бумаг.
+1	Между	между	ADP	_	_	2	case	_	_
+2	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	последние	последний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	новеллы	новелла	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+6	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	вроде	вроде	ADV	_	Degree=Pos	10	parataxis	_	_
+9	бы	бы	PART	_	_	8	fixed	_	_
+10	поставили	ставить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	спорах	спор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	10	obl	_	_
+14	научной	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	общественности	общественность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	относительно	относительно	ADP	_	_	18	case	_	_
+17	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	способов	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+19	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
+21	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+22	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 60
+# text = По крайней мере, в гражданском законодательстве установлен запрет на виндикацию бездокументарных ценных бумаг, удостоверяющих только денежные права требования, а также таких бездокументарных ценных бумаг, которые приобретены на организованных торгах независимо от вида удостоверяемого права (п. 1 ст. 149.3 ГК РФ).
+1	По	по	ADP	_	_	8	advmod	_	_
+2	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	1	fixed	_	_
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	гражданском	гражданский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+8	установлен	установить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	запрет	запрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	виндикацию	виндикация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+12	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+13	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	удостоверяющих	удостоверять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+17	только	только	PART	_	_	18	advmod	_	_
+18	денежные	денежный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	_
+20	требования	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	а	а	CCONJ	_	_	27	cc	_	_
+23	также	также	PART	_	_	22	fixed	_	_
+24	таких	такой	DET	_	Case=Gen|Number=Plur	27	det	_	_
+25	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+26	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	которые	который	PRON	_	Case=Nom	30	nsubj:pass	_	_
+30	приобретены	приобреесть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	27	acl:relcl	_	_
+31	на	на	ADP	_	_	33	case	_	_
+32	организованных	организовывать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	amod	_	_
+33	торгах	торги	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	30	obl	_	_
+34	независимо	независимо	ADV	_	Degree=Pos	30	advmod	_	_
+35	от	от	ADP	_	_	36	case	_	_
+36	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	obl	_	_
+37	удостоверяемого	удостоверять	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	_
+39	(	(	PUNCT	_	_	40	punct	_	SpaceAfter=No
+40	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	38	parataxis	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	40	punct	_	_
+42	1	1	NUM	_	_	43	nummod	_	_
+43	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	40	iobj	_	_
+44	149.3	149.3	NUM	_	_	45	nummod	_	_
+45	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	nmod	_	_
+46	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	40	punct	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 61
+# text = Несмотря на многочисленные попытки доктринального обоснования возможности виндикации акций, полной и всесторонней поддержки эта правовая конструкция так и не получила.
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	4	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	многочисленные	многочисленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	_	_
+4	попытки	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	21	obl	_	_
+5	доктринального	доктринальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	обоснования	обоснование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	виндикации	виндикация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	акций	акция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	полной	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	всесторонней	всесторонний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	_
+14	поддержки	поддержка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+15	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	17	det	_	_
+16	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	конструкция	конструкция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+18	так	так	ADV	_	Degree=Pos	21	advmod	_	_
+19	и	и	PART	_	_	18	fixed	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	получила	получить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 62
+# text = Сложная юридическая проблема адекватной защиты правообладателя, утратившего вопреки своей воле бездокументарные ценные бумаги, в п.
+1	Сложная	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	юридическая	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	адекватной	адекватный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	правообладателя	правообладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	утратившего	утратить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	_
+9	вопреки	вопреки	ADP	_	_	11	case	_	_
+10	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	11	det	_	_
+11	воле	воля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+12	бездокументарные	бездокументарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+13	ценные	ценный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	п	п	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 63
+# text = 1 ст. 149.3 ГК РФ решена иным способом.
+1	1	1	NUM	_	_	2	nummod	_	_
+2	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	_
+3	149.3	149.3	NUM	_	_	4	nummod	_	_
+4	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	решена	решить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	иным	иной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 64
+# text = В этой норме установлено, что правообладатель, со счета которого были неправомерно списаны бездокументарные ценные бумаги, вправе требовать от лица, на счете которого они находятся, возврата такого же количества ценных бумаг.
+1	В	в	ADP	_	_	3	case	_	_
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	норме	норма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	установлено	установить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	19	punct	_	_
+6	что	что	SCONJ	_	_	19	mark	_	_
+7	правообладатель	правообладатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	со	с	ADP	_	_	10	case	_	_
+10	счета	счет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	obl	_	_
+11	которого	который	PRON	_	Case=Gen	10	nmod	_	_
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+13	неправомерно	неправомерно	ADV	_	Degree=Pos	14	advmod	_	_
+14	списаны	списать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_
+15	бездокументарные	бездокументарный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+16	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	nsubj:pass	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	7	punct	_	_
+19	вправе	вправе	ADV	_	Degree=Pos	4	ccomp	_	_
+20	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	от	от	ADP	_	_	22	case	_	_
+22	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	счете	счет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	obl	_	_
+26	которого	который	PRON	_	Case=Gen	25	nmod	_	_
+27	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	28	nsubj	_	_
+28	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	20	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	возврата	возврат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	obl	_	_
+31	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	33	det	_	_
+32	же	же	PART	_	_	31	advmod	_	_
+33	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	_
+34	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 65
+# text = Сложный вопрос идентификации тех же самых бездокументарных ценных бумаг не будет решаться, поскольку законодатель решил пойти по иному пути.
+1	Сложный	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	_	_
+3	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	тех	тот	DET	_	Case=Gen|Number=Plur	9	det	_	_
+5	же	же	PART	_	_	4	advmod	_	_
+6	самых	самый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+10	не	не	PART	_	_	12	advmod	_	_
+11	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+12	решаться	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	поскольку	поскольку	SCONJ	_	_	16	mark	_	_
+15	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+16	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+17	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	по	по	ADP	_	_	20	case	_	_
+19	иному	иной	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 66
+# text = Фактически был поддержан довод сторонников догматического подхода к институту бездокументарных ценных бумаг, которые указывали на невозможность виндикации прав и родовых вещей.
+1	Фактически	фактически	ADV	_	Degree=Pos	3	advmod	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	_	_
+3	поддержан	поддержать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	довод	довод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+5	сторонников	сторонник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	догматического	догматический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	институту	институт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+10	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	которые	который	PRON	_	Case=Nom	15	nsubj	_	_
+15	указывали	указать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	невозможность	невозможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+18	виндикации	виндикация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	родовых	родовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	вещей	вещь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	conj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 67
+# text = Правообладатель, чьи права были нарушены неправомерным списанием бездокументарных ценных бумаг, при наличии данной возможности может потребовать у лиц, ответственных за списание, приобретения соответствующих бумаг на организованном рынке за их счет либо возмещения всех расходов, необходимых для такого приобретения (п. 3 ст. 149.3 ГК РФ).
+1	Правообладатель	правообладатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	чьи	чей	DET	_	Case=Nom|Number=Plur	4	det	_	_
+4	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj:pass	_	_
+5	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	aux:pass	_	_
+6	нарушены	нарушить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	acl:relcl	_	_
+7	неправомерным	неправомерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	списанием	списание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+9	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+10	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	6	punct	_	_
+13	при	при	ADP	_	_	14	case	_	_
+14	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+15	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	потребовать	требовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+19	у	у	ADP	_	_	20	case	_	_
+20	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	ответственных	ответственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+23	за	за	ADP	_	_	24	case	_	_
+24	списание	списание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	приобретения	приобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	obl	_	_
+27	соответствующих	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
+29	на	на	ADP	_	_	31	case	_	_
+30	организованном	организовывать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	amod	_	_
+31	рынке	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	nmod	_	_
+32	за	за	ADP	_	_	34	case	_	_
+33	их	их	DET	_	_	34	det	_	_
+34	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	nmod	_	_
+35	либо	либо	CCONJ	_	_	36	cc	_	_
+36	возмещения	возмещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	conj	_	_
+37	всех	весь	DET	_	Case=Gen|Number=Plur	38	det	_	_
+38	расходов	расход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	необходимых	необходимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	_
+41	для	для	ADP	_	_	43	case	_	_
+42	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	43	det	_	_
+43	приобретения	приобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	obl	_	_
+44	(	(	PUNCT	_	_	45	punct	_	SpaceAfter=No
+45	п	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	43	parataxis	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	45	punct	_	_
+47	3	3	NUM	_	_	48	nummod	_	_
+48	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	45	iobj	_	_
+49	149.3	149.3	NUM	_	_	50	nummod	_	_
+50	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	48	nmod	_	_
+51	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	SpaceAfter=No
+52	)	)	PUNCT	_	_	45	punct	_	SpaceAfter=No
+53	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 68
+# text = Помимо этого, законодатель ограничил возможность требовать возврата бездокументарных ценных бумаг, удостоверяющих только денежное право требования, а также бездокументарных ценных бумаг, приобретенных на организованном рынке, независимо от того, какое право они удостоверяют.
+1	Помимо	помимо	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	ограничил	ограничить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	требовать	требовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	obl	_	_
+8	возврата	возврат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+9	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+10	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	удостоверяющих	удостоверять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+14	только	только	PART	_	_	15	advmod	_	_
+15	денежное	денежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	_
+17	требования	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	а	а	CCONJ	_	_	23	cc	_	_
+20	также	также	PART	_	_	19	fixed	_	_
+21	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+22	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	приобретенных	приобрести	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	организованном	организовывать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	amod	_	_
+28	рынке	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	25	punct	_	_
+30	независимо	независимо	ADV	_	Degree=Pos	13	advmod	_	_
+31	от	от	ADP	_	_	32	case	_	_
+32	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	какое	какой	DET	_	Case=Acc|Gender=Neut|Number=Sing	35	det	_	_
+35	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obj	_	_
+36	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	37	nsubj	_	_
+37	удостоверяют	удостоверять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 69
+# text = В таких ситуациях не допускается истребование бездокументарных ценных бумаг у добросовестного приобретателя (абз. 2 п. 1 ст. 149.3 ГК РФ).
+1	В	в	ADP	_	_	3	case	_	_
+2	таких	такой	DET	_	Case=Loc|Number=Plur	3	det	_	_
+3	ситуациях	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	допускается	допускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	истребование	истребование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+7	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+10	у	у	ADP	_	_	12	case	_	_
+11	добросовестного	добросовестный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	приобретателя	приобретатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	абз	абз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	2	2	NUM	_	_	17	nummod	_	_
+17	п	п	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	1	1	NUM	_	_	20	nummod	_	_
+20	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	iobj	_	_
+21	149.3	149.3	NUM	_	_	22	nummod	_	_
+22	ГК	ГК	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+23	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 70
+# text = Таким образом, общее направление развития законодательства о ценных бумагах в части обеспечения гарантий реализации прав владельцев ценных бумаг и их владельческой защиты не в полной мере отражает потребности современной хозяйственной практики, подрывает стабильность гражданского оборота.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	28	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	общее	общий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	направление	направление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+6	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	о	о	ADP	_	_	10	case	_	_
+9	ценных	ценный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	amod	_	_
+10	бумагах	бумага	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	гарантий	гарантия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+15	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+17	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+20	и	и	CCONJ	_	_	23	cc	_	_
+21	их	они	DET	_	_	23	det	_	_
+22	владельческой	владельческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	conj	_	_
+24	не	не	PART	_	_	27	advmod	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	obl	_	_
+28	отражает	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+29	потребности	потребность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	28	obj	_	_
+30	современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	хозяйственной	хозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	практики	практика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	подрывает	подрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	_
+35	стабильность	стабильность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+36	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	оборота	оборот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	28	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = ЛИТЕРАТУРА 1.
+1	ЛИТЕРАТУРА	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Галкова Е.В. Правовое регулирование эмиссии ценных бумаг по российскому праву и праву зарубежных стран (сравнительно-правовой аспект).
+1	Галкова	Галков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+6	эмиссии	эмиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	по	по	ADP	_	_	11	case	_	_
+10	российскому	российский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	праву	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	праву	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	conj	_	_
+14	зарубежных	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+17	сравнительно	сравнительный	ADJ	_	Degree=Pos	19	compound	_	SpaceAfter=No
+18	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	аспект	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	parataxis	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 73
+# text = М. : Статут, 2014.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Статут	Статут	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	2014	2014	NUM	_	_	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Удальцова Н.Г. Первичное публичное предложение (размещение) ценных бумаг: правовая природа.
+1	Удальцова	Удальцов	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	Г	г	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	7	punct	_	_
+5	Первичное	первичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+6	публичное	публичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	предложение	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	размещение	размещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	1	punct	_	_
+14	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	природа	природа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = М. : Инфотропик Медиа, 2012.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Инфотропик	Инфотропик	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+4	Медиа	медиа	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	appos	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2012	2012	NUM	_	_	4	nummod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = Яковлев В.Ф. Гражданско-правовой метод регулирования общественных отношений.
+1	Яковлев	Яковлев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Гражданско	Гражданский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 79
+# text = Свердловск, 1972.
+1	Свердловск	Свердловск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1972	1972	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = С. 126.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	126	126	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = Агарков М.М. Учение о ценных бумагах // Основы банкового права.
+1	Агарков	Агарков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	М	метр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	Учение	учение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	_
+6	о	о	ADP	_	_	8	case	_	_
+7	ценных	ценный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	_	_
+8	бумагах	бумага	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	_
+9	/	/	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	Основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	conj	_	_
+12	банкового	банковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Учение о ценных бумагах.
+1	Учение	учение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	4	case	_	_
+3	ценных	ценный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	amod	_	_
+4	бумагах	бумага	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = М., 1994.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1994	1994	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = С. 230.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	230	230	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 86
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = Редькин И.В. Меры гражданско-правовой охраны прав участников отношений в сфере рынка ценных бумаг.
+1	Редькин	Редькин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Меры	мера	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+5	гражданско	гражданский	ADJ	_	Degree=Pos	7	compound	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+9	прав	прав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
+14	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = М., 1997.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1997	1997	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = С. 64–65.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	64–	64–	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+3	65	65	NUM	_	_	2	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Клык Н.Л. К вопросу о соотношении регулятивных и охранительных начал в сфере выпуска и обращения ценных бумаг // Сибирские юридические записки.
+1	Клык	клык	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	Л	л	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+5	К	к	ADP	_	_	6	case	_	_
+6	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	соотношении	соотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+9	регулятивных	регулятивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	охранительных	охранительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	conj	_	_
+12	начал	начать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	_
+18	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+20	/	/	PUNCT	_	_	24	punct	_	SpaceAfter=No
+21	/	/	PUNCT	_	_	24	punct	_	_
+22	Сибирские	Сибирский	PROPN	_	_	24	amod	_	_
+23	юридические	юридический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+24	записки	записка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	parataxis	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = Красноярск, 2003.
+1	Красноярск	Красноярск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2003	2003	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = С. 77.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	77	77	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 96
+# text = 7.
+1	7	7	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = Фондовые рынки США и России.
+1	Фондовые	фондовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	рынки	рынок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+3	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 98
+# text = Становление и регулирование.
+1	Становление	становление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = М., 1998.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1998	1998	NUM	_	_	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = С. 62.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	62	62	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = 8.
+1	8	8	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = Шевченко Г.Н. Эмиссионные ценные бумаги: понятие, эмиссия, обращение.
+1	Шевченко	Шевченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	Н	Н	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	Эмиссионные	Эмиссионный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+6	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	appos	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	7	punct	_	_
+9	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	эмиссия	эмиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	обращение	обращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = М. : Статут, 2006.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Статут	Статут	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	2006	2006	NUM	_	_	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = 9.
+1	9	9	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = Белов В.А. Бездокументарные ценные бумаги:
+1	Белов	Белов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Бездокументарные	Бездокументарный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+5	ценные	ценный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	flat:name	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Научно-практический очерк.
+1	Научно-практический	Научно-практический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	очерк	очерк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 107
+# text = М., 2001.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2001	2001	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = С. 53. 10.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	53	53	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	10	10	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 109
+# text = Буглак В.В. Понятие эмиссии и эмиссионной ценной бумаги // Власть Закона.
+1	Буглак	Буглак	SCONJ	_	_	2	mark	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Понятие	Понятие	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	flat:name	_	_
+5	эмиссии	эмиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	и	и	CCONJ	_	_	9	cc	_	_
+7	эмиссионной	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+8	ценной	ценный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	бумаги	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+10	/	/	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	/	/	PUNCT	_	_	12	punct	_	_
+12	Власть	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	parataxis	_	_
+13	Закона	Закона	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 110
+# text = 2016.
+1	2016	2016	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 111
+# text = № 2. С. 203–209.
+1	№	№	SYM	_	_	0	root	_	_
+2	2	2	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+5	203	203	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	–	–	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	209	209	NUM	_	_	5	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 112
+# text = 11.
+1	11	11	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 113
+# text = Яковлев В.И. Гражданско-правовые охранительные отношения, складывающиеся на рынке ценных бумаг // Вестник ВАС РФ.
+1	Яковлев	Яковлев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Гражданско	Гражданский	ADJ	_	Degree=Pos	3	obl	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+7	охранительные	охранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	складывающиеся	складываться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	8	acl	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	рынке	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	/	/	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	_
+18	ВАС	ВАС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+19	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 114
+# text = 2000.
+1	2000	2000	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 115
+# text = № 5.
+1	№	№	SYM	_	_	0	root	_	_
+2	5	5	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 116
+# text = С. 95. 12.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	95	95	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	12	12	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 117
+# text = Лебедев К.К. Защита прав обладателей бездокументарных ценных бумаг (материально- и процессуально-правовые аспекты разрешения споров, связанных с отчуждением бездокументарных ценных бумаг).
+1	Лебедев	Лебедев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	К	К	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+5	Защита	Защит	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	обладателей	обладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+9	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+11	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+12	материально	материальный	ADJ	_	Degree=Pos	17	compound	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	12	punct	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	процессуально	процессуально	ADJ	_	Degree=Pos	12	conj	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+17	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	аспекты	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	parataxis	_	_
+19	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	споров	спор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	отчуждением	отчуждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+25	бездокументарных	бездокументарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+26	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	бумаг	бумага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 118
+# text = М. : Волтерс Клувер, 2007.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Волтерс	Волтерс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+4	Клувер	Клувер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	2007	2007	NUM	_	_	3	nummod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 119
+# text = Статья представлена научной редакцией "Право" 4 октября 2017 г.
+1	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	представлена	представить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	научной	научный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	редакцией	редакция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	4	4	NUM	_	_	2	nummod	_	_
+9	октября	октябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	2017	2017	NUM	_	_	11	nummod	_	_
+11	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

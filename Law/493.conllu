@@ -1,0 +1,2616 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Комментарий к Земельному кодексу Российской Федерации / под ред. С. А. Боголюбова, Е. Л. Мининой. М., 2002.
+1	Комментарий	комментарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	к	к	ADP	_	_	4	case	_	_
+3	Земельному	Земельный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	кодексу	кодекс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
+5	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	/	/	PUNCT	_	_	9	punct	_	_
+8	под	под	ADP	_	_	9	case	_	_
+9	ред.	редактор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	_
+10	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+11	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	flat:name	_	_
+12	Боголюбова	Боголюбова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+15	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	14	flat:name	_	_
+16	Мининой	Минина	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	14	flat:name	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	_	_
+18	М.	м.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	2002	2002	NUM	_	_	10	nummod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = С. 104. 11 См., например: Болтанова Е. С. Основы правового регулирования застройки земель: монография.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	104	104	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	11	11	NUM	_	_	2	nummod	_	_
+5	См	сантиметр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	например	например	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	5	punct	_	_
+10	Болтанова	Болтанов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+11	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	flat:name	_	_
+12	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	flat:name	_	_
+13	Основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	parataxis	_	_
+14	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	застройки	застройка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	13	punct	_	_
+19	монография	монография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = М., 2013.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2013	2013	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = С. 26; Бедова Е. С. Правовой режим земель населенных пунктов: дис. ... канд. юрид. наук.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	26	26	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	;	;	PUNCT	_	_	1	punct	_	_
+4	Бедова	Бедов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+5	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	Правовой	правовой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	flat:name	_	_
+8	режим	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+9	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	населенных	населить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	пунктов	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	8	punct	_	_
+13	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	_
+14	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	_
+17	канд.	кандемик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	nmod	_	_
+18	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	_
+20	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = М., 2012.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2012	2012	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 6
+# text = С. 18.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	18	18	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = Земельное и экологическое право
+1	Земельное	земельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	экологическое	экологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 8
+# text = ливных земель, порядок, регулирующий права и обязанности государственных органов, занимающихся вопросами использования орошаемых земель и т. п."12 .
+1	ливных	ливный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	_
+2	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	регулирующий	регулировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	conj	_	_
+10	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	занимающихся	заниматься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	acl	_	_
+14	вопросами	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	obl	_	_
+15	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	орошаемых	орошать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	т.	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	conj	_	_
+20	п.	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	12	12	NUM	_	_	19	nummod	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Исходя из данной дефиниции, можно вычленить элементы, которые ученый включал в правовой режим анализируемых им земель: правовое положение поливных земель; правовое положение землепользователей; правовая охрана поливных земель; права и обязанности государственных органов.
+1	Исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	_
+2	из	из	ADP	_	_	4	case	_	_
+3	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	дефиниции	дефиниция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+7	вычленить	вычленить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	которые	который	PRON	_	Case=Acc	12	obj	_	_
+11	ученый	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	включал	включать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+16	анализируемых	анализировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	_
+17	им	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	16	obl	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	18	punct	_	_
+20	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	parataxis	_	_
+22	поливных	поливный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+24	;	;	PUNCT	_	_	21	punct	_	_
+25	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	conj	_	_
+27	землепользователей	землепользователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+28	;	;	PUNCT	_	_	21	punct	_	_
+29	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	охрана	охрана	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	conj	_	_
+31	поливных	поливный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	_
+32	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	SpaceAfter=No
+33	;	;	PUNCT	_	_	21	punct	_	_
+34	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	21	conj	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	34	conj	_	_
+37	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	38	amod	_	_
+38	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 10
+# text = Вслед за ним Н. В. Сторожев, не давая общей дефиниции, попытался раскрыть правовой режим мелиорированных земель в целом через перечисление входящих в него элементов.
+1	Вслед	вслед	ADV	_	Degree=Pos	13	advmod	_	_
+2	за	за	ADP	_	_	3	case	_	_
+3	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+5	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Сторожев	Сторожев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	давая	давать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	acl	_	_
+10	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	дефиниции	дефиниция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	попытался	пытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	раскрыть	раскрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+17	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+21	через	через	ADP	_	_	22	case	_	_
+22	перечисление	перечисление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	nmod	_	_
+23	входящих	входить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	nmod	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	nmod	_	_
+26	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 11
+# text = К последним он относил: рациональное, хозяйственное использование и охрану земель от количественного уменьшения и качественного ухудшения, осуществление права государственных органов по распоряжению и управлению земельным фондом, выполнение землепользователями обязанностей, охрану прав и законных интересов землепользователей13.
+1	К	к	ADP	_	_	2	case	_	_
+2	последним	последний	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	4	obl	_	_
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+4	относил	относить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	рациональное	рациональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	хозяйственное	хозяйственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	_
+9	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
+12	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+13	от	от	ADP	_	_	15	case	_	_
+14	количественного	количественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	уменьшения	уменьшение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	качественного	качественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	ухудшения	ухудшение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	_
+21	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	распоряжению	распоряжение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	nmod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	управлению	управление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	conj	_	_
+28	земельным	земельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	фондом	фонд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	выполнение	выполнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	conj	_	_
+32	землепользователями	землепользователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	31	nmod	_	_
+33	обязанностей	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
+36	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+37	и	и	CCONJ	_	_	39	cc	_	_
+38	законных	законный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	39	amod	_	_
+39	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	conj	_	_
+40	землепользователей13	землепользователей13	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 12
+# text = Однако имеющиеся немногочисленные определения правового режима мелиорированных земель, даваемые в условиях существовавшего в советское время монопольного права государства на землю, не учитывают и не могут учесть всех современных реалий и факторов, которые оказывают или могут оказать влияние на него и придают ему специфичность.
+1	Однако	однако	ADV	_	Degree=Pos	24	advmod	_	_
+2	имеющиеся	иметься	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	amod	_	_
+3	немногочисленные	немногочисленный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	определения	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	nsubj	_	_
+5	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	мелиорированных	мелиорированный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	даваемые	давать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	_	_
+13	существовавшего	существовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	18	acl	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	советское	советский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+17	монопольного	монопольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+19	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	землю	земля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	10	punct	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	учитывают	учитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	_
+28	учесть	учесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	xcomp	_	_
+29	всех	весь	DET	_	Case=Gen|Number=Plur	31	det	_	_
+30	современных	современный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	реалий	реалия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	obl	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	факторов	фактор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	31	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	которые	который	PRON	_	Case=Nom	36	nsubj	_	_
+36	оказывают	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	acl:relcl	_	_
+37	или	или	CCONJ	_	_	38	cc	_	_
+38	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	_
+39	оказать	оказывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	38	xcomp	_	_
+40	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	39	obj	_	_
+41	на	на	ADP	_	_	42	case	_	_
+42	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	40	nmod	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	придают	придавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	_
+45	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	44	iobj	_	_
+46	специфичность	специфичность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	obj	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 13
+# text = Это обусловливает необходимость пересмотра с учетом сохранения преемственности сложившихся научных взглядов на сущность данного правового явления и формирования в связи с этим новых подходов.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	обусловливает	обусловливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+7	сохранения	сохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	преемственности	преемственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	сложившихся	сложиться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	11	amod	_	_
+10	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	сущность	сущность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+14	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+15	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	conj	_	_
+19	в	в	ADP	_	_	22	case	_	_
+20	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	fixed	_	_
+21	с	с	ADP	_	_	19	fixed	_	_
+22	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	nmod	_	_
+23	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 14
+# text = Что касается наличия различий в правовых режимах мелиорированных и мелиорируемых земель, то они не являются существенными.
+1	Что	что	PRON	_	Case=Nom	2	nsubj	_	_
+2	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	16	advcl	_	_
+3	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+4	различий	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	правовых	правовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	режимах	режим	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	nmod	_	_
+8	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	conj	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	то	то	SCONJ	_	_	16	mark	_	_
+14	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	16	nsubj	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+17	существенными	существенный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = Но это не делает их тождественными.
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	4	obj	_	_
+6	тождественными	тождественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# text = К тому же в юридической литературе, несмотря на наличие законодательно закрепленных дефиниций этих понятий, нередко отмечается смешение таких видов земель, путаница в употреблении обозначаемых ими понятий.
+1	К	к	ADP	_	_	2	case	_	_
+2	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	obl	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	юридической	юридический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	несмотря	несмотря	ADV	_	Polarity=Neg	10	case	_	_
+9	на	на	ADP	_	_	8	fixed	_	_
+10	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+11	законодательно	законодательно	ADV	_	Degree=Pos	12	advmod	_	_
+12	закрепленных	закрепить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	дефиниций	дефиниция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+14	этих	этот	DET	_	Case=Gen|Number=Plur	15	det	_	_
+15	понятий	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	10	punct	_	_
+17	нередко	нередко	ADV	_	Degree=Pos	18	advmod	_	_
+18	отмечается	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+19	смешение	смешение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj:pass	_	_
+20	таких	такой	DET	_	Case=Gen|Number=Plur	21	det	_	_
+21	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+22	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	путаница	путаница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	употреблении	употребление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	nmod	_	_
+27	обозначаемых	обозначать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	29	acl	_	_
+28	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	27	obl	_	_
+29	понятий	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 17
+# text = Различия между ними проявляются преимущественно в том, что объектами правового регулирования они становятся на разных стадиях мелиорации земель14 .
+1	Различия	различие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+2	между	между	ADP	_	_	3	case	_	_
+3	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	1	nmod	_	_
+4	проявляются	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	преимущественно	преимущественно	ADV	_	Degree=Pos	4	advmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	что	что	SCONJ	_	_	14	mark	_	_
+10	объектами	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	_
+11	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	14	nsubj	_	_
+14	становятся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	acl	_	_
+15	на	на	ADP	_	_	17	case	_	_
+16	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	_
+17	стадиях	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	14	obl	_	_
+18	мелиорации	мелиорация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	земель14	земель14	X	_	Foreign=Yes	18	flat:foreign	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 18
+# text = Так, использование мелиорируемых земель подвергается правовому регламентированию при обследовании земель с целью выявления тех, которые нуждаются в восстановлении и улучшении, мониторинге, принятии решения о проведении мелиоративных мероприятий.
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+6	подвергается	подвергаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	правовому	правовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	регламентированию	регламентирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	обследовании	обследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	_
+14	выявления	выявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	тех	тот	DET	_	Case=Gen|Number=Plur	14	det	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	которые	который	PRON	_	Case=Nom	18	nsubj	_	_
+18	нуждаются	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	acl:relcl	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	восстановлении	восстановление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	улучшении	улучшение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	мониторинге	мониторинг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	принятии	принятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	conj	_	_
+27	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	о	о	ADP	_	_	29	case	_	_
+29	проведении	проведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	nmod	_	_
+30	мелиоративных	мелиоративный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 19
+# text = Причем, как правило, именно они включаются в составляемые органами исполнительной власти субъектов Федерации перечни особо ценных продуктивных сельскохозяйственных угодий.
+1	Причем	причем	CCONJ	_	_	8	cc	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	именно	именно	PART	_	_	7	advmod	_	_
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
+8	включаются	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	составляемые	составляемый	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	8	obl	_	_
+12	исполнительной	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	перечни	перечень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	особо	особо	ADV	_	Degree=Pos	18	obl	_	_
+18	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+19	продуктивных	продуктивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+20	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 20
+# text = Мелиорированные земли становятся объектами земельных правоотношений при мониторинге, использовании и контроле.
+1	Мелиорированные	Мелиорированный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	становятся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	объектами	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	_
+5	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	мониторинге	мониторинг	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	использовании	использование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	контроле	контроль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 21
+# text = Однако в целом во многих случаях для указанных земель в законодательстве устанавливаются схожие правовые режимы.
+1	Однако	однако	ADV	_	Degree=Pos	12	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+4	во	в	ADP	_	_	6	case	_	_
+5	многих	много	NUM	_	_	6	amod	_	_
+6	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	obl	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+12	устанавливаются	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+13	схожие	схожий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	amod	_	_
+14	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	amod	_	_
+15	режимы	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj:pass	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 22
+# text = Находясь в составе различных категорий земель, эти земли подчиняются общему правовому режиму соответствующей категории.
+1	Находясь	находиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	10	advcl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+4	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+6	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	эти	этот	DET	_	Case=Nom|Number=Plur	9	det	_	_
+9	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
+10	подчиняются	подчиняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	общему	общий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+12	правовому	правовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	режиму	режим	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+14	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 23
+# text = Вместе с тем признание земельных участков, входящих в состав той или иной категории, мелиорированными (мелиорируемыми) влечет ужесточение их правового режима ввиду необходимости соблюдения повышенных, прежде всего экологических, требований к их эксплуатации.
+1	Вместе	вместе	ADV	_	Degree=Pos	20	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+5	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	входящих	входить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+11	той	тот	DET	_	Case=Gen|Gender=Fem|Number=Sing	14	det	_	_
+12	или	или	CCONJ	_	_	13	cc	_	_
+13	иной	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	_
+14	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	мелиорированными	мелиорированный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	conj	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	мелиорируемыми	мелиорируемый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	appos	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+21	ужесточение	ужесточение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	их	их	DET	_	_	24	det	_	_
+23	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+25	ввиду	ввиду	ADP	_	_	26	case	_	_
+26	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+27	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	повышенных	повысить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	прежде	прежде	ADP	_	_	32	advmod	_	_
+31	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	fixed	_	_
+32	экологических	экологический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	obl	_	_
+35	к	к	ADP	_	_	37	case	_	_
+36	их	их	DET	_	_	37	det	_	_
+37	эксплуатации	эксплуатация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 24
+# text = Вследствие того, что значительная часть мелиорируемых (мелиорированных) земель включена в состав
+1	Вследствие	вследствие	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	12	punct	_	_
+4	что	что	SCONJ	_	_	12	mark	_	_
+5	значительная	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+7	мелиорируемых	мелиорируть	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	appos	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+12	включена	включить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	acl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = 12 Илебаев У.
+1	12	12	NUM	_	_	2	nummod	_	_
+2	Илебаев	Илебаев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	У	А	PROPN	_	Foreign=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 26
+# text = Теоретическое основы правового режима орошаемых земель в СССР.
+1	Теоретическое	теоретический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	орошаемых	орошать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	СССР	СССР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 27
+# text = Фрунзе, 1968.
+1	Фрунзе	Фрунзе	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1968	1968	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28
+# text = С. 43. 13 См.: Сторожев Н. В. Указ. соч. С. 27.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	43	43	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	13	13	NUM	_	_	2	nummod	_	_
+5	См	смотреть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	5	punct	_	_
+8	Сторожев	Сторожев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	_
+9	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	соч	соч	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+16	27	27	NUM	_	_	15	nummod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = 14 См.: Комментарий к Федеральному закону от 10 января 1996 г.
+1	14	14	NUM	_	_	2	nummod	_	_
+2	См	смотреть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	Комментарий	комментарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+6	к	к	ADP	_	_	8	case	_	_
+7	Федеральному	федеральный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	закону	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	_
+9	от	от	ADP	_	_	10	case	_	_
+10	10	10	NUM	_	_	5	nummod	_	_
+11	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	flat	_	_
+12	1996	1996	NUM	_	_	13	nummod	_	_
+13	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = № 4‑ФЗ "О мелиорации земель" / отв. ред.
+1	№	№	SYM	_	_	0	root	_	_
+2	4‑ФЗ	4‑ФЗ	PROPN	_	_	1	appos	_	_
+3	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	5	case	_	_
+5	мелиорации	мелиорация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	appos	_	_
+6	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	5	punct	_	_
+8	/	/	PUNCT	_	_	10	punct	_	_
+9	отв.	отвадратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	ред	редактор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 31
+# text = О. Л. Дубовик.
+1	О.	О.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+3	Дубовик	Дубовик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 32
+# text = Доступ из СПС "Гарант".
+1	Доступ	доступ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	СПС	СПС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Гарант	гарант	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = 2012.
+1	2012	2012	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = Журнал российского права № 7 — 2015
+1	Журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	№	№	SYM	_	_	3	nummod:entity	_	_
+5	7	7	NUM	_	_	4	nummod	_	_
+6	—	—	PUNCT	_	_	1	punct	_	_
+7	2015	2015	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = земель сельскохозяйственного назначения, а именно в состав сельскохозяйственных угодий, на них распространяются, помимо требований, содержащихся в Законе о мелиорации земель, правовые требования, связанные со спецификой использования сельскохозяйственных угодий и необходимостью их особой охраны.
+1	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nsubj	_	_
+2	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	а	а	CCONJ	_	_	8	cc	_	_
+6	именно	именно	PART	_	_	8	advmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	_
+9	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	1	punct	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	14	obl	_	_
+14	распространяются	распространяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	помимо	помимо	ADP	_	_	17	case	_	_
+17	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	содержащихся	содержать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	Законе	Закон	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+22	о	о	ADP	_	_	23	case	_	_
+23	мелиорации	мелиорация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+24	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	19	punct	_	_
+26	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	amod	_	_
+27	требования	требование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	связанные	связать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+30	со	с	ADP	_	_	31	case	_	_
+31	спецификой	специфика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	29	obl	_	_
+32	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	32	nmod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	31	conj	_	_
+37	их	их	DET	_	_	39	det	_	_
+38	особой	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 36
+# text = Вхождение названных земель в состав иных категорий (кроме земель сельскохозяйственного назначения) делает их более уязвимыми.
+1	Вхождение	Вхождение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+2	названных	назвать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+6	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	кроме	кроме	ADP	_	_	10	case	_	_
+10	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	parataxis	_	_
+11	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	10	punct	_	_
+14	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	14	obj	_	_
+16	более	более	ADV	_	Degree=Cmp	17	obl	_	_
+17	уязвимыми	уязвимый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 37
+# text = Это обусловлено тем, что предназначением этих категорий земель является их эксплуатация не только как пространственного базиса для размещения тех или иных объектов, но и как средства производства, а специальных правовых механизмов по защите таких улучшенных земель не предусмотрено.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	что	что	SCONJ	_	_	10	mark	_	_
+6	предназначением	предназначение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+7	этих	этот	DET	_	Case=Gen|Number=Plur	8	det	_	_
+8	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl	_	_
+11	их	их	DET	_	_	12	det	_	_
+12	эксплуатация	эксплуатация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	только	только	PART	_	_	17	advmod	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	пространственного	пространственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	базиса	базис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	размещения	размещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+20	тех	тот	DET	_	Case=Gen|Number=Plur	23	det	_	_
+21	или	или	CCONJ	_	_	22	cc	_	_
+22	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	conj	_	_
+23	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	но	но	CCONJ	_	_	28	cc	_	_
+26	и	и	PART	_	_	28	advmod	_	_
+27	как	как	SCONJ	_	_	28	mark	_	_
+28	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	17	conj	_	_
+29	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	41	punct	_	_
+31	а	а	CCONJ	_	_	41	cc	_	_
+32	специальных	специальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+33	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	41	nsubj:pass	_	_
+35	по	по	ADP	_	_	36	case	_	_
+36	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	34	nmod	_	_
+37	таких	такой	DET	_	Case=Gen|Number=Plur	39	det	_	_
+38	улучшенных	улучшить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	amod	_	_
+39	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	_
+40	не	не	PART	_	_	41	advmod	_	_
+41	предусмотрено	предусмотреть	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	conj	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 38
+# text = Особое значение данное положение приобретает для мелиорируемых (мелиорированных) земельных участков в границах зоны сельскохозяйственного использования земель населенных пунктов, где они, обладая повышенными ценностью и кадастровой стоимостью в сравнении с другими видами земель, эксплуатируются в качестве средства производства и юридически не защищены.
+1	Особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+3	данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	приобретает	приобретать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	для	для	ADP	_	_	12	case	_	_
+7	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	appos	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	nmod	_	_
+15	зоны	зона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+16	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+19	населенных	населить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	_
+20	пунктов	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	38	punct	_	_
+22	где	где	ADV	_	Degree=Pos	38	advmod	_	_
+23	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	38	nsubj:pass	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	обладая	обладать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	38	advcl	_	_
+26	повышенными	повышить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	amod	_	_
+27	ценностью	ценность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	obl	_	_
+28	и	и	CCONJ	_	_	30	cc	_	_
+29	кадастровой	кадастровый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	стоимостью	стоимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	27	conj	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	сравнении	сравнение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	nmod	_	_
+33	с	с	ADP	_	_	35	case	_	_
+34	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	35	amod	_	_
+35	видами	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	30	nmod	_	_
+36	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	25	punct	_	_
+38	эксплуатируются	эксплуатировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	_
+39	в	в	ADP	_	_	41	case	_	_
+40	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	39	fixed	_	_
+41	средства	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	obl	_	_
+42	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	и	и	CCONJ	_	_	46	cc	_	_
+44	юридически	юридически	ADV	_	Degree=Pos	46	advmod	_	_
+45	не	не	PART	_	_	46	advmod	_	_
+46	защищены	защитить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	38	conj	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = В связи с этим, как представляется, для того чтобы обеспечить охрану и рациональное использование мелиорированных земель, расположенных в границах зоны сельскохозяйственного использования и признанных особо ценными сельскохозяйственными угодьями, а также предотвратить ухудшение их качества в результате возможного размещения на них предприятий и иных объектов, способных оказать вредное воздействие, необходимо распространить на них действие общего правового режима сельскохозяйственных угодий в составе земель сельскохозяйственного назначения15.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	55	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	как	как	SCONJ	_	_	7	mark	_	_
+7	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	55	parataxis	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	obl	_	_
+11	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	_
+12	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	advcl	_	_
+13	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	рациональное	рациональный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	conj	_	_
+17	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	расположенных	расположенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	obl	_	_
+23	зоны	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	признанных	признать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	conj	_	_
+28	особо	особо	ADV	_	Degree=Pos	27	advmod	_	_
+29	ценными	ценный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	31	amod	_	_
+30	сельскохозяйственными	сельскохозяйственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	31	amod	_	_
+31	угодьями	угодье	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	27	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	а	а	CCONJ	_	_	35	cc	_	_
+34	также	также	PART	_	_	33	fixed	_	_
+35	предотвратить	предотвратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	conj	_	_
+36	ухудшение	ухудшение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	obj	_	_
+37	их	их	DET	_	_	38	det	_	_
+38	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	_
+39	в	в	ADP	_	_	40	case	_	_
+40	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	nmod	_	_
+41	возможного	возможный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
+42	размещения	размещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	_
+43	на	на	ADP	_	_	44	case	_	_
+44	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	42	nmod	_	_
+45	предприятий	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	42	nmod	_	_
+46	и	и	CCONJ	_	_	48	cc	_	_
+47	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	48	amod	_	_
+48	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	45	conj	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	50	punct	_	_
+50	способных	способный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	45	conj	_	_
+51	оказать	оказывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	50	xcomp	_	_
+52	вредное	вредный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	51	obj	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	27	punct	_	_
+55	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+56	распространить	распространить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	55	csubj	_	_
+57	на	на	ADP	_	_	58	case	_	_
+58	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	56	obl	_	_
+59	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	56	obj	_	_
+60	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	62	amod	_	_
+61	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	62	amod	_	_
+62	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	nmod	_	_
+63	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	64	amod	_	_
+64	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	62	nmod	_	_
+65	в	в	ADP	_	_	66	case	_	_
+66	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	59	nmod	_	_
+67	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	66	nmod	_	_
+68	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	69	amod	_	_
+69	назначения15	назначения15	NOUN	_	_	67	nmod	_	SpaceAfter=No
+70	.	.	PUNCT	_	_	55	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = Кроме того, целесообразно закрепить в Земельном кодексе РФ норму о недопустимости использования таких земель для целей, не связанных с ведением сельскохозяйственного производства, за исключением случаев, установленных федеральным законодательством.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	целесообразно	целесообразный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	закрепить	закрепить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	Земельном	Земельный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	кодексе	кодекс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+9	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	норму	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+11	о	о	ADP	_	_	12	case	_	_
+12	недопустимости	недопустимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	таких	такой	DET	_	Case=Gen|Number=Plur	15	det	_	_
+15	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	для	для	ADP	_	_	17	case	_	_
+17	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+21	с	с	ADP	_	_	22	case	_	_
+22	ведением	ведение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	_	_
+23	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	20	punct	_	_
+26	за	за	ADP	_	_	28	case	_	_
+27	исключением	исключение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	fixed	_	_
+28	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	установленных	установить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	_
+31	федеральным	федеральный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41
+# text = Проведенный анализ нормативных правовых актов показал, что мелиорируемые (мелиорированные) земли и образующие их земельные участки обладают сильно дифференцированным правовым режимом, поскольку на него оказывает влияние множество факторов: природно-естественные свойства земель; плодородие почв; целевое назначение земельных участков; разрешенное использование земельных участков; наличие прочно связанных с земельным участком объектов недвижимости, нацеленных на улучшение как непосредственно этих земельных участков, так и иных тесно связанных с ними природных объектов; установленные на них права; ограничения и др.
+1	Проведенный	провести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	нормативных	нормативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	19	punct	_	_
+8	что	что	SCONJ	_	_	19	mark	_	_
+9	мелиорируемые	мелиорируемый	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	nsubj	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	мелиорированные	мелиорированный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	11	punct	_	_
+13	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	_
+14	и	и	CCONJ	_	_	18	cc	_	_
+15	образующие	образовывать	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+16	их	их	DET	_	_	18	det	_	_
+17	земельные	земельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	участки	участок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	conj	_	_
+19	обладают	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+20	сильно	сильно	ADV	_	Degree=Pos	21	advmod	_	_
+21	дифференцированным	дифференцировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	xcomp	_	_
+22	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	режимом	режим	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	поскольку	поскольку	SCONJ	_	_	28	mark	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	28	obl	_	_
+28	оказывает	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	_
+29	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	obj	_	_
+30	множество	множество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nmod	_	_
+31	факторов	фактор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+32	:	:	PUNCT	_	_	30	punct	_	_
+33	природно	природный	ADJ	_	Degree=Pos	35	compound	_	SpaceAfter=No
+34	-	-	PUNCT	_	_	33	punct	_	SpaceAfter=No
+35	естественные	естественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	36	amod	_	_
+36	свойства	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	30	parataxis	_	_
+37	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	SpaceAfter=No
+38	;	;	PUNCT	_	_	36	punct	_	_
+39	плодородие	плодородий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	36	conj	_	_
+40	почв	почва	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	39	nmod	_	SpaceAfter=No
+41	;	;	PUNCT	_	_	36	punct	_	_
+42	целевое	целевой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
+43	назначение	назначение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
+44	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	45	amod	_	_
+45	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	43	nmod	_	SpaceAfter=No
+46	;	;	PUNCT	_	_	36	punct	_	_
+47	разрешенное	разрешить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	48	amod	_	_
+48	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
+49	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	50	amod	_	_
+50	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	48	nmod	_	SpaceAfter=No
+51	;	;	PUNCT	_	_	36	punct	_	_
+52	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
+53	прочно	прочно	ADV	_	Degree=Pos	54	advmod	_	_
+54	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	58	acl	_	_
+55	с	с	ADP	_	_	57	case	_	_
+56	земельным	земельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	57	amod	_	_
+57	участком	участок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	54	obl	_	_
+58	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	52	nmod	_	_
+59	недвижимости	недвижимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	61	punct	_	_
+61	нацеленных	нацелить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	58	acl	_	_
+62	на	на	ADP	_	_	63	case	_	_
+63	улучшение	улучшение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	61	obl	_	_
+64	как	как	SCONJ	_	_	68	mark	_	_
+65	непосредственно	непосредственно	ADV	_	Degree=Pos	66	obl	_	_
+66	этих	этот	DET	_	Case=Gen|Number=Plur	68	det	_	_
+67	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	68	amod	_	_
+68	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	63	nmod	_	SpaceAfter=No
+69	,	,	PUNCT	_	_	72	punct	_	_
+70	так	так	ADV	_	Degree=Pos	72	cc	_	_
+71	и	и	PART	_	_	70	fixed	_	_
+72	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	78	amod	_	_
+73	тесно	тесно	ADV	_	Degree=Pos	74	advmod	_	_
+74	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	78	acl	_	_
+75	с	с	ADP	_	_	76	case	_	_
+76	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	74	obl	_	_
+77	природных	природный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	78	amod	_	_
+78	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	68	nmod	_	SpaceAfter=No
+79	;	;	PUNCT	_	_	36	punct	_	_
+80	установленные	установить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	83	acl	_	_
+81	на	на	ADP	_	_	82	case	_	_
+82	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	80	obl	_	_
+83	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	36	conj	_	SpaceAfter=No
+84	;	;	PUNCT	_	_	36	punct	_	_
+85	ограничения	ограничение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	36	conj	_	_
+86	и	и	CCONJ	_	_	87	cc	_	_
+87	др	др.	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	36	conj	_	SpaceAfter=No
+88	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 42
+# text = Наибольшие изменения в правовой режим мелиорируемых и мелиорированных земель вносят проводимые на них гидротехнические и агролесомелиоративные мероприятия, следствием которых выступает размещение на них прочно связанных с ними объектов, ведущее к качественному, существенному преобразованию земельного участка16.
+1	Наибольшие	наибольший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	conj	_	_
+9	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+10	вносят	вносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	проводимые	проводить	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	11	obl	_	_
+14	гидротехнические	гидротехнический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	агролесомелиоративные	агролесомелиоративный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	conj	_	_
+17	мероприятия	мероприятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	следствием	следствие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	obl	_	_
+20	которых	который	PRON	_	Case=Gen	19	nmod	_	_
+21	выступает	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+22	размещение	размещение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	22	nmod	_	_
+25	прочно	прочно	ADV	_	Degree=Pos	26	advmod	_	_
+26	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	26	obl	_	_
+29	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	ведущее	вести	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+32	к	к	ADP	_	_	36	case	_	_
+33	качественному	качественный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	существенному	существенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	33	conj	_	_
+36	преобразованию	преобразование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	31	obl	_	_
+37	земельного	земельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
+38	участка16	участка16	X	_	Foreign=Yes	36	flat:foreign	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 43
+# text = В связи с этим следует зяйственного назначения на зоны сельскохозяйственного использования земель населенных пунктов в целом независимо от того, какие земли входят в их состав, что является справедливым и по отношению к мелиорированным землям в их составе (см., например: Аксененок Г.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	зяйственного	зяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nsubj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	зоны	зона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	nmod	_	_
+10	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+13	населенных	населить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	пунктов	пункт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+17	независимо	независимо	ADV	_	Degree=Pos	7	advmod	_	_
+18	от	от	ADP	_	_	19	case	_	_
+19	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	какие	какой	DET	_	Case=Nom|Number=Plur	22	det	_	_
+22	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	_
+23	входят	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	их	их	DET	_	_	26	det	_	_
+26	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	что	что	PRON	_	Case=Nom	29	nsubj	_	_
+29	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	23	parataxis	_	_
+30	справедливым	справедливый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	29	obl	_	_
+31	и	и	CCONJ	_	_	36	cc	_	_
+32	по	по	ADP	_	_	36	case	_	_
+33	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	fixed	_	_
+34	к	к	ADP	_	_	32	fixed	_	_
+35	мелиорированным	мелиорированный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	36	amod	_	_
+36	землям	земля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	30	conj	_	_
+37	в	в	ADP	_	_	39	case	_	_
+38	их	их	DET	_	_	39	det	_	_
+39	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	nmod	_	_
+40	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
+41	см.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	39	parataxis	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	например	например	ADV	_	Degree=Pos	41	parataxis	_	SpaceAfter=No
+44	:	:	PUNCT	_	_	41	punct	_	_
+45	Аксененок	Аксененок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	parataxis	_	_
+46	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	flat:name	_	_
+
+# sent_id = 44
+# text = А. Земельные правоотношения в СССР.
+1	А	а	CCONJ	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Земельные	земельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	правоотношения	правоотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	СССР	СССР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = М., 1958.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1958	1958	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 46
+# text = С. 201; Право землепользования в СССР и его виды / отв. ред.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	201	201	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	;	;	PUNCT	_	_	1	punct	_	_
+4	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+5	землепользования	землепользование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	СССР	СССР	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	его	его	DET	_	_	10	det	_	_
+10	виды	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
+11	/	/	PUNCT	_	_	13	punct	_	_
+12	отв.	отвадратный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	ред	редактор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = Г. А. Аксененок, Н. И. Краснов.
+1	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Аксененок	Аксененок	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+6	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Краснов	Краснов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 48
+# text = М., 1964.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1964	1964	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = С. 140; Бедова Е. С. Указ. соч. С. 139—140). 16 См.: Степанов С. А. Недвижимое имущество в гражданском праве.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+2	140	140	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	;	;	PUNCT	_	_	1	punct	_	_
+4	Бедова	Бедов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+5	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+7	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	соч.	сочтраница	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	7	flat:name	_	_
+10	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	7	flat:name	_	_
+11	139	139	NUM	_	_	7	nummod	_	SpaceAfter=No
+12	—	—	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	140	140	NUM	_	_	11	nummod	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+16	16	16	NUM	_	_	17	nummod	_	_
+17	См	сантиметр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	17	punct	_	_
+20	Степанов	Степан	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	amod	_	_
+21	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	_
+22	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	_
+23	Недвижимое	недвижимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	имущество	имущество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	parataxis	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	гражданском	гражданский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	24	obl	_	_
+27	праве.	праве.	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = 50
+# text = М., 2004.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2004	2004	NUM	_	_	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = С. 35; Болтанова Е. С. Основы правового регулирования застройки земель.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	35	35	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	;	;	PUNCT	_	_	1	punct	_	_
+4	Болтанова	Болтанов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+5	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+7	Основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	appos	_	_
+8	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	застройки	застройка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = С. 96.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	96	96	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 53
+# text = В научной литературе высказываются мнения о необходимости распространить общий правовой режим земель сельскохо-
+1	В	в	ADP	_	_	3	case	_	_
+2	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	высказываются	высказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	мнения	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+6	о	о	ADP	_	_	7	case	_	_
+7	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	распространить	распространить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	obl	_	_
+9	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+12	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+13	сельскохо	сельскохый	ADJ	_	Degree=Pos	4	obl	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 54
+# text = Земельное и экологическое право
+1	Земельное	земельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	экологическое	экологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 55
+# text = согласиться с мнением С. А. Боголюбова о том, что "при подготовке и принятии актов о размещении на земельных участках объектов надо учитывать не только ближайшие, но и отдаленные последствия деятельности объектов — экологические, экономические, демографические, нравственные; должен соблюдаться приоритет охраны здоровья человека и благосостояния населения"17.
+1	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	мнением	мнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Боголюбова	Боголюбова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	23	punct	_	_
+10	что	что	SCONJ	_	_	23	mark	_	_
+11	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+12	при	при	ADP	_	_	13	case	_	_
+13	подготовке	подготовка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	obl	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	принятии	принятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	conj	_	_
+16	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	размещении	размещение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+19	на	на	ADP	_	_	21	case	_	_
+20	земельных	земельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	_
+21	участках	участок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	nmod	_	_
+22	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+23	надо	надо	ADV	_	Degree=Pos	8	acl	_	_
+24	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	csubj	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	только	только	PART	_	_	27	advmod	_	_
+27	ближайшие	близкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Sup|Number=Plur	24	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	но	но	CCONJ	_	_	32	cc	_	_
+30	и	и	PART	_	_	29	advmod	_	_
+31	отдаленные	отдаленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	_
+32	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	27	conj	_	_
+33	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+34	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+35	—	—	PUNCT	_	_	27	punct	_	_
+36	экологические	экологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	экономические	экономический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	conj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	демографические	демографический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	conj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	нравственные	нравственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	conj	_	SpaceAfter=No
+43	;	;	PUNCT	_	_	36	punct	_	_
+44	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	36	conj	_	_
+45	соблюдаться	соблюдать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	44	xcomp	_	_
+46	приоритет	приоритет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	_
+47	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	46	nmod	_	_
+48	здоровья	здоровье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	47	nmod	_	_
+49	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
+51	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	conj	_	_
+52	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	51	nmod	_	SpaceAfter=No
+53	"	"	PUNCT	_	_	54	punct	_	SpaceAfter=No
+54	17	17	NUM	_	_	52	nummod	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	36	punct	_	_
+
+# sent_id = 56
+# text = Исходя из сказанного, следует, что существенными различиями в правовом режиме будут обладать земельные участки, на которых размещены мелиоративные системы, отдельно расположенные гидротехнические сооружения и защитные лесные насаждения.
+1	Исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	_
+2	из	из	ADP	_	_	3	mark	_	_
+3	сказанного	сказать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	что	что	SCONJ	_	_	14	mark	_	_
+8	существенными	существенный	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	различиями	различие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	14	obl	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	режиме	режим	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+13	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
+14	обладать	обладать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	_
+15	земельные	земельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	которых	который	PRON	_	Case=Loc	20	obl	_	_
+20	размещены	разместить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	acl:relcl	_	_
+21	мелиоративные	мелиоративный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj:pass	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	отдельно	отдельно	ADV	_	Degree=Pos	22	acl:relcl	_	_
+25	расположенные	расположенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	amod	_	_
+26	гидротехнические	гидротехнический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	27	amod	_	_
+27	сооружения	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	nsubj	_	_
+28	и	и	CCONJ	_	_	31	cc	_	_
+29	защитные	защитный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	31	amod	_	_
+30	лесные	лесной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	31	amod	_	_
+31	насаждения	насаждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	27	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 57
+# text = Это влечет за собой переплетение земельно-правового и гражданско-правового режимов, образуя, таким образом, смешанный правовой режим земель.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	влечет	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	за	за	ADP	_	_	4	case	_	_
+4	собой	себя	PRON	_	Case=Ins	2	obl	_	_
+5	переплетение	переплетение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+6	земельно-правового	земельно-правовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+7	и	и	CCONJ	_	_	10	cc	_	_
+8	гражданско-	гражданско-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	режимов	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	образуя	образовывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	15	det	_	_
+15	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	12	punct	_	_
+17	смешанный	мешать	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+18	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	режим	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+20	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Правовые режимы мелиорируемых (мелиорированных) земель и земельных участков в их составе и расположенных на них объектов недвижимости оказывают взаимное влияние как друг на друга, так и на соседние с ними земельные участки, например через установление сервитутов.
+1	Правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	режимы	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+3	мелиорируемых	мелиорируть	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	appos	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	_
+7	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	conj	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	их	их	DET	_	_	13	det	_	_
+13	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+14	и	и	CCONJ	_	_	18	cc	_	_
+15	расположенных	расположенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	15	obl	_	_
+18	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	conj	_	_
+19	недвижимости	недвижимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	оказывают	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+21	взаимное	взаимный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	как	как	SCONJ	_	_	24	mark	_	_
+24	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	nmod	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	друга	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	35	punct	_	_
+28	так	так	ADV	_	Degree=Pos	35	cc	_	_
+29	и	и	PART	_	_	28	fixed	_	_
+30	на	на	ADP	_	_	35	case	_	_
+31	соседние	соседний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	35	amod	_	_
+32	с	с	ADP	_	_	33	case	_	_
+33	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	31	obl	_	_
+34	земельные	земельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
+35	участки	участок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	24	conj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	39	punct	_	_
+37	например	например	ADV	_	Degree=Pos	39	obl	_	_
+38	через	через	ADP	_	_	39	case	_	_
+39	установление	установление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	parataxis	_	_
+40	сервитутов	сервитут	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 59
+# text = Причем определяющим здесь остается именно земельный участок.
+1	Причем	причем	CCONJ	_	_	4	cc	_	_
+2	определяющим	определяющий	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	xcomp	_	_
+3	здесь	здесь	ADV	_	Degree=Pos	4	advmod	_	_
+4	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	именно	именно	PART	_	_	6	advmod	_	_
+6	земельный	земельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	участок	участок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 60
+# text = Более того, такое их взаимодействие ведет к существенному преобразованию земельного участка и изменению его правового режима.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	6	det	_	_
+5	их	их	DET	_	_	6	det	_	_
+6	взаимодействие	взаимодействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	ведет	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	к	к	ADP	_	_	10	case	_	_
+9	существенному	существенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	преобразованию	преобразование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+11	земельного	земельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	участка	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	изменению	изменение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	conj	_	_
+15	его	его	DET	_	_	17	det	_	_
+16	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 61
+# text = Несмотря на распространение на мелиорируемые (мелиорированные) земли особого режима хозяйственной деятельности в мелиоративной сфере18, в России с каждым годом проис-
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	3	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	мелиорируемые	мелиорируемый	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	nmod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	мелиорированные	мелиорированный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	parataxis	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nmod	_	_
+10	особого	особый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	хозяйственной	хозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	мелиоративной	мелиоративный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	сфере18	сфере18	NOUN	_	_	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+20	с	с	ADP	_	_	22	case	_	_
+21	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing	22	det	_	_
+22	годом	год	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	_
+23	проис	проис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	-	-	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = ходит нарастание тенденций, связанных с ухудшением общего экологического состояния этих земель19, оказывающих вследствие этого порой отрицательное влияние и на близлежащие земельные массивы.
+1	ходит	ходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	нарастание	нарастание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+3	тенденций	тенденция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	ухудшением	ухудшение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+8	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	экологического	экологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+11	этих	этот	DET	_	Case=Gen|Number=Plur	12	det	_	_
+12	земель19	земель19	NUM	_	_	10	nummod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	оказывающих	оказывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+15	вследствие	вследствие	ADP	_	_	16	case	_	_
+16	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+17	порой	порой	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	_
+18	отрицательное	отрицательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+20	и	и	CCONJ	_	_	24	cc	_	_
+21	на	на	ADP	_	_	24	case	_	_
+22	близлежащие	близлежащий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+23	земельные	земельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+24	массивы	массив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = В настоящее время на них наблюдаются вторичное заболачивание, засоление, осолонцевание почв, поднятие уровня грунтовых вод на них и на прилегающих территориях и иные негативные последствия20.
+1	В	в	ADP	_	_	6	advmod	_	_
+2	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	6	obl	_	_
+6	наблюдаются	наблюдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	вторичное	вторичный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	заболачивание	заболачивание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	засоление	засоление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	осолонцевание	осолонцевание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	_
+13	почв	почва	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	поднятие	поднятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	_
+16	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	грунтовых	грунтовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	вод	вода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	них	они	PRON	_	Case=Acc|Number=Plur|Person=3	16	nmod	_	_
+21	и	и	PART	_	_	24	advmod	_	_
+22	на	на	ADP	_	_	24	case	_	_
+23	прилегающих	прилегать	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	amod	_	_
+24	территориях	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	nmod	_	_
+25	и	и	CCONJ	_	_	28	cc	_	_
+26	иные	иной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+27	негативные	негативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+28	последствия20	последствия20	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	conj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 64
+# text = По этим причинам не все имеющиеся площади орошаемых и осушаемых (осушенных) земель используются в сельскохозяйственном производстве.
+1	По	по	ADP	_	_	3	case	_	_
+2	этим	этот	DET	_	Case=Dat|Number=Plur	3	det	_	_
+3	причинам	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	15	obl	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	все	весь	DET	_	Case=Acc|Number=Plur	7	det	_	_
+6	имеющиеся	иметься	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	7	amod	_	_
+7	площади	площадь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	15	nsubj:pass	_	_
+8	орошаемых	орошать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	14	acl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	осушаемых	осушать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	8	conj	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	осушенных	осушеть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	appos	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	_
+14	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+15	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	сельскохозяйственном	сельскохозяйственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	производстве	производство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 65
+# text = В связи с этим мелиорируемые (мелиорированные) земли (земельные участки), которые признаются нормативными правовыми актами субъектов РФ в качестве особо ценных продуктивных сельскохозяйственных угодий, требуют обеспечения их охраны не только в пределах составляющих их земельных участков, но и вовне.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	30	obl	_	_
+5	мелиорируемые	мелиорируемый	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	мелиорированные	мелиорированный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	30	nsubj	_	_
+10	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	земельные	земельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	участки	участок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	appos	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	которые	который	PRON	_	Case=Nom	16	nsubj:pass	_	_
+16	признаются	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	acl:relcl	_	_
+17	нормативными	нормативный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+18	правовыми	правовой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+19	актами	акт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	16	obl	_	_
+20	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	в	в	ADP	_	_	28	case	_	_
+23	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	fixed	_	_
+24	особо	особо	ADV	_	Degree=Pos	25	obl	_	_
+25	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+26	продуктивных	продуктивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+27	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	9	punct	_	_
+30	требуют	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+31	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	_
+32	их	их	DET	_	_	33	det	_	_
+33	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+34	не	не	PART	_	_	35	advmod	_	_
+35	только	только	PART	_	_	37	advmod	_	_
+36	в	в	ADP	_	_	37	case	_	_
+37	пределах	предел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	30	obl	_	_
+38	составляющих	составлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	41	amod	_	_
+39	их	их	DET	_	_	41	det	_	_
+40	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	amod	_	_
+41	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	45	punct	_	_
+43	но	но	CCONJ	_	_	45	cc	_	_
+44	и	и	PART	_	_	43	advmod	_	_
+45	вовне	вовне	ADV	_	Degree=Pos	30	conj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 66
+# text = Обеспечению такой охраны и защиты может служить установление вокруг особо ценных угодий охранных зон, в границах которых будут действовать ограничения для правообладателей прилегающих земельных участков21. других работ, не предназначенных для мелиорации земель, не должны ухудшать водный, воздушный и питательный режимы почв на мелиорируемых (мелиорированных) землях, а также препятствовать эксплуатации мелиоративных систем, отдельно расположенных гидротехнических сооружений и защитных лесных насаждений.
+1	Обеспечению	обеспечение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	_
+2	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
+3	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	служить	служить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	установление	установление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+9	вокруг	вокруг	ADP	_	_	12	case	_	_
+10	особо	особо	ADV	_	Degree=Pos	11	obl	_	_
+11	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+13	охранных	охранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	obl	_	_
+18	которых	который	PRON	_	Case=Gen	17	nmod	_	_
+19	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+20	действовать	действовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	conj	_	_
+21	ограничения	ограничение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	39	obj	_	_
+22	для	для	ADP	_	_	23	case	_	_
+23	правообладателей	правообладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	38	obl	_	_
+24	прилегающих	прилегать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	amod	_	_
+25	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	участков21	участков21	NOUN	_	_	38	nsubj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	_
+28	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	работ	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	предназначенных	предназначить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	_
+33	для	для	ADP	_	_	34	case	_	_
+34	мелиорации	мелиорация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	obl	_	_
+35	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	32	punct	_	_
+37	не	не	PART	_	_	38	advmod	_	_
+38	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	20	advmod	_	_
+39	ухудшать	ухудшать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	38	xcomp	_	_
+40	водный	водный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	воздушный	воздушный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	40	conj	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	питательный	питательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	40	conj	_	_
+45	режимы	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	39	obj	_	_
+46	почв	почва	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	39	advcl	_	_
+47	на	на	ADP	_	_	52	case	_	_
+48	мелиорируемых	мелиорируемый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	52	amod	_	_
+49	(	(	PUNCT	_	_	50	punct	_	SpaceAfter=No
+50	мелиорированных	мелиорированный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	48	appos	_	SpaceAfter=No
+51	)	)	PUNCT	_	_	50	punct	_	_
+52	землях	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	46	obl	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	56	punct	_	_
+54	а	а	CCONJ	_	_	56	cc	_	_
+55	также	также	PART	_	_	54	fixed	_	_
+56	препятствовать	препятствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	46	conj	_	_
+57	эксплуатации	эксплуатация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	56	obl	_	_
+58	мелиоративных	мелиоративный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	59	amod	_	_
+59	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	57	nmod	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	64	punct	_	_
+61	отдельно	отдельно	ADV	_	Degree=Pos	62	obl	_	_
+62	расположенных	расположить	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	64	amod	_	_
+63	гидротехнических	гидротехнический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	64	amod	_	_
+64	сооружений	сооружение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	56	obl	_	_
+65	и	и	CCONJ	_	_	68	cc	_	_
+66	защитных	защитный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	68	amod	_	_
+67	лесных	лесной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	68	amod	_	_
+68	насаждений	насаждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	64	conj	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 67
+# text = 19 Так, по данным Доклада о состоянии и использовании земель сельскохозяйственного назначения, 29% мелиорированных земель находится в неудовлетворительном состоянии.
+1	19	19	NUM	_	_	8	nummod	_	_
+2	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	8	nmod	_	_
+6	Доклада	доклад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	использовании	использование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	conj	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	29	29	NUM	_	_	16	nummod	_	SpaceAfter=No
+16	%	%	SYM	_	_	19	nsubj	_	_
+17	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl:relcl	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	неудовлетворительном	неудовлетворительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 68
+# text = 20 См: Дьяконов К. П., Дончева Л. В. Экологическое проектирование и экспертиза: учебник. М., 2005.
+1	20	20	NUM	_	_	2	nummod	_	_
+2	См	смотреть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	Дьяконов	Дьяконов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+5	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	П.	П.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	Дончева	Дончев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+9	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	flat:name	_	_
+10	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8	flat:name	_	_
+11	Экологическое	экологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	проектирование	проектирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	appos	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	экспертиза	экспертиза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	14	punct	_	_
+16	учебник	учебник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	2005	2005	NUM	_	_	16	nummod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 69
+# text = С. 265—267.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	265	265	NUM	_	_	0	root	_	SpaceAfter=No
+4	—	—	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	267	267	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 70
+# text = 21 В научной литературе имеется точка зрения о целесообразности создания, исходя из интересов охраны окружающей среды, здоровья человека и интересов сельского хозяйства, вокруг всех особо ценных про-
+1	21	21	NUM	_	_	5	nummod	_	_
+2	В	в	ADP	_	_	4	case	_	_
+3	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+5	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	точка	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+7	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	compound	_	_
+8	о	о	ADP	_	_	9	case	_	_
+9	целесообразности	целесообразность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+10	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	acl	_	_
+13	из	из	ADP	_	_	14	case	_	_
+14	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	_
+15	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	окружающей	окружать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	amod	_	_
+17	среды	среда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	здоровья	здоровье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	_
+20	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	conj	_	_
+23	сельского	сельский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	хозяйства	хозяйство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	вокруг	вокруг	ADP	_	_	29	case	_	_
+27	всех	весь	DET	_	Case=Gen|Number=Plur	29	det	_	_
+28	особо	особо	ADV	_	Degree=Pos	29	obl	_	_
+29	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	conj	_	_
+30	про	про	ADP	_	_	29	discourse	_	SpaceAfter=No
+31	-	-	PUNCT	_	_	30	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = 17 Боголюбов С. А. Правотворчество в сфе-
+1	17	17	NUM	_	_	2	nummod	_	_
+2	Боголюбов	Боголюбов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Правотворчество	Правотворчество	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	flat:name	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	сфе	сф	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 72
+# text = ре экологии: монография.
+1	ре	ер	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
+2	экологии	экология	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	1	punct	_	_
+4	монография	монография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = М., 2010.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2010	2010	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = С. 354. 18 К примеру, сооружение и эксплуатация линий связи, электропередачи, трубопроводов, дорог и других объектов на мелиорируемых (мелиорированных) землях должны осуществляться по согласованию со специально уполномоченными организациями, а также соответствующими органами исполнительной власти субъектов РФ; строительство на этих землях объектов и проведение
+1	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	parataxis	_	_
+2	354	354	NUM	_	_	28	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	18	18	NUM	_	_	2	nummod	_	_
+5	К	к	ADP	_	_	6	case	_	_
+6	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	28	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	сооружение	сооружение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	эксплуатация	эксплуатация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+11	линий	линия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	электропередачи	электропередача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	трубопроводов	трубопровод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	дорог	дорога	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	_
+22	на	на	ADP	_	_	27	case	_	_
+23	мелиорируемых	мелиорируемый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	27	amod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	мелиорированных	мелиорированный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	23	appos	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	25	punct	_	_
+27	землях	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	21	nmod	_	_
+28	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+29	осуществляться	осуществляться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	28	xcomp	_	_
+30	по	по	ADP	_	_	31	case	_	_
+31	согласованию	согласование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	29	obl	_	_
+32	со	с	ADP	_	_	35	case	_	_
+33	специально	специально	ADV	_	Degree=Pos	34	advmod	_	_
+34	уполномоченными	уполномочить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	35	acl	_	_
+35	организациями	организация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	29	obl	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	40	punct	_	_
+37	а	а	CCONJ	_	_	40	cc	_	_
+38	также	также	PART	_	_	37	fixed	_	_
+39	соответствующими	соответствующий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	40	amod	_	_
+40	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	35	conj	_	_
+41	исполнительной	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
+43	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	_
+44	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	nmod	_	SpaceAfter=No
+45	;	;	PUNCT	_	_	28	punct	_	_
+46	строительство	строительство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+47	на	на	ADP	_	_	49	case	_	_
+48	этих	этот	DET	_	Case=Loc|Number=Plur	49	det	_	_
+49	землях	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	46	nmod	_	_
+50	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	46	nmod	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 75
+# text = Журнал российского права № 7 — 2015
+1	Журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	№	№	SYM	_	_	3	nummod:entity	_	_
+5	7	7	NUM	_	_	4	nummod	_	_
+6	—	—	PUNCT	_	_	1	punct	_	_
+7	2015	2015	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 76
+# text = Как справедливо отмечает Е. А. Галиновская, "режим санитарно-защитных, а также любых охранных зон не может быть сведен только к ограничению прав на земельные участки и недвижимость.
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	справедливо	справедливо	ADV	_	Degree=Pos	3	advmod	_	_
+3	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	parataxis	_	_
+4	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+6	Галиновская	Галиновский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	режим	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj:pass	_	_
+10	санитарно	санитарно	ADV	_	Degree=Pos	11	obl	_	SpaceAfter=No
+11	-защитных	-защитный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	а	а	CCONJ	_	_	17	cc	_	_
+14	также	также	PART	_	_	13	fixed	_	_
+15	любых	любой	DET	_	Case=Gen|Number=Plur	17	det	_	_
+16	охранных	охрать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	aux:pass	_	_
+21	сведен	свести	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	xcomp	_	_
+22	только	только	PART	_	_	24	advmod	_	_
+23	к	к	ADP	_	_	24	case	_	_
+24	ограничению	ограничение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	obl	_	_
+25	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	земельные	земельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	28	amod	_	_
+28	участки	участок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	недвижимость	недвижимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 77
+# text = По сути, это совершенно особый способ взаимодействия владельцев соседних земельных участков, населения, органов государственной власти и органов местного самоуправления для достижения одной или нескольких связанных целей"22.
+1	По	по	ADP	_	_	2	case	_	_
+2	сути	суть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	совершенно	совершенно	ADV	_	Degree=Pos	6	obl	_	_
+6	особый	особый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	способ	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	владельцев	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	соседних	соседний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+17	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+21	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	самоуправления	самоуправление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	для	для	ADP	_	_	24	case	_	_
+24	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+25	одной	один	NUM	_	Case=Gen|Gender=Fem	29	nummod	_	_
+26	или	или	CCONJ	_	_	27	cc	_	_
+27	нескольких	несколько	NUM	_	Case=Gen	25	conj	_	_
+28	связанных	связать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+31	22	22	NUM	_	_	29	nummod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 78
+# text = Идея установления зон вокруг таких земель прослеживается в проекте федерального закона № 465407-6 "О внесении изменений в Земельный кодекс Российской Федерации и отдельные законодательные акты Российской Федерации в части перехода от деления земель на категории к территориальному зонированию", который концептуально не поддерживается23 экспертами и учеными.
+1	Идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+2	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+4	вокруг	вокруг	ADP	_	_	6	case	_	_
+5	таких	такой	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+7	прослеживается	прослеживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	проекте	проект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+10	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	№	№	SYM	_	_	11	nummod:entity	_	_
+13	465407	465407	NUM	_	_	12	nummod	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	6	6	NUM	_	_	11	nummod	_	_
+16	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	О	о	ADP	_	_	18	case	_	_
+18	внесении	внесение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+19	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	Земельный	земельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	кодекс	кодекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	_
+23	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	и	и	CCONJ	_	_	28	cc	_	_
+26	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+27	законодательные	законодательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+28	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	conj	_	_
+29	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	_
+33	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+34	от	от	ADP	_	_	35	case	_	_
+35	деления	деление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+36	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	35	nmod	_	_
+37	на	на	ADP	_	_	38	case	_	_
+38	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+39	к	к	ADP	_	_	41	case	_	_
+40	территориальному	территориальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	41	amod	_	_
+41	зонированию	зонирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+42	"	"	PUNCT	_	_	41	punct	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	47	punct	_	_
+44	который	который	PRON	_	Case=Nom	47	nsubj	_	_
+45	концептуально	концептуально	ADV	_	Degree=Pos	47	advmod	_	_
+46	не	не	PART	_	_	47	advmod	_	_
+47	поддерживается23	поддерживается23	NUM	_	_	41	acl:relcl	_	_
+48	экспертами	эксперт	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	47	obl	_	_
+49	и	и	CCONJ	_	_	50	cc	_	_
+50	учеными	ученый	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	48	conj	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 79
+# text = В нем предлагается закрепить вокруг в том числе рассматриваемых
+1	В	в	ADP	_	_	2	case	_	_
+2	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+3	предлагается	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	закрепить	закрепить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj:pass	_	_
+5	вокруг	вокруг	ADV	_	Degree=Pos	4	advmod	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	8	det	_	_
+8	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+9	рассматриваемых	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	3	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 80
+# text = нами земель (земельных участков) охранные зоны, именуемые "зоной охраны особо ценных сельскохозяйственных земель", режим которых является более строгим, чем в отношении территориальных зон.
+1	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	22	obl	_	_
+2	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	appos	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	_
+7	охранные	охрать	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	зоны	зона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	именуемые	именовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	8	acl	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	зоной	зона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+13	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	особо	особо	ADV	_	Degree=Pos	15	obl	_	_
+15	ценных	ценный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+16	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	10	punct	_	_
+20	режим	режим	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+21	которых	который	PRON	_	Case=Gen	20	nmod	_	_
+22	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+23	более	более	ADV	_	Degree=Cmp	24	obl	_	_
+24	строгим	строгий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	30	punct	_	_
+26	чем	чем	SCONJ	_	_	30	mark	_	_
+27	в	в	ADP	_	_	30	case	_	_
+28	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	fixed	_	_
+29	территориальных	территориальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	advcl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 81
+# text = Как представляется, предусмотрев на законодательном уровне правовой механизм установления охранных зон вокруг мелиорируемых (мелиорированных) земельных участков, признаваемых особо ценными продуктивными сельскохозяйственными угодьями, его реализация позволит: во-первых, создать для мелиорированных (мелиорируемых) земель защитный барьер от негативного воздействия хозяйственной деятельности на граничащих с ними земельных участках; во-вторых, обеспечить охрану уникальных экологических систем, сложившихся на землях, предотвратить их уменьшение; в-третьих, уменьшить влияние самой мелиоративной деятельности, обеспечить защиту близлежащих территорий от вредного воздействия, которое могут оказать сами мелиорируемые (мелиорированные) земли при несоблюдении правил их эксплуатации (данное положение касается преимущественно земельных участков, в границах которых имеются оросительные и осушительные системы, которые при несоблюдении научно обоснованных подходов к их строительству и эксплуатации могут причинить значительный вред окружающей среде).
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	30	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	предусмотрев	предусмотреть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	30	advcl	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	законодательном	законодательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+8	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+10	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	охранных	охрать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+13	вокруг	вокруг	ADP	_	_	19	case	_	_
+14	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	appos	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	_
+18	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	признаваемых	признавать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	_
+22	особо	особо	ADV	_	Degree=Pos	23	advmod	_	_
+23	ценными	ценный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	_
+24	продуктивными	продуктивный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	_
+25	сельскохозяйственными	сельскохозяйственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	_
+26	угодьями	угодье	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	21	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	21	punct	_	_
+28	его	он	DET	_	_	29	det	_	_
+29	реализация	реализация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	nsubj	_	_
+30	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+31	:	:	PUNCT	_	_	30	punct	_	_
+32	во-первых	во-первых	ADV	_	Degree=Pos	34	parataxis	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	xcomp	_	_
+35	для	для	ADP	_	_	40	case	_	_
+36	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+37	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	appos	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	38	punct	_	_
+40	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	obl	_	_
+41	защитный	защитный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	_
+42	барьер	барьер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	_
+43	от	от	ADP	_	_	45	case	_	_
+44	негативного	негативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	45	amod	_	_
+45	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+46	хозяйственной	хозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	47	amod	_	_
+47	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	_
+48	на	на	ADP	_	_	49	case	_	_
+49	граничащих	граничить	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	45	nmod	_	_
+50	с	с	ADP	_	_	51	case	_	_
+51	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	49	nmod	_	_
+52	земельных	земельный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	53	amod	_	_
+53	участках	участок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	42	nmod	_	SpaceAfter=No
+54	;	;	PUNCT	_	_	34	punct	_	_
+55	во-вторых	во-вторых	ADV	_	Degree=Pos	57	advmod	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	57	punct	_	_
+57	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	34	conj	_	_
+58	охрану	охрана	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	57	obj	_	_
+59	уникальных	уникальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	61	amod	_	_
+60	экологических	экологический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	61	amod	_	_
+61	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	58	nmod	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	63	punct	_	_
+63	сложившихся	сложиться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	61	acl	_	_
+64	на	на	ADP	_	_	65	case	_	_
+65	землях	земля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	63	obl	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	63	punct	_	_
+67	предотвратить	предотвратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	63	xcomp	_	_
+68	их	их	DET	_	_	69	det	_	_
+69	уменьшение	уменьшение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	67	obj	_	SpaceAfter=No
+70	;	;	PUNCT	_	_	67	punct	_	_
+71	в-третьих	в-третьих	ADV	_	Degree=Pos	73	parataxis	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	71	punct	_	_
+73	уменьшить	уменьшить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	67	conj	_	_
+74	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	73	obj	_	_
+75	самой	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	76	amod	_	_
+76	мелиоративной	мелиоративный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	77	amod	_	_
+77	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	74	nmod	_	SpaceAfter=No
+78	,	,	PUNCT	_	_	79	punct	_	_
+79	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	73	conj	_	_
+80	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	79	obj	_	_
+81	близлежащих	близлежащий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	82	amod	_	_
+82	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	80	nmod	_	_
+83	от	от	ADP	_	_	85	case	_	_
+84	вредного	вредный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	85	amod	_	_
+85	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	79	obl	_	SpaceAfter=No
+86	,	,	PUNCT	_	_	88	punct	_	_
+87	которое	который	PRON	_	Case=Nom	89	obj	_	_
+88	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	85	acl:relcl	_	_
+89	оказать	оказывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	88	xcomp	_	_
+90	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	91	amod	_	_
+91	мелиорируемые	мелиорируемый	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	88	nsubj	_	_
+92	(	(	PUNCT	_	_	93	punct	_	SpaceAfter=No
+93	мелиорированные	мелиорированный	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	91	parataxis	_	SpaceAfter=No
+94	)	)	PUNCT	_	_	93	punct	_	_
+95	земли	земля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	91	nmod	_	_
+96	при	при	ADP	_	_	97	case	_	_
+97	несоблюдении	несоблюдение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	95	nmod	_	_
+98	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	97	nmod	_	_
+99	их	они	DET	_	_	100	det	_	_
+100	эксплуатации	эксплуатация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	98	nmod	_	_
+101	(	(	PUNCT	_	_	104	punct	_	SpaceAfter=No
+102	данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	103	amod	_	_
+103	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	104	nsubj	_	_
+104	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	95	parataxis	_	_
+105	преимущественно	преимущественно	ADV	_	Degree=Pos	106	obl	_	_
+106	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	107	amod	_	_
+107	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	104	obl	_	SpaceAfter=No
+108	,	,	PUNCT	_	_	112	punct	_	_
+109	в	в	ADP	_	_	110	case	_	_
+110	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	112	obl	_	_
+111	которых	который	PRON	_	Case=Gen	110	nmod	_	_
+112	имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	104	conj	_	_
+113	оросительные	оросительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	116	amod	_	_
+114	и	и	CCONJ	_	_	115	cc	_	_
+115	осушительные	осушительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	113	conj	_	_
+116	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	112	nsubj	_	SpaceAfter=No
+117	,	,	PUNCT	_	_	129	punct	_	_
+118	которые	который	PRON	_	Case=Nom	129	nsubj	_	_
+119	при	при	ADP	_	_	120	case	_	_
+120	несоблюдении	несоблюдение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	129	obl	_	_
+121	научно	научно	ADV	_	Degree=Pos	122	advmod	_	_
+122	обоснованных	обоснованный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	123	amod	_	_
+123	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	120	nmod	_	_
+124	к	к	ADP	_	_	126	case	_	_
+125	их	их	DET	_	_	126	det	_	_
+126	строительству	строительство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	123	nmod	_	_
+127	и	и	CCONJ	_	_	128	cc	_	_
+128	эксплуатации	эксплуатация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	126	conj	_	_
+129	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	116	acl:relcl	_	_
+130	причинить	причинить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	129	xcomp	_	_
+131	значительный	значительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	132	amod	_	_
+132	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	130	obj	_	_
+133	окружающей	окружать	VERB	_	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	134	amod	_	_
+134	среде	среда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	132	iobj	_	SpaceAfter=No
+135	)	)	PUNCT	_	_	104	punct	_	SpaceAfter=No
+136	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 82
+# text = Исходя из вышеизложенного, можно заключить, что в качестве элементов, составляющих правовой режим мелиорируемых (мелиорированных) земель, по нашему мнению, выступают: 1) использование и охрана земель; 2) управление землями; 3) ограничения использования земель и обременения прав собственников земельных участков, землевладельцев, землепользователей и арендаторов;
+1	Исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	вышеизложенного	вышеизложенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	заключить	заключить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	26	punct	_	_
+8	что	что	SCONJ	_	_	26	mark	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	составляющих	составлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+14	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+16	мелиорируемых	мелиорируемый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	appos	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	13	punct	_	_
+22	по	по	ADP	_	_	24	case	_	_
+23	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	24	det	_	_
+24	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	выступают	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	26	punct	_	_
+28	1	1	NUM	_	_	30	nummod	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	28	punct	_	_
+30	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	parataxis	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	охрана	охрана	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	conj	_	_
+33	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	SpaceAfter=No
+34	;	;	PUNCT	_	_	30	punct	_	_
+35	2	2	NUM	_	_	37	nummod	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	35	punct	_	_
+37	управление	управление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	conj	_	_
+38	землями	земля	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
+39	;	;	PUNCT	_	_	38	punct	_	_
+40	3	3	NUM	_	_	42	nummod	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	40	punct	_	_
+42	ограничения	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	conj	_	_
+43	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	_
+44	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	43	nmod	_	_
+45	и	и	CCONJ	_	_	46	cc	_	_
+46	обременения	обременение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	30	conj	_	_
+47	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	46	nmod	_	_
+48	собственников	собственник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	47	nmod	_	_
+49	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	50	amod	_	_
+50	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	48	nmod	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	52	punct	_	_
+52	землевладельцев	землевладелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	50	conj	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	землепользователей	землепользователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	50	conj	_	_
+55	и	и	CCONJ	_	_	56	cc	_	_
+56	арендаторов	арендатор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	50	conj	_	SpaceAfter=No
+57	;	;	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 83
+# text = дуктивных сельскохозяйственных угодий охранных зон, что, на наш взгляд, заслуживает одобрения и является вполне разумным (см.: Голышев Н. А. Правовой режим земель сельскохозяйственного назначения (на примере Республики Мордовия): дис. ... канд. юрид. наук.
+1	дуктивных	дуктивный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+2	сельскохозяйственных	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	угодий	угодье	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	0	root	_	_
+4	охранных	охранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	зон	зона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	что	что	SCONJ	_	_	13	mark	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	на	на	ADP	_	_	11	case	_	_
+10	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	11	det	_	_
+11	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	заслуживает	заслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+14	одобрения	одобрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	conj	_	_
+17	вполне	вполне	ADV	_	Degree=Pos	18	obl	_	_
+18	разумным	разумный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	obl	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	см.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	16	parataxis	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	20	punct	_	_
+22	Голышев	Голышев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	parataxis	_	_
+23	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	flat:name	_	_
+24	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	22	appos	_	_
+25	Правовой	правовой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	24	flat:name	_	_
+26	режим	режим	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+27	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
+28	сельскохозяйственного	сельскохозяйственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+30	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+31	на	на	ADP	_	_	32	case	_	_
+32	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	parataxis	_	_
+33	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	Мордовия	Мордовий	PROPN	_	_	33	appos	_	SpaceAfter=No
+35	)	)	PUNCT	_	_	32	punct	_	SpaceAfter=No
+36	:	:	PUNCT	_	_	26	punct	_	_
+37	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	parataxis	_	_
+38	.	.	PUNCT	_	_	37	punct	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	37	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	37	punct	_	_
+41	канд.	кандемик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	37	nmod	_	_
+42	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	41	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	42	punct	_	_
+44	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	42	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 84
+# text = М., 2010.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2010	2010	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = С. 49).
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	49	49	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	)	)	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = 22 Галиновская Е. А. Теоретические и методологические проблемы земельных правоотношений: монография.
+1	22	22	NUM	_	_	2	nummod	_	_
+2	Галиновская	Галиновский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	_
+5	Теоретические	теоретический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	методологические	методологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	conj	_	_
+8	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	flat:name	_	_
+9	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	8	punct	_	_
+12	монография	монография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 87
+# text = М., 2009.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2009	2009	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = С. 172. 23 См.: Галиновская Е. А. О направлениях совершенствования установления категорий и разрешенного использования земель // Имущественные отношения в Российской Федерации.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	172	172	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	23	23	NUM	_	_	2	nummod	_	_
+5	См.	См.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	Галиновская	Галиновский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+8	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+9	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+10	О	о	ADP	_	_	11	case	_	_
+11	направлениях	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	nmod	_	_
+12	совершенствования	совершенствование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	разрешенного	разрешить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	_
+18	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+19	/	/	PUNCT	_	_	22	punct	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	22	punct	_	_
+21	Имущественные	Имущественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	18	parataxis	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = 2012.
+1	2012	2012	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = № 10. С. 78—81; Липски С. А. Зонирование территорий как механизм обеспечения целевого использования земель // Имущественные отношения в Российской Федерации.
+1	№	№	SYM	_	_	0	root	_	_
+2	10	10	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	78	78	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	—	—	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	81	81	NUM	_	_	5	nummod	_	SpaceAfter=No
+8	;	;	PUNCT	_	_	1	punct	_	_
+9	Липски	Липска	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+10	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	Зонирование	Зонирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	appos	_	_
+13	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+14	как	как	SCONJ	_	_	15	mark	_	_
+15	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	acl	_	_
+16	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	целевого	целевой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
+20	/	/	PUNCT	_	_	23	punct	_	SpaceAfter=No
+21	/	/	PUNCT	_	_	23	punct	_	_
+22	Имущественные	Имущественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	parataxis	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = 2013.
+1	2013	2013	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = № 6. С. 59—65; Буров В. А. Реализация принципа деления земель и земельных участков на категории по целевому назначению: дис. ... канд. юрид. наук.
+1	№	№	SYM	_	_	0	root	_	_
+2	6.	6	NUM	_	_	1	nummod	_	_
+3	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	nummod:gov	_	_
+4	59	59	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	—	—	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	65	65	NUM	_	_	4	nummod	_	SpaceAfter=No
+7	;	;	PUNCT	_	_	1	punct	_	_
+8	Буров	Буров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+9	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	Реализация	реализация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	appos	_	_
+12	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	деления	деление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	участков	участок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	категории	категория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	nmod	_	_
+20	по	по	ADP	_	_	22	case	_	_
+21	целевому	целевой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	назначению	назначение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	22	punct	_	_
+24	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	parataxis	_	_
+25	.	.	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	24	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	24	punct	_	_
+28	канд.	кандемик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	_
+29	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	29	punct	_	_
+31	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = М., 2011.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2011	2011	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = С. 148—172; Анисимов А. П., Землякова Г. Л., Мельников М. М. Зонирование как функция управления земельным фондом: вопросы теории // Современное право. 2012.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	148	148	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	—	—	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	172	172	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	;	;	PUNCT	_	_	1	punct	_	_
+6	Анисимов	Анисимов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	П.	П.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Землякова	Земляков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+11	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	_
+12	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	Мельников	Мельников	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	conj	_	_
+15	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	_
+17	Зонирование	Зонирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	acl	_	_
+18	как	как	SCONJ	_	_	19	mark	_	_
+19	функция	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	acl	_	_
+20	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	земельным	земельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	фондом	фонд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	17	punct	_	_
+24	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	parataxis	_	_
+25	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	/	/	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	/	/	PUNCT	_	_	29	punct	_	_
+28	Современное	современный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	parataxis	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	29	punct	_	_
+31	2012	2012	NOUN	_	_	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = № 8.
+1	№	№	SYM	_	_	0	root	_	_
+2	8	8	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = С.
+1	С	секунда	ADP	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = 87—93.
+1	87	87	NUM	_	_	0	root	_	SpaceAfter=No
+2	—	—	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	93	93	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 98
+# text = Земельное и экологическое право
+1	Земельное	земельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	экологическое	экологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
+4	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 99
+# text = 4) права и обязанности участников земельных правоотношений; 5) ответственность участников земельных правоотношений.
+1	4	4	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	conj	_	_
+6	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+9	;	;	PUNCT	_	_	3	punct	_	_
+10	5	5	NUM	_	_	12	nummod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+13	участников	участник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	земельных	земельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	правоотношений	правоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 100
+# text = Таким образом, под правовым режимом мелиорируемых (мелиорированных) земель следует понимать установленный нормами земельного, экологического, градостроительного и иного законодательства поря-
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	под	под	ADP	_	_	6	case	_	_
+5	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	режимом	режим	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	obl	_	_
+7	мелиорируемых	мелиорируть	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	мелиорированных	мелиорированный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	appos	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+12	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	csubj	_	_
+14	установленный	установить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	_
+15	нормами	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	obl	_	_
+16	земельного	земельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	экологического	экологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	градостроительного	градостроительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	conj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	иного	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	conj	_	_
+23	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+24	поря	поре	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 101
+# text = док использования и охраны земель, в границах которых проводятся или проведены на основании утвержденных проектов мелиоративные мероприятия, посредством закрепления стимулов и ограничений, дозволений и запретов, направленных на обеспечение благоприятной окружающей среды и устойчивого развития территорий.
+1	док	дка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	_
+5	земель	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	obl	_	_
+9	которых	который	PRON	_	Case=Gen	8	nmod	_	_
+10	проводятся	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	проведены	провести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	conj	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+15	утвержденных	утверждеть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	проектов	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	мелиоративные	мелиоративный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	мероприятия	мероприятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	посредством	посредством	ADP	_	_	21	case	_	_
+21	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	conj	_	_
+22	стимулов	стимул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	ограничений	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	дозволений	дозволение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	conj	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	запретов	запрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obl	_	_
+33	благоприятной	благоприятный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+34	окружающей	окружать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	amod	_	_
+35	среды	среда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+36	и	и	CCONJ	_	_	38	cc	_	_
+37	устойчивого	устойчивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	conj	_	_
+39	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	38	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

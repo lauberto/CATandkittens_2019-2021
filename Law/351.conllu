@@ -1,0 +1,2444 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = И. И. Кучеров, И. А. Хаванова
+1	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Кучеров	Кучеров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	_
+7	Хаванова	Хаванов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = пользуются организациями и гражданами в качестве инвестиционного инструмента и средства спекулятивной торговли .
+1	пользуются	пользоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	организациями	организация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	1	obl	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	гражданами	гражданин	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	conj	_	_
+5	в	в	ADP	_	_	8	case	_	_
+6	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	fixed	_	_
+7	инвестиционного	инвестиционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	инструмента	инструмент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+11	спекулятивной	спекулятивный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	торговли	торговля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Подходы к налогово-правовому регулированию соответствующей экономической деятельности в странах мира разнятся и, что примечательно, в большинстве своем не получили законодательного закрепления.
+1	Подходы	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+2	к	к	ADP	_	_	4	case	_	_
+3	налогово-правовому	налогово-правовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	регулированию	регулирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+5	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	_
+10	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	разнятся	разниться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	и	и	CCONJ	_	_	15	cc	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	что	что	PRON	_	Case=Nom	15	nsubj	_	_
+15	примечательно	примечательно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	_
+19	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	18	det	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+22	законодательного	законодательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 4
+# text = Иными словами, пока эти подходы обозначены преимущественно в ведомственных документах.
+1	Иными	иной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	пока	пока	SCONJ	_	_	7	mark	_	_
+5	эти	этот	DET	_	Case=Nom|Number=Plur	6	det	_	_
+6	подходы	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+7	обозначены	обозначить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	преимущественно	преимущественно	ADV	_	Degree=Pos	7	advmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	ведомственных	ведомственный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	_
+11	документах	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 5
+# text = К примеру, налоговые службы ряда стран, среди них – Австралия, Великобритания, Норвегия, Сингапур, США, подготовили разъяснения, сформулировав свои подходы к вопросам налогообложения операций с биткоинами .
+1	К	к	ADP	_	_	2	case	_	_
+2	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	22	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	налоговые	налоговый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	службы	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	_
+6	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	среди	среди	ADP	_	_	10	case	_	_
+10	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	5	nmod	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	Австралия	Австралия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	Великобритания	Великобритания	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Норвегия	Норвегия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	Сингапур	Сингапур	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	США	США	PROPN	_	Animacy=Inan|Case=Nom|Number=Plur	12	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	5	punct	_	_
+22	подготовили	подготовить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+23	разъяснения	разъяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	сформулировав	формулировать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	22	advcl	_	_
+26	свои	свой	DET	_	Case=Acc|Number=Plur	27	det	_	_
+27	подходы	подход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	25	obj	_	_
+28	к	к	ADP	_	_	29	case	_	_
+29	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	27	nmod	_	_
+30	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+31	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	_
+32	с	с	ADP	_	_	33	case	_	_
+33	биткоинами	биткоин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	31	nmod	_	_
+34	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 6
+# text = В октябре 2016 года ФНС России также обозначила официальную позицию по поводу таких операций1.
+1	В	в	ADP	_	_	2	case	_	_
+2	октябре	октябрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+3	2016	2016	NUM	_	_	4	nummod	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	ФНС	ФНС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	_
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	также	также	ADV	_	Degree=Pos	8	advmod	_	_
+8	обозначила	обозначить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	официальную	официальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+11	по	по	ADP	_	_	14	case	_	_
+12	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	fixed	_	_
+13	таких	такой	DET	_	Case=Gen|Number=Plur	14	det	_	_
+14	операций1	операций1	NOUN	_	_	10	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 7
+# text = В соответствующем письме обращено внимание на то, что в российском законодательстве отсутствует определение таких терминов, как "денежный суррогат", "криптовалюта", "виртуальная валюта".
+1	В	в	ADP	_	_	3	case	_	_
+2	соответствующем	соответствующий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	письме	письмо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+4	обращено	обратить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	внимание	внимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	что	что	SCONJ	_	_	13	mark	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	российском	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+13	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	_
+14	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+15	таких	такой	DET	_	Case=Gen|Number=Plur	16	det	_	_
+16	терминов	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	как	как	SCONJ	_	_	21	mark	_	_
+19	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	денежный	денежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	суррогат	суррогат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	криптовалюта	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+29	виртуальная	виртуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	валюта	валюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = Между тем "запрета на проведение российскими гражданами и организациями операций с использованием криптовалюты законодательство Российской Федерации не содержит".
+1	Между	между	ADP	_	_	2	case	_	_
+2	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+3	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+4	запрета	запрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	проведение	проведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	российскими	российский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	amod	_	_
+8	гражданами	гражданин	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	организациями	организация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	8	conj	_	_
+11	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	nmod	_	_
+14	криптовалюты	криптовалюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+16	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	содержит	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 9
+# text = При этом сделан вывод, что операции, связанные с приобретением или реализацией криптовалют с использованием валютных ценностей или валюты Российской Федерации, должны квалифицироваться в качестве валютных операций, регулируемых Федеральным законом от 10 декабря 2003 г.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	сделан	делать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	14	punct	_	_
+6	что	что	SCONJ	_	_	14	mark	_	_
+7	операции	операция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	связанные	связать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	приобретением	приобретение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	_
+12	или	или	CCONJ	_	_	13	cc	_	_
+13	реализацией	реализация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	conj	_	_
+14	криптовалют	криптовалоть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+17	валютных	валютный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	ценностей	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	или	или	CCONJ	_	_	20	cc	_	_
+20	валюты	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	conj	_	_
+21	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	14	conj	_	_
+25	квалифицироваться	квалифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	24	xcomp	_	_
+26	в	в	ADP	_	_	29	case	_	_
+27	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	fixed	_	_
+28	валютных	валютный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	регулируемых	регулировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	29	acl	_	_
+32	Федеральным	федеральный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	31	obl	_	_
+34	от	от	ADP	_	_	35	case	_	_
+35	10	10	NUM	_	_	31	nummod	_	_
+36	декабря	декабрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	flat	_	_
+37	2003	2003	NUM	_	_	38	nummod	_	_
+38	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = № 173-ФЗ "О валютном регулировании и валютном контроле".
+1	№	№	SYM	_	_	0	root	_	_
+2	173-ФЗ	173-ФЗ	PROPN	_	_	1	appos	_	_
+3	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	6	case	_	_
+5	валютном	валютный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	регулировании	регулирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	appos	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	валютном	валютный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	контроле	контроль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Ситуация с использованием криптовалют усугубляется тем, что отдельными национальными банками и контрольно-надзорными органами ставится под сомнение репутация биткоина, поскольку де этот актив может служить противоправным целям.
+1	Ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	nmod	_	_
+4	криптовалют	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+5	усугубляется	усугублять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	что	что	SCONJ	_	_	17	mark	_	_
+9	отдельными	отдельный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	_
+10	национальными	национальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	11	amod	_	_
+11	банками	банк	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+12	и	и	CCONJ	_	_	16	cc	_	_
+13	контрольно	контрольно	ADJ	_	Degree=Pos	15	compound	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	надзорными	надзорный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	_
+16	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	11	conj	_	_
+17	ставится	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl	_	_
+18	под	под	ADP	_	_	19	case	_	_
+19	сомнение	сомнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	_
+20	репутация	репутация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj:pass	_	_
+21	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	_
+23	поскольку	поскольку	SCONJ	_	_	27	mark	_	_
+24	де	де	PART	_	_	27	advmod	_	_
+25	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	26	det	_	_
+26	актив	актив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+27	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	_
+28	служить	служить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	xcomp	_	_
+29	противоправным	противоправный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	30	amod	_	_
+30	целям	цель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	28	iobj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 12
+# text = В этой связи обращает на себя внимание соответствующий отчет Группы разработки финансовых мер борьбы с отмыванием денег (ФАТФ).
+1	В	в	ADP	_	_	3	case	_	_
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	обращает	обращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	себя	себя	PRON	_	Case=Acc	4	obl	_	_
+7	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+8	соответствующий	соответствующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	отчет	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+10	Группы	группа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	финансовых	финансовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+14	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	отмыванием	отмывание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	nmod	_	_
+17	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	ФАТФ	ФАТФ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	parataxis	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13
+# text = В документе, в частности, указано, что "конвертируемые виртуальные ва-
+1	В	в	ADP	_	_	2	case	_	_
+2	документе	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	7	discourse	_	_
+5	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	fixed	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	указано	указать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	что	что	SCONJ	_	_	11	mark	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	конвертируемые	конвертируть	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	ccomp	_	_
+12	виртуальные	виртуальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	ва	в	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = Введение Современной жизни присущ колоссальный интерес, в том числе и со стороны академического сообщества, к виртуальной сфере.
+1	Введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	Современной	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	присущ	присущий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+5	колоссальный	колоссальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	интерес	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	10	det	_	_
+10	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	_
+11	и	и	PART	_	_	15	advmod	_	_
+12	со	со	ADP	_	_	15	case	_	_
+13	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	fixed	_	_
+14	академического	академический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	к	к	ADP	_	_	19	case	_	_
+18	виртуальной	виртуальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	сфере	сфера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 15
+# text = Последние десятилетия привнесли новый образ и в экономическую действительность, коммерческая деятельность все глубже погружается в киберпространство.
+1	Последние	последний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	десятилетия	десятилетие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	привнесли	привнести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	новый	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	образ	образ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	и	и	CCONJ	_	_	9	cc	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	экономическую	экономический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	действительность	действительность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	коммерческая	коммерческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+13	все	все	PART	_	_	14	advmod	_	_
+14	глубже	глубоко	ADV	_	Degree=Cmp	15	advmod	_	_
+15	погружается	погружаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	киберпространство	киберпространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 16
+# text = "Анонимные платежи возможны испокон веков благодаря наличным деньгам, – пишет Н. Поппер, – но мы не смогли взять с собой наличные в цифровой мир" .
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Анонимные	анонимный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	платежи	платеж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	возможны	возможный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+5	испокон	испокон	ADV	_	Degree=Pos	4	advmod	_	_
+6	веков	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+7	благодаря	благодаря	ADP	_	_	9	case	_	_
+8	наличным	наличный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	amod	_	_
+9	деньгам	деньги	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	20	punct	_	_
+11	–	–	PUNCT	_	_	20	punct	_	_
+12	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+13	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+14	Поппер	Поппер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	–	–	PUNCT	_	_	12	punct	_	_
+17	но	но	CCONJ	_	_	20	cc	_	_
+18	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	смогли	мочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+21	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	собой	себя	PRON	_	Case=Ins	21	obl	_	_
+24	наличные	наличный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	amod	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	цифровой	цифровой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	мир	мир	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	27	punct	_	_
+29	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 17
+# text = Можно констатировать ускорение процесса "дематериализации" денег, который сопровождается широким использованием альтернативных платежных средств – альткоинов, представленных так называемыми виртуальными валютами, а также криптовалют.
+1	Можно	можно	ADV	_	Degree=Pos	0	root	_	_
+2	констатировать	констатировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	ускорение	ускорение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	дематериализации	дематериализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	который	который	PRON	_	Case=Nom	11	nsubj	_	_
+11	сопровождается	сопровождаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+12	широким	широкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+14	альтернативных	альтернативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+15	платежных	платежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+17	–	–	PUNCT	_	_	18	punct	_	_
+18	альткоинов	альткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	представленных	представить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	acl	_	_
+21	так	так	ADV	_	Degree=Pos	22	advmod	_	_
+22	называемыми	называть	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+23	виртуальными	виртуальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	_
+24	валютами	валюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	а	а	CCONJ	_	_	28	cc	_	_
+27	также	также	PART	_	_	26	fixed	_	_
+28	криптовалют	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Распространено мнение, что киберпространство уникально и существует вне географических и национальных границ, что исключает саму постановку вопроса о налогообложении.
+1	Распространено	распространить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+2	мнение	мнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj:pass	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	что	что	SCONJ	_	_	6	mark	_	_
+5	киберпространство	киберпространство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	уникально	уникальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	acl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+9	вне	вне	ADP	_	_	13	case	_	_
+10	географических	географический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	conj	_	_
+13	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	что	что	PRON	_	Case=Nom	16	nsubj	_	_
+16	исключает	исключить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+17	саму	сам	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	постановку	постановка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+19	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	о	о	ADP	_	_	21	case	_	_
+21	налогообложении	налогообложение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = Противопоставляется ему идея новых фискальных платежей, которые одновременно могут служить средством ограничения использования альтернативных платежных средств.
+1	Противопоставляется	противопоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
+3	идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+4	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+5	фискальных	фискальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	платежей	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	которые	который	PRON	_	Case=Nom	10	nsubj	_	_
+9	одновременно	одновременно	ADV	_	Degree=Pos	10	advmod	_	_
+10	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+11	служить	служить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+13	ограничения	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	альтернативных	альтернативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+16	платежных	платежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = В частности, в отношении известной всему миру разновидности альткоинов – биткоина (btcon), наряду с регуляторными запретами на транзакции с ним, рассматривается возможность введения соответствующего налога .
+1	В	в	ADP	_	_	9	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	в	в	ADP	_	_	9	case	_	_
+5	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	fixed	_	_
+6	известной	известный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+7	всему	весь	DET	_	Case=Dat|Gender=Masc|Number=Sing	8	det	_	_
+8	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	_
+9	разновидности	разновидность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+10	альткоинов	альткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	appos	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	btcon	btcon	X	_	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	26	punct	_	_
+17	наряду	наряду	ADV	_	Degree=Pos	26	advmod	_	_
+18	с	с	ADP	_	_	20	case	_	_
+19	регуляторными	регуляторный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	amod	_	_
+20	запретами	запрет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+21	на	на	ADP	_	_	22	case	_	_
+22	транзакции	транзакция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	17	punct	_	_
+26	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
+27	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	26	nsubj:pass	_	_
+28	введения	введение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	соответствующего	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	налога	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+31	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 21
+# text = Количество операций с биткоинами множится год от года, однако исследование подходов в вопросе их налогообложения еще в самом начале пути.
+1	Количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+2	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	биткоинами	биткоин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	nmod	_	_
+5	множится	множиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obl	_	_
+7	от	от	ADP	_	_	8	case	_	_
+8	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	однако	однако	ADV	_	Degree=Pos	5	parataxis	_	_
+11	исследование	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+12	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	вопросе	вопрос	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+15	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	16	nmod	_	_
+16	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	еще	еще	ADV	_	Degree=Pos	20	obl	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+21	пути	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 22
+# text = Научный интерес авторов этой статьи как раз и связан с правоприменительными проблемами, которые порождены уникальными технологиями, позволяющими использовать альтернативные платежные средства.
+1	Научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	интерес	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+3	авторов	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	5	det	_	_
+5	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	как	как	SCONJ	_	_	9	advmod	_	_
+7	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	fixed	_	_
+8	и	и	PART	_	_	9	advmod	_	_
+9	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	правоприменительными	правоприменительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+12	проблемами	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	которые	который	PRON	_	Case=Nom	15	nsubj:pass	_	_
+15	порождены	породить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+16	уникальными	уникальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+17	технологиями	технология	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	позволяющими	позволять	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	альтернативные	альтернативный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+22	платежные	платежный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+23	средства	средства	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	20	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 23
+# text = Операции с криптовалютами и налогообложение Известно, что криптовалюты, как некий цифровой актив, выпускаются в обращение лицами частного права вне единого эмиссионного центра и существуют только в электронной форме.
+1	Операции	операция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	криптовалютами	криптовалют	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	налогообложение	налогообложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+6	Известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	16	punct	_	_
+8	что	что	SCONJ	_	_	16	mark	_	_
+9	криптовалюты	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj:pass	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	как	как	SCONJ	_	_	14	mark	_	_
+12	некий	некий	DET	_	Case=Nom|Gender=Masc|Number=Sing	14	det	_	_
+13	цифровой	цифровой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	актив	актив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	acl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	9	punct	_	_
+16	выпускаются	выпускать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	ccomp	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	обращение	обращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+19	лицами	лицо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	18	nmod	_	_
+20	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	вне	вне	ADP	_	_	25	case	_	_
+23	единого	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+24	эмиссионного	эмиссионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	центра	центр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	существуют	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+28	только	только	PART	_	_	31	advmod	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	форме	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 24
+# text = Во всем мире эти "валюты" активно ис-
+1	Во	в	ADP	_	_	3	case	_	_
+2	всем	весь	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	_
+4	эти	этот	DET	_	Case=Nom|Number=Plur	6	det	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	валюты	валюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	активно	активно	ADV	_	Degree=Pos	9	advmod	_	_
+9	ис	йоктосекунда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = Письмо ФНС России от 3 окт. 2016 г.
+1	Письмо	письмо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	ФНС	ФНС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	от	от	ADP	_	_	6	case	_	_
+5	3	3	NUM	_	_	6	nummod	_	_
+6	окт.	окт.	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	nmod	_	_
+7	2016	2016	NUM	_	_	8	nummod	_	_
+8	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = № ОА-18-17/1027.
+1	№	№	SYM	_	_	0	root	_	_
+2	ОА-18-17	ОА-18-17	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	/	/	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	1027	1027	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = Налоговые последствия использования альтернативных платежных средств…
+1	Налоговые	налоговый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	альтернативных	альтернативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+5	платежных	платежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	SpaceAfter=No
+7	…	…	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = люты, которые можно обменять на реальные деньги или другие виртуальные валюты, являются потенциально уязвимыми с точки зрения их незаконного использования в целях отмывания денег и финансирования терроризма"1.
+1	люты	люта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	которые	который	PRON	_	Case=Acc	5	obj	_	_
+4	можно	можно	ADV	_	Degree=Pos	1	acl:relcl	_	_
+5	обменять	обменять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	реальные	реальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obl	_	_
+9	или	или	CCONJ	_	_	12	cc	_	_
+10	другие	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+11	виртуальные	виртуальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+12	валюты	валюта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	1	punct	_	_
+14	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+15	потенциально	потенциально	ADV	_	Degree=Pos	16	obl	_	_
+16	уязвимыми	уязвимый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	obl	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
+19	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	compound	_	_
+20	их	их	DET	_	_	22	det	_	_
+21	незаконного	незаконный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	22	nmod	_	_
+25	отмывания	отмывание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	финансирования	финансирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	conj	_	_
+29	терроризма	терроризм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+31	1	1	NUM	_	_	29	nummod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 29
+# text = Тем не менее нельзя игнорировать правовую реальность, а она сегодня такова, что операции с криптовалютами не запрещены.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+5	игнорировать	игнорировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	реальность	реальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	а	а	CCONJ	_	_	12	cc	_	_
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
+11	сегодня	сегодня	ADV	_	Degree=Pos	12	advmod	_	_
+12	такова	таков	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	что	что	SCONJ	_	_	19	mark	_	_
+15	операции	операция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj:pass	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	криптовалютами	криптовалют	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	19	obl	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	запрещены	запретить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	ccomp	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 30
+# text = Однако из этого вовсе не следует, что их следует относить к валютным.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+4	вовсе	вовсе	ADV	_	Degree=Pos	5	advmod	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	что	что	SCONJ	_	_	10	mark	_	_
+9	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	11	obj	_	_
+10	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+11	относить	относить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	валютным	валютный	NOUN	_	Animacy=Anim|Case=Dat|Gender=Neut|Number=Plur	11	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 31
+# text = Ведь биткоин, по определению, не является валютой – ни национальной, ни иностранной.
+1	Ведь	ведь	SCONJ	_	_	8	mark	_	_
+2	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	определению	определение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	валютой	валюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+10	–	–	PUNCT	_	_	12	punct	_	_
+11	ни	ни	CCONJ	_	_	12	cc	_	_
+12	национальной	национальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	ни	ни	CCONJ	_	_	15	cc	_	_
+15	иностранной	иностранный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 32
+# text = Его повсеместное использование не обеспечивается силой государственного принуждения, а основывается на всеобщем признании участниками гражданского оборота, и не более того.
+1	Его	его	DET	_	_	3	det	_	_
+2	повсеместное	повсеместный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	обеспечивается	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	силой	сила	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+7	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	а	а	CCONJ	_	_	11	cc	_	_
+11	основывается	основываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	всеобщем	всеобщий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	признании	признание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+15	участниками	участник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	nmod	_	_
+16	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	оборота	оборот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	и	и	CCONJ	_	_	22	cc	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	более	более	ADV	_	Degree=Cmp	22	nummod:gov	_	_
+22	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 33
+# text = В этом смысле криптовалюты, если, конечно, абстрагироваться от высоких технологий, которым они обязаны своим существованием, по нашему мнению, ничем не отличаются от ракушек каури, которые также в прошлом широко использовались в качестве платежных средств.
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+4	криптовалюты	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	если	если	SCONJ	_	_	10	mark	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	конечно	конечно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	абстрагироваться	абстрагироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	_
+11	от	от	ADP	_	_	13	case	_	_
+12	высоких	высокий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	которым	который	PRON	_	Case=Ins	17	obl	_	_
+16	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	17	nsubj	_	_
+17	обязаны	обязанный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	10	conj	_	_
+18	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	19	det	_	_
+19	существованием	существование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	_
+21	по	по	ADP	_	_	23	case	_	_
+22	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	23	det	_	_
+23	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	27	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	ничем	ничто	PRON	_	Case=Ins	27	obl	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	отличаются	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	acl:relcl	_	_
+28	от	от	ADP	_	_	29	case	_	_
+29	ракушек	ракушка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	obl	_	_
+30	каури	кауря	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	37	punct	_	_
+32	которые	который	PRON	_	Case=Nom	37	nsubj:pass	_	_
+33	также	также	ADV	_	Degree=Pos	35	obl	_	_
+34	в	в	ADP	_	_	35	case	_	_
+35	прошлом	прошлое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	obl	_	_
+36	широко	широко	ADV	_	Degree=Pos	37	advmod	_	_
+37	использовались	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	29	acl:relcl	_	_
+38	в	в	ADP	_	_	41	case	_	_
+39	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	38	fixed	_	_
+40	платежных	платежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	amod	_	_
+41	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	obl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 34
+# text = Из опыта прошлого известно, что альтернативные платежные средства обычно появлялись там и тогда, где и когда официальное денежное обращение "не удовлетворяло в полной мере потребностям экономического оборота" .
+1	Из	из	ADP	_	_	2	case	_	_
+2	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+3	прошлого	прошлый	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	что	что	SCONJ	_	_	11	mark	_	_
+7	альтернативные	альтернативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+8	платежные	платежный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
+10	обычно	обычно	ADV	_	Degree=Pos	11	advmod	_	_
+11	появлялись	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+12	там	там	ADV	_	Degree=Pos	11	advmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	тогда	тогда	ADV	_	Degree=Pos	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	где	где	ADV	_	Degree=Pos	12	advmod	_	_
+17	и	и	CCONJ	_	_	24	cc	_	_
+18	когда	когда	SCONJ	_	_	24	mark	_	_
+19	официальное	официальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+20	денежное	денежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обращение	обращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	не	не	PART	_	_	24	advmod	_	_
+24	удовлетворяло	удовлетворять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	_
+28	потребностям	потребность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	27	nmod	_	_
+29	экономического	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	оборота	оборот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	11	punct	_	_
+32	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 35
+# text = Традиционно деньги служили делу удобства обмена товарами.
+1	Традиционно	традиционно	ADV	_	Degree=Pos	3	advmod	_	_
+2	деньги	деньги	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	служили	служить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	_
+5	удобства	удобство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	товарами	товар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 36
+# text = В свое время обращение обеспечивали товарные деньги, на смену которым пришли законные платежные средства.
+1	В	в	ADP	_	_	3	case	_	_
+2	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+4	обращение	обращение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+5	обеспечивали	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	товарные	товарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	деньги	деньги	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	смену	смена	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+11	которым	который	PRON	_	Case=Dat	12	iobj	_	_
+12	пришли	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	законные	законный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+14	платежные	платежный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	средства	средства	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = Теперь же благодаря цифровой технологии человечество вновь вернулось к уже забытой практике, а альтернативные платежные средства с каждым годом составляют все более серьезную конкуренцию национальным валютам.
+1	Теперь	теперь	ADV	_	Degree=Pos	8	advmod	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	благодаря	благодаря	ADP	_	_	5	case	_	_
+4	цифровой	цифровой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	технологии	технология	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+6	человечество	человечество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	вновь	вновь	ADV	_	Degree=Pos	8	advmod	_	_
+8	вернулось	вернуться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	к	к	ADP	_	_	12	case	_	_
+10	уже	уже	ADV	_	Degree=Pos	11	advmod	_	_
+11	забытой	забыть	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+12	практике	практика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	21	punct	_	_
+14	а	а	CCONJ	_	_	21	cc	_	_
+15	альтернативные	альтернативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+16	платежные	платежный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	средства	средства	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	21	nsubj	_	_
+18	с	с	ADP	_	_	20	case	_	_
+19	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing	20	det	_	_
+20	годом	год	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	_
+21	составляют	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+22	все	все	PART	_	_	23	advmod	_	_
+23	более	более	ADV	_	Degree=Cmp	24	obl	_	_
+24	серьезную	серьезный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	конкуренцию	конкуренция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+26	национальным	национальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	27	amod	_	_
+27	валютам	валюта	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	25	iobj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 38
+# text = В интересующем нас контексте важно определить правовую природу биткоина и налоговые последствия операций с его использованием.
+1	В	в	ADP	_	_	4	case	_	_
+2	интересующем	интересовать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+3	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	2	obj	_	_
+4	контексте	контексте	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+5	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+6	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	налоговые	налоговый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+12	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	conj	_	_
+13	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	его	он	DET	_	_	16	det	_	_
+16	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = Признанная автономность налогового права отчасти облегчает эту исследовательскую задачу, поскольку цивилистической науке еще только предстоит выработать устойчивую позицию по поводу исследуемого феномена.
+1	Признанная	Признать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	автономность	автономность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+3	налогового	налоговый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	отчасти	отчасти	ADV	_	Degree=Pos	6	advmod	_	_
+6	облегчает	облегчить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
+8	исследовательскую	исследовательский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	задачу	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	поскольку	поскольку	SCONJ	_	_	16	mark	_	_
+12	цивилистической	цивилистический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	науке	наука	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	iobj	_	_
+14	еще	еще	ADV	_	Degree=Pos	15	advmod	_	_
+15	только	только	PART	_	_	16	advmod	_	_
+16	предстоит	предстоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+17	выработать	выработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	csubj	_	_
+18	устойчивую	устойчивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+20	по	по	ADP	_	_	23	case	_	_
+21	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	fixed	_	_
+22	исследуемого	исследовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	23	amod	_	_
+23	феномена	феномен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 40
+# text = Главная особенность биткоина заключается в том, что его использование не охватывается правовым регулированием официальных валют.
+1	Главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	особенность	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	что	что	SCONJ	_	_	12	mark	_	_
+9	его	он	DET	_	_	10	det	_	_
+10	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	охватывается	охватывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl	_	_
+13	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	регулированием	регулирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	официальных	официальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	валют	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41
+# text = Следует заметить, что в подавляющем большинстве юрисдикций биткоин не признается официальным средством платежа и не относится на счет электронных денег .
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	заметить	заметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	подавляющем	подавляющий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+8	юрисдикций	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+9	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	признается	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	ccomp	_	_
+12	официальным	официальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+14	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	conj	_	_
+18	на	на	ADP	_	_	21	case	_	_
+19	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	fixed	_	_
+20	электронных	электронный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	obl	_	_
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 42
+# text = Это обстоятельство является во многом определяющим, поскольку при налогообложении соответству-
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	обстоятельство	обстоятельство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	во	в	ADP	_	_	5	case	_	_
+5	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	определяющим	определять	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	поскольку	поскольку	SCONJ	_	_	10	mark	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	налогообложении	налогообложение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	advcl	_	_
+11	соответству	соответство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = ющих операций нельзя уподоблять транзакции с биткоинами денежным расчетам.
+1	ющих	ть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
+2	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	_
+3	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+4	уподоблять	уподоблять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	транзакции	транзакция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	биткоинами	биткоин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	nmod	_	_
+8	денежным	денежный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	amod	_	_
+9	расчетам	расчет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 44
+# text = С учетом этого исходным является тезис о том, что биткоин не является деньгами с правовой точки зрения.
+1	С	с	ADP	_	_	2	case	_	_
+2	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	исходным	исходный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	obl	_	_
+5	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	тезис	тезис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	что	что	SCONJ	_	_	13	mark	_	_
+11	биткоин	биткоин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl	_	_
+14	деньгами	деньги	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	obl	_	_
+15	с	с	ADP	_	_	17	case	_	_
+16	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+18	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	compound	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 45
+# text = Так, Налоговая служба Нидерландов подготовила разъяснения, согласно которым не рассматривает биткоин как законное средство платежа .
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	Нидерландов	Нидерланды	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	подготовила	подготовить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	разъяснения	разъяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	согласно	согласно	ADP	_	_	10	case	_	_
+10	которым	который	PRON	_	Case=Dat	12	obl	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	рассматривает	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	как	как	SCONJ	_	_	16	mark	_	_
+15	законное	законный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	obl	_	_
+17	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46
+# text = Поскольку биткоины, по определению, не являются таковыми, налоговые органы вынуждены развивать соответствующий понятийный аппарат, дабы идентифицировать доход от операций с криптовалютой для целей налогообложения.
+1	Поскольку	поскольку	SCONJ	_	_	8	mark	_	_
+2	биткоины	биткоина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	определению	определение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	advcl	_	_
+9	таковыми	таковой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	налоговые	налоговый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+13	вынуждены	вынудить	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+14	развивать	развивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	соответствующий	соответствующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	понятийный	понятийный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	аппарат	аппарат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	дабы	дабы	SCONJ	_	_	20	mark	_	_
+20	идентифицировать	идентифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	advcl	_	_
+21	доход	доход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+22	от	от	ADP	_	_	23	case	_	_
+23	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	криптовалютой	криптовалюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	nmod	_	_
+26	для	для	ADP	_	_	27	case	_	_
+27	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	_
+28	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 47
+# text = В результате обозначился подход, в соответствии с которым биткоин все чаще позиционируется как "экономический актив".
+1	В	в	ADP	_	_	2	case	_	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+3	обозначился	обозначиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	с	с	ADP	_	_	6	fixed	_	_
+9	которым	который	PRON	_	Case=Ins	13	obl	_	_
+10	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj:pass	_	_
+11	все	все	PART	_	_	12	advmod	_	_
+12	чаще	часто	ADV	_	Degree=Cmp	13	advmod	_	_
+13	позиционируется	позиционировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	_
+14	как	как	SCONJ	_	_	17	mark	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	экономический	экономический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	актив	актив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	advcl	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 48
+# text = В ситуации, когда биткоин не является официальной валютой, а следовательно, и платежным средством, нам представляется обоснованным рассматривать операции с ним как операции бартерной природы.
+1	В	в	ADP	_	_	2	case	_	_
+2	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	когда	когда	SCONJ	_	_	7	mark	_	_
+5	биткоин	биткоин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl	_	_
+8	официальной	официальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	валютой	валюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	а	а	CCONJ	_	_	16	cc	_	_
+12	следовательно	следовательно	ADV	_	Degree=Pos	16	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	платежным	платежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	19	iobj	_	_
+19	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	16	acl:relcl	_	_
+20	обоснованным	обоснованный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	_
+21	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	csubj	_	_
+22	операции	операция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	21	obj	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	22	nmod	_	_
+25	как	как	SCONJ	_	_	26	mark	_	_
+26	операции	операцие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	acl	_	_
+27	бартерной	бартерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 49
+# text = Делая такой вывод, мы исходим из принципа преобладания существа над формой, который свойствен налоговоправовой оценке.
+1	Делая	делать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	_
+2	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	вывод	вывод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+6	исходим	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	из	из	ADP	_	_	8	case	_	_
+8	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+9	преобладания	преобладание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	существа	существо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	над	над	ADP	_	_	12	case	_	_
+12	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	который	который	PRON	_	Case=Nom	15	nsubj:pass	_	_
+15	свойствен	свойствить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl:relcl	_	_
+16	налоговоправовой	налоговоправовый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	оценке	оценка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 50
+# text = Подобный подход используется налоговыми органами ряда государств.
+1	Подобный	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+3	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	налоговыми	налоговый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	amod	_	_
+5	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	_
+6	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 51
+# text = В частности, Налоговая служба Австралии не рассматривает биткоин в качестве денег или иностранной валюты, приравнивая операции с его участием (в качестве средства платежа) к бартерным соглашениям (barter arrangement).
+1	В	в	ADP	_	_	8	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	Налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+6	Австралии	Австралия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	рассматривает	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	fixed	_	_
+12	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	_
+13	или	или	CCONJ	_	_	15	cc	_	_
+14	иностранной	иностранный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	валюты	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	приравнивая	приравнивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	_
+18	операции	операция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	obj	_	_
+19	с	с	ADP	_	_	21	case	_	_
+20	его	его	DET	_	_	21	det	_	_
+21	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	nmod	_	_
+22	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+23	в	в	ADP	_	_	25	case	_	_
+24	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	средства	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	21	parataxis	_	_
+26	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	25	punct	_	_
+28	к	к	ADP	_	_	30	case	_	_
+29	бартерным	бартерный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	30	amod	_	_
+30	соглашениям	соглашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	21	nmod	_	_
+31	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	barter	barter	X	_	Foreign=Yes	30	flat:foreign	_	_
+33	arrangement	arrangement	X	_	Foreign=Yes	30	flat:foreign	_	SpaceAfter=No
+34	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 52
+# text = Что касается деятельности по выпуску биткоинов, то налогооблагаемым признается доход от передачи виртуальной валюты третьему лицу, расходы от деятельности по ее "добыче" могут вычитаться при исчислении налоговой базы2.
+1	Что	что	PRON	_	Case=Nom	2	nsubj	_	_
+2	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	advcl	_	_
+3	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	выпуску	выпуск	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	_
+6	биткоинов	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	то	то	SCONJ	_	_	9	mark	_	_
+9	налогооблагаемым	налогооблагать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
+10	признается	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	obj	_	_
+11	доход	доход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	передачи	передача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	виртуальной	виртуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	валюты	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	третьему	третий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	iobj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	27	punct	_	_
+19	расходы	расход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+20	от	от	ADP	_	_	21	case	_	_
+21	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	по	по	ADP	_	_	25	case	_	_
+23	ее	ее	DET	_	_	25	det	_	_
+24	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	добыче	добыча	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	25	punct	_	_
+27	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+28	вычитаться	вычитать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	27	xcomp	_	_
+29	при	при	ADP	_	_	30	case	_	_
+30	исчислении	исчисление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	obl	_	_
+31	налоговой	налоговый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	базы2	базы2	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 53
+# text = Налоговая служба Израиля в 2017 году опубликовала проект циркуляра, в котором виртуальная валюта квалифицирована как обладающая номинальной стоимостью цифровая единица, которую можно использовать для бартера либо в инвестиционных целях, для налогообложения она рассматривается в качестве актива3.
+1	Налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	Израиля	Израиль	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	2017	2017	NUM	_	_	6	nummod	_	_
+6	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+7	опубликовала	опубликовать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	циркуляра	циркуляр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	котором	который	PRON	_	Case=Loc	15	obl	_	_
+13	виртуальная	виртуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	валюта	валюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj:pass	_	_
+15	квалифицирована	квалифицировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
+16	как	как	SCONJ	_	_	21	mark	_	_
+17	обладающая	обладать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	acl	_	_
+18	номинальной	номинальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	стоимостью	стоимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	_
+20	цифровая	цифровой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	единица	единица	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	15	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	которую	который	PRON	_	Case=Acc	25	obj	_	_
+24	можно	можно	ADV	_	Degree=Pos	21	acl:relcl	_	_
+25	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	csubj	_	_
+26	для	для	ADP	_	_	27	case	_	_
+27	бартера	бартер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	obl	_	_
+28	либо	либо	CCONJ	_	_	31	cc	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	инвестиционных	инвестиционный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	31	amod	_	_
+31	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	27	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	для	для	ADP	_	_	34	case	_	_
+34	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	obl	_	_
+35	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	36	nsubj:pass	_	_
+36	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	acl:relcl	_	_
+37	в	в	ADP	_	_	39	case	_	_
+38	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	fixed	_	_
+39	актива3	актива3	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	obl	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 54
+# text = В свою очередь Налоговая служба Канады признает налогоплательщиками стороны сделок с виртуальной валютой, при этом правила налогообложения различаются в зависимости от того, используется биткоин в качестве "денег", чтобы приобрести товары (работы, услуги), либо его приобретение осуществляется в спекулятивных целях.
+1	В	в	ADP	_	_	3	case	_	_
+2	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	3	det	_	_
+3	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+4	Налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	Канады	Канада	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	признает	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	налогоплательщиками	налогоплательщик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	_
+9	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	сделок	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	виртуальной	виртуальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	валютой	валюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	при	при	ADP	_	_	16	case	_	_
+16	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	_
+17	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	19	nsubj	_	_
+18	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	различаются	различаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+22	от	от	ADP	_	_	23	case	_	_
+23	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	acl	_	_
+26	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nsubj:pass	_	_
+27	в	в	ADP	_	_	30	case	_	_
+28	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	fixed	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	чтобы	чтобы	SCONJ	_	Mood=Cnd	34	mark	_	_
+34	приобрести	приобрести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	advcl	_	_
+35	товары	товар	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	34	obj	_	_
+36	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+37	работы	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	35	appos	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	услуги	услуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	37	conj	_	SpaceAfter=No
+40	)	)	PUNCT	_	_	37	punct	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	45	punct	_	_
+42	либо	либо	CCONJ	_	_	45	cc	_	_
+43	его	его	DET	_	_	44	det	_	_
+44	приобретение	приобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	45	obj	_	_
+45	осуществляется	осуществляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	34	conj	_	_
+46	в	в	ADP	_	_	48	case	_	_
+47	спекулятивных	спекулятивный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	48	amod	_	_
+48	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	45	obl	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 55
+# text = В первом случае применяются правила об операциях 2
+1	В	в	ADP	_	_	3	case	_	_
+2	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	применяются	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+6	об	о	ADP	_	_	7	case	_	_
+7	операциях	операция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	_
+8	2	2	NUM	_	_	4	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = См.:
+1	См.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = Виртуальные валюты.
+1	Виртуальные	виртуальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	валюты	валюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Ключевые определения и потенциальные риски в сфере ПОД/ФТ: отчет ФАТФ.
+1	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	определения	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	и	и	CCONJ	_	_	5	cc	_	_
+4	потенциальные	потенциальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	риски	риск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	conj	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	ПОД	под	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+9	/	/	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	ФТ	ФТ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	2	punct	_	_
+12	отчет	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+13	ФАТФ	ФАТФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 59
+# text = 2014.
+1	2014	2014	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = С. 16.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	16	16	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = И. И. Кучеров, И. А. Хаванова
+1	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Кучеров	Кучеров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	Хаванова	Хаванов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = бартерной природы, во втором – характерные для операций с ценными бумагами .
+1	бартерной	бартерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	во	в	ADP	_	_	5	case	_	_
+5	втором	второй	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	_
+6	–	–	PUNCT	_	_	7	punct	_	_
+7	характерные	характерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	nsubj	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	ценными	ценный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+12	бумагами	бумага	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	9	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 63
+# text = Конечно, здесь нельзя оставить без внимания правовую позицию, в свое время сформированную Высшим Арбитражным судом РФ, согласно которой к договорам мены не могут быть отнесены договоры, предметом которых являются работы или услуги1.
+1	Конечно	конечно	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	здесь	здесь	ADV	_	Degree=Pos	4	advmod	_	_
+4	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+5	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	без	без	ADP	_	_	7	case	_	_
+7	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+8	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	17	punct	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	13	det	_	_
+13	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	_
+14	сформированную	сформировать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+15	Высшим	высший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	Арбитражным	Арбитражный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+18	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	26	punct	_	_
+20	согласно	согласно	ADP	_	_	21	case	_	_
+21	которой	который	PRON	_	Case=Dat	26	obl	_	_
+22	к	к	ADP	_	_	23	case	_	_
+23	договорам	договор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	26	obl	_	_
+24	мены	мена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+27	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	aux:pass	_	_
+28	отнесены	отнести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	26	xcomp	_	_
+29	договоры	договор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	26	nsubj:pass	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	предметом	предмет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	obl	_	_
+32	которых	который	PRON	_	Case=Gen	31	nmod	_	_
+33	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	29	acl:relcl	_	_
+34	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	33	nsubj	_	_
+35	или	или	CCONJ	_	_	36	cc	_	_
+36	услуги1	услуги1	NOUN	_	_	34	conj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 64
+# text = Однако также нельзя игнорировать и выработанную в правовой доктрине позицию, согласно которой договор бартера для целей Налогового кодекса РФ (ст. 40 и 154) имеет автономное значение, не являясь аналогом договора мены, положения о котором содержатся в Гражданском кодексе РФ.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+4	игнорировать	игнорировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	выработанную	выработать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	правовой	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	доктрине	доктрина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+10	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	28	punct	_	_
+12	согласно	согласно	ADP	_	_	13	case	_	_
+13	которой	который	PRON	_	Case=Dat	28	obl	_	_
+14	договор	договор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+15	бартера	бартер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	для	для	ADP	_	_	17	case	_	_
+17	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+18	Налогового	налоговый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	кодекса	кодекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	parataxis	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	_
+24	40	40	NUM	_	_	22	nummod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	154	154	NUM	_	_	24	conj	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	22	punct	_	_
+28	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+29	автономное	автономный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	obj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	не	не	PART	_	_	33	advmod	_	_
+33	являясь	являться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	41	advcl	_	_
+34	аналогом	аналог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	obl	_	_
+35	договора	договор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+36	мены	мена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	33	punct	_	_
+38	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	41	nsubj	_	_
+39	о	о	ADP	_	_	40	case	_	_
+40	котором	который	PRON	_	Case=Loc	38	nmod	_	_
+41	содержатся	содержаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	parataxis	_	_
+42	в	в	ADP	_	_	44	case	_	_
+43	Гражданском	гражданский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	_
+44	кодексе	кодекс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	obl	_	_
+45	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	44	nmod	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 65
+# text = Необходимо отметить, что базовые принципы налогообложения не утрачивают в рассматриваемом случае своего основополагающего значения, в частности принцип экономического основания налога .
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	базовые	базовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+7	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	утрачивают	утрачивавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	рассматриваемом	рассматривать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+13	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	15	det	_	_
+14	основополагающего	основополагать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	в	в	ADP	_	_	19	discourse	_	_
+18	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	fixed	_	_
+19	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	parataxis	_	_
+20	экономического	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	основания	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	налога	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = В связи с этим особый интерес представляет налоговая оценка дохода, выраженного в биткоинах.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+5	особый	особый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	интерес	интерес	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obj	_	_
+7	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	оценка	оценка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+10	дохода	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	выраженного	выразить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	биткоинах	биткоина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 67
+# text = Устанавливая принципы определения доходов, Налоговый кодекс РФ признает доходом экономическую выгоду в денежной или натуральной форме, учитываемую – это важно – "в случае возможности ее оценки и в той мере, в которой такую выгоду можно оценить" (ст. 41).
+1	Устанавливая	устанавливать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	_
+2	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+3	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	доходов	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	Налоговый	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	кодекс	кодекс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	признает	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	доходом	доход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+11	экономическую	экономический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	выгоду	выгода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+13	в	в	ADP	_	_	17	case	_	_
+14	денежной	денежный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+15	или	или	CCONJ	_	_	16	cc	_	_
+16	натуральной	натуральный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	14	conj	_	_
+17	форме	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	учитываемую	учитывать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	_
+20	–	–	PUNCT	_	_	22	punct	_	_
+21	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+22	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	conj	_	_
+23	–	–	PUNCT	_	_	22	punct	_	_
+24	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+25	в	в	ADP	_	_	26	case	_	_
+26	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	_
+27	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	ее	ее	DET	_	_	29	det	_	_
+29	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+30	и	и	CCONJ	_	_	33	cc	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	той	тот	DET	_	Case=Loc|Gender=Fem|Number=Sing	33	det	_	_
+33	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	39	punct	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	которой	который	PRON	_	Case=Loc	39	obl	_	_
+37	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	38	det	_	_
+38	выгоду	выгода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	40	obj	_	_
+39	можно	можно	ADV	_	Degree=Pos	33	acl:relcl	_	_
+40	оценить	оценить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	csubj	_	SpaceAfter=No
+41	"	"	PUNCT	_	_	43	punct	_	_
+42	(	(	PUNCT	_	_	43	punct	_	SpaceAfter=No
+43	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	40	parataxis	_	_
+44	41	41	NUM	_	_	43	nummod	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	43	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 68
+# text = У биткоина есть экономическая, коммерческая ценность, его можно обменять на официальную валюту.
+1	У	у	ADP	_	_	2	case	_	_
+2	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+3	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	экономическая	экономический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	коммерческая	коммерческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	_
+7	ценность	ценность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obj	_	_
+10	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+11	обменять	обменять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	официальную	официальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	валюту	валюта	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 69
+# text = Таким образом, для целей налогообложения может быть применена наиболее распространенная и объективная оценка – рыночная цена либо цена, определенная согласно принципу "на расстоянии вытянутой руки" .
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	для	для	ADP	_	_	5	case	_	_
+5	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	_
+6	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	aux:pass	_	_
+9	применена	применить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	xcomp	_	_
+10	наиболее	наиболее	ADV	_	Degree=Pos	11	obl	_	_
+11	распространенная	распространенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	объективная	объективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	_
+14	оценка	оценка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+15	–	–	PUNCT	_	_	14	punct	_	_
+16	рыночная	рыночный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+18	либо	либо	CCONJ	_	_	19	cc	_	_
+19	цена	цена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	определенная	определить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	согласно	согласно	ADP	_	_	23	case	_	_
+23	принципу	принцип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	21	obl	_	_
+24	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+25	на	на	ADP	_	_	26	case	_	_
+26	расстоянии	расстояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	_
+27	вытянутой	вытянуть	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	руки	рука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	"	"	PUNCT	_	_	26	punct	_	_
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 70
+# text = Отдельного внимания заслуживает вопрос об обложении операций с использованием биткоина налогом на добавленную стоимость (НДС).
+1	Отдельного	отдельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	заслуживает	заслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	об	о	ADP	_	_	6	case	_	_
+6	обложении	обложение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	_
+10	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	налогом	налог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	добавленную	добавить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	стоимость	стоимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	_
+15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	НДС	НДС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 71
+# text = В настоящее время именно этот аспект налогообложения вызывает наибольшую сложность.
+1	В	в	ADP	_	_	8	advmod	_	_
+2	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	именно	именно	PART	_	_	5	advmod	_	_
+5	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
+6	аспект	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	наибольшую	наибольший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	сложность	сложность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 72
+# text = Дело в том, что идентификация биткоина как товара или услуги для целей НДС не в полной мере соответствует особенностям юридической конструкции данного налога и, собственно, специфике биткоина как объекта.
+1	Дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	19	punct	_	_
+5	что	что	SCONJ	_	_	19	mark	_	_
+6	идентификация	идентификация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+7	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	как	как	SCONJ	_	_	9	mark	_	_
+9	товара	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	или	или	CCONJ	_	_	11	cc	_	_
+11	услуги	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+14	НДС	НДС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	не	не	PART	_	_	18	advmod	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+19	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+20	особенностям	особенность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	19	iobj	_	_
+21	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	конструкции	конструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	налога	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+25	и	и	CCONJ	_	_	29	cc	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	собственно	собственно	ADV	_	Degree=Pos	29	parataxis	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	специфике	специфика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	19	conj	_	_
+30	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+31	как	как	SCONJ	_	_	32	mark	_	_
+32	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	acl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 73
+# text = Не случайно 22 октября 2015 года Суд ЕС (дело Skatteverket v Davd Hedqvst)2 отнес биткоин к "контрактным" средствам платежа (contractual means of payment), выступающим в данном качестве в
+1	Не	не	PART	_	_	2	advmod	_	_
+2	случайно	случайно	ADV	_	Degree=Pos	15	advmod	_	_
+3	22	22	NUM	_	_	15	nummod	_	_
+4	октября	октябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	_
+5	2015	2015	NUM	_	_	6	nummod	_	_
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	Суд	суд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+8	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	appos	_	_
+11	Skatteverket	Skatteverket	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+12	v	v	NUM	_	_	10	nummod	_	_
+13	Davd	Davd	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+14	Hedqvst)2	Hedqvst)2	PROPN	_	Foreign=Yes	10	flat:foreign	_	_
+15	отнес	отнести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+16	биткоин	биткоин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+17	к	к	ADP	_	_	21	case	_	_
+18	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	контрактным	контрактный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	19	punct	_	_
+21	средствам	средство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	16	nmod	_	_
+22	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	contractual	contractual	X	_	Foreign=Yes	22	flat:foreign	_	_
+25	means	means	X	_	Foreign=Yes	22	flat:foreign	_	_
+26	of	of	X	_	Foreign=Yes	22	flat:foreign	_	_
+27	payment	payment	X	_	Foreign=Yes	22	flat:foreign	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	выступающим	выступать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	_
+34	в	в	ADP	_	_	30	case	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 74
+# text = отношениях между лицами, которые пришли к соглашению рассматривать его таким образом.
+1	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	0	root	_	_
+2	между	между	ADP	_	_	3	case	_	_
+3	лицами	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	которые	который	PRON	_	Case=Nom	6	nsubj	_	_
+6	пришли	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	соглашению	соглашение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+9	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+10	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obj	_	_
+11	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	12	det	_	_
+12	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Существо спора затрагивало вопросы обмена официальной валюты на биткоины.
+1	Существо	существо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	спора	спор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	затрагивало	затрагивать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	официальной	официальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	валюты	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	биткоины	биткоина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 76
+# text = Анализируя положения Директивы 2006/112/EC "Об общей системе налога на добавленную стоимость"3, согласно которым не подлежат обложению операции с валютой, банкнотами, монетами, используемыми в качестве законного средства платежа, Суд ЕС пришел к выводу, что под действие нормы подпадают также валюта или средства платежа, не являющиеся законными платежными средствами, при условии их использования именно как средства платежа (альтернативы законному средству платежа) и принятия в таком качестве сторонами сделки.
+1	Анализируя	анализировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	40	advcl	_	_
+2	положения	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	40	obl	_	_
+3	Директивы	директива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	2006	2006	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	112/EC	112/EC	PROPN	_	_	3	nmod	_	_
+7	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	Об	о	ADP	_	_	10	case	_	_
+9	общей	общий	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	40	obl	_	_
+11	налога	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	добавленную	добавить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	стоимость	стоимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	3	3	NUM	_	_	40	nummod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	согласно	согласно	ADP	_	_	19	case	_	_
+19	которым	который	PRON	_	Case=Dat	21	obl	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	подлежат	подлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	_
+22	обложению	обложение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	40	iobj	_	_
+23	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	obl	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	валютой	валюта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	40	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	банкнотами	банкнота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	25	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	монетами	монета	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	conj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	используемыми	использовать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	40	advcl	_	_
+32	в	в	ADP	_	_	35	case	_	_
+33	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	fixed	_	_
+34	законного	законный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	средства	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	_
+36	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	31	punct	_	_
+38	Суд	суд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	amod	_	_
+39	ЕС	ЕС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+40	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+41	к	к	ADP	_	_	42	case	_	_
+42	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	40	obl	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	48	punct	_	_
+44	что	что	SCONJ	_	_	48	mark	_	_
+45	под	под	ADP	_	_	46	case	_	_
+46	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	48	obl	_	_
+47	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	46	nmod	_	_
+48	подпадают	подпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	acl	_	_
+49	также	также	ADV	_	Degree=Pos	50	obl	_	_
+50	валюта	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	obl	_	_
+51	или	или	CCONJ	_	_	52	cc	_	_
+52	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	50	conj	_	_
+53	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	52	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	56	punct	_	_
+55	не	не	PART	_	_	56	advmod	_	_
+56	являющиеся	являться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	48	advcl	_	_
+57	законными	законный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	59	amod	_	_
+58	платежными	платежный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	59	amod	_	_
+59	средствами	средства	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	56	obl	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	56	punct	_	_
+61	при	при	ADP	_	_	62	case	_	_
+62	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	48	obl	_	_
+63	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	64	nmod	_	_
+64	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	62	nmod	_	_
+65	именно	именно	PART	_	_	67	advmod	_	_
+66	как	как	SCONJ	_	_	65	fixed	_	_
+67	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	64	nmod	_	_
+68	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	67	nmod	_	_
+69	(	(	PUNCT	_	_	70	punct	_	SpaceAfter=No
+70	альтернативы	альтернатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	67	parataxis	_	_
+71	законному	законный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	72	amod	_	_
+72	средству	средство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	70	iobj	_	_
+73	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	72	nmod	_	SpaceAfter=No
+74	)	)	PUNCT	_	_	70	punct	_	_
+75	и	и	CCONJ	_	_	76	cc	_	_
+76	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	67	conj	_	_
+77	в	в	ADP	_	_	79	case	_	_
+78	таком	такой	DET	_	Case=Loc|Gender=Neut|Number=Sing	79	det	_	_
+79	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	76	nmod	_	_
+80	сторонами	сторона	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	76	nmod	_	_
+81	сделки	сделка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	80	nmod	_	SpaceAfter=No
+82	.	.	PUNCT	_	_	40	punct	_	_
+
+# sent_id = 77
+# text = Исследовав правовую природу биткоина, Суд признал его для целей обложения НДС не товарами/услугами (goods/servces), а платежным средством (tender).
+1	Исследовав	исследовать	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Conv|Voice=Act	7	advcl	_	_
+2	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	природу	природа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
+4	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	Суд	суд	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	признал	признать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obj	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	obl	_	_
+11	обложения	обложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	НДС	НДС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	товарами	товар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+15	/	/	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	услугами	услуга	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	nmod	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	goods	goods	X	_	Foreign=Yes	16	flat:foreign	_	SpaceAfter=No
+19	/	/	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	servces	servces	X	_	Foreign=Yes	16	flat:foreign	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	а	а	CCONJ	_	_	25	cc	_	_
+24	платежным	платежный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	средством	средств	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	conj	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	tender	tender	X	_	Foreign=Yes	25	flat:foreign	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 78
+# text = Данное решение повлияло на формирование подходов налоговых администраций европейских государств.
+1	Данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	повлияло	влиять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	формирование	формирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+6	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	налоговых	налоговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	администраций	администрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	европейских	европейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 79
+# text = Так, в сентябре 2016 года Налоговая служба Италии выпустила руководство для бизнеса по вопросам налогообложения НДС операций с биткоинами , согласно которому сделки с использованием биткоина квалифицированы как услуги, не облагаемые НДС (без права на налоговый вычет).
+1	Так	так	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	сентябре	сентябрь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+5	2016	2016	NUM	_	_	6	nummod	_	_
+6	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	Налоговая	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	Италии	Италия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	выпустила	выпустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	руководство	руководство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	бизнеса	бизнес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	по	по	ADP	_	_	15	case	_	_
+15	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	13	nmod	_	_
+16	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	НДС	НДС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	биткоинами	биткоин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	18	nmod	_	_
+21	,	,	PUNCT	_	_	28	punct	_	_
+22	согласно	согласно	ADP	_	_	23	case	_	_
+23	которому	который	PRON	_	Case=Dat	28	obl	_	_
+24	сделки	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	nsubj:pass	_	_
+25	с	с	ADP	_	_	26	case	_	_
+26	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	nmod	_	_
+27	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	квалифицированы	квалифицировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	acl:relcl	_	_
+29	как	как	SCONJ	_	_	30	mark	_	_
+30	услуги	услуга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	advcl	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	не	не	PART	_	_	33	advmod	_	_
+33	облагаемые	облагать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	11	acl	_	_
+34	НДС	НДС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	obl	_	_
+35	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+36	без	без	ADP	_	_	37	case	_	_
+37	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	parataxis	_	_
+38	на	на	ADP	_	_	40	case	_	_
+39	налоговый	налоговый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
+40	вычет	вычет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	37	nmod	_	SpaceAfter=No
+41	)	)	PUNCT	_	_	37	punct	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 80
+# text = Мы полагаем, что при определении принципов налогообложения НДС обоснованно учитывать специфику биткоина как "виртуального товара", который сочетает в себе ряд свойств, характерных для услуг и средств платежа, обусловливающих особенности его обложения по сравнению с реальными товарами и услугами.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	полагаем	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	определении	определение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+7	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	НДС	НДС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	обоснованно	обоснованно	ADV	_	Degree=Pos	11	advmod	_	_
+11	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	ccomp	_	_
+12	специфику	специфика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	биткоина	биткоин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	как	как	SCONJ	_	_	17	mark	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	виртуального	виртуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	товара	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	который	который	PRON	_	Case=Nom	21	nsubj	_	_
+21	сочетает	сочетать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	себе	себя	PRON	_	Case=Loc	21	obl	_	_
+24	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	_
+25	свойств	свойство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	характерных	характерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+28	для	для	ADP	_	_	29	case	_	_
+29	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	obl	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	29	conj	_	_
+32	платежа	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	обусловливающих	обусловливать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	acl	_	_
+35	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	34	nsubj	_	_
+36	его	его	DET	_	_	37	det	_	_
+37	обложения	обложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	_
+38	по	по	ADP	_	_	42	case	_	_
+39	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	38	fixed	_	_
+40	с	с	ADP	_	_	38	fixed	_	_
+41	реальными	реальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	42	amod	_	_
+42	товарами	товар	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	35	nmod	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	услугами	услуга	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	42	conj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 81
+# text = Налоговое администрирование Законодательные акты зачастую не успевают за изменениями общественной жизни и техническим прогрессом.
+1	Налоговое	налоговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	администрирование	администрирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+3	Законодательные	законодательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+5	зачастую	зачастую	ADV	_	Degree=Pos	7	advmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	успевают	успевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	за	за	ADP	_	_	9	case	_	_
+9	изменениями	изменение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	obl	_	_
+10	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	техническим	технический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	прогрессом	прогресс	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 82
+# text = Авторы этой статьи затронули лишь несколько проблем налогообложения, связанных с использованием криптовалют.
+1	Авторы	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
+3	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+4	затронули	затронуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	лишь	лишь	PART	_	_	6	advmod	_	_
+6	несколько	несколько	NUM	_	Case=Nom	7	nummod:gov	_	_
+7	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+8	налогообложения	налогообложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+13	криптовалют	криптовалюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 83
+# text = Специалистам очевидно, что традиционные методы противодействия уходу от налогов неэффективны, когда речь идет об операциях в виртуальном пространстве .
+1	Специалистам	специалист	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	_
+2	очевидно	очевидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	традиционные	традиционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+7	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	уходу	уход	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+9	от	от	ADP	_	_	10	case	_	_
+10	налогов	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+11	неэффективны	неэффективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	2	ccomp	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	когда	когда	SCONJ	_	_	15	mark	_	_
+14	речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+16	об	о	ADP	_	_	17	case	_	_
+17	операциях	операция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	obl	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	виртуальном	виртуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 84
+# text = Высокая степень анонимности затрудняет обнаружение нарушений и предъявление налоговых претензий.
+1	Высокая	высокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	степень	степень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	анонимности	анонимность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	затрудняет	затруднять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	обнаружение	обнаружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	нарушений	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	предъявление	предъявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
+9	налоговых	налоговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	претензий	претензия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 85
+# text = В конце 2016 года Службой внутренних доходов США были предприняты действия по получению у биржи криптовалют "Conbase" информации о пользователях в рамках контроля за операциями 2013–2015 гг.
+1	В	в	ADP	_	_	2	case	_	_
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+3	2016	2016	NUM	_	_	4	nummod	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Службой	службый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	доходов	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+8	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	7	nmod	_	_
+9	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	_
+10	предприняты	предпринять	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	получению	получение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	_
+14	у	у	ADP	_	_	15	case	_	_
+15	биржи	биржа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	криптовалют	криптовалюта	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	_
+17	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	Conbase	Conbase	PROPN	_	Foreign=Yes	16	flat:foreign	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	_
+20	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+21	о	о	ADP	_	_	22	case	_	_
+22	пользователях	пользователь	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	20	nmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	22	nmod	_	_
+25	контроля	контроль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	за	за	ADP	_	_	27	case	_	_
+27	операциями	операция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	25	nmod	_	_
+28	2013	2013	NUM	_	_	31	nummod	_	SpaceAfter=No
+29	–	–	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	2015	2015	NUM	_	_	28	nummod	_	_
+31	гг	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 86
+# text = Согласно п.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	п	п	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 87
+# text = 1 Информационного письма Президиума Высш.
+1	1	1	NUM	_	_	3	nummod	_	_
+2	Информационного	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
+4	Президиума	президиум	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Высш	Высш	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 88
+# text = Арбитр.
+1	Арбитр	арбитр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Суда Рос.
+1	Суда	суд	ADV	_	Degree=Pos	2	obl	_	_
+2	Рос	рос	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 90
+# text = Федерации от 24 сент.
+1	Федерации	Федерация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	от	от	ADP	_	_	4	case	_	_
+3	24	24	NUM	_	_	4	nummod	_	_
+4	сент	сент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = 2002 г.
+1	2002	2002	NUM	_	_	2	nummod	_	_
+2	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 92
+# text = № 69, двусторонние сделки, предусматривающие обмен товаров на эквивалентные по стоимости услуги, к договору мены не относятся.
+1	№	№	SYM	_	_	0	root	_	_
+2	69	69	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	двусторонние	двусторонний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	сделки	сделка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	предусматривающие	предусматривать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+8	обмен	обмен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+9	товаров	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	на	на	ADP	_	_	20	case	_	_
+11	эквивалентные	эквивалентный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	obl	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	стоимости	стоимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+14	услуги	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	к	к	ADP	_	_	17	case	_	_
+17	договору	договор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	obl	_	_
+18	мены	мена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	xcomp	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = 2 URL: http://cura.europa.eu/jurs/document/document.jsf?text= &docd=170305&pageIndex=0&doclang=EN&mode=req&dr= &occ=frst&part=1&cd=800089 (дата обращения: 01.02.2017).
+1	2	2	NUM	_	_	2	nummod	_	_
+2	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	http://cura.europa.eu/jurs/document/document.jsf?text=	http://cura.europa.eu/jurs/document/document.jsf?text=	SYM	_	_	2	parataxis	_	_
+5	&docd=170305&pageIndex=0&doclang=EN&mode=req&dr=	&docd=170305&pageIndex=0&doclang=EN&mode=req&dr=	SYM	_	_	4	nmod	_	_
+6	&occ=frst&part=1&cd=800089	&occ=frst&part=1&cd=800089	NUM	_	_	5	nummod	_	_
+7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	_
+9	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	_	_
+11	01.02.2017	01.02.2017	PROPN	_	_	9	parataxis	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 94
+# text = Налоговые последствия использования альтернативных платежных средств…
+1	Налоговые	налоговый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	альтернативных	альтернативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+5	платежных	платежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	SpaceAfter=No
+7	…	…	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 95
+# text = В январе 2017 года, комментируя запрос Службы с требованием раскрыть данные о резидентах США, Б. Армстронг, глава "Conbase", пояснил позицию компании на официальном сайте, указав, в частности, что ранее ей выполнялись все требования налоговых органов, если они касались отдельных лиц и отвечали необходимым стандартам.
+1	В	в	ADP	_	_	2	case	_	_
+2	январе	январь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	_
+3	2017	2017	NUM	_	_	4	nummod	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	комментируя	комментировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	25	advcl	_	_
+7	запрос	запрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	Службы	Служба	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	требованием	требование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	nmod	_	_
+11	раскрыть	раскрыть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	obl	_	_
+12	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	11	obj	_	_
+13	о	о	ADP	_	_	14	case	_	_
+14	резидентах	резидент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	12	nmod	_	_
+15	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	6	punct	_	_
+17	Б.	Б.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+18	Армстронг	Армстронг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	appos	_	_
+21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	Conbase	Conbase	PROPN	_	Foreign=Yes	20	appos	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	17	punct	_	_
+25	пояснил	пояснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+26	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	_
+27	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	на	на	ADP	_	_	30	case	_	_
+29	официальном	официальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	сайте	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	указав	указать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	25	advcl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	40	punct	_	_
+34	в	в	ADP	_	_	40	discourse	_	_
+35	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	34	fixed	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	34	punct	_	_
+37	что	что	SCONJ	_	_	40	mark	_	_
+38	ранее	рано	ADV	_	Degree=Pos	40	advmod	_	_
+39	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	40	iobj	_	_
+40	выполнялись	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	32	ccomp	_	_
+41	все	весь	DET	_	Case=Acc|Number=Plur	42	det	_	_
+42	требования	требование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	40	nsubj:pass	_	_
+43	налоговых	налоговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	44	amod	_	_
+44	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	48	punct	_	_
+46	если	если	SCONJ	_	_	48	mark	_	_
+47	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	48	nsubj	_	_
+48	касались	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	40	advcl	_	_
+49	отдельных	отдельный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	50	amod	_	_
+50	лиц	лицо	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	48	obj	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	отвечали	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	48	conj	_	_
+53	необходимым	необходимый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	54	amod	_	_
+54	стандартам	стандарт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	52	iobj	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 96
+# text = Однако подобный запрос требует раскрытия всех данных по счетам всех клиентов (история транзакций, IP-адреса и т. д.).
+1	Однако	однако	ADV	_	Degree=Pos	4	advmod	_	_
+2	подобный	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	запрос	запрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	раскрытия	раскрытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+6	всех	весь	DET	_	Case=Gen|Number=Plur	7	det	_	_
+7	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	_
+8	по	по	ADP	_	_	9	case	_	_
+9	счетам	счет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	nmod	_	_
+10	всех	весь	DET	_	Case=Gen|Number=Plur	11	det	_	_
+11	клиентов	клиент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	parataxis	_	_
+14	транзакций	транзакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	IP	IP	PROPN	_	Foreign=Yes	13	flat:foreign	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	адреса	адрес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	conj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	т.	так	ADV	_	Degree=Pos	13	conj	_	_
+21	д.	далее	ADV	_	Degree=Pos	20	fixed	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	13	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 97
+# text = По мнению компании, запрос неоправданно широк и предполагает, что все пользователи уклоняются от уплаты налогов, что не соответствует действительности .
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	_
+3	компании	компания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	запрос	запрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	неоправданно	неоправданно	ADV	_	Degree=Pos	7	advmod	_	_
+7	широк	широкий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	что	что	SCONJ	_	_	14	mark	_	_
+12	все	весь	DET	_	Case=Nom|Number=Plur	13	det	_	_
+13	пользователи	пользователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
+14	уклоняются	уклоняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	ccomp	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	уплаты	уплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
+17	налогов	налог	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	что	что	PRON	_	Case=Nom	21	nsubj	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+22	действительности	действительность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	iobj	_	_
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 98
+# text = Компания выразила готовность взаимодействовать со Службой внутренних доходов США для формирования оптимального механизма отчетности.
+1	Компания	компания	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	выразила	выразить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	готовность	готовность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	взаимодействовать	взаимодействовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	obl	_	_
+5	со	с	ADP	_	_	6	case	_	_
+6	Службой	служба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+7	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	доходов	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	8	nmod	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+12	оптимального	оптимальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	отчетности	отчетность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 99
+# text = Выводы Проведенный научный анализ подтверждает, что национальные регуляторы и фискальные органы находятся еще только в стадии осмысления проблем, которые возникают в виртуальном мире, в том числе и проблем, связанных с использованием виртуальных валют.
+1	Выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	Проведенный	провести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+3	научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+5	подтверждает	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	что	что	SCONJ	_	_	13	mark	_	_
+8	национальные	национальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	регуляторы	регулятор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	фискальные	фискальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	conj	_	_
+13	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	ccomp	_	_
+14	еще	еще	ADV	_	Degree=Pos	15	advmod	_	_
+15	только	только	PART	_	_	17	advmod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	стадии	стадия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+18	осмысления	осмысление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	которые	который	PRON	_	Case=Nom	22	nsubj	_	_
+22	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	виртуальном	виртуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	31	punct	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	29	det	_	_
+29	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	_
+30	и	и	PART	_	_	31	advmod	_	_
+31	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	_
+34	с	с	ADP	_	_	35	case	_	_
+35	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	33	obl	_	_
+36	виртуальных	виртуальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+37	валют	валюта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	35	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 100
+# text = Обозначилась насущная потребность в правовом урегулировании отношений, возникающих при осуществлении операций с криптовалютами.
+1	Обозначилась	обозначиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	насущная	насущный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	потребность	потребность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	урегулировании	урегулирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+7	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	возникающих	возникать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+10	при	при	ADP	_	_	11	case	_	_
+11	осуществлении	осуществление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+12	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	криптовалютами	криптовалют	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = Наряду с этим большинство государств не готово исключить лиц, использующих биткоины, а также торговые площадки, получающие доход от соответствующих транзакций, из круга потенциальных налогоплательщиков.
+1	Наряду	наряду	ADV	_	Degree=Pos	7	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	этим	этот	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	готово	готовый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	исключить	исключать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	8	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	использующих	использовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+12	биткоины	биткоина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	а	а	CCONJ	_	_	17	cc	_	_
+15	также	также	PART	_	_	14	fixed	_	_
+16	торговые	торговый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	площадки	площадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	получающие	получать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	доход	доход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obj	_	_
+21	от	от	ADP	_	_	23	case	_	_
+22	соответствующих	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	транзакций	транзакция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	19	punct	_	_
+25	из	из	ADP	_	_	26	case	_	_
+26	круга	круг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+27	потенциальных	потенциальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	налогоплательщиков	налогоплательщик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n
+

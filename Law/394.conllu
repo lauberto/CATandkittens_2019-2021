@@ -1,0 +1,2666 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Введение Концепция социального государства, государства благосостояния, является достаточно комплексной и всеобъемлющей и может рассматриваться с различных точек зрения.
+1	Введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	Концепция	концепция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+3	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	obl	_	_
+11	комплексной	комплексный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	obl	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	всеобъемлющей	всеобъемлющий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+16	рассматриваться	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	15	xcomp	_	_
+17	с	с	ADP	_	_	19	case	_	_
+18	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	точек	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	obl	_	_
+20	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 2
+# text = Так, в научной литературе можно выделить экономический, политический и идеологический подходы к рассмотрению данной концепции.
+1	Так	так	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+6	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+7	выделить	выделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	экономический	экономический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	политический	политический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	идеологический	идеологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	conj	_	_
+13	подходы	подход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+14	к	к	ADP	_	_	15	case	_	_
+15	рассмотрению	рассмотрений	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	_
+16	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3
+# text = Однако в рамках всех этих подходов предполагается существование некоторых основных элементов, без учета взаимодействия которых невозможно получить базовое представление о социальном государстве.
+1	Однако	однако	ADV	_	Degree=Pos	7	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	obl	_	_
+4	всех	весь	DET	_	Case=Gen|Number=Plur	6	det	_	_
+5	этих	этот	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+7	предполагается	предполагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	существование	существование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+9	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	11	det	_	_
+10	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	без	без	ADP	_	_	14	case	_	_
+14	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	_
+15	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	которых	который	PRON	_	Case=Gen	15	nmod	_	_
+17	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	acl:relcl	_	_
+18	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	csubj	_	_
+19	базовое	базовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	представление	представление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	о	о	ADP	_	_	23	case	_	_
+22	социальном	социальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 4
+# text = К таким элементам относятся непосредственно само государство (его органы публичной власти), рынок и общество . 
+1	К	к	ADP	_	_	3	case	_	_
+2	таким	такой	DET	_	Case=Dat|Number=Plur	3	det	_	_
+3	элементам	элемент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+4	относятся	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	непосредственно	непосредственно	ADV	_	Degree=Pos	6	obl	_	_
+6	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+8	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	его	его	DET	_	_	10	det	_	_
+10	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	parataxis	_	_
+11	публичной	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	рынок	рынок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	общество	общество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+19			NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text =  Аристов Е.В., 2015 бий, здравоохранение, образование, а также продовольственное обеспечение и обеспечение жильем и иные социальные услуги .
+1			NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+2	Аристов	Арист	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	2015	2015	NUM	_	_	7	nummod	_	_
+7	бий	бий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	здравоохранение	здравоохранение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	образование	образование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	а	а	CCONJ	_	_	16	cc	_	_
+14	также	также	PART	_	_	13	fixed	_	_
+15	продовольственное	продовольственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
+19	жильем	жилье	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	18	xcomp	_	_
+20	и	и	PART	_	_	21	advmod	_	_
+21	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+22	социальные	социальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+23	услуги	услуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	obj	_	_
+24	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = благополучие всех его членов.
+1	благополучие	благополучие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	всех	весь	DET	_	Case=Gen|Number=Plur	4	det	_	_
+3	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
+4	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Такое государство возникает, когда общество или его часть, ответственная за принятие решений, убеждается в том, что благополучие индивида является слишком важным для того, чтобы обеспечиваться согласно обычаям или неформальным договоренностям и частному пониманию, и, соответственно, должно стать заботой государства .
+1	Такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	16	punct	_	_
+5	когда	когда	SCONJ	_	_	16	mark	_	_
+6	общество	общество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+7	или	или	CCONJ	_	_	9	cc	_	_
+8	его	его	DET	_	_	9	det	_	_
+9	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	ответственная	ответственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+12	за	за	ADP	_	_	13	case	_	_
+13	принятие	принятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+14	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	6	punct	_	_
+16	убеждается	убеждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	что	что	SCONJ	_	_	23	mark	_	_
+21	благополучие	благополучий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+22	индивида	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	acl	_	_
+24	слишком	слишком	ADV	_	Degree=Pos	25	obl	_	_
+25	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	23	obl	_	_
+26	для	для	ADP	_	_	27	case	_	_
+27	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	чтобы	чтобы	SCONJ	_	Mood=Cnd	30	mark	_	_
+30	обеспечиваться	обеспечивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	27	advcl	_	_
+31	согласно	согласно	ADP	_	_	32	case	_	_
+32	обычаям	обычай	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	30	obl	_	_
+33	или	или	CCONJ	_	_	35	cc	_	_
+34	неформальным	неформальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	35	amod	_	_
+35	договоренностям	договоренность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	32	conj	_	_
+36	и	и	CCONJ	_	_	38	cc	_	_
+37	частному	частный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	пониманию	понимание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	conj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	44	punct	_	_
+40	и	и	CCONJ	_	_	44	cc	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	44	punct	_	_
+42	соответственно	соответственно	ADV	_	Degree=Pos	44	parataxis	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	23	conj	_	_
+45	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	44	xcomp	_	_
+46	заботой	забота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	45	obl	_	_
+47	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	46	nmod	_	_
+48	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 8
+# text = По мнению Эзы Бриггса, государство благосостояния – это государство, в котором организованная власть намеренно используется (через реализацию государственной политики и осуществление публичного управления) для изменения взаимодействия и функционирования рыночных сил, по крайней мере, в трех основных направлениях: во-первых, посредством обеспечения индивидам гарантий минимального уровня доходов; во-вторых, за счет снижения уровня ненадежности посредством гарантирования индивидам удовлетворения определенных социальных рисков; в-третьих, за счет обеспечения равного доступа всем гражданамк социальным услугам .
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	Эзы	Эзы	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Бриггса	Бриггс	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+7	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	–	–	PUNCT	_	_	6	punct	_	_
+9	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	10	det	_	_
+10	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	котором	который	PRON	_	Case=Loc	17	obl	_	_
+14	организованная	организовывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	_
+15	власть	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj:pass	_	_
+16	намеренно	намеренно	ADV	_	Degree=Pos	17	advmod	_	_
+17	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl:relcl	_	_
+18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	через	через	ADP	_	_	20	case	_	_
+20	реализацию	реализация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	parataxis	_	_
+21	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	conj	_	_
+25	публичного	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	20	punct	_	_
+28	для	для	ADP	_	_	29	case	_	_
+29	изменения	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	_
+30	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	conj	_	_
+33	рыночных	рыночный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	43	punct	_	_
+36	по	по	ADP	_	_	43	advmod	_	_
+37	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	36	fixed	_	_
+38	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	36	fixed	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	36	punct	_	_
+40	в	в	ADP	_	_	43	case	_	_
+41	трех	три	NUM	_	Case=Loc	43	nummod	_	_
+42	основных	основной	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	43	amod	_	_
+43	направлениях	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	29	conj	_	SpaceAfter=No
+44	:	:	PUNCT	_	_	43	punct	_	_
+45	во-первых	во-первых	ADV	_	Degree=Pos	48	parataxis	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	45	punct	_	_
+47	посредством	посредством	ADP	_	_	48	case	_	_
+48	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	43	parataxis	_	_
+49	индивидам	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	48	nmod	_	_
+50	гарантий	гарантия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	49	nmod	_	_
+51	минимального	минимальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+52	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	_
+53	доходов	доход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	52	nmod	_	SpaceAfter=No
+54	;	;	PUNCT	_	_	10	punct	_	_
+55	во-вторых	во-вторых	ADV	_	Degree=Pos	10	conj	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	55	punct	_	_
+57	за	за	ADP	_	_	59	case	_	_
+58	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	57	fixed	_	_
+59	снижения	снижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	obl	_	_
+60	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	nmod	_	_
+61	ненадежности	ненадежность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	60	nmod	_	_
+62	посредством	посредством	ADP	_	_	63	case	_	_
+63	гарантирования	гарантирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	59	nmod	_	_
+64	индивидам	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	63	nmod	_	_
+65	удовлетворения	удовлетворение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	64	nmod	_	_
+66	определенных	определить	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	68	amod	_	_
+67	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	68	amod	_	_
+68	рисков	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	65	nmod	_	SpaceAfter=No
+69	;	;	PUNCT	_	_	10	punct	_	_
+70	в-третьих	в-третьих	ADV	_	Degree=Pos	74	parataxis	_	SpaceAfter=No
+71	,	,	PUNCT	_	_	70	punct	_	_
+72	за	за	ADP	_	_	74	case	_	_
+73	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	72	fixed	_	_
+74	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+75	равного	равный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	76	amod	_	_
+76	доступа	доступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	74	nmod	_	_
+77	всем	весь	DET	_	Case=Dat|Number=Plur	78	det	_	_
+78	гражданамк	гражданамк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	76	nmod	_	_
+79	социальным	социальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	80	amod	_	_
+80	услугам	услуга	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	74	iobj	_	_
+81	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 9
+# text = По мнению Ю. Нишевича, социальное государство – это государство, деятельность которого направлена на практическую гармонизацию прав индивидов и социальной справедливости в повседневной жизни.
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	Ю.	Ю.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Нишевича	Нишевич	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+8	–	–	PUNCT	_	_	7	punct	_	_
+9	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	10	det	_	_
+10	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj:pass	_	_
+13	которого	который	PRON	_	Case=Gen	12	nmod	_	_
+14	направлена	направить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
+15	на	на	ADP	_	_	17	case	_	_
+16	практическую	практический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	гармонизацию	гармонизация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+18	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+19	индивидов	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	conj	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	повседневной	повседневный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 10
+# text = Основная задача такого государства заключается в предоставлении всем гражданам государственных гарантий примерно равных возможностей для самореализации.
+1	Основная	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	задача	задача	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	4	det	_	_
+4	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	предоставлении	предоставление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+8	всем	весь	DET	_	Case=Dat|Number=Plur	9	det	_	_
+9	гражданам	гражданин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
+10	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	гарантий	гарантия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+12	примерно	примерно	ADV	_	Degree=Pos	13	obl	_	_
+13	равных	равный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	самореализации	самореализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 11
+# text = Социальное государство также гарантирует каждому гражданину минимально достаточные условия для жизни и достаточный уровень социального обеспечения.
+1	Социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	также	также	ADV	_	Degree=Pos	4	advmod	_	_
+4	гарантирует	гарантировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing	6	det	_	_
+6	гражданину	гражданин	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
+7	минимально	минимально	ADV	_	Degree=Pos	8	obl	_	_
+8	достаточные	достаточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	достаточный	достаточный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+15	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 12
+# text = Социальное обеспечение в данном случае понимается как защита от природных, антропогенных, социальных и экономических изменений и катаклизмов, а также обеспечение возможности участвовать в управлении государством независимо от материального положения представителей населения и их социального статуса.
+1	Социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	понимается	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	как	как	SCONJ	_	_	8	mark	_	_
+8	защита	защита	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	advcl	_	_
+9	от	от	ADP	_	_	17	case	_	_
+10	природных	природный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	антропогенных	антропогенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	conj	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	экономических	экономический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	conj	_	_
+17	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	катаклизмов	катаклизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	а	а	CCONJ	_	_	23	cc	_	_
+22	также	также	PART	_	_	21	fixed	_	_
+23	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	_
+24	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	участвовать	участвовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	obl	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	управлении	управление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	obl	_	_
+28	государством	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	27	nmod	_	_
+29	независимо	независимо	ADV	_	Degree=Pos	25	advmod	_	_
+30	от	от	ADP	_	_	32	case	_	_
+31	материального	материальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	obl	_	_
+33	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
+34	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+35	и	и	CCONJ	_	_	38	cc	_	_
+36	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	38	nmod	_	_
+37	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
+38	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	conj	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 13
+# text = Как отмечает Ю. Нишевич, такая возможность участия в реализации управления является неотъемлемой частью социальной справедливости в ее современ-
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+3	Ю.	Ю.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Нишевич	Нишевич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	7	det	_	_
+7	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+8	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	реализации	реализация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	неотъемлемой	неотъемлемый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	_
+15	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	ее	ее	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	19	nmod	_	_
+19	современ	современа	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	16	obl	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = Основной контент Социальное государство в наиболее узком его понимании осуществляет в своей деятельности выплату пособий населению, предоставление услуг обществу и обеспечивает решение вопросов, связанных с жилищным обеспечением.
+1	Основной	основной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	контент	контента	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	Социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+5	в	в	ADP	_	_	9	case	_	_
+6	наиболее	наиболее	ADV	_	Degree=Pos	7	obl	_	_
+7	узком	узкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+8	его	его	DET	_	_	9	det	_	_
+9	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+10	осуществляет	осуществлявать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	13	det	_	_
+13	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+14	выплату	выплата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+15	пособий	пособие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+16	населению	население	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	iobj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	conj	_	_
+19	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
+20	обществу	общество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	iobj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	обеспечивает	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+23	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
+24	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+27	с	с	ADP	_	_	29	case	_	_
+28	жилищным	жилищный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	обеспечением	обеспечение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 15
+# text = В широком смысле социальное государство реализует не только существенно большее количество программ, направленных непосредственно на поддержку населения, но и меры, направленные на управление и организацию экономики, включая вопросы, связанные с трудоустройством, а также осуществляет всеобъемлющее управление макроэкономикой .
+1	В	в	ADP	_	_	3	case	_	_
+2	широком	широкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	реализует	реализовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	только	только	PART	_	_	9	advmod	_	_
+9	существенно	существенно	ADV	_	Degree=Pos	10	obl	_	_
+10	большее	больший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	количество	количество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+12	программ	программа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	непосредственно	непосредственно	ADV	_	Degree=Pos	17	obl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	поддержку	поддержка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+18	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	но	но	CCONJ	_	_	22	cc	_	_
+21	и	и	PART	_	_	20	advmod	_	_
+22	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	17	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	направленные	направить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	управление	управление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obl	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	организацию	организация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	conj	_	_
+29	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	включая	включая	ADV	_	Degree=Pos	26	advmod	_	_
+32	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	связанные	связать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	_
+35	с	с	ADP	_	_	36	case	_	_
+36	трудоустройством	трудоустройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	34	obl	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	40	punct	_	_
+38	а	а	CCONJ	_	_	40	cc	_	_
+39	также	также	PART	_	_	38	fixed	_	_
+40	осуществляет	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	_
+41	всеобъемлющее	всеобъемлющий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
+42	управление	управление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	40	obj	_	_
+43	макроэкономикой	макроэкономика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	40	obl	_	_
+44	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 16
+# text = Наиболее типичным на настоящий день определением понятия социального государства является такое определение, согласно которому социальное государство – это система, в которой органы публичной власти берут на себя основную ответственность за обеспечение социальной и экономической безопасности населения, как правило, посредством реализации комплексов различного рода мер (страхование на случай безработицы, выплата пенсий по старости и т.п.) .
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	obl	_	_
+2	типичным	типичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	определением	определение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+7	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	12	det	_	_
+12	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	согласно	согласно	ADP	_	_	15	case	_	_
+15	которому	который	PRON	_	Case=Dat	12	acl:relcl	_	_
+16	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+18	–	–	PUNCT	_	_	17	punct	_	_
+19	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+20	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	которой	который	PRON	_	Case=Loc	27	obl	_	_
+24	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+25	публичной	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+27	берут	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	себя	себя	PRON	_	Case=Acc	27	obl	_	_
+30	основную	основной	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+32	за	за	ADP	_	_	33	case	_	_
+33	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	nmod	_	_
+34	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	conj	_	_
+37	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+38	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	как	как	SCONJ	_	_	41	mark	_	_
+41	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	parataxis	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	44	punct	_	_
+43	посредством	посредством	ADP	_	_	44	case	_	_
+44	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	_
+45	комплексов	комплекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	_
+46	различного	различный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
+47	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	_
+48	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	45	nmod	_	_
+49	(	(	PUNCT	_	_	50	punct	_	SpaceAfter=No
+50	страхование	страхование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	48	parataxis	_	_
+51	на	на	ADP	_	_	52	case	_	_
+52	случай	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	50	nmod	_	_
+53	безработицы	безработица	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	55	punct	_	_
+55	выплата	выплата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	50	conj	_	_
+56	пенсий	пенсия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	55	nmod	_	_
+57	по	по	ADP	_	_	58	case	_	_
+58	старости	старость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	55	nmod	_	_
+59	и	и	CCONJ	_	_	60	cc	_	_
+60	т.п.	т.пункт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	58	conj	_	SpaceAfter=No
+61	)	)	PUNCT	_	_	50	punct	_	_
+62	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 17
+# text = Очевидно, что данное определение объединяет в себе три разных важных аспекта: – во-первых, это политическое намерение государства взять на себя социальную и экономическую ответственность за население; – во-вторых, это метод достижения поставленных целей, т.е. реализация конкретных указанных мер; – в-третьих, это распространение данного понятия государства благосостояния на всю социальную систему в общем, которая характеризуется такими подходами . Ф.-К.
+1	Очевидно	очевидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	что	что	SCONJ	_	_	6	mark	_	_
+4	данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	объединяет	объединять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	себе	себя	PRON	_	Case=Loc	6	obl	_	_
+9	три	три	NUM	_	Case=Nom	12	nummod:gov	_	_
+10	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	важных	важный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	аспекта	аспект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+14	–	–	PUNCT	_	_	19	punct	_	_
+15	во-первых	во-первых	ADV	_	Degree=Pos	19	parataxis	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
+18	политическое	политический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	намерение	намерение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	parataxis	_	_
+20	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	obl	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	себя	себя	PRON	_	Case=Acc	21	obl	_	_
+24	социальную	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	экономическую	экономический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	conj	_	_
+27	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+28	за	за	ADP	_	_	29	case	_	_
+29	население	население	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	;	;	PUNCT	_	_	19	punct	_	_
+31	–	–	PUNCT	_	_	35	punct	_	_
+32	во-вторых	во-вторых	ADV	_	Degree=Pos	35	parataxis	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
+35	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	conj	_	_
+36	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	_
+37	поставленных	ставить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	38	amod	_	_
+38	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	т.е.	т.е.	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+41	реализация	реализация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	40	nsubj	_	_
+42	конкретных	конкретный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	44	amod	_	_
+43	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	44	amod	_	_
+44	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	41	nmod	_	SpaceAfter=No
+45	;	;	PUNCT	_	_	19	punct	_	_
+46	–	–	PUNCT	_	_	50	punct	_	_
+47	в-третьих	в-третьих	ADV	_	Degree=Pos	50	parataxis	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	_
+49	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	50	nsubj	_	_
+50	распространение	распространение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	conj	_	_
+51	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	52	amod	_	_
+52	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	50	nmod	_	_
+53	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	52	nmod	_	_
+54	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+55	на	на	ADP	_	_	58	case	_	_
+56	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	58	det	_	_
+57	социальную	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	58	amod	_	_
+58	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	52	nmod	_	_
+59	в	в	ADP	_	_	60	case	_	_
+60	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	58	nmod	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	63	punct	_	_
+62	которая	который	PRON	_	Case=Nom	63	nsubj	_	_
+63	характеризуется	характеризоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	60	acl:relcl	_	_
+64	такими	такой	DET	_	Case=Ins|Number=Plur	65	det	_	_
+65	подходами	подход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	63	obl	_	_
+66	.	.	PUNCT	_	_	63	punct	_	_
+67	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	63	nsubj	_	SpaceAfter=No
+68	-К	-К	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	67	flat:name	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Кауффман определяет государство благосостояния как институциональный результат присвоения обществом правовой и, соответственно, формальной и явно выраженной ответственности за базовое 9 ной правовой и политической интерпретации .
+1	Кауффман	Кауффман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	определяет	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	как	как	SCONJ	_	_	7	mark	_	_
+6	институциональный	институциональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	результат	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	_
+8	присвоения	присвоение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	обществом	общество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	_
+10	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+11	и	и	CCONJ	_	_	19	cc	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	соответственно	соответственно	ADV	_	Degree=Pos	18	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	формальной	формальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	явно	явно	ADV	_	Degree=Pos	13	conj	_	_
+18	выраженной	выразить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+19	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
+20	за	за	ADP	_	_	23	case	_	_
+21	базовое	базовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	9	9	NUM	_	_	23	nummod	_	_
+23	ной	ный	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	nmod	_	_
+24	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	conj	_	_
+27	интерпретации	интерпретация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Как указывает М. Тавип, в рамках любого подхода к анализу концепции социального государства, как правило, позиционируется роль государства в обеспечении социального равенства и справедливости в соответствии с тремя следующими принципами: – разрешение проблем и профилактика последствий, вредных для рыночной экономики, в особенности тех, которые оказывают более негативное воздействие на субъектов, имеющих меньшее количество экономических и социальных возможностей; – обеспечение распределения благ между всеми справедливо и равномерно; – содействие социальному благополучию .
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	указывает	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	parataxis	_	_
+3	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Тавип	Тавип	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	obl	_	_
+8	любого	любой	DET	_	Case=Gen|Gender=Masc|Number=Sing	9	det	_	_
+9	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	анализу	анализ	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+12	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	_
+16	как	как	SCONJ	_	_	17	mark	_	_
+17	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	позиционируется	позиционировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+20	роль	роль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+21	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	обеспечении	обеспечение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	nmod	_	_
+24	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	равенства	равенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	conj	_	_
+28	в	в	ADP	_	_	33	case	_	_
+29	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	fixed	_	_
+30	с	с	ADP	_	_	28	fixed	_	_
+31	тремя	три	NUM	_	Case=Ins	33	nummod	_	_
+32	следующими	следующий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	_
+33	принципами	принцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No
+34	:	:	PUNCT	_	_	33	punct	_	_
+35	–	–	PUNCT	_	_	36	punct	_	_
+36	разрешение	разрешение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	parataxis	_	_
+37	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	_
+38	и	и	CCONJ	_	_	39	cc	_	_
+39	профилактика	профилактика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	conj	_	_
+40	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	вредных	вредный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	40	amod	_	_
+43	для	для	ADP	_	_	45	case	_	_
+44	рыночной	рыночный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	45	amod	_	_
+45	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	49	punct	_	_
+47	в	в	ADP	_	_	49	advmod	_	_
+48	особенности	особенность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	47	fixed	_	_
+49	тех	тот	DET	_	Case=Gen|Number=Plur	36	det	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	52	punct	_	_
+51	которые	который	PRON	_	Case=Nom	52	nsubj	_	_
+52	оказывают	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	49	acl:relcl	_	_
+53	более	более	ADV	_	Degree=Cmp	54	obl	_	_
+54	негативное	негативный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	55	amod	_	_
+55	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	52	obj	_	_
+56	на	на	ADP	_	_	57	case	_	_
+57	субъектов	субъект	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	55	nmod	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	59	punct	_	_
+59	имеющих	иметь	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	57	acl	_	_
+60	меньшее	меньший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	61	amod	_	_
+61	количество	количество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	59	obj	_	_
+62	экономических	экономический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	65	amod	_	_
+63	и	и	CCONJ	_	_	64	cc	_	_
+64	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	62	conj	_	_
+65	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	61	nmod	_	SpaceAfter=No
+66	;	;	PUNCT	_	_	65	punct	_	_
+67	–	–	PUNCT	_	_	68	punct	_	_
+68	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	65	conj	_	_
+69	распределения	распределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	68	nmod	_	_
+70	благ	благо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	69	nmod	_	_
+71	между	между	ADP	_	_	78	case	_	_
+72	всеми	все	DET	_	Case=Ins|Number=Plur	78	det	_	_
+73	справедливо	справедливо	ADV	_	Degree=Pos	72	conj	_	_
+74	и	и	CCONJ	_	_	75	cc	_	_
+75	равномерно	равномерно	ADV	_	Degree=Pos	73	conj	_	SpaceAfter=No
+76	;	;	PUNCT	_	_	73	punct	_	_
+77	–	–	PUNCT	_	_	73	punct	_	_
+78	содействие	содействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	70	nmod	_	_
+79	социальному	социальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	80	amod	_	_
+80	благополучию	благополучие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	69	iobj	_	_
+81	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 20
+# text = Основываясь на трех указанных принципах, деятельность социального государства направлена на достижение следующих основных целей: обеспечение экономического роста, широких возможностей трудоустройства, стабильности цен, развития, распространения систем социального страхования и улучшения условий труда, распределения капитала, всеобщего благополучия и содействие различным социальным и экономическим интересам .
+1	Основываясь	основываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	0	root	_	_
+2	на	на	ADP	_	_	5	case	_	_
+3	трех	три	NUM	_	Case=Loc	5	nummod	_	_
+4	указанных	указывать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	принципах	принцип	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	_
+8	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	направлена	направить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	acl:relcl	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+13	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+14	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	parataxis	_	_
+18	экономического	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	роста	рост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	широких	широкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	conj	_	_
+23	трудоустройства	трудоустройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	стабильности	стабильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	_
+26	цен	цена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	распространения	распространение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+31	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	_
+32	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	страхования	страхование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	улучшения	улучшение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	conj	_	_
+36	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+37	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	распределения	распределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+40	капитала	капитал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	всеобщего	всеобщий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
+43	благополучия	благополучие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+44	и	и	CCONJ	_	_	45	cc	_	_
+45	содействие	содействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	conj	_	_
+46	различным	различный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	50	amod	_	_
+47	социальным	социальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	50	amod	_	_
+48	и	и	CCONJ	_	_	49	cc	_	_
+49	экономическим	экономический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	47	conj	_	_
+50	интересам	интерес	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	45	iobj	_	_
+51	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = Цели социального государства можно сгруппировать в четыре основные категории: – поддержание уровня жизни, – снижение неравенства, – избежание чрезмерных предназначенных для этого расходов; – сдерживание поведения, способствующего риску недобросовестности и неблагоприятному отбору .
+1	Цели	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+2	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	сгруппировать	сгруппировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	четыре	четыре	NUM	_	Animacy=Inan|Case=Acc	9	nummod:gov	_	_
+8	основные	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	категории	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	9	punct	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	поддержание	поддержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	parataxis	_	_
+13	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	–	–	PUNCT	_	_	17	punct	_	_
+17	снижение	снижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+18	неравенства	неравенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	–	–	PUNCT	_	_	21	punct	_	_
+21	избежание	избежание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	conj	_	_
+22	чрезмерных	чрезмерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+23	предназначенных	предназначить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	acl	_	_
+24	для	для	ADP	_	_	25	case	_	_
+25	этого	этот	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
+26	расходов	расход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+27	;	;	PUNCT	_	_	21	punct	_	_
+28	–	–	PUNCT	_	_	29	punct	_	_
+29	сдерживание	сдерживание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	conj	_	_
+30	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	способствующего	способствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	acl	_	_
+33	риску	риск	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	32	iobj	_	_
+34	недобросовестности	недобросовестность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+35	и	и	CCONJ	_	_	37	cc	_	_
+36	неблагоприятному	неблагоприятный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	отбору	отбор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	33	conj	_	_
+38	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 22
+# text = По мнению Роналда Дж. Дэниэлса и Майкл Дж. Требилкока, несмотря на то, что исследователями не было выработано универсального определения государства благосостояния, социальное государство в любом случае стремится к достижению следующих основных целей: – регулирование общественной нравственности; – укрепление социальной солидарности; – страхование рисков индивидов;
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	parataxis	_	_
+3	Роналда	Рональд	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Дж.	Дж.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Дэниэлса	Дэниэлс	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	Майкл	Майкл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+8	Дж	Дж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+10	Требил	Требил	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+11	кока	кок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	несмотря	несмотря	ADV	_	Polarity=Neg	15	case	_	_
+14	на	на	ADP	_	_	13	fixed	_	_
+15	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	32	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	что	что	SCONJ	_	_	21	mark	_	_
+18	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	21	obl	_	_
+19	не	не	PART	_	_	21	advmod	_	_
+20	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	aux:pass	_	_
+21	выработано	выработать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	acl	_	_
+22	универсального	универсальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	_
+24	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	15	punct	_	_
+27	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing	31	det	_	_
+31	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	obl	_	_
+32	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+33	к	к	ADP	_	_	34	case	_	_
+34	достижению	достижение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	obl	_	_
+35	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+36	основных	основной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+37	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
+38	:	:	PUNCT	_	_	37	punct	_	_
+39	–	–	PUNCT	_	_	40	punct	_	_
+40	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	parataxis	_	_
+41	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	нравственности	нравственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	SpaceAfter=No
+43	;	;	PUNCT	_	_	40	punct	_	_
+44	–	–	PUNCT	_	_	45	punct	_	_
+45	укрепление	укрепление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	40	conj	_	_
+46	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	47	amod	_	_
+47	солидарности	солидарность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+48	;	;	PUNCT	_	_	40	punct	_	_
+49	–	–	PUNCT	_	_	50	punct	_	_
+50	страхование	страхование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	40	conj	_	_
+51	рисков	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	50	nmod	_	_
+52	индивидов	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	51	nmod	_	SpaceAfter=No
+53	;	;	PUNCT	_	_	32	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = – содействие обеспечению экономической стабильности; – обеспечение справедливого распределения ресурсов .
+1	–	–	PUNCT	_	_	2	punct	_	_
+2	содействие	содействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	обеспечению	обеспечение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+4	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	стабильности	стабильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	;	;	PUNCT	_	_	3	punct	_	_
+7	–	–	PUNCT	_	_	8	punct	_	_
+8	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	_
+9	справедливого	справедливый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	распределения	распределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = Габриэль Келер относит к основным функциям государства благосостояния предоставление услуг, общедоступных, финансируемых из налоговых поступлений и направленных на предоставление общественных благ, на которые имеют право граждане, в следующих сферах: – образование, по крайней мере начальное и среднее; – доступ к здравоохранению; – социальное обеспечение; – проведение активной политики на рынке труда с целью создания рабочих мест, а также микрокредитования и страховых резервов для предпринимательского сектора; – политика, направленная на обеспечение благосостояния семьи; – политика, направленная на обеспечение экологической устойчивости .
+1	Габриэль	Габриэля	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Келер	Келер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	относит	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	к	к	ADP	_	_	6	case	_	_
+5	основным	основной	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	6	amod	_	_
+6	функциям	функция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	obl	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	obj	_	_
+10	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	общедоступных	общедоступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	acl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	финансируемых	финансировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	12	conj	_	_
+15	из	из	ADP	_	_	17	case	_	_
+16	налоговых	налоговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	поступлений	поступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	obl	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	conj	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	obl	_	_
+22	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	благ	благо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	которые	который	PRON	_	Case=Acc	27	obl	_	_
+27	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	_
+28	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+29	граждане	гражданин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	следующих	следующий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	33	amod	_	_
+33	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+34	:	:	PUNCT	_	_	33	punct	_	_
+35	–	–	PUNCT	_	_	36	punct	_	_
+36	образование	образование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	parataxis	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	41	punct	_	_
+38	по	по	ADP	_	_	41	advmod	_	_
+39	крайней	крайний	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	38	fixed	_	_
+40	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	38	fixed	_	_
+41	начальное	начальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	36	parataxis	_	_
+42	и	и	CCONJ	_	_	43	cc	_	_
+43	среднее	средний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	41	conj	_	SpaceAfter=No
+44	;	;	PUNCT	_	_	43	punct	_	_
+45	–	–	PUNCT	_	_	46	punct	_	_
+46	доступ	доступ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	43	parataxis	_	_
+47	к	к	ADP	_	_	48	case	_	_
+48	здравоохранению	здравоохранение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	46	nmod	_	SpaceAfter=No
+49	;	;	PUNCT	_	_	46	punct	_	_
+50	–	–	PUNCT	_	_	52	punct	_	_
+51	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	52	amod	_	_
+52	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	conj	_	SpaceAfter=No
+53	;	;	PUNCT	_	_	46	punct	_	_
+54	–	–	PUNCT	_	_	55	punct	_	_
+55	проведение	проведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	conj	_	_
+56	активной	активный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	57	amod	_	_
+57	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	_
+58	на	на	ADP	_	_	59	case	_	_
+59	рынке	рынок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	57	nmod	_	_
+60	труда	труд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	nmod	_	_
+61	с	с	ADP	_	_	62	case	_	_
+62	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	55	nmod	_	_
+63	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	62	nmod	_	_
+64	рабочих	рабочий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	65	amod	_	_
+65	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	63	nmod	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	69	punct	_	_
+67	а	а	CCONJ	_	_	69	cc	_	_
+68	также	также	PART	_	_	67	fixed	_	_
+69	микрокредитования	микрокредитование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	46	conj	_	_
+70	и	и	CCONJ	_	_	72	cc	_	_
+71	страховых	страховой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	72	amod	_	_
+72	резервов	резерв	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	69	conj	_	_
+73	для	для	ADP	_	_	75	case	_	_
+74	предпринимательского	предпринимательский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	75	amod	_	_
+75	сектора	сектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	72	nmod	_	SpaceAfter=No
+76	;	;	PUNCT	_	_	46	punct	_	_
+77	–	–	PUNCT	_	_	78	punct	_	_
+78	политика	политика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	46	conj	_	SpaceAfter=No
+79	,	,	PUNCT	_	_	80	punct	_	_
+80	направленная	направить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	78	acl	_	_
+81	на	на	ADP	_	_	82	case	_	_
+82	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	80	obl	_	_
+83	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	82	nmod	_	_
+84	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	83	nmod	_	SpaceAfter=No
+85	;	;	PUNCT	_	_	84	punct	_	_
+86	–	–	PUNCT	_	_	87	punct	_	_
+87	политика	политика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	84	parataxis	_	SpaceAfter=No
+88	,	,	PUNCT	_	_	89	punct	_	_
+89	направленная	направить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	87	acl	_	_
+90	на	на	ADP	_	_	91	case	_	_
+91	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	89	obl	_	_
+92	экологической	экологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	93	amod	_	_
+93	устойчивости	устойчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	91	nmod	_	_
+94	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 25
+# text = При этом необходимо учитывать, что социальное государство, как исключительно "распределительный механизм", оказывает деструктивное влияние не только на экономику и сферу частного предпринимательства, но и на социальное благополучие, поскольку активный и всеобъемлющий патернализм со стороны государства радикально снижает способность населения принимать самостоятельные решения, требующие их собственных инвестиций в их осуществление, а также способность населения идти на риск.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	17	punct	_	_
+6	что	что	SCONJ	_	_	17	mark	_	_
+7	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	как	как	SCONJ	_	_	14	mark	_	_
+11	исключительно	исключительно	ADV	_	Degree=Pos	14	obl	_	_
+12	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	распределительный	распределительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	acl	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	8	punct	_	_
+17	оказывает	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+18	деструктивное	деструктивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	только	только	PART	_	_	23	advmod	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	экономику	экономика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	сферу	сфера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	conj	_	_
+26	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	предпринимательства	предпринимательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	но	но	CCONJ	_	_	33	cc	_	_
+30	и	и	PART	_	_	29	advmod	_	_
+31	на	на	ADP	_	_	33	case	_	_
+32	социальное	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	благополучие	благополучие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	44	punct	_	_
+35	поскольку	поскольку	SCONJ	_	_	44	mark	_	_
+36	активный	активный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	всеобъемлющий	всеобъемлющий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	36	conj	_	_
+39	патернализм	патернализм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	_
+40	со	со	ADP	_	_	42	case	_	_
+41	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	fixed	_	_
+42	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	_
+43	радикально	радикально	ADV	_	Degree=Pos	44	advmod	_	_
+44	снижает	снижать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	_
+45	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	obj	_	_
+46	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	45	nmod	_	_
+47	принимать	принимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	45	obl	_	_
+48	самостоятельные	самостоятельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	49	amod	_	_
+49	решения	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	47	obj	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	51	punct	_	_
+51	требующие	требовать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	49	acl	_	_
+52	их	их	DET	_	_	54	det	_	_
+53	собственных	собственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	54	amod	_	_
+54	инвестиций	инвестиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	51	obl	_	_
+55	в	в	ADP	_	_	57	case	_	_
+56	их	их	DET	_	_	57	det	_	_
+57	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	54	nmod	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	61	punct	_	_
+59	а	а	CCONJ	_	_	61	cc	_	_
+60	также	также	PART	_	_	59	fixed	_	_
+61	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	51	conj	_	_
+62	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	61	nmod	_	_
+63	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	61	obl	_	_
+64	на	на	ADP	_	_	65	case	_	_
+65	риск	риск	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	63	obl	_	SpaceAfter=No
+66	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 26
+# text = Чрезмерные социальные гарантии для трудоспособных граждан могут в конечном счете привести к потере качества человеческого капитала в таком государстве .
+1	Чрезмерные	чрезмерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+4	для	для	ADP	_	_	6	case	_	_
+5	трудоспособных	трудоспособный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+7	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	в	в	ADP	_	_	11	advmod	_	_
+9	конечном	конечный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	fixed	_	_
+10	счете	счет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	fixed	_	_
+11	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	потере	потеря	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
+14	качества	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	человеческого	человеческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	капитала	капитал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	таком	такой	DET	_	Case=Loc|Gender=Neut|Number=Sing	19	det	_	_
+19	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	nmod	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 27
+# text = Стоит также отметить, что концепция социального государства предполагает идею государства как конституционно организованной сети политических институтов, наделенных способностью влиять на процесс производства благосостояния в соответствии с институциональными руководящими принципами .
+1	Стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	что	что	SCONJ	_	_	9	mark	_	_
+6	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+7	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+10	идею	идея	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	как	как	SCONJ	_	_	15	mark	_	_
+13	конституционно	конституционно	ADV	_	Degree=Pos	14	advmod	_	_
+14	организованной	организовывать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+15	сети	сеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	acl	_	_
+16	политических	политический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	наделенных	наделить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+20	способностью	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	obl	_	_
+21	влиять	влиять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	obl	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	_
+24	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	в	в	ADP	_	_	31	case	_	_
+27	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	fixed	_	_
+28	с	с	ADP	_	_	26	fixed	_	_
+29	институциональными	институциональный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	31	amod	_	_
+30	руководящими	руководить	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	amod	_	_
+31	принципами	принцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	21	obl	_	_
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 28
+# text = Некоторые исследователи придерживаются исключительно нормативного подхода к определению социального государ10 ства.
+1	Некоторые	некоторый	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	придерживаются	придерживаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	исключительно	исключительно	ADV	_	Degree=Pos	5	obl	_	_
+5	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	определению	определение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	_
+9	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	государ10	государ10	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	ства	ство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 29
+# text = Иными словами, по их мнению, для того чтобы государство могло считаться социальным, совокупность государственной политики (в широком ее понимании) должна иметь конкретную определенную цель или направленность на достижение определенных достаточно глобальных целей, таких, как, к примеру, обеспечение всеобщего равенства .
+1	Иными	иной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	25	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	по	по	ADP	_	_	6	case	_	_
+5	их	их	DET	_	_	6	det	_	_
+6	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	25	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	obl	_	_
+10	чтобы	чтобы	SCONJ	_	Mood=Cnd	12	mark	_	_
+11	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+12	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	_
+13	считаться	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	12	xcomp	_	_
+14	социальным	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+17	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+19	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	в	в	ADP	_	_	21	case	_	_
+21	широком	широкий	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	parataxis	_	_
+22	ее	она	DET	_	_	23	det	_	_
+23	понимании	понимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	21	punct	_	_
+25	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+26	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+27	конкретную	конкретный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+28	определенную	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	цель	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+30	или	или	CCONJ	_	_	31	cc	_	_
+31	направленность	направленность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	conj	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	nmod	_	_
+34	определенных	определить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	37	amod	_	_
+35	достаточно	достаточно	ADV	_	Degree=Pos	36	obl	_	_
+36	глобальных	глобальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+37	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	таких	такой	DET	_	Case=Gen|Number=Plur	37	det	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	как	как	ADV	_	Degree=Pos	39	advmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	44	punct	_	_
+43	к	к	ADP	_	_	44	case	_	_
+44	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	41	parataxis	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	41	punct	_	_
+46	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	41	obj	_	_
+47	всеобщего	всеобщий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	48	amod	_	_
+48	равенства	равенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	46	nmod	_	_
+49	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 30
+# text = Нормативную основу социального государства составляет ответственность государства за обеспечение благополучия членов общества.
+1	Нормативную	нормативный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	основу	основа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+3	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	составляет	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	за	за	ADP	_	_	9	case	_	_
+9	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	_
+10	благополучия	благополучие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 31
+# text = Идея государства как централизованной власти для регулирования социального развития является не совсем присущей англосаксонской правовой системе, а в континентальной правовой системе такая концепция уходит корнями в долиберальный период.
+1	Идея	идея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	как	как	SCONJ	_	_	5	mark	_	_
+4	централизованной	централизованный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	совсем	совсем	ADV	_	Degree=Pos	13	advmod	_	_
+13	присущей	присущий	VERB	_	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+14	англосаксонской	англосаксонский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+15	правовой	правовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	а	а	CCONJ	_	_	25	cc	_	_
+19	в	в	ADP	_	_	22	case	_	_
+20	континентальной	континентальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+21	правовой	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	obl	_	_
+23	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	24	det	_	_
+24	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+25	уходит	уходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+26	корнями	корень	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	25	obl	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	долиберальный	долиберальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 32
+# text = Данное различие имеет существенное значение при изучении реализации концепции социального государства в различных странах, поскольку существующие в них по данному вопросу различия определяются не просто различиями в реализации соответствующей государственной политики, но и фундаментальными структурными различиями .
+1	Данное	данный	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	различие	различие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	существенное	существенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	при	при	ADP	_	_	7	case	_	_
+7	изучении	изучение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+8	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	различных	различный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	24	punct	_	_
+16	поскольку	поскольку	SCONJ	_	_	24	mark	_	_
+17	существующие	существовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	acl	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	17	obl	_	_
+20	по	по	ADP	_	_	22	case	_	_
+21	данному	данный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+23	различия	различие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nsubj:pass	_	_
+24	определяются	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	advcl	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	просто	просто	PART	_	_	27	advmod	_	_
+27	различиями	различие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	24	obl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	реализации	реализация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+30	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	38	punct	_	_
+34	но	но	CCONJ	_	_	38	cc	_	_
+35	и	и	PART	_	_	34	advmod	_	_
+36	фундаментальными	фундаментальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	38	amod	_	_
+37	структурными	структурный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	38	amod	_	_
+38	различиями	различие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	27	conj	_	_
+39	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 33
+# text = Следует также различать два аспекта социального государства: социальное государство как спектр социальных услуг или институтов и социальное государство как модели политической деятельности, основанной на нормативных ориентациях, касающихся обеспечения достижения благосостояния .
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	различать	различать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+4	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	5	nummod:gov	_	_
+5	аспекта	аспект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+6	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	1	punct	_	_
+9	социальное	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
+11	как	как	SCONJ	_	_	12	mark	_	_
+12	спектр	спектр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	acl	_	_
+13	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	или	или	CCONJ	_	_	16	cc	_	_
+16	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	социальное	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	conj	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	acl	_	_
+22	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	основанной	основать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	нормативных	нормативный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	amod	_	_
+28	ориентациях	ориентация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	касающихся	касаться	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	28	acl	_	_
+31	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	_
+32	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+34	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 34
+# text = Согласно такому подходу социальное государство определяется только для тех ситуаций, где предоставление социальных услуг связано с нормативными ориентациями.
+1	Согласно	согласно	ADP	_	_	3	case	_	_
+2	такому	такой	DET	_	Case=Dat|Gender=Masc|Number=Sing	3	det	_	_
+3	подходу	подход	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+4	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
+6	определяется	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	только	только	PART	_	_	10	advmod	_	_
+8	для	для	ADP	_	_	10	case	_	_
+9	тех	тот	DET	_	Case=Gen|Number=Plur	10	det	_	_
+10	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	где	где	ADV	_	Degree=Pos	16	advmod	_	_
+13	предоставление	предоставление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj:pass	_	_
+14	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
+17	с	с	ADP	_	_	19	case	_	_
+18	нормативными	нормативный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+19	ориентациями	ориентация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 35
+# text = Соответственно, в рамках такого подхода такие государства, как США и бывший СССР (и другие бывшие коммунистические государства), не могут быть определены как социальные государства .
+1	Соответственно	соответственно	ADV	_	Degree=Pos	24	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	24	obl	_	_
+5	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+6	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	такие	такой	DET	_	Case=Nom|Number=Plur	8	det	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	как	как	SCONJ	_	_	11	mark	_	_
+11	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	7	obl	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	бывший	бывший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	СССР	СССР	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
+15	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+16	и	и	PART	_	_	17	advmod	_	_
+17	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+18	бывшие	быть	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+19	коммунистические	коммунистический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+20	государства	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	parataxis	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	8	punct	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+25	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	26	aux:pass	_	_
+26	определены	определить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	24	xcomp	_	_
+27	как	как	SCONJ	_	_	29	mark	_	_
+28	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	amod	_	_
+29	государства	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	26	advcl	_	_
+30	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 36
+# text = Согласно подходу, основанному на распределении и использовании властных ресурсов, социальная демократия является ключом к развитию социального государства .
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	подходу	подход	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	основанному	основать	VERB	_	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	распределении	распределение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	использовании	использование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	_
+9	властных	властный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	социальная	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	демократия	демократия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+15	ключом	ключ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	_
+16	к	к	ADP	_	_	17	case	_	_
+17	развитию	развитие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	nmod	_	_
+18	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 37
+# text = Необходимо учитывать, что, как отмечает М. Тавип, понятие социального государства не совпадает с понятием социаль-
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	15	punct	_	_
+4	что	что	SCONJ	_	_	15	mark	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	как	как	SCONJ	_	_	7	mark	_	_
+7	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	parataxis	_	_
+8	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	Тавип	Тавип	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+12	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	совпадает	совпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	понятием	понятие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	_
+18	социаль	социаль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
+19	-	-	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = ной политики государства.
+1	ной	на	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+2	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = В связи с этим стоит отметить, что социальная политика может реализовываться и в государстве, которое не является социальным, с другой стороны, социальное государство не может не реализовывать социальную политику для поддержания своего существования.
+1	В	в	ADP	_	_	4	case	_	_
+2	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+5	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	что	что	SCONJ	_	_	11	mark	_	_
+9	социальная	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	политика	политик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+11	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+12	реализовываться	реализоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	11	xcomp	_	_
+13	и	и	PART	_	_	15	advmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	которое	который	PRON	_	Case=Nom	19	nsubj	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	acl:relcl	_	_
+20	социальным	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	29	punct	_	_
+22	с	с	ADP	_	_	24	case	_	_
+23	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+28	не	не	PART	_	_	29	advmod	_	_
+29	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+30	не	не	PART	_	_	31	advmod	_	_
+31	реализовывать	реализовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	_
+32	социальную	социальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	политику	политика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+34	для	для	ADP	_	_	35	case	_	_
+35	поддержания	поддержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	_
+36	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	37	det	_	_
+37	существования	существование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 40
+# text = Такая путаница, однако, происходит ввиду того, что концепция социального государства является не совсем стандартной: так, она зачастую ассоциируется с политикой представления соответствующих услуг и социальных выплат со стороны государства .
+1	Такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	путаница	путаница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	однако	однако	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ввиду	ввиду	ADP	_	_	8	case	_	_
+8	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	что	что	SCONJ	_	_	14	mark	_	_
+11	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+12	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	совсем	совсем	ADV	_	Degree=Pos	17	obl	_	_
+17	стандартной	стандартный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	:	:	PUNCT	_	_	14	punct	_	_
+19	так	так	ADV	_	Degree=Pos	14	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	23	nsubj	_	_
+22	зачастую	зачастую	ADV	_	Degree=Pos	23	advmod	_	_
+23	ассоциируется	ассоциироваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	conj	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	политикой	политика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	obl	_	_
+26	представления	представление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	соответствующих	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	выплат	выплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	conj	_	_
+32	со	со	ADP	_	_	34	case	_	_
+33	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	fixed	_	_
+34	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+35	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 41
+# text = Немецкими исследователями были разработаны каноничные принципы социальности государства в его конституционноправовом аспекте.
+1	Немецкими	немецкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	разработаны	разработать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	каноничные	каноничный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	_
+7	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	в	в	ADP	_	_	12	case	_	_
+10	его	его	DET	_	_	12	det	_	_
+11	конституционноправовом	конституционноправовый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	аспекте	аспект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 42
+# text = К таким принципам относят следующие: – принцип социальности государства является настоящим правовым принципом, а не просто политической характеристикой или направлением соответствующей государственной политики; – данный принцип, в свою очередь, уполномочивает и обязывает государство осуществлять определенную деятельность в социальной сфере для обеспечения всего социального порядка в целом.
+1	К	к	ADP	_	_	3	case	_	_
+2	таким	такой	DET	_	Case=Dat|Number=Plur	3	det	_	_
+3	принципам	принцип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+4	относят	относить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	следующие	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	obj	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	–	–	PUNCT	_	_	11	punct	_	_
+8	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	parataxis	_	_
+12	настоящим	настоящий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+13	правовым	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	принципом	принцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	а	а	CCONJ	_	_	19	cc	_	_
+17	не	не	PART	_	_	18	advmod	_	_
+18	просто	просто	PART	_	_	19	advmod	_	_
+19	политической	политический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	характеристикой	характеристика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	_
+21	или	или	CCONJ	_	_	22	cc	_	_
+22	направлением	направление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	conj	_	_
+23	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+24	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	политики	политика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+26	;	;	PUNCT	_	_	25	punct	_	_
+27	–	–	PUNCT	_	_	29	punct	_	_
+28	данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	conj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	35	punct	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	33	det	_	_
+33	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	parataxis	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	уполномочивает	уполномочивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	parataxis	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	обязывает	обязываять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	conj	_	_
+38	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obj	_	_
+39	осуществлять	осуществлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	37	xcomp	_	_
+40	определенную	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	obj	_	_
+42	в	в	ADP	_	_	44	case	_	_
+43	социальной	социальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	_
+44	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	41	nmod	_	_
+45	для	для	ADP	_	_	46	case	_	_
+46	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	obl	_	_
+47	всего	все	DET	_	Case=Gen|Gender=Masc|Number=Sing	49	det	_	_
+48	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	49	amod	_	_
+49	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
+50	в	в	ADP	_	_	51	case	_	_
+51	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	nmod	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43
+# text = Таким образом, государство должно гарантировать определенный минимум социального обеспечения; – содержание такой деятельности государства в сфере социального обеспечения исторически обусловлено социальными проблемами в конце девятнадцатого века, к которым эволюция немецкого социального государства стремится адаптироваться.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+6	гарантировать	гарантировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	определенный	определенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	минимум	минимум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+9	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	;	;	PUNCT	_	_	10	punct	_	_
+12	–	–	PUNCT	_	_	22	punct	_	_
+13	содержание	содержание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj:pass	_	_
+14	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	15	det	_	_
+15	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+19	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+21	исторически	исторически	ADV	_	Degree=Pos	22	advmod	_	_
+22	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	parataxis	_	_
+23	социальными	социальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	_
+24	проблемами	проблема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	22	obl	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	_
+27	девятнадцатого	девятнадцатый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	36	punct	_	_
+30	к	к	ADP	_	_	31	case	_	_
+31	которым	который	PRON	_	Case=Dat	37	obl	_	_
+32	эволюция	эволюция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	_
+33	немецкого	немецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+34	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+36	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	_
+37	адаптироваться	адаптироваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	36	xcomp	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 44
+# text = В то же время такое социальное государство открыто в своем развитии для новых условий и стимулов.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+5	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	6	det	_	_
+6	социальное	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	_
+8	открыто	открыть	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	11	det	_	_
+11	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+12	для	для	ADP	_	_	14	case	_	_
+13	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	стимулов	стимул	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 45
+# text = При этом, как отмечается немецкими исследователями, принцип социальности государства не требует от государства поддержания существующей социальной ситуации.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	отмечается	отмечаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	parataxis	_	_
+6	немецкими	немецкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+10	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	от	от	ADP	_	_	15	case	_	_
+15	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+16	поддержания	поддержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	существующей	существовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	amod	_	_
+18	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 46
+# text = Точно так же данный принцип не предполагает необходимости закрепления конкретных услуг или институциональных форм на конституционном уровне; – как правило, из принципа социальности государства не вытекают какие-то определенные права индивидов, даже в сочетании с основными фундаментальными 11 правами человека, за редкими исключениями; – в меру возможности законодательная власть такого социального государства должна обеспечивать баланс между ответственностью индивида за собственное благополучие и социальной солидарностью .
+1	Точно	точно	ADV	_	Degree=Pos	2	advmod	_	_
+2	так	так	ADV	_	Degree=Pos	7	advmod	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
+9	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	конкретных	конкретный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+12	или	или	CCONJ	_	_	14	cc	_	_
+13	институциональных	институциональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	conj	_	_
+15	на	на	ADP	_	_	17	case	_	_
+16	конституционном	конституционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+18	;	;	PUNCT	_	_	8	punct	_	_
+19	–	–	PUNCT	_	_	28	punct	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	parataxis	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	из	из	ADP	_	_	24	case	_	_
+24	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	obl	_	_
+25	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	вытекают	вытекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+29	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	31	det	_	_
+30	определенные	определенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	31	amod	_	_
+31	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	28	nsubj	_	_
+32	индивидов	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	даже	даже	PART	_	_	36	advmod	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	сочетании	сочетание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	_
+37	с	с	ADP	_	_	41	case	_	_
+38	основными	основной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	41	amod	_	_
+39	фундаментальными	фундаментальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	41	amod	_	_
+40	11	11	NUM	_	_	41	nummod	_	_
+41	правами	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	36	nmod	_	_
+42	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	46	punct	_	_
+44	за	за	ADP	_	_	46	case	_	_
+45	редкими	редкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	46	amod	_	_
+46	исключениями	исключение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	42	nmod	_	SpaceAfter=No
+47	;	;	PUNCT	_	_	46	punct	_	_
+48	–	–	PUNCT	_	_	57	punct	_	_
+49	в	в	ADP	_	_	50	case	_	_
+50	меру	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	48	nmod	_	_
+51	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	57	obl	_	_
+52	законодательная	законодательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	53	amod	_	_
+53	власть	власть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	57	nsubj	_	_
+54	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	56	det	_	_
+55	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	56	amod	_	_
+56	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+57	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	46	conj	_	_
+58	обеспечивать	обеспечивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	57	xcomp	_	_
+59	баланс	баланс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	58	obj	_	_
+60	между	между	ADP	_	_	61	case	_	_
+61	ответственностью	ответственность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	59	nmod	_	_
+62	индивида	индивид	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	61	nmod	_	_
+63	за	за	ADP	_	_	65	case	_	_
+64	собственное	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	65	amod	_	_
+65	благополучие	благополучие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	61	nmod	_	_
+66	и	и	CCONJ	_	_	68	cc	_	_
+67	социальной	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	68	amod	_	_
+68	солидарностью	солидарность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	65	conj	_	_
+69	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 47
+# text = Таким образом, в целом, конституционная значимость принципа социальности государства не является совсем всеобъемлющей .
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	конституционная	конституционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	значимость	значимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+9	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	совсем	совсем	ADV	_	Degree=Pos	15	obl	_	_
+15	всеобъемлющей	всеобъемлющий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	obl	_	_
+16	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 48
+# text = Представляет интерес в контексте настоящего исследования опыт Индии, где после 1947 года была принята новая конституция для обеспечения справедливости – социальной, экономической и политической.
+1	Представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	интерес	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	контексте	контекст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+5	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+8	Индии	Индия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	где	где	ADV	_	Degree=Pos	15	advmod	_	_
+11	после	после	ADP	_	_	13	case	_	_
+12	1947	1947	NUM	_	_	13	nummod	_	_
+13	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	_
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
+15	принята	принять	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_
+16	новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	конституция	конституция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj:pass	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+20	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	–	–	PUNCT	_	_	22	punct	_	_
+22	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	appos	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = В этом направлении руководству необходимо было обеспечить благополучие населения, и концепция права была полностью изменена с целью реализации функционального подхода.
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	3	det	_	_
+3	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+4	руководству	руководство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	_
+5	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+8	благополучие	благополучие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+9	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	и	и	CCONJ	_	_	16	cc	_	_
+12	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	aux:pass	_	_
+15	полностью	полностью	ADV	_	Degree=Pos	16	advmod	_	_
+16	изменена	изменить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	5	conj	_	_
+17	с	с	ADP	_	_	18	case	_	_
+18	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	obl	_	_
+19	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	функционального	функциональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 50
+# text = В рамках такого подхода для обеспечения реализации концепции социального государства на практике законодательство должно функционировать в качестве динамичного механизма, затрагивающего интересы общества и всего человечества в целом .
+1	В	в	ADP	_	_	2	case	_	_
+2	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	14	obl	_	_
+3	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	4	det	_	_
+4	подхода	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+13	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+15	функционировать	функционировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	в	в	ADP	_	_	19	case	_	_
+17	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	fixed	_	_
+18	динамичного	динамичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	затрагивающего	затрагивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	_
+22	интересы	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	21	obj	_	_
+23	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	и	и	CCONJ	_	_	26	cc	_	_
+25	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing	26	det	_	_
+26	человечества	человечество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	nmod	_	_
+29	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 51
+# text = Американские исследователи в области конституционного права в целом сходятся во мнении относительно того, что в социальном государстве на конституционном уровне не должны признаваться либо иметься положения, которые могут быть истолкованы как признающие так называемые социальные права второго поколения, такие, как, к примеру, право на жилье или право на прожиточный минимум, поскольку в качестве основного аргумента они выдвигают утверждение о том, что такие права должны просто подлежать исполнению в судебном порядке .
+1	Американские	американский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+5	конституционного	конституционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+9	сходятся	сходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	во	в	ADP	_	_	11	case	_	_
+11	мнении	мнение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+12	относительно	относительно	ADP	_	_	13	case	_	_
+13	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	23	punct	_	_
+15	что	что	SCONJ	_	_	23	mark	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	социальном	социальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+19	на	на	ADP	_	_	21	case	_	_
+20	конституционном	конституционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	_
+22	не	не	PART	_	_	23	advmod	_	_
+23	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	13	acl	_	_
+24	признаваться	признавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	23	xcomp	_	_
+25	либо	либо	CCONJ	_	_	26	cc	_	_
+26	иметься	иметься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	24	conj	_	_
+27	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	26	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	которые	который	PRON	_	Case=Nom	30	nsubj:pass	_	_
+30	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl:relcl	_	_
+31	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	32	aux:pass	_	_
+32	истолкованы	истолковать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	30	xcomp	_	_
+33	как	как	SCONJ	_	_	34	mark	_	_
+34	признающие	признавать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	advcl	_	_
+35	так	так	ADV	_	Degree=Pos	36	advmod	_	_
+36	называемые	называть	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	38	acl	_	_
+37	социальные	социальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	amod	_	_
+38	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	34	obj	_	_
+39	второго	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+40	поколения	поколение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	такие	такой	DET	_	Case=Nom|Number=Plur	27	det	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	как	как	ADV	_	Degree=Pos	42	obl	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	47	punct	_	_
+46	к	к	ADP	_	_	47	case	_	_
+47	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	44	parataxis	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	44	punct	_	_
+49	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	42	obl	_	_
+50	на	на	ADP	_	_	51	case	_	_
+51	жилье	жилье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	49	nmod	_	_
+52	или	или	CCONJ	_	_	53	cc	_	_
+53	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	49	conj	_	_
+54	на	на	ADP	_	_	56	case	_	_
+55	прожиточный	прожиточный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
+56	минимум	минимум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	53	nmod	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	64	punct	_	_
+58	поскольку	поскольку	SCONJ	_	_	64	mark	_	_
+59	в	в	ADP	_	_	62	case	_	_
+60	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	59	fixed	_	_
+61	основного	основной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	62	amod	_	_
+62	аргумента	аргумент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	64	obl	_	_
+63	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	64	nsubj	_	_
+64	выдвигают	выдвигать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	acl	_	_
+65	утверждение	утверждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	64	obj	_	_
+66	о	о	ADP	_	_	67	case	_	_
+67	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	64	obl	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	72	punct	_	_
+69	что	что	SCONJ	_	_	72	mark	_	_
+70	такие	такой	DET	_	Case=Nom|Number=Plur	71	det	_	_
+71	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	72	nsubj	_	_
+72	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	67	acl	_	_
+73	просто	просто	PART	_	_	74	advmod	_	_
+74	подлежать	подлежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	72	xcomp	_	_
+75	исполнению	исполнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	74	iobj	_	_
+76	в	в	ADP	_	_	78	case	_	_
+77	судебном	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	78	amod	_	_
+78	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	74	obl	_	_
+79	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 52
+# text = Для сохранения государства благосостояния и продолжения его функционирования необходимо на то согласие широких масс средних классов общества, поскольку услуги и меры, предоставляемые и реализуемые таким социальным государством, не должны ограничиваться лишь борьбой с бедностью населения, но также и должны быть направлены на обеспечение социального участия по всем направлениям.
+1	Для	для	ADP	_	_	2	case	_	_
+2	сохранения	сохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
+3	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	продолжения	продолжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+7	его	его	DET	_	_	8	det	_	_
+8	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+10	на	на	ADP	_	_	12	case	_	_
+11	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	12	det	_	_
+12	согласие	согласие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+13	широких	широкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	масс	масса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+15	средних	средний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	классов	класс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	32	punct	_	_
+19	поскольку	поскольку	SCONJ	_	_	32	mark	_	_
+20	услуги	услуга	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	32	nsubj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	предоставляемые	предоставлять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	22	acl	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	реализуемые	реализовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	conj	_	_
+27	таким	такой	DET	_	Case=Ins|Gender=Neut|Number=Sing	29	det	_	_
+28	социальным	социальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	государством	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	26	punct	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	12	acl	_	_
+33	ограничиваться	ограничиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	32	xcomp	_	_
+34	лишь	лишь	PART	_	_	35	advmod	_	_
+35	борьбой	борьба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	33	obl	_	_
+36	с	с	ADP	_	_	37	case	_	_
+37	бедностью	бедность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	35	nmod	_	_
+38	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	43	punct	_	_
+40	но	но	CCONJ	_	_	43	cc	_	_
+41	также	также	ADV	_	Degree=Pos	43	advmod	_	_
+42	и	и	PART	_	_	43	advmod	_	_
+43	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	32	conj	_	_
+44	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	45	aux:pass	_	_
+45	направлены	направить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	43	xcomp	_	_
+46	на	на	ADP	_	_	47	case	_	_
+47	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	45	obl	_	_
+48	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	49	amod	_	_
+49	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	47	nmod	_	_
+50	по	по	ADP	_	_	52	case	_	_
+51	всем	весь	DET	_	Case=Dat|Number=Plur	52	det	_	_
+52	направлениям	направление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	49	nmod	_	SpaceAfter=No
+53	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 53
+# text = Насе-
+1	Насе	Наса	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 54
+# text = ление готово отдавать свой ресурс для обеспечение функционирования государства благосостояния, если оно получает выгоду и пользу от его услуг, а также если такое государство демонстрирует свою значимость для всего общества в целом .
+1	ление	ление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	готово	готовый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	отдавать	отдавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	ресурс	ресурс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+8	функционирования	функционирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	благосостояния	благосостояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	если	если	SCONJ	_	_	14	mark	_	_
+13	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	nsubj	_	_
+14	получает	получать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+15	выгоду	выгода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	пользу	польза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	conj	_	_
+18	от	от	ADP	_	_	20	case	_	_
+19	его	его	DET	_	_	20	det	_	_
+20	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	а	а	CCONJ	_	_	27	cc	_	_
+23	также	также	PART	_	_	22	fixed	_	_
+24	если	если	SCONJ	_	_	27	mark	_	_
+25	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	26	det	_	_
+26	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+27	демонстрирует	демонстрировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+28	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	29	det	_	_
+29	значимость	значимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+30	для	для	ADP	_	_	32	case	_	_
+31	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing	32	det	_	_
+32	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obl	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	obl	_	_
+35	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 55
+# text = Заключение Показанные выше противоречивость подходов различных авторов, существенная неопределенность, местами – логическая упречность, иные недостатки формулировок предлагаемых в научной литературе определений понятия социального государства обусловлены существенными сложностью и неоднозначностью предмета дискуссии – места и значения социальности государства в общем объеме конституционно-правовых характеристик и основ конституционного строя, разнообразием моделей социального государства, реализованных в мире.
+1	Заключение	заключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	Показанные	показать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+3	выше	высоко	ADV	_	Degree=Cmp	2	advmod	_	_
+4	противоречивость	противоречивость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj:pass	_	_
+5	подходов	подход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	авторов	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	существенная	существенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	неопределенность	неопределенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	местами	место	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	10	nmod	_	_
+13	–	–	PUNCT	_	_	15	punct	_	_
+14	логическая	логический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	упречность	упречность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	иные	иной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	недостатки	недостаток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+19	формулировок	формулировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	_
+20	предлагаемых	предлагать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	_
+24	определений	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
+25	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+28	обусловлены	обусловить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+29	существенными	существенный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	amod	_	_
+30	сложностью	сложность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	28	obl	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	неоднозначностью	неоднозначность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	30	conj	_	_
+33	предмета	предмет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
+34	дискуссии	дискуссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+35	–	–	PUNCT	_	_	36	punct	_	_
+36	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	conj	_	_
+39	социальности	социальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+40	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	_
+41	в	в	ADP	_	_	43	case	_	_
+42	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	_
+43	объеме	объем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	nmod	_	_
+44	конституционно	конституционный	ADJ	_	Degree=Pos	46	compound	_	SpaceAfter=No
+45	-	-	PUNCT	_	_	44	punct	_	SpaceAfter=No
+46	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	47	amod	_	_
+47	характеристик	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	43	nmod	_	_
+48	и	и	CCONJ	_	_	49	cc	_	_
+49	основ	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	47	conj	_	_
+50	конституционного	конституционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	51	amod	_	_
+51	строя	строй	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	nmod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	разнообразием	разнообразие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	47	conj	_	_
+54	моделей	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	53	nmod	_	_
+55	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	56	amod	_	_
+56	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	54	nmod	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	58	punct	_	_
+58	реализованных	реализовать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	56	acl	_	_
+59	в	в	ADP	_	_	60	case	_	_
+60	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	58	obl	_	SpaceAfter=No
+61	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 56
+# text = Произведенный нами срез мнений позволяет создать условия для дальнейшей разработки уточненного определения искомого понятия.
+1	Произведенный	Произведить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	nsubj	_	_
+2	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	1	obl	_	_
+3	срез	срез	ADP	_	_	4	case	_	_
+4	мнений	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	obl	_	_
+5	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+8	для	для	ADP	_	_	10	case	_	_
+9	дальнейшей	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+11	уточненного	уточнить	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	искомого	искомый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 57
+# text = Библиографический список 1.
+1	Библиографический	Библиографический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	список	список	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	1	1	NUM	_	_	2	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Brggs A.
+1	Brggs	Brggs	PROPN	_	Foreign=Yes	0	root	_	_
+2	A	A	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = The Welfare State n hstorcal perspectve // European Journal of Socology.
+1	The	The	PROPN	_	Foreign=Yes	0	root	_	_
+2	Welfare	Welfare	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	n	n	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	hstorcal	hstorcal	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	perspectve	perspectve	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	/	/	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	/	/	PUNCT	_	_	1	flat:foreign	_	_
+9	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	Journal	Journal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+11	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	Socology	Socology	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = 1961.
+1	1961	1961	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = № 2.
+1	№	№	SYM	_	_	0	root	_	_
+2	2	2	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = P. 16–29.
+1	P.	p.	X	_	Foreign=Yes	0	root	_	_
+2	16	16	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	–	–	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	29	29	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Cousns M. European welfare states: Comparatve perspectves. London: SAGE Publcatons, 2005.
+1	Cousns	cousns	PROPN	_	Foreign=Yes	0	root	_	_
+2	M.	M.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:foreign	_	_
+3	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	welfare	welfare	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	states	states	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	1	punct	_	_
+7	Comparatve	Comparatve	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	perspectves.	perspectves.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	1	flat:foreign	_	_
+9	London	London	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	1	punct	_	_
+11	SAGE	SAGE	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	Publcatons	Publcatons	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	2005	2005	NUM	_	_	1	nummod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 65
+# text = 264 p..
+1	264	264	NUM	_	_	2	nummod	_	_
+2	p	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 66
+# text = 3. Danels R.J., Treblcock M.J. Rethnkng the Welfare State: The prospects for government by voucher. London: Routledge, 2005.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Danels	Danels	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	R.J.	R.J.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Treblcock	Treblcock	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	M.	M.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:foreign	_	SpaceAfter=No
+8	J.	J.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+9	Rethnkng	Rethnkng	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	Welfare	Welfare	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	1	punct	_	_
+14	The	The	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+15	prospects	prospects	X	_	Foreign=Yes	1	flat:foreign	_	_
+16	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+17	government	government	X	_	Foreign=Yes	1	flat:foreign	_	_
+18	by	by	X	_	Foreign=Yes	1	flat:foreign	_	_
+19	voucher	voucher	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+21	London	London	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+22	:	:	PUNCT	_	_	1	punct	_	_
+23	Routledge	Routledge	PROPN	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	2005	2005	NUM	_	_	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = 283 p.
+1	283	283	NUM	_	_	2	nummod	_	_
+2	p	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 68
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = Heng H.M. The Poltcal and the Basc Law’s Sozalstaat Prncple – Perspectves from Consttutonal Law and Theory // German Law Journal.
+1	Heng	Heng	PROPN	_	Foreign=Yes	0	root	_	_
+2	H.	H.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:foreign	_	SpaceAfter=No
+3	M.	M.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:foreign	_	_
+4	The	The	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	Poltcal	Poltcal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	Basc	Basc	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+9	Law’s	Law’s	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	Sozalstaat	Sozalstaat	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+11	Prncple	Prncple	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	–	–	PUNCT	_	_	13	punct	_	_
+13	Perspectves	Perspectves	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	from	from	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	Consttutonal	Consttutonal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+16	Law	Law	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+17	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+18	Theory	Theory	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+19	/	/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	German	German	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+22	Law	Law	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+23	Journal	Journal	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = 2011. Vol. 12, № 11.
+1	2011	2011	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Vol	Vol	PROPN	_	Foreign=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	12	12	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	№	№	SYM	_	_	3	conj	_	_
+8	11	11	NUM	_	_	7	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 71
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Kaufmann F.-X. European foundatons of the welfare state (Translated from the German by J. Vet-Wlson wth the assstance of T. Skelton-Robnson).
+1	Kaufmann	Kaufmann	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	F.	F.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	X	x	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+6	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	foundatons	foundatons	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	welfare	welfare	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	state	state	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	Translated	Translated	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	from	from	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+16	German	German	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+17	by	by	X	_	Foreign=Yes	1	flat:foreign	_	_
+18	J.	J.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+19	Vet	Vet	PROPN	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+20	-Wlson	-Wlson	PROPN	_	Foreign=Yes	18	flat:foreign	_	_
+21	wth	wth	X	_	Foreign=Yes	18	flat:foreign	_	_
+22	the	the	X	_	Foreign=Yes	18	flat:foreign	_	_
+23	assstance	assstance	X	_	Foreign=Yes	18	flat:foreign	_	_
+24	of	of	X	_	Foreign=Yes	18	flat:foreign	_	_
+25	T.	T.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	_
+26	Skelton	Skelton	PROPN	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+27	-Robnson	-Robnson	X	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = New York: Berghahn Books, 2012.
+1	New	Нью-Йорк	PROPN	_	Foreign=Yes	0	root	_	_
+2	York	York	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	1	punct	_	_
+4	Berghahn	Berghahn	PROPN	_	Foreign=Yes	1	appos	_	_
+5	Books	books	PROPN	_	Foreign=Yes	4	appos	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	2012	2012	NUM	_	_	4	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = 406 p.
+1	406	406	NUM	_	_	2	nummod	_	_
+2	p	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 75
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Khler G.
+1	Khler	khler	PROPN	_	Foreign=Yes	0	root	_	_
+2	G	G	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = Is There an "Asan Welfare State Model"?
+1	Is	Is	PROPN	_	Foreign=Yes	0	root	_	_
+2	There	There	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	an	an	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	Asan	Asan	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	Welfare	Welfare	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	Model	Model	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 78
+# text = East and South Asan Trajectores and Approaches to the Welfare State.
+1	East	East	PROPN	_	Foreign=Yes	0	root	_	_
+2	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	South	South	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	Asan	Asan	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	Trajectores	Trajectores	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	Approaches	Approaches	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	to	to	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	Welfare	Welfare	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+11	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = URL: http://lbrary.fes.de/pdf-fles/ez/10619.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://lbrary.fes.de/pdf-fles/ez/10619.pdf	http://lbrary.fes.de/pdf-fles/ez/10619.pdf	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = 7.
+1	7	7	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = Marcuzzo M.C. Keynes and the Welfare State.
+1	Marcuzzo	Marcuzzo	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	M.	M.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	C.	C.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Keynes	Keynes	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+5	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+6	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+7	Welfare	Welfare	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+8	State	“State	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = URL: http://www.e.ufrj.br/eventos/ semnaros/pesqusa/texto_02_12.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.e.ufrj.br/eventos/	http://www.e.ufrj.br/eventos/	PUNCT	_	_	4	punct	_	_
+4	semnaros	semnaros	X	_	Foreign=Yes	1	nmod	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	pesqusa	pesqusa	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+7	/	/	PUNCT	_	_	4	flat:foreign	_	SpaceAfter=No
+8	texto_02_12.pdf.	texto_02_12.pdf.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 83
+# text = 8. Nsnevch Y.
+1	8	8	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Nsnevch	Nsnevch	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	Y	Y	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Poltcal and Legal Concept of Modern Democratc State // Amercan Journal of Socologcal Research.
+1	Poltcal	Poltcal	PROPN	_	Foreign=Yes	0	root	_	_
+2	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	Legal	Legal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	Concept	Concept	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	Modern	Modern	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	Democratc	Democratc	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+9	/	/	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	/	/	PUNCT	_	_	1	flat:foreign	_	_
+11	Amercan	Amercan	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	Journal	Journal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+14	Socologcal	Socologcal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+15	Research	Research	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = 2012. Vol. 2.
+1	2012	2012	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Vol	Vol	PROPN	_	Foreign=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	2	2	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 86
+# text = № 3.
+1	№	№	SYM	_	_	0	root	_	_
+2	3	3	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = Pp. 32–37.
+1	Pp	Pp	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	32	32	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	–	–	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	37	37	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = 9.
+1	9	9	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Pohlmann C., Hassel A.
+1	Pohlmann	Pohlmann	PROPN	_	Foreign=Yes	0	root	_	_
+2	C	C	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Hassel	Hassel	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	A	A	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = Market and State n European Socal Democracy: Contours of a Progressve Economc and Socal Polcy for the 21st Century // Market and State n European Socal Democracy: Progressve Perspectves on Developng a Socal and Sustanable Market Model, n: A. Hassel, C.
+1	Market	Market	PROPN	_	Foreign=Yes	0	root	_	_
+2	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	n	n	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	Socal	Socal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	Democracy	Democracy	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	1	punct	_	_
+9	Contours	Contours	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	Progressve	Progressve	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	Economc	Economc	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	Socal	Socal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+16	Polcy	Polcy	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+17	for	for	X	_	Foreign=Yes	1	flat:foreign	_	_
+18	the	the	X	_	Foreign=Yes	1	flat:foreign	_	_
+19	21st	21st	X	_	Foreign=Yes	1	flat:foreign	_	_
+20	Century	Century	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+21	/	/	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	/	/	PUNCT	_	_	1	flat:foreign	_	_
+23	Market	Market	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+24	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+25	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+26	n	n	X	_	Foreign=Yes	1	flat:foreign	_	_
+27	European	European	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+28	Socal	Socal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+29	Democracy	Democracy	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+30	:	:	PUNCT	_	_	1	punct	_	_
+31	Progressve	Progressve	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+32	Perspectves	Perspectves	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+33	on	on	X	_	Foreign=Yes	1	flat:foreign	_	_
+34	Developng	Developng	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+35	a	a	X	_	Foreign=Yes	1	flat:foreign	_	_
+36	Socal	Socal	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+37	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+38	Sustanable	Sustanable	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+39	Market	Market	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+40	Model	Model	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	n	н-лат	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+43	:	:	PUNCT	_	_	1	punct	_	_
+44	A	A	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	1	punct	_	_
+46	Hassel	Hassel	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	C	C	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Pohlmann (ed.).
+1	Pohlmann	Pohlmann	X	_	Foreign=Yes	0	root	_	_
+2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	ed	ed	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = Berln, 2010.
+1	Berln	Berlн-лат	PROPN	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2010	2010	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = 44 p.
+1	44	44	NUM	_	_	2	nummod	_	_
+2	p	p	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 94
+# text = 10.
+1	10	10	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = Sna Bhangu S.
+1	Sna	sna	PROPN	_	Foreign=Yes	0	root	_	_
+2	Bhangu	Bhangu	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	S.	S.	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+
+# sent_id = 96
+# text = Concept of welfare state under Indan Consttuton.
+1	Concept	Concept	PROPN	_	Foreign=Yes	0	root	_	_
+2	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	welfare	welfare	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	state	state	X	_	Foreign=Yes	1	flat:foreign	_	_
+5	under	under	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	Indan	Indan	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	Consttuton	Consttuton	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = URL: http://www.grkarelawlbrary.yolaste.com/r esources/FM-Jul14-LSC-Sankalp.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.grkarelawlbrary.yolaste.com/r	http://www.grkarelawlbrary.yolaste.com/r	X	_	Foreign=Yes	1	nmod	_	_
+4	esources	esources	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	FM-Jul14-LSC-Sankalp.pdf	FM-Jul14-LSC-Sankalp.pdf	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = 11.
+1	11	11	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = Tavp M. The dynamc concept of welfare state n ndonesan Consttuton / Brawjaya Unversty.
+1	Tavp	Tavp	PROPN	_	Foreign=Yes	0	root	_	_
+2	M	M	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	The	The	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	dynamc	dynamc	X	_	Foreign=Yes	1	flat:foreign	_	_
+6	concept	concept	X	_	Foreign=Yes	1	flat:foreign	_	_
+7	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+8	welfare	welfare	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	state	state	X	_	Foreign=Yes	1	flat:foreign	_	_
+10	n	n	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	ndonesan	ndonesan	X	_	Foreign=Yes	1	flat:foreign	_	_
+12	Consttuton	Consttuton	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	/	/	PUNCT	_	_	14	punct	_	_
+14	Brawjaya	Brawjaya	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+15	Unversty	Unversty	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = URL: http://hukum.ub.ac.d/ wp-content/uploads/2013/05/THEDYNAMIC-CONCEPT-OF-WELFARESTATE-IN-INDONESIANCONSTITUTION.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://hukum.ub.ac	http://hukum.ub.ac	X	_	Foreign=Yes	1	appos	_	SpaceAfter=No
+4	.d	.d	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	_
+6	wp-content	wp-content	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+7	/	/	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	uploads	uploads	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+9	/	/	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	2013	2013	NUM	_	_	3	nummod	_	SpaceAfter=No
+11	/	/	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	05	05	NUM	_	_	3	nummod	_	SpaceAfter=No
+13	/	/	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	THEDYNAMIC-CONCEPT-OF-WELFARESTATE-IN-INDONESIANCONSTITUTION.pdf	THEDYNAMIC-CONCEPT-OF-WELFARESTATE-IN-INDONESIANCONSTITUTION.pdf	PROPN	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = 12.
+1	12	12	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = Tushnet M. Socal Welfare Rghts and the Forms of Judcal Revew.
+1	Tushnet	tushnet	PROPN	_	Foreign=Yes	0	root	_	_
+2	M.	M.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	Socal	Socal	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+4	Welfare	Welfare	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+5	Rghts	Rghts	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+6	and	and	X	_	Foreign=Yes	2	flat:foreign	_	_
+7	the	the	X	_	Foreign=Yes	2	flat:foreign	_	_
+8	Forms	Forms	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+9	of	of	X	_	Foreign=Yes	2	flat:foreign	_	_
+10	Judcal	Judcal	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+11	Revew	Revew	PROPN	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = URL: http://poltcs.as.nyu.edu/docs/IO/4742/tush net.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://poltcs.as.nyu.edu/docs/IO/4742/tush	http://poltcs.as.nyu.edu/docs/IO/4742/tush	X	_	Foreign=Yes	1	appos	_	_
+4	net.pdf	net.pdf	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = 13. Vartanen A.
+1	13	13	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Vartanen	Vartanen	PROPN	_	Foreign=Yes	0	root	_	_
+4	A	A	PROPN	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 105
+# text = Globalzaton and The Welfare State: A Case Study of Fnland: Master’s Thess.
+1	Globalzaton	Globalzaton	PROPN	_	Foreign=Yes	0	root	_	_
+2	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+3	The	The	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	Welfare	Welfare	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	State	“State	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	1	punct	_	_
+7	A	A	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	Case	Case	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+9	Study	Study	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+11	Fnland	Fnland	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	1	punct	_	_
+13	Master’s	Master’s	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	Thess	Thess	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = URL: https://www.gsp.unfreburg.de/research/vartanen.2011.pdf.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	https://www.gsp.unfreburg.de/research/vartanen.2011.pdf	https://www.gsp.unfreburg.de/research/vartanen.2011.pdf	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

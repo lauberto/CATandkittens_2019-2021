@@ -1,0 +1,2041 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = венции не усматривается.
+1	венции	венция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	усматривается	усматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = Например, в делах "Р. против Бельгии" , "Планка против Австрии" и др. подсудимому было предоставлено право оспорить вопросы, поставленные председательствующим перед заседателями, эти вопросы были четко сформулированы, ряд из них был сформулирован по ходатайству защиты и обвинения.
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	делах	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	20	obl	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Р.	Р.	PROPN	_	_	4	appos	_	_
+7	против	против	ADP	_	_	8	case	_	_
+8	Бельгии	Бельгия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	6	punct	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	Планка	Планк	PROPN	_	_	6	conj	_	_
+13	против	против	ADP	_	_	14	case	_	_
+14	Австрии	Австрия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	12	punct	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	др.	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	conj	_	_
+18	подсудимому	подсудимый	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	flat:name	_	_
+19	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	aux:pass	_	_
+20	предоставлено	предоставить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+21	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj:pass	_	_
+22	оспорить	оспорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	obl	_	_
+23	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	поставленные	ставить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+26	председательствующим	председательствовать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	_
+27	перед	перед	ADP	_	_	28	case	_	_
+28	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	34	punct	_	_
+30	эти	этот	DET	_	Case=Nom|Number=Plur	31	det	_	_
+31	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	34	nsubj:pass	_	_
+32	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	34	aux:pass	_	_
+33	четко	четко	ADV	_	Degree=Pos	34	advmod	_	_
+34	сформулированы	формулировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	conj	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	40	punct	_	_
+36	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	40	nsubj:pass	_	_
+37	из	из	ADP	_	_	38	case	_	_
+38	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	36	nmod	_	_
+39	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	40	aux:pass	_	_
+40	сформулирован	формулировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	20	conj	_	_
+41	по	по	ADP	_	_	42	case	_	_
+42	ходатайству	ходатайство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	40	obl	_	_
+43	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	_
+44	и	и	CCONJ	_	_	45	cc	_	_
+45	обвинения	обвинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	43	conj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 3
+# text = Из этих вопросов и вытекало принятое решение.
+1	Из	из	ADP	_	_	3	case	_	_
+2	этих	этот	DET	_	Case=Gen|Number=Plur	3	det	_	_
+3	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	вытекало	вытекать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	принятое	принять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = В случаях, когда из обстоятельств дела причина принятого решения остается неясной, суд признает соответствующее нарушение.
+1	В	в	ADP	_	_	2	case	_	_
+2	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	когда	когда	SCONJ	_	_	11	mark	_	_
+5	из	из	ADP	_	_	6	case	_	_
+6	обстоятельств	обстоятельство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	obl	_	_
+7	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	причина	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+9	принятого	принять	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl	_	_
+12	неясной	неясный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	2	punct	_	_
+14	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+15	признает	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	соответствующее	соответствующий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	нарушение	нарушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 5
+# text = В деле "Таске против Бельгии" ЕСПЧ решил, что заявитель был лишен возможности понять суть приговора, поскольку ни обвинительное заключение, ни вопросы присяжным заседателям не содержали достаточной информации и не обусловливали принятие именно такого решения.
+1	В	в	ADP	_	_	2	case	_	_
+2	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Таске	Таска	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	appos	_	_
+5	против	против	ADP	_	_	6	case	_	_
+6	Бельгии	Бельгия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	4	punct	_	_
+8	ЕСПЧ	ЕСПЧ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	что	что	SCONJ	_	_	14	mark	_	_
+12	заявитель	заявитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj:pass	_	_
+13	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+14	лишен	лишить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	ccomp	_	_
+15	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	iobj	_	_
+16	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	obl	_	_
+17	суть	суть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+18	приговора	приговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	30	punct	_	_
+20	поскольку	поскольку	SCONJ	_	_	30	mark	_	_
+21	ни	ни	PART	_	_	22	advmod	_	_
+22	обвинительное	обвинительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	заключение	заключение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	ни	ни	CCONJ	_	_	26	cc	_	_
+26	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	conj	_	_
+27	присяжным	присяжный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	28	amod	_	_
+28	заседателям	заседатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	26	iobj	_	_
+29	не	не	PART	_	_	30	advmod	_	_
+30	содержали	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+31	достаточной	достаточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	obl	_	_
+33	и	и	CCONJ	_	_	35	cc	_	_
+34	не	не	PART	_	_	35	advmod	_	_
+35	обусловливали	обусловливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	30	conj	_	_
+36	принятие	принятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	obj	_	_
+37	именно	именно	PART	_	_	38	advmod	_	_
+38	такого	такой	DET	_	Case=Gen|Gender=Neut|Number=Sing	39	det	_	_
+39	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	obl	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 6
+# text = Весьма показательным в этом смысле является решение Большой Палаты ЕСПЧ по делу "Лермитт против Бельгии" (34238/09), опубликованном 29 ноября 2016 г. .
+1	Весьма	весьма	ADV	_	Degree=Pos	2	obl	_	_
+2	показательным	показательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	6	obl	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	5	det	_	_
+5	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+8	Большой	Большой	PROPN	_	_	9	amod	_	_
+9	Палаты	Палата	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	ЕСПЧ	ЕСПЧ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Лермитт	Лермитт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+15	против	против	ADP	_	_	16	case	_	_
+16	Бельгии	Бельгия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	14	punct	_	_
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	34238	34238	NUM	_	_	14	nummod	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	09	09	NUM	_	_	19	nummod	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	опубликованном	опубликовать	VERB	_	Aspect=Perf|Case=Loc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+25	29	29	NUM	_	_	24	nummod	_	_
+26	ноября	ноябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	flat	_	_
+27	2016	2016	NUM	_	_	28	nummod	_	_
+28	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	14	punct	_	_
+30	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 7
+# text = Европейский суд не нашел нарушения права на справедливое судебное разбирательство, однако семь судей высказали особое мнение по данному вопросу.
+1	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+6	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	на	на	ADP	_	_	10	case	_	_
+8	справедливое	справедливый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+9	судебное	судебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	разбирательство	разбирательство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	однако	однако	ADV	_	Degree=Pos	15	advmod	_	_
+13	семь	семь	NUM	_	Case=Nom	14	nummod:gov	_	_
+14	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	15	nsubj	_	_
+15	высказали	высказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+18	по	по	ADP	_	_	20	case	_	_
+19	данному	данный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = Заявительница, признанная виновной в убийстве пятерых детей, жаловалась на отсутствие причин о ее виновности в вердикте присяжных заседателей и в приговоре.
+1	Заявительница	Заявительница	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	признанная	признать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+4	виновной	виновный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	убийстве	убийство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	пятерых	пятеро	NUM	_	Case=Gen	8	nummod	_	_
+8	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	жаловалась	жаловаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	_
+13	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+14	о	о	ADP	_	_	16	case	_	_
+15	ее	ее	DET	_	_	16	det	_	_
+16	виновности	виновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	вердикте	вердикт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	nmod	_	_
+19	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+20	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	приговоре	приговор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 9
+# text = Предмет жалобы состоял в невозможности понять, почему присяжные заседатели отвергли мнение специалистов о ее неспособности руководить своими действиями в момент убийства.
+1	Предмет	предмет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	жалобы	жалоба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	состоял	состоять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	невозможности	невозможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	почему	почему	ADV	_	Degree=Pos	11	advmod	_	_
+9	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+11	отвергли	отвергнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+12	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+14	о	о	ADP	_	_	16	case	_	_
+15	ее	ее	DET	_	_	16	det	_	_
+16	неспособности	неспособность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+17	руководить	руководить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	obl	_	_
+18	своими	свой	DET	_	Case=Ins|Number=Plur	19	det	_	_
+19	действиями	действие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obl	_	_
+22	убийства	убийство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = Европейский суд указал, что хоть присяжные заседатели и не представили причины своего решения, однако сама процедура рассмотрения дела дала возможность понять их приговор, поскольку обвинительное заключение объемом в 51 страницу содержало полную и исчерпывающую версию обвинения, в том числе данные о личности и психическом состоянии; процесс носил состязательный характер, с появлением новых доказательств председательствующий назначил дополнительную психиатрическую экспертизу, и новое заключение было исследовано перед присяжными заседателями; с самого начала следствие было сфокусировано на ее личной истории, характере и психическом состоянии в момент совершения убийства; защита не возражала против формулировок вопросов, предложенных председательствующим, и не предлагала собственных.
+1	Европейский	европейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	указал	указать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	что	что	SCONJ	_	_	11	mark	_	_
+6	хоть	хоть	ADV	_	Degree=Pos	7	obl	_	_
+7	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	представили	представить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+12	причины	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+13	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	14	det	_	_
+14	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	21	punct	_	_
+16	однако	однако	ADV	_	Degree=Pos	21	advmod	_	_
+17	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	процедура	процедура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+19	рассмотрения	рассмотрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	дала	дать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+22	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	22	obl	_	_
+24	их	их	DET	_	_	25	det	_	_
+25	приговор	приговор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	34	punct	_	_
+27	поскольку	поскольку	SCONJ	_	_	34	mark	_	_
+28	обвинительное	обвинительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	заключение	заключение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	obl	_	_
+30	объемом	объем	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	29	nmod	_	_
+31	в	в	ADP	_	_	33	case	_	_
+32	51	51	NUM	_	_	33	nummod	_	_
+33	страницу	страница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	nmod	_	_
+34	содержало	содержать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	_
+35	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	38	acl	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	исчерпывающую	исчерпывають	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	conj	_	_
+38	версию	версия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+39	обвинения	обвинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	44	punct	_	_
+41	в	в	ADP	_	_	43	case	_	_
+42	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	43	det	_	_
+43	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	44	nmod	_	_
+44	данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	39	conj	_	_
+45	о	о	ADP	_	_	46	case	_	_
+46	личности	личность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	44	nmod	_	_
+47	и	и	CCONJ	_	_	49	cc	_	_
+48	психическом	психический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	49	amod	_	_
+49	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	conj	_	SpaceAfter=No
+50	;	;	PUNCT	_	_	34	punct	_	_
+51	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	52	nsubj	_	_
+52	носил	носить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	_
+53	состязательный	состязательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	54	amod	_	_
+54	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	52	obj	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	61	punct	_	_
+56	с	с	ADP	_	_	57	case	_	_
+57	появлением	появление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	61	obl	_	_
+58	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	59	amod	_	_
+59	доказательств	доказательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	57	nmod	_	_
+60	председательствующий	председательствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	61	nsubj	_	_
+61	назначил	назначить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	_
+62	дополнительную	дополнительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	64	amod	_	_
+63	психиатрическую	психиатрический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	64	amod	_	_
+64	экспертизу	экспертиза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	61	obj	_	SpaceAfter=No
+65	,	,	PUNCT	_	_	70	punct	_	_
+66	и	и	CCONJ	_	_	70	cc	_	_
+67	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	68	amod	_	_
+68	заключение	заключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	70	nsubj:pass	_	_
+69	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	70	aux:pass	_	_
+70	исследовано	исследовать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	34	conj	_	_
+71	перед	перед	ADP	_	_	73	case	_	_
+72	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	73	amod	_	_
+73	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	70	obl	_	SpaceAfter=No
+74	;	;	PUNCT	_	_	34	punct	_	_
+75	с	с	ADP	_	_	77	case	_	_
+76	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	77	amod	_	_
+77	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	80	obl	_	_
+78	следствие	следствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	80	nsubj:pass	_	_
+79	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	80	aux:pass	_	_
+80	сфокусировано	фокусировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	34	conj	_	_
+81	на	на	ADP	_	_	84	case	_	_
+82	ее	ее	DET	_	_	84	det	_	_
+83	личной	личный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	84	amod	_	_
+84	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	80	obl	_	SpaceAfter=No
+85	,	,	PUNCT	_	_	86	punct	_	_
+86	характере	характер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	84	conj	_	_
+87	и	и	CCONJ	_	_	89	cc	_	_
+88	психическом	психический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	89	amod	_	_
+89	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	84	conj	_	_
+90	в	в	ADP	_	_	91	case	_	_
+91	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	89	nmod	_	_
+92	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	91	nmod	_	_
+93	убийства	убийство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	92	nmod	_	SpaceAfter=No
+94	;	;	PUNCT	_	_	34	punct	_	_
+95	защита	защита	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	97	nsubj	_	_
+96	не	не	PART	_	_	97	advmod	_	_
+97	возражала	возражать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	_
+98	против	против	ADP	_	_	99	case	_	_
+99	формулировок	формулировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	97	obl	_	_
+100	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	99	nmod	_	SpaceAfter=No
+101	,	,	PUNCT	_	_	102	punct	_	_
+102	предложенных	предложить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	100	acl	_	_
+103	председательствующим	председательствовать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	102	obl	_	SpaceAfter=No
+104	,	,	PUNCT	_	_	102	punct	_	_
+105	и	и	CCONJ	_	_	107	cc	_	_
+106	не	не	PART	_	_	107	advmod	_	_
+107	предлагала	предлагать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	conj	_	_
+108	собственных	собственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	107	obl	_	SpaceAfter=No
+109	.	.	PUNCT	_	_	34	punct	_	_
+
+# sent_id = 11
+# text = Кроме того, при вынесении приговора также было указано на обстоятельства, которые могли помочь в понимании, почему присяжные заседатели признали ее виновной (указание на намерение совершить убийства и их хладнокровный характер при принятии решения о наказании (присяжными заседателями и профессиональными судьями совместно) характеризует позицию присяжных заседателей); несмотря на то что мотивировка писалась профессиональным судом, это происходило при взаимодействии с присяжными заседателями в момент принятия решения о наказании, т.е. они могли узнать их мнение; судьи присутствовали на протяжении всего процесса и на основании этого могли понять причины, которыми руководствовались присяжные заседатели, что помогло им составить обоснование.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	при	при	ADP	_	_	5	case	_	_
+5	вынесении	вынесение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+6	приговора	приговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	также	также	ADV	_	Degree=Pos	9	advmod	_	_
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	указано	указать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	которые	который	PRON	_	Case=Nom	14	nsubj	_	_
+14	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+15	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	понимании	понимание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	почему	почему	ADV	_	Degree=Pos	22	advmod	_	_
+20	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	amod	_	_
+21	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+22	признали	признать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+23	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	22	obj	_	_
+24	виновной	виновный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	obl	_	_
+25	(	(	PUNCT	_	_	48	punct	_	SpaceAfter=No
+26	указание	указание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	48	nsubj	_	_
+27	на	на	ADP	_	_	28	case	_	_
+28	намерение	намерение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obl	_	_
+29	совершить	совершить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	48	xcomp	_	_
+30	убийства	убийство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	48	nsubj	_	_
+31	и	и	CCONJ	_	_	34	cc	_	_
+32	их	они	DET	_	_	34	det	_	_
+33	хладнокровный	хладнокровный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	conj	_	_
+35	при	при	ADP	_	_	36	case	_	_
+36	принятии	принятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	48	obl	_	_
+37	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	_
+38	о	о	ADP	_	_	39	case	_	_
+39	наказании	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	37	nmod	_	_
+40	(	(	PUNCT	_	_	41	punct	_	SpaceAfter=No
+41	присяжными	присяжный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	39	parataxis	_	_
+42	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	41	nmod	_	_
+43	и	и	CCONJ	_	_	45	cc	_	_
+44	профессиональными	профессиональный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	45	amod	_	_
+45	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	42	conj	_	_
+46	совместно	совместно	ADV	_	Degree=Pos	41	advmod	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	41	punct	_	_
+48	характеризует	характеризовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	parataxis	_	_
+49	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	48	obj	_	_
+50	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	51	amod	_	_
+51	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
+52	)	)	PUNCT	_	_	48	punct	_	SpaceAfter=No
+53	;	;	PUNCT	_	_	9	punct	_	_
+54	несмотря	несмотря	ADV	_	Polarity=Neg	56	case	_	_
+55	на	на	ADP	_	_	54	fixed	_	_
+56	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	64	obl	_	_
+57	что	что	SCONJ	_	_	59	mark	_	_
+58	мотивировка	мотивировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	59	nsubj	_	_
+59	писалась	писать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	56	acl	_	_
+60	профессиональным	профессиональный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	61	amod	_	_
+61	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	59	obl	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	56	punct	_	_
+63	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	64	nsubj	_	_
+64	происходило	происходить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+65	при	при	ADP	_	_	66	case	_	_
+66	взаимодействии	взаимодействие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	64	obl	_	_
+67	с	с	ADP	_	_	69	case	_	_
+68	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	69	amod	_	_
+69	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	64	obl	_	_
+70	в	в	ADP	_	_	71	case	_	_
+71	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	64	obl	_	_
+72	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	64	obl	_	_
+73	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	72	nmod	_	_
+74	о	о	ADP	_	_	75	case	_	_
+75	наказании	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	73	nmod	_	SpaceAfter=No
+76	,	,	PUNCT	_	_	77	punct	_	_
+77	т.е.	т.быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+78	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	77	nsubj	_	_
+79	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+80	узнать	узнать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	79	xcomp	_	_
+81	их	их	DET	_	_	82	det	_	_
+82	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	80	obj	_	SpaceAfter=No
+83	;	;	PUNCT	_	_	9	punct	_	_
+84	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	85	nsubj	_	_
+85	присутствовали	присутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+86	на	на	ADP	_	_	87	case	_	_
+87	протяжении	протяжение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	85	obl	_	_
+88	всего	весь	DET	_	Case=Gen|Gender=Masc|Number=Sing	89	det	_	_
+89	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	87	nmod	_	_
+90	и	и	CCONJ	_	_	94	cc	_	_
+91	на	на	ADP	_	_	92	case	_	_
+92	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	95	obl	_	_
+93	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	92	nmod	_	_
+94	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+95	понять	понять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	94	xcomp	_	_
+96	причины	причина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	95	obj	_	SpaceAfter=No
+97	,	,	PUNCT	_	_	99	punct	_	_
+98	которыми	который	PRON	_	Case=Ins	99	obl	_	_
+99	руководствовались	руководствоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	96	acl:relcl	_	_
+100	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	101	amod	_	_
+101	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	99	nsubj	_	SpaceAfter=No
+102	,	,	PUNCT	_	_	104	punct	_	_
+103	что	что	PRON	_	Case=Nom	104	nsubj	_	_
+104	помогло	помочь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	94	parataxis	_	_
+105	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	104	iobj	_	_
+106	составить	составить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	104	xcomp	_	_
+107	обоснование	обоснование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	106	obj	_	SpaceAfter=No
+108	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 12
+# text = 177
+1	177	177	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = Вместе с тем в особом мнении семи судей Большой Палаты было указано, что значение обвинительного заключения для возможности понимания вердикта присяжных заседателей крайне ограничено, поскольку в нем не были отражены и интерпретированы новые доказательства; вопросы, поставленные перед присяжными заседателями, носили "стандартизированный" характер и не в полной мере отражали суть дела; судьи, составившие мотивировку применительно к вопросу о наказании, сами не участвовали в совещании присяжных заседателей по вопросу о виновности и др.
+1	Вместе	вместе	ADV	_	Degree=Pos	12	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	особом	особый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	мнении	мнение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	_
+7	семи	семь	NUM	_	Case=Gen	8	nummod	_	_
+8	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	Большой	большой	PROPN	_	_	10	amod	_	_
+10	Палаты	палата	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+12	указано	указать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	25	punct	_	_
+14	что	что	SCONJ	_	_	25	mark	_	_
+15	значение	значение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nsubj:pass	_	_
+16	обвинительного	обвинительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	заключения	заключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	_
+20	понимания	понимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+23	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+24	крайне	крайне	ADV	_	Degree=Pos	25	advmod	_	_
+25	ограничено	ограничить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	ccomp	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	32	punct	_	_
+27	поскольку	поскольку	SCONJ	_	_	32	mark	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	32	obl	_	_
+30	не	не	PART	_	_	32	advmod	_	_
+31	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	32	aux:pass	_	_
+32	отражены	отразить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	25	conj	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	интерпретированы	интерпретировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	25	conj	_	_
+35	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	_
+36	доказательства	доказательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	34	nsubj:pass	_	SpaceAfter=No
+37	;	;	PUNCT	_	_	25	punct	_	_
+38	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	45	nsubj	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	поставленные	ставить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	38	acl	_	_
+41	перед	перед	ADP	_	_	43	case	_	_
+42	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	43	amod	_	_
+43	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	40	obl	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	40	punct	_	_
+45	носили	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	_
+46	"	"	PUNCT	_	_	47	punct	_	SpaceAfter=No
+47	стандартизированный	стандартизировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	45	xcomp	_	SpaceAfter=No
+48	"	"	PUNCT	_	_	47	punct	_	_
+49	характер	характер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	_
+50	и	и	CCONJ	_	_	54	cc	_	_
+51	не	не	PART	_	_	54	advmod	_	_
+52	в	в	ADP	_	_	54	case	_	_
+53	полной	полный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	54	amod	_	_
+54	мере	мера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	49	conj	_	_
+55	отражали	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	_
+56	суть	суть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	55	obj	_	_
+57	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	56	nmod	_	SpaceAfter=No
+58	;	;	PUNCT	_	_	25	punct	_	_
+59	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	71	nsubj	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	61	punct	_	_
+61	составившие	составить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	59	acl	_	_
+62	мотивировку	мотивировка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	61	obj	_	_
+63	применительно	применительно	ADV	_	Degree=Pos	61	advmod	_	_
+64	к	к	ADP	_	_	65	case	_	_
+65	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	63	obl	_	_
+66	о	о	ADP	_	_	67	case	_	_
+67	наказании	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	65	nmod	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	61	punct	_	_
+69	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	59	amod	_	_
+70	не	не	PART	_	_	71	advmod	_	_
+71	участвовали	участвовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	25	conj	_	_
+72	в	в	ADP	_	_	73	case	_	_
+73	совещании	совещание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	71	obl	_	_
+74	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	73	nmod	_	_
+75	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	73	nmod	_	_
+76	по	по	ADP	_	_	77	case	_	_
+77	вопросу	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	75	nmod	_	_
+78	о	о	ADP	_	_	79	case	_	_
+79	виновности	виновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	77	nmod	_	_
+80	и	и	CCONJ	_	_	81	cc	_	_
+81	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	79	conj	_	SpaceAfter=No
+82	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 14
+# text = Выступая 27 декабря 2016 г. в Российском государственном университете правосудия, судья ЕСПЧ от России Д.И. Дедов, анализируя это решение, высказался за то, что мотивировка у решения присяжных заседателей все же должна быть, пусть и не такая развернутая, как в решении суда.
+1	Выступая	выступать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	advcl	_	_
+2	27	27	NUM	_	_	1	nummod	_	_
+3	декабря	декабрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	flat	_	_
+4	2016	2016	NUM	_	_	5	nummod	_	_
+5	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	Российском	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+8	государственном	государственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	университете	университет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+10	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	1	punct	_	_
+12	судья	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+13	ЕСПЧ	ЕСПЧ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	от	от	ADP	_	_	15	case	_	_
+15	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+16	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No
+17	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	Дедов	деды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	12	punct	_	_
+20	анализируя	анализировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	24	advcl	_	_
+21	это	этот	DET	_	Case=Acc|Gender=Neut|Number=Sing	22	det	_	_
+22	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	20	punct	_	_
+24	высказался	высказываться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+25	за	за	ADP	_	_	26	case	_	_
+26	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	36	punct	_	_
+28	что	что	SCONJ	_	_	36	mark	_	_
+29	мотивировка	мотивировка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	_
+30	у	у	ADP	_	_	31	case	_	_
+31	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+32	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+34	все	все	PART	_	_	36	advmod	_	_
+35	же	же	PART	_	_	34	fixed	_	_
+36	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	26	acl	_	_
+37	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	xcomp	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	43	punct	_	_
+39	пусть	пусть	PART	_	_	43	advmod	_	_
+40	и	и	PART	_	_	43	advmod	_	_
+41	не	не	PART	_	_	42	advmod	_	_
+42	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	43	det	_	_
+43	развернутая	развернутать	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	37	obl	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	как	как	SCONJ	_	_	47	mark	_	_
+46	в	в	ADP	_	_	47	case	_	_
+47	решении	решение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	43	obl	_	_
+48	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 15
+# text = Поскольку непрофессиональные судьи должны принять решение на основе здравого смысла, то им необходимо предоставить аргументы, чтобы эти аргументы можно было бы оценить и обжаловать.
+1	Поскольку	поскольку	SCONJ	_	_	4	mark	_	_
+2	непрофессиональные	непрофессиональный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	14	advcl	_	_
+5	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	здравого	здравый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	смысла	смысл	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	то	то	SCONJ	_	_	14	mark	_	_
+13	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	14	iobj	_	_
+14	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+15	предоставить	предоставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	csubj	_	_
+16	аргументы	аргумент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	чтобы	чтобы	SCONJ	_	Mood=Cnd	21	mark	_	_
+19	эти	этот	DET	_	Case=Acc|Number=Plur	20	det	_	_
+20	аргументы	аргумент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	24	obj	_	_
+21	можно	можно	ADV	_	Degree=Pos	15	advcl	_	_
+22	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	_
+23	бы	бы	AUX	_	_	24	aux	_	_
+24	оценить	оценить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	csubj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	обжаловать	обжаловать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 16
+# text = Д.И. Дедов отметил, что подобного рода решения ЕСПЧ задают "общий тренд", который потом может лечь в основу изменения законодательства.
+1	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Дедов	деды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	отметил	отметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	что	что	SCONJ	_	_	11	mark	_	_
+7	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	ЕСПЧ	ЕСПЧ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	задают	задавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+12	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	общий	общий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	тренд	тренд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	который	который	PRON	_	Case=Nom	19	nsubj	_	_
+18	потом	потом	ADV	_	Degree=Pos	19	advmod	_	_
+19	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+20	лечь	лечь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	основу	основа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obl	_	_
+23	изменения	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 17
+# text = Вопрос о мотивированности решения присяжных заседателей является достаточно сложным, поскольку присяжные заседатели не являются профессионалами и не могут мотивировать свое решение на основе права.
+1	Вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	мотивированности	мотивированность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	достаточно	достаточно	ADV	_	Degree=Pos	9	obl	_	_
+9	сложным	сложный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	поскольку	поскольку	SCONJ	_	_	15	mark	_	_
+12	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	_
+16	профессионалами	профессионала	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	15	obl	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+20	мотивировать	мотивировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	22	det	_	_
+22	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	20	obl	_	_
+25	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 18
+# text = Во многих странах вердикт присяжных заседателей не содержит мотивировки.
+1	Во	в	ADP	_	_	3	case	_	_
+2	многих	много	NUM	_	_	3	amod	_	_
+3	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
+4	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+5	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	содержит	содержать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	мотивировки	мотивировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 19
+# text = Например, в Англии, США и Канаде присяжные заседатели решают вопрос о виновности подсудимого независимо от судьи, их вердикт о невиновности подсудимого обязателен для председательствующего.
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Англии	Англия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	4	conj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	Канаде	Канада	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	conj	_	_
+9	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+11	решают	решить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+13	о	о	ADP	_	_	14	case	_	_
+14	виновности	виновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	подсудимого	подсудимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	_
+16	независимо	независимо	ADV	_	Degree=Pos	15	advmod	_	_
+17	от	от	ADP	_	_	18	case	_	_
+18	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	их	их	DET	_	_	21	det	_	_
+21	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	conj	_	_
+22	о	о	ADP	_	_	23	case	_	_
+23	невиновности	невиновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+24	подсудимого	подсудимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	23	nmod	_	_
+25	обязателен	обязательный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	11	obl	_	_
+26	для	для	ADP	_	_	27	mark	_	_
+27	председательствующего	председательствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	xcomp	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 20
+# text = Профессиональный судья не может дать присяжным заседателям какой-либо юридический совет, предупредить возможную ошибку и, даже если он убежден, что вердикт присяжных заседателей явно не обоснован, ничего не может сделать .
+1	Профессиональный	профессиональный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	судья	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	присяжным	присяжный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	_
+7	заседателям	заседатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	_
+8	какой-либо	какой-либо	DET	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+9	юридический	юридический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	совет	совет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	предупредить	предупредить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	conj	_	_
+13	возможную	возможный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	ошибку	ошибка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+15	и	и	CCONJ	_	_	20	cc	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	даже	даже	PART	_	_	20	advmod	_	_
+18	если	если	SCONJ	_	_	20	mark	_	_
+19	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
+20	убежден	убежденный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	14	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	28	punct	_	_
+22	что	что	SCONJ	_	_	28	mark	_	_
+23	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+24	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	_
+25	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+26	явно	явно	ADV	_	Degree=Pos	28	advmod	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	обоснован	обосновать	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	20	ccomp	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	ничего	ничто	PRON	_	Case=Gen	33	obl	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	conj	_	_
+33	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	xcomp	_	_
+34	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 21
+# text = В Испании вердикт присяжных заседателей должен содержать ссылки на факты, которые они считают доказанными, выводы о виновности или невиновности, а также краткое объяснение, почему присяжные заседатели пришли к таким выводам, со ссылками на соответствующие факты.
+1	В	в	ADP	_	_	2	case	_	_
+2	Испании	Испания	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+3	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+6	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+7	содержать	содержать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	ссылки	ссылка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	факты	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	которые	который	PRON	_	Case=Acc	14	obj	_	_
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	14	nsubj	_	_
+14	считают	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+15	доказанными	доказать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	xcomp	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	conj	_	_
+18	о	о	ADP	_	_	19	case	_	_
+19	виновности	виновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	_
+20	или	или	CCONJ	_	_	21	cc	_	_
+21	невиновности	невиновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	а	а	CCONJ	_	_	26	cc	_	_
+24	также	также	PART	_	_	23	fixed	_	_
+25	краткое	краткий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	31	punct	_	_
+28	почему	почему	ADV	_	Degree=Pos	31	advmod	_	_
+29	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	30	amod	_	_
+30	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	31	nsubj	_	_
+31	пришли	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
+32	к	к	ADP	_	_	34	case	_	_
+33	таким	такой	DET	_	Case=Dat|Number=Plur	34	det	_	_
+34	выводам	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	со	с	ADP	_	_	37	case	_	_
+37	ссылками	ссылка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	34	conj	_	_
+38	на	на	ADP	_	_	40	case	_	_
+39	соответствующие	соответствующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	40	amod	_	_
+40	факты	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	37	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 22
+# text = Присяжные могут попросить секретариат суда помочь им в составлении вердикта.
+1	Присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	nsubj	_	_
+2	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	попросить	просить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	секретариат	секретариат	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+7	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	6	iobj	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	составлении	составление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+10	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Похожие правила действуют в Женевском кантоне Швейцарии.
+1	Похожие	похожий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	действуют	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	Женевском	Женевский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	кантоне	кантон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	Швейцарии	Швейцария	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 24
+# text = В Бельгии после решения по делу "Таске против Бельгии" к вердикту прилагается письменное обоснование.
+1	В	в	ADP	_	_	2	case	_	_
+2	Бельгии	Бельгия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
+3	после	после	ADP	_	_	4	case	_	_
+4	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+5	по	по	ADP	_	_	6	case	_	_
+6	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Таске	Таска	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	6	appos	_	_
+9	против	против	ADP	_	_	10	case	_	_
+10	Бельгии	Бельгия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	8	punct	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	вердикту	вердикт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	_
+14	прилагается	прилагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+15	письменное	письменный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	обоснование	обоснование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 25
+# text = Оно составляется судьей с участием присяжных заседателей уже после того, как провозглашен вердикт.
+1	Оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nsubj:pass	_	_
+2	составляется	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	судьей	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+6	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	уже	уже	ADV	_	Degree=Pos	10	obl	_	_
+9	после	после	ADP	_	_	10	case	_	_
+10	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	как	как	SCONJ	_	_	13	mark	_	_
+13	провозглашен	провозглашный	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	acl	_	_
+14	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj:pass	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = В Австрии при единодушном согласии присяжных заседателей судьи могут быть допущены в совещательную комнату и присутствовать при совещании присяжных.
+1	В	в	ADP	_	_	2	case	_	_
+2	Австрии	Австрия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+3	при	при	ADP	_	_	5	case	_	_
+4	единодушном	единодушный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	согласии	согласие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+6	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+9	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	aux:pass	_	_
+11	допущены	допустить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	xcomp	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	совещательную	совещательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	присутствовать	присутствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	_
+17	при	при	ADP	_	_	18	case	_	_
+18	совещании	совещание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+19	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 27
+# text = Присяжные заседатели могут попросить председательствующего в присутствии членов суда и секретаря разъяснить существо вопросов и порядок голосования.
+1	Присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	попросить	просить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	председательствующего	председательствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	xcomp	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	присутствии	присутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+8	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	секретаря	секретарь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
+12	разъяснить	разъяснить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+13	существо	существо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	conj	_	_
+17	голосования	голосование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 28
+# text = При этом ведется протокол.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	ведется	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	протокол	протокол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 29
+# text = При голосовании присутствуют только присяжные заседатели.
+1	При	при	ADP	_	_	2	case	_	_
+2	голосовании	голосование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	присутствуют	присутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	только	только	PART	_	_	5	advmod	_	_
+5	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 30
+# text = Для принятия решения по вопросам требуется большинство голосов.
+1	Для	для	ADP	_	_	2	case	_	_
+2	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+3	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	nmod	_	_
+6	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+8	голосов	голос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 31
+# text = Подсчитывает голоса старшина, он 178
+1	Подсчитывает	подсчитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	голоса	голос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
+3	старшина	старшина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+6	178	178	NUM	_	_	1	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = же подписывает протокол голосования, который приобщается к протоколу судебного заседания.
+1	же	же	PART	_	_	2	advmod	_	_
+2	подписывает	подписывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	протокол	протокол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	голосования	голосование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	который	который	PRON	_	Case=Nom	7	nsubj:pass	_	_
+7	приобщается	приобщаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl:relcl	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	протоколу	протокол	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+10	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	заседания	заседание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 33
+# text = Старшина кратко излагает, также в письменном виде, доводы, на которых были основаны итоги голосования.
+1	Старшина	старшина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	кратко	кратко	ADV	_	Degree=Pos	3	advmod	_	_
+3	излагает	излагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	также	также	ADV	_	Degree=Pos	8	obl	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	письменном	письменный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	доводы	довод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	которых	который	PRON	_	Case=Loc	15	obl	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
+15	основаны	основать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	acl:relcl	_	_
+16	итоги	итог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	nsubj:pass	_	_
+17	голосования	голосование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 34
+# text = Вердикт и запись доводов присяжных заседателей старшина передает председательствующему в присутствии сторон, после чего вердикт оглашается.
+1	Вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	запись	запись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+4	доводов	довод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	старшина	старшина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	передает	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	председательствующему	председательствовать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	xcomp	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	присутствии	присутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+12	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	после	после	ADP	_	_	15	case	_	_
+15	чего	что	PRON	_	Case=Gen	17	obl	_	_
+16	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj:pass	_	_
+17	оглашается	оглашать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	parataxis	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 35
+# text = Если судьи после заслушивания сторон придут к выводу, что вердикт неясен, неполон либо противоречит письменному обоснованию, либо, если кто-либо из присяжных заседателей считает, что при голосовании допущена ошибка, судьи могут поручить им внести в вердикт поправки.
+1	Если	если	SCONJ	_	_	6	mark	_	_
+2	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+3	после	после	ADP	_	_	4	case	_	_
+4	заслушивания	заслушивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	придут	прийти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	advcl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	что	что	SCONJ	_	_	12	mark	_	_
+11	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	неясен	неясный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	acl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	6	punct	_	_
+14	неполон	неполон	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+15	либо	либо	CCONJ	_	_	16	cc	_	_
+16	противоречит	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+17	письменному	письменный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	обоснованию	обоснование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	iobj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	36	punct	_	_
+20	либо	либо	CCONJ	_	_	36	cc	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	если	если	SCONJ	_	_	27	mark	_	_
+23	кто-либо	кто-либо	PRON	_	Case=Nom	27	nsubj	_	_
+24	из	из	ADP	_	_	25	case	_	_
+25	присяжных	присяжный	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	_
+26	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+27	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	advcl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	что	что	SCONJ	_	_	32	mark	_	_
+30	при	при	ADP	_	_	31	case	_	_
+31	голосовании	голосование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	obl	_	_
+32	допущена	допустить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	27	ccomp	_	_
+33	ошибка	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	nsubj:pass	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	27	punct	_	_
+35	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	36	nsubj	_	_
+36	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+37	поручить	поручить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	36	xcomp	_	_
+38	им	он	PRON	_	Case=Dat|Number=Plur|Person=3	37	iobj	_	_
+39	внести	внести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	37	xcomp	_	_
+40	в	в	ADP	_	_	41	case	_	_
+41	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	39	obl	_	_
+42	поправки	поправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	39	obj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 36
+# text = При новом голосовании могут быть изменены лишь те части вердикта, которые поставлены под сомнение.
+1	При	при	ADP	_	_	3	case	_	_
+2	новом	новый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	голосовании	голосование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+4	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	aux:pass	_	_
+6	изменены	изменить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	xcomp	_	_
+7	лишь	лишь	PART	_	_	8	advmod	_	_
+8	те	тот	DET	_	Case=Nom|Number=Plur	9	det	_	_
+9	части	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+10	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	которые	который	PRON	_	Case=Nom	13	nsubj:pass	_	_
+13	поставлены	ставить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
+14	под	под	ADP	_	_	15	case	_	_
+15	сомнение	сомнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 37
+# text = Решение присяжных заседателей может быть приостановлено судьями, а дело направлено в Высший суд земли, если судьями будет единогласно установлено, что при вынесении его была допущена ошибка по существу.
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+2	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	aux:pass	_	_
+6	приостановлено	приостановить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	xcomp	_	_
+7	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	а	а	CCONJ	_	_	11	cc	_	_
+10	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	_
+11	направлено	направить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	Высший	высший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+15	земли	земля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	если	если	SCONJ	_	_	21	mark	_	_
+18	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	21	obl	_	_
+19	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux:pass	_	_
+20	единогласно	единогласно	ADV	_	Degree=Pos	21	advmod	_	_
+21	установлено	установить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	_
+23	что	что	SCONJ	_	_	28	mark	_	_
+24	при	при	ADP	_	_	25	case	_	_
+25	вынесении	вынесение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	obl	_	_
+26	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	28	obl	_	_
+27	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	aux:pass	_	_
+28	допущена	допустить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	ccomp	_	_
+29	ошибка	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj:pass	_	_
+30	по	по	ADP	_	_	31	case	_	_
+31	существу	существо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Дело в этих случаях передается Высшим судом в другой суд присяжных для повторного рассмотрения.
+1	Дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этих	этот	DET	_	Case=Loc|Number=Plur	4	det	_	_
+4	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	_
+5	передается	передавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	Высшим	высший	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	другой	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+11	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	для	для	ADP	_	_	14	case	_	_
+13	повторного	повторный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	рассмотрения	рассмотрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = Если вердикт не вызывает возражений, судьи постановляют обвинительный или оправдательный приговор в зависимости от характера вердикта .
+1	Если	если	SCONJ	_	_	4	mark	_	_
+2	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+5	возражений	возражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	постановляют	постановлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	обвинительный	обвинительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+10	или	или	CCONJ	_	_	11	cc	_	_
+11	оправдательный	оправдательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	_
+12	приговор	приговор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+17	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 40
+# text = Во Франции суд присяжных фактически был заменен иной моделью суда с народным участием, поскольку трое профессиональных судей и девять присяжных заседателей (асессоров) образуют единую коллегию, решающую вопросы и права, и факта.
+1	Во	в	ADP	_	_	2	case	_	_
+2	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+3	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
+4	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	фактически	фактически	ADV	_	Degree=Pos	7	advmod	_	_
+6	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	заменен	заменить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	иной	иной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	моделью	модель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+10	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	народным	народный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	26	punct	_	_
+15	поскольку	поскольку	SCONJ	_	_	26	mark	_	_
+16	трое	трое	NUM	_	Case=Nom	18	nummod:gov	_	_
+17	профессиональных	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nsubj	_	_
+19	и	и	CCONJ	_	_	22	cc	_	_
+20	девять	девять	NUM	_	Case=Nom	22	nummod:gov	_	_
+21	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	conj	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	асессоров	асессор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	parataxis	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	24	punct	_	_
+26	образуют	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+27	единую	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	коллегию	коллегия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	решающую	решать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	_
+31	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	30	obj	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	31	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	факта	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	conj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 41
+# text = Однако термин "суд присяжных" сохранился в законодательстве.
+1	Однако	однако	ADV	_	Degree=Pos	7	advmod	_	_
+2	термин	термин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+5	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	4	punct	_	_
+7	сохранился	сохраниться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 42
+# text = Л.В.
+1	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 43
+# text = Головко пишет о том, что "феномен сохранения термина (суд присяжных) при видоизменении существа института подмечен и в западной литературе, причем далеко не только применительно к Франции" .
+1	Головко	Головко	ADV	_	Degree=Pos	2	advmod	_	_
+2	пишет	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	о	о	ADP	_	_	4	case	_	_
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	19	punct	_	_
+6	что	что	SCONJ	_	_	19	mark	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	феномен	феномен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj:pass	_	_
+9	сохранения	сохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	термина	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	_
+13	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	12	punct	_	_
+15	при	при	ADP	_	_	16	case	_	_
+16	видоизменении	видоизменение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	_
+17	существа	существо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+19	подмечен	подметить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	acl	_	_
+20	и	и	PART	_	_	23	advmod	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	западной	западный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	причем	причем	CCONJ	_	_	29	cc	_	_
+26	далеко	далеко	ADV	_	Degree=Pos	27	advmod	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	только	только	PART	_	_	29	advmod	_	_
+29	применительно	применительно	ADV	_	Degree=Pos	23	conj	_	_
+30	к	к	ADP	_	_	31	case	_	_
+31	Франции	Франция	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	obl	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	19	punct	_	_
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 44
+# text = В тех странах, где суд присяжных заменен на суд с народным участием, где профессионалы и непрофессионалы образуют единую коллегию, вопрос о необходимости мотивировки не стоит, поскольку единая коллегия принимает единое решение, мотивируемое в большей или в меньшей степени согласно национальному законодательству.
+1	В	в	ADP	_	_	3	case	_	_
+2	тех	тот	DET	_	Case=Loc|Number=Plur	3	det	_	_
+3	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	28	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	где	где	ADV	_	Degree=Pos	8	advmod	_	_
+6	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+7	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	заменен	заменить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	acl:relcl	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	народным	народный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	где	где	ADV	_	Degree=Pos	19	advmod	_	_
+16	профессионалы	профессионал	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	непрофессионалы	непрофессионал	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	conj	_	_
+19	образуют	образовывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+20	единую	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	коллегию	коллегия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	13	punct	_	_
+23	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+24	о	о	ADP	_	_	25	case	_	_
+25	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	_
+26	мотивировки	мотивировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	стоит	стоить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	33	punct	_	_
+30	поскольку	поскольку	SCONJ	_	_	33	mark	_	_
+31	единая	единый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	коллегия	коллегия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	_
+33	принимает	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	_
+34	единое	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	obj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	мотивируемое	мотивировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	35	acl	_	_
+38	в	в	ADP	_	_	39	case	_	_
+39	большей	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	37	obl	_	_
+40	или	или	CCONJ	_	_	46	cc	_	_
+41	в	в	ADP	_	_	43	case	_	_
+42	меньшей	меньший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	степени	степень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	46	nmod	_	_
+44	согласно	согласно	ADP	_	_	46	case	_	_
+45	национальному	национальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	46	amod	_	_
+46	законодательству	законодательство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	39	conj	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 45
+# text = Так, например, в Италии в состав суда присяжных входят два профессиональных судьи (один из них председательствующий) и шесть заседателей, назначаемых "народными судьями".
+1	Так	так	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	например	например	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	Италии	Италия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+9	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	входят	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	два	два	NUM	_	Case=Nom|Gender=Masc	14	nummod:gov	_	_
+13	профессиональных	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	_
+15	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+16	один	один	NUM	_	Case=Nom|Gender=Masc	19	nsubj	_	_
+17	из	из	ADP	_	_	18	case	_	_
+18	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	16	nmod	_	_
+19	председательствующий	председательствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	parataxis	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	шесть	шесть	NUM	_	Case=Nom	23	nummod:gov	_	_
+23	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	назначаемых	назначать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	23	acl	_	_
+26	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+27	народными	народный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	28	amod	_	_
+28	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	25	obl	_	SpaceAfter=No
+29	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 46
+# text = Все они составляют единую коллегию, и приговоры выносятся ими на совместном совещании.
+1	Все	весь	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
+3	составляют	составлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	единую	единый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	коллегию	коллегия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	приговоры	приговор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	выносятся	выносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	_
+10	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	9	obl	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	совместном	совместный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	совещании	совещание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 47
+# text = В Греции система судов присяжных заменена коллегией в составе трех судей и пяти заседателей.
+1	В	в	ADP	_	_	2	case	_	_
+2	Греции	Греция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+3	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+4	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	заменена	заменить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	коллегией	коллегия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+10	трех	три	NUM	_	Case=Gen	11	nummod	_	_
+11	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	пяти	пять	NUM	_	Case=Gen	14	nummod	_	_
+14	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 48
+# text = В Германии суд присяжных именуется судом шеффенов.
+1	В	в	ADP	_	_	2	case	_	_
+2	Германии	Германия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+3	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+4	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	именуется	именовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+7	шеффенов	шеффен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 49
+# text = В зависимости от сложности дела он может состоять из двух профессиональных судей и двух шеффенов либо же из трех судей и двух шеффенов (рассматриваются дела о наиболее тяжких преступлениях, к примеру, убийство).
+1	В	в	ADP	_	_	2	case	_	_
+2	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	сложности	сложность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	состоять	состоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	из	из	ADP	_	_	12	case	_	_
+10	двух	два	NUM	_	Case=Gen	12	nummod	_	_
+11	профессиональных	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	двух	два	NUM	_	Case=Gen	15	nummod	_	_
+15	шеффенов	шеффен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+16	либо	либо	CCONJ	_	_	20	cc	_	_
+17	же	же	PART	_	_	16	advmod	_	_
+18	из	из	ADP	_	_	20	case	_	_
+19	трех	три	NUM	_	Case=Gen	20	nummod	_	_
+20	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	двух	два	NUM	_	Case=Gen	23	nummod	_	_
+23	шеффенов	шеффен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	23	parataxis	_	_
+26	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	25	nsubj:pass	_	_
+27	о	о	ADP	_	_	30	case	_	_
+28	наиболее	наиболее	ADV	_	Degree=Pos	29	obl	_	_
+29	тяжких	тяжкий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	amod	_	_
+30	преступлениях	преступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	35	punct	_	_
+32	к	к	ADP	_	_	33	case	_	_
+33	примеру	пример	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	35	parataxis	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	33	punct	_	_
+35	убийство	убийство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	parataxis	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 50
+# text = Во время судебного заседания и обсуждения принимаемого решения шеффены пользуются не только правами профессионального судьи, но и обязанностями наравне с профессиональными судьями.
+1	Во	во	ADP	_	_	4	case	_	_
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	заседания	заседание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	обсуждения	обсуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	принимаемого	принимать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	amod	_	_
+8	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	шеффены	шеффен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	пользуются	пользоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	только	только	PART	_	_	13	advmod	_	_
+13	правами	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	10	obl	_	_
+14	профессионального	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	но	но	CCONJ	_	_	19	cc	_	_
+18	и	и	PART	_	_	17	advmod	_	_
+19	обязанностями	обязанность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	conj	_	_
+20	наравне	наравне	ADV	_	Degree=Pos	23	case	_	_
+21	с	с	ADP	_	_	20	fixed	_	_
+22	профессиональными	профессиональный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	amod	_	_
+23	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 51
+# text = Они принимают решения о виновности подсудимого и назначении ему наказания .
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	принимают	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	решения	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	виновности	виновность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	подсудимого	подсудимый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	назначении	назначение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	_
+9	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	8	iobj	_	_
+10	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 52
+# text = Обязать присяжных заседателей самостоятельно мотивировать вердикт представляется нам нереаль-
+1	Обязать	обязать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	_
+2	присяжных	присяжный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+4	самостоятельно	самостоятельно	ADV	_	Degree=Pos	5	advmod	_	_
+5	мотивировать	мотивировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+6	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+7	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	9	iobj	_	_
+9	нереаль	нереаль	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 53
+# text = ным – вряд ли непрофессионалы справятся с данной задачей.
+1	ным	ный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
+3	вряд	вряд	ADV	_	Degree=Pos	6	advmod	_	_
+4	ли	ли	PART	_	_	3	fixed	_	_
+5	непрофессионалы	непрофессионал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	справятся	справиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	с	с	ADP	_	_	9	case	_	_
+8	данной	данный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	задачей	задача	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 54
+# text = Установление требования мотивировать вердикта присяжных заседателей, на наш взгляд, возможно ли при участии в этом профессионального судьи, председательствующего по делу.
+1	Установление	установление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	требования	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	мотивировать	мотивировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+5	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+10	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	conj	_	_
+13	ли	ли	PART	_	_	15	advmod	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	участии	участие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nsubj	_	_
+16	в	в	ADP	_	_	19	case	_	_
+17	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	19	det	_	_
+18	профессионального	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	председательствующего	председательствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	_
+22	по	по	ADP	_	_	23	case	_	_
+23	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 55
+# text = В России при обсуждении законопроекта, расширяющего применение института присяжных заседателей, Федеральным законом от 23.06.2016 № 190-ФЗ "О внесении изменений в Уголовно-процессуальный кодекс в связи с расширением применения института присяжных заседателей" предлагалось принять такую модель голосования присяжных заседателей, при которой председательствующий следует с присяжными в совещательную комнату и голосует (последним вместе с ними).
+1	В	в	ADP	_	_	2	case	_	_
+2	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	36	obl	_	_
+3	при	при	ADP	_	_	4	case	_	_
+4	обсуждении	обсуждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	36	obl	_	_
+5	законопроекта	законопроект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	расширяющего	расширять	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+8	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+9	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	7	punct	_	_
+13	Федеральным	федеральный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+15	от	от	ADP	_	_	17	case	_	_
+16	23.06.2016	23.06.2016	NUM	_	_	17	nummod	_	_
+17	№	№	SYM	_	_	14	parataxis	_	_
+18	190-ФЗ	190-ФЗ	PROPN	_	_	17	appos	_	_
+19	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	О	о	ADP	_	_	21	case	_	_
+21	внесении	внесение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	appos	_	_
+22	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+23	в	в	ADP	_	_	26	case	_	_
+24	Уголовно	уголовно	ADV	_	Degree=Pos	25	obl	_	SpaceAfter=No
+25	-процессуальный	-процессуальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	кодекс	кодекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	nmod	_	_
+27	в	в	ADP	_	_	30	case	_	_
+28	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	fixed	_	_
+29	с	с	ADP	_	_	27	fixed	_	_
+30	расширением	расширение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	nmod	_	_
+31	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	_
+32	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	21	punct	_	_
+36	предлагалось	предлагать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+37	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	36	csubj:pass	_	_
+38	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	39	det	_	_
+39	модель	модель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	obj	_	_
+40	голосования	голосование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	_
+41	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	42	amod	_	_
+42	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	40	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	47	punct	_	_
+44	при	при	ADP	_	_	45	case	_	_
+45	которой	который	PRON	_	Case=Loc	47	obl	_	_
+46	председательствующий	председательствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	47	nsubj	_	_
+47	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	acl:relcl	_	_
+48	с	с	ADP	_	_	49	case	_	_
+49	присяжными	присяжный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	47	obl	_	_
+50	в	в	ADP	_	_	52	case	_	_
+51	совещательную	совещательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	_
+52	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	49	nmod	_	_
+53	и	и	CCONJ	_	_	54	cc	_	_
+54	голосует	голосовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	47	conj	_	_
+55	(	(	PUNCT	_	_	56	punct	_	SpaceAfter=No
+56	последним	последний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	54	parataxis	_	_
+57	вместе	вместе	ADV	_	Degree=Pos	56	advmod	_	_
+58	с	с	ADP	_	_	59	case	_	_
+59	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	57	obl	_	SpaceAfter=No
+60	)	)	PUNCT	_	_	56	punct	_	SpaceAfter=No
+61	.	.	PUNCT	_	_	36	punct	_	_
+
+# sent_id = 56
+# text = Такие предложения были обусловлены вызванной потребностями практики необходимостью разъяснять председательствующим смысл сложных вопросов присяжным заседателям в совещательной комнате и обеспечивать логичность и непротиворечивость вердикта.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	предложения	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	обусловлены	обусловить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	вызванной	вызвать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	потребностями	потребность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	4	obl	_	_
+7	практики	практика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+9	разъяснять	разъяснять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	obl	_	_
+10	председательствующим	председательствовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	_
+11	смысл	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+12	сложных	сложный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+14	присяжным	присяжный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	15	amod	_	_
+15	заседателям	заседатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	совещательной	совещательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	обеспечивать	обеспечивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	conj	_	_
+21	логичность	логичность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	непротиворечивость	непротиворечивость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	conj	_	_
+24	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 57
+# text = Случаи, когда присяжные заседатели во время обсуждения вердикта многократно обращаются к председательствующему в целях разъяснения сложных вопросов, на практике встречаются достаточно часто.
+1	Случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	11	punct	_	_
+3	когда	когда	SCONJ	_	_	11	mark	_	_
+4	присяжные	присяжный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+6	во	во	ADP	_	_	8	case	_	_
+7	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	обсуждения	обсуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+9	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	многократно	многократно	ADV	_	Degree=Pos	11	advmod	_	_
+11	обращаются	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	acl	_	_
+12	к	к	ADP	_	_	16	case	_	_
+13	председательствующему	председательствовать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	obl	_	_
+16	разъяснения	разъяснение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+17	сложных	сложный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	obl	_	_
+22	встречаются	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	conj	_	_
+23	достаточно	достаточно	ADV	_	Degree=Pos	24	advmod	_	_
+24	часто	часто	ADV	_	Degree=Pos	22	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 58
+# text = Однако данное предложение было раскритиковано и не нашло своего отражения в законе ввиду опасений, что такой механизм может лишить присяжных заседателей независимости, поскольку председательствующий судья может "задавить" их, навязать свое мнение по делу.
+1	Однако	однако	ADV	_	Degree=Pos	5	advmod	_	_
+2	данное	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	предложение	предложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	раскритиковано	раскритиковать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	нашло	найти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+9	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	10	det	_	_
+10	отражения	отражение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	законе	закон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+13	ввиду	ввиду	ADP	_	_	14	case	_	_
+14	опасений	опасение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	что	что	SCONJ	_	_	19	mark	_	_
+17	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	18	det	_	_
+18	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+19	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+20	лишить	лишить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+22	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	iobj	_	_
+23	независимости	независимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	поскольку	поскольку	SCONJ	_	_	28	mark	_	_
+26	председательствующий	председательствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	amod	_	_
+27	судья	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+28	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	задавить	задавить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	xcomp	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	_
+32	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	30	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	навязать	навязывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	conj	_	_
+35	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	36	det	_	_
+36	мнение	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	34	obj	_	_
+37	по	по	ADP	_	_	38	case	_	_
+38	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	36	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 59
+# text = Интересна модель суда с участием присяжных заседателей в Казахстане.
+1	Интересна	интересный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+2	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+3	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	nmod	_	_
+6	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	Казахстане	Казахстан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = Там председательствующий следует в совещательную комнату вместе с присяжными заседателями.
+1	Там	там	ADV	_	Degree=Pos	3	advmod	_	_
+2	председательствующий	председательствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	nsubj	_	_
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	совещательную	совещательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
+7	вместе	вместе	ADV	_	Degree=Pos	3	advmod	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	_
+10	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 61
+# text = Из процедуры рассмотрения дела с участием присяжных заседателей исключено обращение председательствующего, который разъясняет все неясности, возникающие в связи с поставленными вопросами, в совещательной комнате, а затем и голосует вместе с присяжными заседателями.
+1	Из	из	ADP	_	_	2	case	_	_
+2	процедуры	процедура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+3	рассмотрения	рассмотрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	nmod	_	_
+7	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	исключено	исключить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	обращение	обращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	_
+11	председательствующего	председательствовать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	который	который	PRON	_	Case=Nom	14	nsubj	_	_
+14	разъясняет	разъяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+15	все	весь	DET	_	Case=Acc|Number=Plur	16	det	_	_
+16	неясности	неясность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	возникающие	возникать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+19	в	в	ADP	_	_	23	case	_	_
+20	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	fixed	_	_
+21	с	с	ADP	_	_	19	fixed	_	_
+22	поставленными	поставлить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	amod	_	_
+23	вопросами	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	совещательной	совещательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	комнате	комната	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	а	а	CCONJ	_	_	32	cc	_	_
+30	затем	затем	ADV	_	Degree=Pos	32	advmod	_	_
+31	и	и	PART	_	_	32	advmod	_	_
+32	голосует	голосовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
+33	вместе	вместе	ADV	_	Degree=Pos	32	advmod	_	_
+34	с	с	ADP	_	_	36	case	_	_
+35	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	36	amod	_	_
+36	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	33	obl	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 62
+# text = В Казахстане в целом положительно оценивают собственную национальную модель суда с участием присяжных заседате-
+1	В	в	ADP	_	_	2	case	_	_
+2	Казахстане	Казахстан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+5	положительно	положительно	ADV	_	Degree=Pos	6	advmod	_	_
+6	оценивают	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	собственную	собственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+8	национальную	национальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	модель	модель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+10	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	nmod	_	_
+13	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	заседате	заседат	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = лей, поскольку она сформировалась "с учетом национальных традиций, культуры и опыта решения проблем, имевшихся в зарубежной и национальной практике" .
+1	лей	ли	ADJ	_	Degree=Cmp	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	поскольку	поскольку	SCONJ	_	_	5	mark	_	_
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nsubj	_	_
+5	сформировалась	сформироваться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	advcl	_	_
+6	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	с	с	ADP	_	_	8	case	_	_
+8	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+9	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	традиций	традиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	культуры	культура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	conj	_	_
+15	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	имевшихся	иметься	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	16	acl	_	_
+19	в	в	ADP	_	_	23	case	_	_
+20	зарубежной	зарубежный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	национальной	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	conj	_	_
+23	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	_
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Полагаем, что проблема мотивированности вердикта присяжных заседателей в российском уголовном процессе должна разрешаться следующим образом.
+1	Полагаем	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	13	punct	_	_
+3	что	что	SCONJ	_	_	13	mark	_	_
+4	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+5	мотивированности	мотивированность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	в	в	ADP	_	_	12	case	_	_
+10	российском	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+13	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	ccomp	_	_
+14	разрешаться	разрешать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	13	xcomp	_	_
+15	следующим	следующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 65
+# text = Председательствующий следует с присяжными заседателями в совещательную комнату, разъясняет им неясности, проистекающие из поставленных вопросов.
+1	Председательствующий	председательствовать	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	присяжными	присяжный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	_
+5	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	совещательную	совещательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	разъясняет	разъяснять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+11	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	10	iobj	_	_
+12	неясности	неясность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	проистекающие	проистекать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+15	из	из	ADP	_	_	17	case	_	_
+16	поставленных	ставить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 66
+# text = Председательствующему, на наш взгляд, необходимо предоставить право обсуждать принимаемые присяжными заседателями решения и голосовать вместе с ними, однако в этом случае голосование непременно должно стать тайным.
+1	Председательствующему	Председательствуть	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	предоставить	предоставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	csubj	_	_
+9	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	обсуждать	обсуждать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	obl	_	_
+11	принимаемые	принимать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	13	acl	_	_
+12	присяжными	присяжный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	obl	_	_
+13	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	10	obl	_	_
+14	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	голосовать	голосовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	conj	_	_
+17	вместе	вместе	ADV	_	Degree=Pos	16	advmod	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	_
+21	однако	однако	ADV	_	Degree=Pos	27	advmod	_	_
+22	в	в	ADP	_	_	24	case	_	_
+23	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	24	det	_	_
+24	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+25	голосование	голосование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+26	непременно	непременно	ADV	_	Degree=Pos	27	advmod	_	_
+27	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	conj	_	_
+28	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	27	xcomp	_	_
+29	тайным	тайный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 67
+# text = В такой ситуации логично было бы и мотивировать выносимый вердикт, распространив на него соответствующее требование, предъявляемое ко всем значимым процессуальным актам.
+1	В	в	ADP	_	_	3	case	_	_
+2	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	логично	логичный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	бы	бы	AUX	_	_	4	aux	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	мотивировать	мотивировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+9	выносимый	выносимый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	вердикт	вердикт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	распространив	распространить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	8	advcl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	_
+15	соответствующее	соответствующий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	требование	требование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	предъявляемое	предъявлять	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	acl	_	_
+19	ко	к	ADP	_	_	23	case	_	_
+20	всем	весь	DET	_	Case=Dat|Number=Plur	23	det	_	_
+21	значимым	значимый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	amod	_	_
+22	процессуальным	процессуальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	amod	_	_
+23	актам	акт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 68
+# text = Значение вердикта присяжных заседателей для разрешения уголовного дела весьма велико, сопоставимо со значением приговора, и это не вызывает никаких сомнений.
+1	Значение	значение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	заседателей	заседатель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+7	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	весьма	весьма	ADV	_	Degree=Pos	10	obl	_	_
+10	велико	большой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	сопоставимо	сопоставимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	conj	_	_
+13	со	с	ADP	_	_	14	case	_	_
+14	значением	значение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	приговора	приговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	и	и	CCONJ	_	_	20	cc	_	_
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	вызывает	вызывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+21	никаких	никакой	DET	_	Case=Gen|Number=Plur	22	det	_	_
+22	сомнений	сомнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 69
+# text = Как верно пишут Г.И. Загорский и В. И. Качалов, "приведение доводов и аргументов, обосновывающих принимаемое… решение, повышает убедительность… документа… наличие в процессуальном акте соответствующих мотивов дает возможность проверить правильность принятого решения" .
+1	Как	как	SCONJ	_	_	3	mark	_	_
+2	верно	верно	ADV	_	Degree=Pos	3	advmod	_	_
+3	пишут	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Загорский	Загорский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	_
+9	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	Качалов	Качалов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	23	punct	_	_
+12	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+13	приведение	приведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+14	доводов	довод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	аргументов	аргумент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	обосновывающих	обосновывавать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+19	принимаемое	принимать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	xcomp	_	SpaceAfter=No
+20	…	…	PUNCT	_	_	13	punct	_	_
+21	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	повышает	повышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	advcl	_	_
+24	убедительность	убедительность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	SpaceAfter=No
+25	…	…	PUNCT	_	_	26	punct	_	_
+26	документа	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	…	…	PUNCT	_	_	23	punct	_	_
+28	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	процессуальном	процессуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	акте	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	28	nmod	_	_
+32	соответствующих	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	мотивов	мотив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+34	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+35	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+36	проверить	проверить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	35	obl	_	_
+37	правильность	правильность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obj	_	_
+38	принятого	принять	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	amod	_	_
+39	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	SpaceAfter=No
+40	"	"	PUNCT	_	_	34	punct	_	_
+41	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 70
+# text = Логичность принимаемого присяжными заседателями решения (отсутствие противоречий между собранными по делу доказательствами и сделанными выводами, между установленными обстоятельствами и принятым решением) может быть проверена лишь при условии мотивированности вердикта.
+1	Логичность	Логичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj:pass	_	_
+2	принимаемого	принимать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
+3	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	_
+4	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	_
+5	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	appos	_	_
+8	противоречий	противоречие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	между	между	ADP	_	_	13	case	_	_
+10	собранными	собрать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	_
+13	доказательствами	доказательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	8	nmod	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	сделанными	делать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	выводами	вывод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	между	между	ADP	_	_	20	case	_	_
+19	установленными	установить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	amod	_	_
+20	обстоятельствами	обстоятельство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	16	nmod	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	принятым	принять	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	amod	_	_
+23	решением	решение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	7	punct	_	_
+25	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+26	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	27	aux:pass	_	_
+27	проверена	проверить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	25	xcomp	_	_
+28	лишь	лишь	PART	_	_	30	advmod	_	_
+29	при	при	ADP	_	_	30	case	_	_
+30	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	obl	_	_
+31	мотивированности	мотивированность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
+32	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 71
+# text = Таким образом, потребности и социальные запросы общества на суд присяжных, привносящих житейский здравый смысл в осуществление правосудия, могут быть удовлетворены лишь в случае обеспечения мотивированности вердикта, выносимого присяжными заседателями.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	потребности	потребность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	21	nsubj:pass	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	социальные	социальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	запросы	запрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	суд	суд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	_
+11	присяжных	присяжный	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	привносящих	привносить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+14	житейский	житейский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	здравый	здравый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	смысл	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+19	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	13	punct	_	_
+21	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+22	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	aux:pass	_	_
+23	удовлетворены	удовлетворить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	xcomp	_	_
+24	лишь	лишь	PART	_	_	26	advmod	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	_
+27	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	мотивированности	мотивированность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+29	вердикта	вердикт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	выносимого	выносить	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	29	acl	_	_
+32	присяжными	присяжный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	33	amod	_	_
+33	заседателями	заседатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n
+

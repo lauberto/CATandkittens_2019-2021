@@ -1,0 +1,2482 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = принято называть законами о подозрительных.
+1	принято	принятый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	называть	называть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	законами	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	подозрительных	подозрительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	2	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Первым из них являлся декрет Конвента от 26 марта 1793 г., приказывавший произвести разоружение подозрительных .
+1	Первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	obl	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	1	nmod	_	_
+4	являлся	являться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	декрет	декрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	Конвента	Конвент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	от	от	ADP	_	_	8	case	_	_
+8	26	26	NUM	_	_	5	nummod	_	_
+9	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	1793	1793	NUM	_	_	11	nummod	_	_
+11	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	приказывавший	приказывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	conj	_	_
+14	произвести	произвести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	разоружение	разоружение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+16	подозрительных	подозрительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	obl	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 3
+# text = В этом документе были перечислены лица, которые в обязательном порядке под угрозой наказания должны быть разоружены, а оружие передано в распоряжение Республики.
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	документе	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	перечислены	перечислить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	которые	который	PRON	_	Case=Nom	15	nsubj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	обязательном	обязательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	_
+12	под	под	ADP	_	_	13	case	_	_
+13	угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	_
+14	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	6	acl:relcl	_	_
+16	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	aux:pass	_	_
+17	разоружены	разоружить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	xcomp	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	а	а	CCONJ	_	_	21	cc	_	_
+20	оружие	оружие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj:pass	_	_
+21	передано	передать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	conj	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	распоряжение	распоряжение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+24	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 4
+# text = Пункт 5 декрета непосредственно объявлял подозрительными граждан перечисленных категорий, подлежащих разоружению, относя к ним священников, бывших дворян и сеньоров, не состоявших на службе в армии и не занимавших гражданские или военные общественные должности, а также "служащих и прислугу бывших дворян, сеньоров и священников" .
+1	Пункт	пункт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	5	5	NUM	_	_	3	nummod	_	_
+3	декрета	декрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	непосредственно	непосредственно	ADV	_	Degree=Pos	5	advmod	_	_
+5	объявлял	объявлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	подозрительными	подозрительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+8	перечисленных	перечислить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	подлежащих	подлежать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+12	разоружению	разоружение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	iobj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	относя	относить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	5	advcl	_	_
+15	к	к	ADP	_	_	16	case	_	_
+16	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	14	obl	_	_
+17	священников	священник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	бывших	бывший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	дворян	дворянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	сеньоров	сеньор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	состоявших	состоять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	22	acl	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	службе	служба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	obl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	армии	армия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	занимавших	занимать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	25	conj	_	_
+33	гражданские	гражданский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	37	amod	_	_
+34	или	или	CCONJ	_	_	35	cc	_	_
+35	военные	военный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	33	conj	_	_
+36	общественные	общественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	37	amod	_	_
+37	должности	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	32	obj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	а	а	CCONJ	_	_	42	cc	_	_
+40	также	также	PART	_	_	39	fixed	_	_
+41	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+42	служащих	служащий	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	37	conj	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	прислугу	прислуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	42	conj	_	_
+45	бывших	бывший	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	46	amod	_	_
+46	дворян	дворянин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	сеньоров	сеньор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	46	conj	_	_
+49	и	и	CCONJ	_	_	50	cc	_	_
+50	священников	священник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	46	conj	_	SpaceAfter=No
+51	"	"	PUNCT	_	_	50	punct	_	_
+52	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 5
+# text = Через несколько месяцев, а именно 12 августа 1793 г., французский законодатель в лице Конвента принял декрет, предписывавший арестовать всех подозрительных лиц независимо от их участия в общественной или политической жизни .
+1	Через	через	ADP	_	_	3	case	_	_
+2	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	3	nummod:gov	_	_
+3	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	18	punct	_	_
+5	а	а	CCONJ	_	_	18	cc	_	_
+6	именно	именно	PART	_	_	5	fixed	_	_
+7	12	12	NUM	_	_	18	nummod	_	_
+8	августа	август	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	1793	1793	NUM	_	_	10	nummod	_	_
+10	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	французский	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	conj	_	_
+14	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	obj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	nmod	_	_
+17	Конвента	Конвент	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+19	декрет	декрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	предписывавший	предписывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	19	acl	_	_
+22	арестовать	арестовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+23	всех	весь	DET	_	Case=Acc|Number=Plur	25	det	_	_
+24	подозрительных	подозрительный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	25	amod	_	_
+25	лиц	лицо	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+26	независимо	независимо	ADV	_	Degree=Pos	22	advmod	_	_
+27	от	от	ADP	_	_	29	case	_	_
+28	их	их	DET	_	_	29	det	_	_
+29	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	obl	_	_
+30	в	в	ADP	_	_	34	case	_	_
+31	общественной	общественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+32	или	или	CCONJ	_	_	33	cc	_	_
+33	политической	политический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	31	conj	_	_
+34	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	obl	_	_
+35	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Однако наибольшее значение в определении объектов террора имел декрет Конвента "О подозрительных" от 17 сентября 1793 г., который не только повторно их криминализировал, но и существенным образом расширил контингент лиц, подпадавших под новое для Франции правовое понятие .
+1	Однако	однако	ADV	_	Degree=Pos	8	advmod	_	_
+2	наибольшее	наибольший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	определении	определение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	имел	иметь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	декрет	декрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+10	Конвента	Конвент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	О	о	ADP	_	_	13	case	_	_
+13	подозрительных	подозрительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	appos	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	17	17	NUM	_	_	9	nummod	_	_
+17	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	flat	_	_
+18	1793	1793	NUM	_	_	19	nummod	_	_
+19	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	который	который	PRON	_	Case=Nom	27	nsubj	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	только	только	PART	_	_	27	advmod	_	_
+25	повторно	повторно	ADV	_	Degree=Pos	27	advmod	_	_
+26	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	27	obj	_	_
+27	криминализировал	криминализировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	но	но	CCONJ	_	_	33	cc	_	_
+30	и	и	PART	_	_	29	advmod	_	_
+31	существенным	существенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	obl	_	_
+33	расширил	расширить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	27	conj	_	_
+34	контингент	контингент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
+35	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	подпадавших	подпадать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	35	acl	_	_
+38	под	под	ADP	_	_	43	case	_	_
+39	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
+40	для	для	ADP	_	_	41	case	_	_
+41	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	obl	_	_
+42	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	43	amod	_	_
+43	понятие	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obl	_	_
+44	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 7
+# text = В числе прочих к категории подозрительных относились "те, кто своим поведением или связями, речами или сочинениями проявили себя как сторонники тирании, феодализма и враги свободы" .
+1	В	в	ADP	_	_	2	case	_	_
+2	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+3	прочих	прочий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	nmod	_	_
+4	к	к	ADP	_	_	5	case	_	_
+5	категории	категория	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+6	подозрительных	подозрительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	nmod	_	_
+7	относились	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	те	тот	DET	_	Case=Nom|Number=Plur	7	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	20	punct	_	_
+11	кто	кто	PRON	_	Case=Nom	20	nsubj	_	_
+12	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	13	det	_	_
+13	поведением	поведение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	_	_
+14	или	или	CCONJ	_	_	15	cc	_	_
+15	связями	связь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	речами	речь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	conj	_	_
+18	или	или	CCONJ	_	_	19	cc	_	_
+19	сочинениями	сочинение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	13	conj	_	_
+20	проявили	проявить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+21	себя	себя	PRON	_	Case=Acc	20	obj	_	_
+22	как	как	SCONJ	_	_	23	mark	_	_
+23	сторонники	сторонник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	advcl	_	_
+24	тирании	тирания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	феодализма	феодализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	conj	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	враги	враг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	conj	_	_
+29	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	29	punct	_	_
+31	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 8
+# text = Кроме того, важным революционным параметром разграничения граждан являлось введение нового документа, удостоверяющего личность – свидетельства о благонадежности, наличие которого становилось одним из главных оснований, доказывавшим свое позитивное отношение к новой власти.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+5	революционным	революционный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	параметром	параметр	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+7	разграничения	разграничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+11	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	документа	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	удостоверяющего	удостоверять	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+15	личность	личность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	–	–	PUNCT	_	_	14	punct	_	_
+17	свидетельства	свидетельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+18	о	о	ADP	_	_	19	case	_	_
+19	благонадежности	благонадежность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+22	которого	который	PRON	_	Case=Gen	21	nmod	_	_
+23	становилось	становиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	19	acl:relcl	_	_
+24	одним	один	NUM	_	Case=Ins|Gender=Masc	23	obj	_	_
+25	из	из	ADP	_	_	27	case	_	_
+26	главных	главный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	доказывавшим	доказывать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	27	acl	_	_
+30	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	32	det	_	_
+31	позитивное	позитивный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	отношение	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	obj	_	_
+33	к	к	ADP	_	_	35	case	_	_
+34	новой	новый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	власти	власть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 9
+# text = 13 марта 1794 г.
+1	13	13	NUM	_	_	0	root	_	_
+2	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	1794	1794	NUM	_	_	4	nummod	_	_
+4	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Конвент принял новый декрет, существенно расширивший перечень объектов террористического режима и виды применяемых к ним мер, вплоть до смертной казни .
+1	Конвент	Конвент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	новый	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	декрет	декрет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	существенно	существенно	ADV	_	Degree=Pos	7	advmod	_	_
+7	расширивший	расширить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	_
+8	перечень	перечень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obj	_	_
+9	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	террористического	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	виды	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	_
+14	применяемых	применять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+15	к	к	ADP	_	_	16	case	_	_
+16	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	14	obl	_	_
+17	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	вплоть	вплоть	ADV	_	Degree=Pos	22	case	_	_
+20	до	до	ADP	_	_	19	fixed	_	_
+21	смертной	смертный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	казни	казнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	conj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 11
+# text = К высшей мере наказания, в первую очередь, привлекались лица, каким-либо образом препятствовавшие деятельности революционного республиканского правительства в целом и Национального Конвента в частности.
+1	К	к	ADP	_	_	3	case	_	_
+2	высшей	высший	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
+4	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	в	в	ADP	_	_	10	discourse	_	_
+7	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	fixed	_	_
+8	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	fixed	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	привлекались	привлекать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	каким-либо	какой-либо	DET	_	Case=Ins|Gender=Masc|Number=Sing	14	det	_	_
+14	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+15	препятствовавшие	препятствовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+16	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	_
+17	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	республиканского	республиканский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	Национального	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	Конвента	Конвент	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	conj	_	_
+25	в	в	ADP	_	_	16	advmod	_	_
+26	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	25	fixed	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 12
+# text = Также нельзя не отметить нормативное закрепление важного революционного принципа – обязанности любого гражданина "доносить на заговорщиков и лиц, поставленных вне закона, если он знает место, где они находятся" .
+1	Также	также	ADV	_	Degree=Pos	2	advmod	_	_
+2	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+5	нормативное	нормативный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	закрепление	закрепление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+7	важного	важный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+8	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
+11	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	appos	_	_
+12	любого	любой	DET	_	Case=Gen|Gender=Masc|Number=Sing	13	det	_	_
+13	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	доносить	доносять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	appos	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	заговорщиков	заговорщик	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	15	obl	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	поставленных	ставить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	вне	вне	ADP	_	_	23	case	_	_
+23	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	21	punct	_	_
+25	если	если	SCONJ	_	_	27	mark	_	_
+26	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	nsubj	_	_
+27	знает	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
+28	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	obj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	где	где	ADV	_	Degree=Pos	32	advmod	_	_
+31	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	32	nsubj	_	_
+32	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	acl:relcl	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	15	punct	_	_
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13
+# text = Кроме того, декрет учреждал новый судебный орган – народные комиссии, в обязанность которых входило осуществление быстрого правосудия над врагами республики, находящимися в тюрьмах.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	декрет	декрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obj	_	_
+5	учреждал	учреждать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	судебный	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	орган	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+9	–	–	PUNCT	_	_	11	punct	_	_
+10	народные	народный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	appos	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	обязанность	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+15	которых	который	PRON	_	Case=Gen	14	nmod	_	_
+16	входило	входить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+17	осуществление	осуществление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+18	быстрого	быстрый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+20	над	над	ADP	_	_	21	case	_	_
+21	врагами	враг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	19	nmod	_	_
+22	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	находящимися	находиться	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	16	conj	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	тюрьмах	тюрьма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	24	obl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14
+# text = Всего во Франции было учреждено шесть таких комиссий, причем организационно-правовые основы деятельности одновременно с их созданием не были установлены: требовалось время для их определения и последующего нормативного закрепления.
+1	Всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+2	во	в	ADP	_	_	3	case	_	_
+3	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	учреждено	учредить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	шесть	шесть	NUM	_	Case=Nom	8	nummod:gov	_	_
+7	таких	такой	DET	_	Case=Gen|Number=Plur	8	det	_	_
+8	комиссий	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	причем	причем	CCONJ	_	_	11	cc	_	_
+11	организационно	организационный	ADJ	_	Degree=Pos	5	conj	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	22	nsubj:pass	_	_
+15	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	одновременно	одновременно	ADV	_	Degree=Pos	14	advmod	_	_
+17	с	с	ADP	_	_	19	case	_	_
+18	их	их	DET	_	_	19	det	_	_
+19	созданием	создание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	_
+20	не	не	PART	_	_	22	advmod	_	_
+21	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	aux:pass	_	_
+22	установлены	установить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	xcomp	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	22	punct	_	_
+24	требовалось	требоваться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	22	parataxis	_	_
+25	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+26	для	для	ADP	_	_	28	case	_	_
+27	их	их	DET	_	_	28	det	_	_
+28	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+29	и	и	CCONJ	_	_	32	cc	_	_
+30	последующего	последующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+31	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 15
+# text = Этой сложной работой занялись сразу два революционных органа – Комитет общественной безопасности и Комитет общественного спасения.
+1	Этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing	3	det	_	_
+2	сложной	сложный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	работой	работа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+4	занялись	заняться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	сразу	сразу	ADV	_	Degree=Pos	4	advmod	_	_
+6	два	два	NUM	_	Case=Nom|Gender=Masc	8	nummod:gov	_	_
+7	революционных	революционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nsubj	_	_
+9	–	–	PUNCT	_	_	10	punct	_	_
+10	Комитет	комитет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	parataxis	_	_
+11	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	Комитет	Комитет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+15	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	спасения	спасение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 16
+# text = Необходимо также отметить, что уже к началу 1794 г. методы террора стали применяться не только к врагам революции и подозрительным, но и к отдельным революционерам, прежде всего к эбертистам и 209
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	также	также	ADV	_	Degree=Pos	3	advmod	_	_
+3	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	14	punct	_	_
+5	что	что	SCONJ	_	_	14	mark	_	_
+6	уже	уже	ADV	_	Degree=Pos	8	obl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	началу	начало	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	obl	_	_
+9	1794	1794	NUM	_	_	10	nummod	_	_
+10	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+12	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	_
+13	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+15	применяться	применяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	14	xcomp	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	только	только	PART	_	_	19	advmod	_	_
+18	к	к	ADP	_	_	19	case	_	_
+19	врагам	враг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	15	obl	_	_
+20	революции	революция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	подозрительным	подозрительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	_
+24	но	но	CCONJ	_	_	28	cc	_	_
+25	и	и	PART	_	_	24	advmod	_	_
+26	к	к	ADP	_	_	28	case	_	_
+27	отдельным	отдельный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	28	amod	_	_
+28	революционерам	революционер	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	33	punct	_	_
+30	прежде	прежде	ADP	_	_	33	advmod	_	_
+31	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	fixed	_	_
+32	к	к	ADP	_	_	33	case	_	_
+33	эбертистам	эбертист	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	28	conj	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	209	209	NUM	_	_	19	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = дантонистам.
+1	дантонистам	дантонист	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Фактически выступая за усиление террора и ужесточение контрреволюционных мер, эбертисты во главе с их лидером Ж. Эбером в конце концов стали жертвами этого же террора.
+1	Фактически	фактически	ADV	_	Degree=Pos	2	advmod	_	_
+2	выступая	выступать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	23	advcl	_	_
+3	за	за	ADP	_	_	4	case	_	_
+4	усиление	усиление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+5	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	ужесточение	ужесточение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+8	контрреволюционных	контрреволюционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	эбертисты	эбертист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	_
+12	во	во	ADP	_	_	23	mark	_	_
+13	главе	глава	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	fixed	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	их	их	DET	_	_	16	det	_	_
+16	лидером	лидер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
+17	Ж	ж	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	_
+19	Эбером	Эбер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	flat:name	_	_
+20	в	в	ADP	_	_	23	advmod	_	_
+21	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	fixed	_	_
+22	концов	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	fixed	_	_
+23	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+24	жертвами	жертва	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur	23	obl	_	_
+25	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	27	det	_	_
+26	же	же	PART	_	_	25	advmod	_	_
+27	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 19
+# text = Дантонисты и их лидер Ж. Дантон, в целом признавая необходимость применения террора, но в значительно меньших масштабах, также были уничтожены.
+1	Дантонисты	Дантонист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	и	и	CCONJ	_	_	4	cc	_	_
+3	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	4	nmod	_	_
+4	лидер	лидер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+5	Ж.	Ж.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	Дантон	Дантон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+10	признавая	признавать	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+12	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	23	punct	_	_
+15	но	но	CCONJ	_	_	23	cc	_	_
+16	в	в	ADP	_	_	19	case	_	_
+17	значительно	значительно	ADV	_	Degree=Pos	18	advmod	_	_
+18	меньших	меньший	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	19	amod	_	_
+19	масштабах	масштаб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	также	также	ADV	_	Degree=Pos	23	advmod	_	_
+22	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	aux:pass	_	_
+23	уничтожены	уничтожить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Таким образом, рассмотренный уникальный в своем роде правовой массив фактически закрепил факт реализации мер социального террора со стороны политической силы, провозгласившей себя новой формой политико-правовой организации французского общества.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	рассмотренный	рассмотреть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	_
+5	уникальный	уникальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	своем	свой	DET	_	Case=Loc|Gender=Masc|Number=Sing	8	det	_	_
+8	роде	род	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+9	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	массив	массив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+11	фактически	фактически	ADV	_	Degree=Pos	12	advmod	_	_
+12	закрепил	закрепить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
+14	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nmod	_	_
+16	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	со	со	ADP	_	_	21	case	_	_
+19	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	fixed	_	_
+20	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	провозгласившей	провозгласить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	acl	_	_
+24	себя	себя	PRON	_	Case=Acc	23	obj	_	_
+25	новой	новый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	формой	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	obl	_	_
+27	политико	политика	ADJ	_	Degree=Pos	29	compound	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+31	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 21
+# text = Террор парадоксальным образом обладал консолидирующими свойствами: насилие являлось эффективным способом создания и политического, и пространственного единства, располагающим действенными элементами саморегуляции .
+1	Террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	парадоксальным	парадоксальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+4	обладал	обладать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	консолидирующими	консолидировать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+6	свойствами	свойство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	4	punct	_	_
+8	насилие	насилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	parataxis	_	_
+10	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	_
+12	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	пространственного	пространственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	единства	единство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	располагающим	располагать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+21	действенными	действенный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	amod	_	_
+22	элементами	элемент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	20	obl	_	_
+23	саморегуляции	саморегуляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 22
+# text = Поиск правовой альтернативы действовавшему до революционных преобразований порядку государственного управления постепенно привел лидеров новой власти к необходимости установления в государстве именно террористического режима.
+1	Поиск	поиск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+2	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	альтернативы	альтернатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	действовавшему	действовать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	_
+5	до	до	ADP	_	_	7	case	_	_
+6	революционных	революционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	преобразований	преобразование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	_
+8	порядку	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+9	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	постепенно	постепенно	ADV	_	Degree=Pos	12	advmod	_	_
+12	привел	привести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	лидеров	лидер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	12	obj	_	_
+14	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	к	к	ADP	_	_	17	case	_	_
+17	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	_
+18	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	nmod	_	_
+21	именно	именно	PART	_	_	22	advmod	_	_
+22	террористического	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 23
+# text = При этом многие революционные деятели осознавали необходимость внесения изменений не только в частно- и публично-правовую сферы жизни общества, но и в структуру государственности как таковой: в процесс организации высшей политической власти, установления способов и методов осуществления этой власти, а также распределения суверенитета между составными частями государства.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	многие	много	NUM	_	_	5	amod	_	_
+4	революционные	революционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	деятели	деятель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	осознавали	осознавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	внесения	внесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	только	только	PART	_	_	13	advmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	частно	частный	ADJ	_	Degree=Pos	8	obl	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	16	punct	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	публично	публичный	ADJ	_	Degree=Pos	6	conj	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	сферы	сфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	16	parataxis	_	_
+20	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	_
+23	но	но	CCONJ	_	_	27	cc	_	_
+24	и	и	PART	_	_	23	advmod	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	структуру	структура	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	fixed	_	_
+27	государственности	государственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	conj	_	_
+28	как	как	SCONJ	_	_	29	mark	_	_
+29	таковой	таковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	acl	_	SpaceAfter=No
+30	:	:	PUNCT	_	_	27	punct	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	parataxis	_	_
+33	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	высшей	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+35	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	conj	_	_
+39	способов	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	conj	_	_
+42	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	44	det	_	_
+44	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	48	punct	_	_
+46	а	а	CCONJ	_	_	48	cc	_	_
+47	также	также	PART	_	_	46	fixed	_	_
+48	распределения	распределение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	32	conj	_	_
+49	суверенитета	суверенитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	_
+50	между	между	ADP	_	_	52	case	_	_
+51	составными	составной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	52	amod	_	_
+52	частями	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	49	nmod	_	_
+53	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	52	nmod	_	SpaceAfter=No
+54	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 24
+# text = Так, 16 апреля 1794 г. на заседании Конвента был заслушан доклад Сен Жюста, посвященный социально-политическому положению республики и необходимости установления строгих полицейских мер.
+1	Так	так	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	16	16	NUM	_	_	11	nummod	_	_
+4	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	_
+5	1794	1794	NUM	_	_	6	nummod	_	_
+6	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	заседании	заседание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+9	Конвента	Конвент	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+11	заслушан	заслушать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	доклад	доклад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+13	Сен	Сен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+14	Жюста	Жюст	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	посвященный	посвятить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+17	социально	социально	ADV	_	Degree=Pos	18	obl	_	SpaceAfter=No
+18	-политическому	-политический	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	положению	положение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	iobj	_	_
+20	республики	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	_	_
+23	установления	установление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	строгих	строгий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+25	полицейских	полицейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 25
+# text = В числе прочих вопросов в докладе были отражены негативные аспекты существования федерализма во Франции.
+1	В	в	ADP	_	_	2	case	_	_
+2	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+3	прочих	прочий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	докладе	доклад	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+7	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+8	отражены	отразить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	негативные	негативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	аспекты	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+11	существования	существование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	федерализма	федерализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	во	в	ADP	_	_	14	case	_	_
+14	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 26
+# text = По его мнению, главной задачей федерализма являлось разобщение государства на части по интересам и последующее исчезновение Франции как государства.
+1	По	по	ADP	_	_	3	case	_	_
+2	его	его	DET	_	_	3	det	_	_
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	главной	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	задачей	задача	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+7	федерализма	федерализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	разобщение	разобщение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+10	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
+13	по	по	ADP	_	_	14	case	_	_
+14	интересам	интерес	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	12	nmod	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	последующее	последующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	исчезновение	исчезновение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	_
+18	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	как	как	SCONJ	_	_	20	mark	_	_
+20	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	acl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 27
+# text = В этой связи Сен Жюст призвал членов Конвента к необходимости подавления федерализма "мерами строгой полиции и призывом к порядку всех властей, всех должностных лиц" .
+1	В	в	ADP	_	_	3	case	_	_
+2	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+4	Сен	Сен	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	Жюст	Жюст	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	призвал	призвать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	членов	член	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+8	Конвента	Конвент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	к	к	ADP	_	_	10	case	_	_
+10	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+11	подавления	подавление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	федерализма	федерализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	мерами	мера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	appos	_	_
+15	строгой	строгий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	призывом	призыв	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	conj	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	порядку	порядок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	18	nmod	_	_
+21	всех	весь	DET	_	Case=Gen|Number=Plur	22	det	_	_
+22	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	всех	весь	DET	_	Case=Gen|Number=Plur	26	det	_	_
+25	должностных	должностной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	22	conj	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	14	punct	_	_
+28	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 28
+# text = В результате 16 апреля 1794 г.
+1	В	в	ADP	_	_	2	case	_	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+3	16	16	NUM	_	_	2	nummod	_	_
+4	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	flat	_	_
+5	1794	1794	NUM	_	_	6	nummod	_	_
+6	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 29
+# text = Конвент принял закон "Об общей полиции Республики", который хоть и не решил проблему федерализма, но в дополнение к уже действующим законам ввел ряд новых мер по обеспечению общественного порядка во Франции .
+1	Конвент	Конвент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	принял	принять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	закон	закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+5	Об	о	ADP	_	_	7	case	_	_
+6	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+8	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	который	который	PRON	_	Case=Nom	15	nsubj	_	_
+12	хоть	хоть	ADV	_	Degree=Pos	15	advmod	_	_
+13	и	и	PART	_	_	12	fixed	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+16	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+17	федерализма	федерализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	26	punct	_	_
+19	но	но	CCONJ	_	_	26	cc	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	дополнение	дополнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obl	_	_
+22	к	к	ADP	_	_	25	case	_	_
+23	уже	уже	ADV	_	Degree=Pos	24	advmod	_	_
+24	действующим	действовать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	25	acl	_	_
+25	законам	закон	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	21	nmod	_	_
+26	ввел	ввести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
+27	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+28	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+30	по	по	ADP	_	_	31	case	_	_
+31	обеспечению	обеспечение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	29	nmod	_	_
+32	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+34	во	в	ADP	_	_	35	case	_	_
+35	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	nmod	_	_
+36	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Существенным образом было конкретизировано правовое положение иностранных граждан в республике, большая часть которых объявлялась вне закона.
+1	Существенным	существенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	конкретизировано	конкретизировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+7	иностранных	иностранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	республике	республика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+14	которых	который	PRON	_	Case=Gen	13	nmod	_	_
+15	объявлялась	объявлять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+16	вне	вне	ADP	_	_	17	case	_	_
+17	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 31
+# text = Примечательно, что настоящий закон также устанавливал новый вид наказания – ссылку в Гвиану, которая должна была применяться народными комиссиями в отношении любых лиц, уличенных в "жалобах на революцию".
+1	Примечательно	примечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	что	что	SCONJ	_	_	7	mark	_	_
+4	настоящий	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	также	также	ADV	_	Degree=Pos	7	advmod	_	_
+7	устанавливал	устанавливать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+8	новый	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	вид	вид	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	ссылку	ссылка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	Гвиану	Гвиан	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которая	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	14	acl:relcl	_	_
+18	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	_
+19	применяться	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	17	xcomp	_	_
+20	народными	народный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	_
+21	комиссиями	комиссия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	19	obl	_	_
+22	в	в	ADP	_	_	25	case	_	_
+23	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	fixed	_	_
+24	любых	любой	DET	_	Case=Gen|Number=Plur	25	det	_	_
+25	лиц	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	уличенных	уличить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	25	acl	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	жалобах	жалоба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	27	obl	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	революцию	революция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 32
+# text = Следует отметить, что принятие подобного закона не являлось исключительным случаем.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+6	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	ccomp	_	_
+10	исключительным	исключительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	случаем	случай	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = В течение 1793 г. во Франции было принято несколько подобных декретов, объявлявших вне закона отдельные категории граждан: аристократов, эмигрантов, французов, согласившихся занимать общественную должность на завоеванных территориях, а также свя210
+1	В	в	ADP	_	_	4	case	_	_
+2	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	1793	1793	NUM	_	_	4	nummod	_	_
+4	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	_
+5	во	в	ADP	_	_	6	case	_	_
+6	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
+7	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+8	принято	принять	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	несколько	несколько	NUM	_	Case=Nom	11	nummod:gov	_	_
+10	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	декретов	декрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nsubj:pass	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	объявлявших	объявлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+14	вне	вне	ADP	_	_	15	case	_	_
+15	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	_
+16	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	категории	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
+18	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	18	punct	_	_
+20	аристократов	аристократ	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	эмигрантов	эмигрант	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	французов	француз	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	согласившихся	согласиться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	20	acl	_	_
+27	занимать	занимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	общественную	общественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	должность	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+30	на	на	ADP	_	_	32	case	_	_
+31	завоеванных	завоевать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	32	amod	_	_
+32	территориях	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	а	а	CCONJ	_	_	36	cc	_	_
+35	также	также	PART	_	_	34	fixed	_	_
+36	свя210	свя210	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = щенников, уличенных в оказании помощи внешним врагам .
+1	щенников	щенник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	уличенных	уличить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	оказании	оказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+6	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	внешним	внешний	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	8	amod	_	_
+8	врагам	враг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Применение террора при этом объяснялось необходимостью выполнения революционного долга перед народом и соблюдения принципа справедливости.
+1	Применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+2	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	при	при	ADP	_	_	4	case	_	_
+4	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+5	объяснялось	объяснять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+7	выполнения	выполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	долга	долг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	перед	перед	ADP	_	_	11	case	_	_
+11	народом	народ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+14	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 36
+# text = В некоторых случаях террор представлялся вынужденной мерой, которая по своей сущности подпадает под современную правовую категорию "крайняя необходимость".
+1	В	в	ADP	_	_	3	case	_	_
+2	некоторых	некоторый	DET	_	Case=Loc|Number=Plur	3	det	_	_
+3	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	_
+4	террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	представлялся	представляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	вынужденной	вынужденный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	мерой	мера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	которая	который	PRON	_	Case=Nom	13	nsubj	_	_
+10	по	по	ADP	_	_	12	case	_	_
+11	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	12	det	_	_
+12	сущности	сущность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+13	подпадает	подпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+14	под	под	ADP	_	_	17	case	_	_
+15	современную	современный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+16	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	категорию	категория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+18	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	крайняя	крайний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	appos	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = Именно в этот период представители новой власти действительно серьезно стали задумываться о его надобности только в исключительных случаях, о выверенном и аккуратном применении и возможных вариантах сочетания с иными революционными методами, а также способах интеграции последствий применения террора в новое политикоправовое пространство.
+1	Именно	именно	PART	_	_	4	advmod	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	4	det	_	_
+4	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+5	представители	представитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+6	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	действительно	действительно	ADV	_	Degree=Pos	10	advmod	_	_
+9	серьезно	серьезно	ADV	_	Degree=Pos	10	advmod	_	_
+10	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	задумываться	задумываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	10	xcomp	_	_
+12	о	о	ADP	_	_	14	case	_	_
+13	его	его	DET	_	_	14	det	_	_
+14	надобности	надобность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+15	только	только	PART	_	_	18	advmod	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	исключительных	исключительный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	_	_
+20	о	о	ADP	_	_	24	case	_	_
+21	выверенном	выверить	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	аккуратном	аккуратный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	21	conj	_	_
+24	применении	применение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	_
+25	и	и	CCONJ	_	_	27	cc	_	_
+26	возможных	возможный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	27	amod	_	_
+27	вариантах	вариант	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	conj	_	_
+28	сочетания	сочетание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	с	с	ADP	_	_	32	case	_	_
+30	иными	иной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	32	amod	_	_
+31	революционными	революционный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	32	amod	_	_
+32	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	а	а	CCONJ	_	_	36	cc	_	_
+35	также	также	PART	_	_	34	fixed	_	_
+36	способах	способ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	conj	_	_
+37	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	nmod	_	_
+39	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	_
+40	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+41	в	в	ADP	_	_	44	case	_	_
+42	новое	новый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+43	политикоправовое	политикоправовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+44	пространство	пространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	40	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 38
+# text = Однако это не помешало принять 10 июня 1794 г. декрет, учреждавший Революционный трибунал с широкими полномочиями в отношении врагов французского народа .
+1	Однако	однако	ADV	_	Degree=Pos	4	advmod	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	помешало	мешать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	принять	принять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	10	10	NUM	_	_	5	nummod	_	_
+7	июня	июнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	1794	1794	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+11	декрет	декрет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	учреждавший	учреждать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+14	Революционный	революционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	трибунал	трибунал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+16	с	с	ADP	_	_	18	case	_	_
+17	широкими	широкий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	_
+18	полномочиями	полномочие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	15	nmod	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	fixed	_	_
+21	врагов	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+22	французского	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 39
+# text = Помимо нормативного закрепления категорий лиц, относившихся к врагам народа, следует обратить внимание на характер содержавшихся в ст.
+1	Помимо	помимо	ADP	_	_	3	case	_	_
+2	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+4	категорий	категория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	относившихся	относиться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	5	acl	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	врагам	враг	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	obl	_	_
+10	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	7	punct	_	_
+12	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	обратить	обратить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	_
+14	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	_
+17	содержавшихся	содержаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	xcomp	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 40
+# text = 8 этого декрета норм, частично определявших отдельные элементы революционного уголовного процесса того периода.
+1	8	8	NUM	_	_	3	nummod	_	_
+2	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	декрета	декрет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+4	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	частично	частично	ADV	_	Degree=Pos	7	advmod	_	_
+7	определявших	определять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	_
+8	отдельные	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	элементы	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+10	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+13	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	14	det	_	_
+14	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 41
+# text = В частности, определялся уровень достаточности доказательств для объявления лица врагом народа и последующего его привлечения к смертной казни: "всевозможные документы – моральные, вещественные, устные и письменные, естественные, вызывающие уверенность всякого справедливого и просвещенного ума" .
+1	В	в	ADP	_	_	4	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	определялся	определять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+6	достаточности	достаточность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	доказательств	доказательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	объявления	объявление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+10	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	врагом	враг	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	_
+12	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	16	cc	_	_
+14	последующего	последующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	его	он	DET	_	_	16	det	_	_
+16	привлечения	привлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+17	к	к	ADP	_	_	19	case	_	_
+18	смертной	смертный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	казни	казнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	11	punct	_	_
+21	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+22	всевозможные	всевозможный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	документы	документ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	_
+24	–	–	PUNCT	_	_	36	punct	_	_
+25	моральные	моральный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	вещественные	вещественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	устные	устный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	conj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	письменные	письменный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	естественные	естественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	вызывающие	вызывать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	25	conj	_	_
+36	уверенность	уверенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	appos	_	_
+37	всякого	всякий	DET	_	Case=Gen|Gender=Masc|Number=Sing	41	det	_	_
+38	справедливого	справедливый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+39	и	и	CCONJ	_	_	40	cc	_	_
+40	просвещенного	просвещенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	conj	_	_
+41	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+42	"	"	PUNCT	_	_	36	punct	_	_
+43	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 42
+# text = Процесс судопроизводства, осуществляемый революционным трибуналом, по замыслу законодателя должен состоять "из простых мер, диктуемых здравым смыслом для того, чтобы добиться истины, придерживаясь при этом указанных законом форм" .
+1	Процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+2	судопроизводства	судопроизводство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	осуществляемый	осуществлять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	acl	_	_
+5	революционным	революционный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	трибуналом	трибунал	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	по	по	ADP	_	_	9	case	_	_
+9	замыслу	замысел	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
+10	законодателя	законодатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+12	состоять	состоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+14	из	из	ADP	_	_	16	case	_	_
+15	простых	простой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	диктуемых	диктовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	16	acl	_	_
+19	здравым	здравый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	смыслом	смысл	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	obl	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	чтобы	чтобы	SCONJ	_	Mood=Cnd	25	mark	_	_
+25	добиться	добиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	22	advcl	_	_
+26	истины	истина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	18	punct	_	_
+28	придерживаясь	придерживаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	12	advcl	_	_
+29	при	при	ADP	_	_	30	case	_	_
+30	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	28	obl	_	_
+31	указанных	указать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+32	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	31	obl	_	_
+33	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	obl	_	SpaceAfter=No
+34	"	"	PUNCT	_	_	33	punct	_	_
+35	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 43
+# text = Вообще французская модель криминализации терроризма по-настоящему серьезно начала организационно оформляться именно в постреволюционный период, когда террор становился не средством достижения политических интересов, а источником опасности для власти.
+1	Вообще	вообще	ADV	_	Degree=Pos	8	advmod	_	_
+2	французская	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+4	криминализации	криминализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	терроризма	терроризм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	по-настоящему	по-настоящему	ADV	_	Degree=Pos	7	advmod	_	_
+7	серьезно	серьезно	ADV	_	Degree=Pos	8	advmod	_	_
+8	начала	начать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	организационно	организационно	ADV	_	Degree=Pos	10	advmod	_	_
+10	оформляться	оформлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	8	xcomp	_	_
+11	именно	именно	PART	_	_	14	advmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	постреволюционный	постреволюционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	когда	когда	SCONJ	_	_	18	mark	_	_
+17	террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	становился	становиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	acl	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	obl	_	_
+21	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	политических	политический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	интересов	интерес	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	а	а	CCONJ	_	_	26	cc	_	_
+26	источником	источник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	conj	_	_
+27	опасности	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	для	для	ADP	_	_	29	case	_	_
+29	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 44
+# text = Еще в период революционных преобразований проблема избавления от террористических методов беспокоила французских революционеров.
+1	Еще	еще	ADV	_	Degree=Pos	3	obl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+4	революционных	революционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	преобразований	преобразование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+6	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+7	избавления	избавление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	от	от	ADP	_	_	10	case	_	_
+9	террористических	террористический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+11	беспокоила	беспокоить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	французских	французский	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	революционеров	революционер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 45
+# text = Так, политический план Робеспьера по мере приближения к непосредственным революционным действиям становился недейственным "как только Робеспьеру пришлось отвечать на незаданный вопрос: что делать с террором, с той системой революционной власти, которая возникла именно благодаря успеху этого плана?" .
+1	Так	так	ADV	_	Degree=Pos	13	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	политический	политический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+5	Робеспьера	Робеспьер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	по	по	ADP	_	_	8	case	_	_
+7	мере	мера	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	fixed	_	_
+8	приближения	приближение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	_
+9	к	к	ADP	_	_	12	case	_	_
+10	непосредственным	непосредственный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	12	amod	_	_
+11	революционным	революционный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	12	amod	_	_
+12	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	8	nmod	_	_
+13	становился	становиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	недейственным	недейственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	_
+15	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+16	как	как	SCONJ	_	_	19	mark	_	_
+17	только	только	PART	_	_	16	fixed	_	_
+18	Робеспьеру	Робеспьер	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+19	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	advcl	_	_
+20	отвечать	отвечать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	csubj	_	_
+21	на	на	ADP	_	_	23	case	_	_
+22	незаданный	незаданный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+24	:	:	PUNCT	_	_	23	punct	_	_
+25	что	что	PRON	_	Case=Acc	26	obj	_	_
+26	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	parataxis	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	террором	террор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	с	с	ADP	_	_	32	case	_	_
+31	той	тот	DET	_	Case=Ins|Gender=Fem|Number=Sing	32	det	_	_
+32	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	_
+33	революционной	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	которая	который	PRON	_	Case=Nom	37	nsubj	_	_
+37	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	32	acl:relcl	_	_
+38	именно	именно	PART	_	_	40	advmod	_	_
+39	благодаря	благодаря	ADP	_	_	40	case	_	_
+40	успеху	успех	NOUN	_	Animacy=Inan|Case=Par|Gender=Masc|Number=Sing	37	obl	_	_
+41	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	42	det	_	_
+42	плана	план	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+43	?	?	PUNCT	_	_	42	punct	_	SpaceAfter=No
+44	"	"	PUNCT	_	_	42	punct	_	_
+45	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 46
+# text = Наиболее ярко определил последствия террора П. Генифе, согласно которому в результате его применения общество получило "опустевшее поле боя двух непримиримых армий…
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	advmod	_	_
+2	ярко	ярко	ADV	_	Degree=Pos	3	advmod	_	_
+3	определил	определить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obj	_	_
+5	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	П.	П.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Генифе	Гениф	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	согласно	согласно	ADP	_	_	10	case	_	_
+10	которому	который	PRON	_	Case=Dat	16	obl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+13	его	его	DET	_	_	14	det	_	_
+14	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	общество	общество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	получило	получить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+17	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	опустевшее	пустеть	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	поле	поле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+20	боя	бой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+21	двух	два	NUM	_	Case=Gen	23	nummod	_	_
+22	непримиримых	непримиримый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	армий	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+24	…	…	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 47
+# text = Битва закончилась гибелью сражавшихся, и на развалины опустилась тишина" .
+1	Битва	битва	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	закончилась	закончиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	гибелью	гибель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+4	сражавшихся	сражаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	и	и	CCONJ	_	_	9	cc	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	развалины	развалина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obl	_	_
+9	опустилась	опустить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+10	тишина	тишина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 48
+# text = Выход из террора как системы власти, представлявший собой достаточно длительный процесс обретения качественно нового, ранее не известного опыта, определял целый ряд сложных политико-правовых проблем, которые в обязательном порядке было необходимо решать.
+1	Выход	выход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	acl	_	_
+6	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	представлявший	представлять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+9	собой	себя	PRON	_	Case=Ins	8	obl	_	_
+10	достаточно	достаточно	ADV	_	Degree=Pos	11	obl	_	_
+11	длительный	длительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+13	обретения	обретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	качественно	качественно	ADV	_	Degree=Pos	15	obl	_	_
+15	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	ранее	ранее	ADV	_	Degree=Pos	19	obl	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	известного	известный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	_
+20	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	8	punct	_	_
+22	определял	определять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+23	целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	obj	_	_
+25	сложных	сложный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+26	политико-правовых	политико-правовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	34	punct	_	_
+29	которые	который	PRON	_	Case=Nom	35	obj	_	_
+30	в	в	ADP	_	_	32	case	_	_
+31	обязательном	обязательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	34	obl	_	_
+33	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	cop	_	_
+34	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	27	acl:relcl	_	_
+35	решать	решать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	34	csubj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 49
+# text = Главная из них – юридическое и институционально-структурное наследие, требующее, с одной стороны, определения и по-
+1	Главная	главный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	1	nmod	_	_
+4	–	–	PUNCT	_	_	1	punct	_	_
+5	юридическое	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	институционально	институциональный	ADJ	_	Degree=Pos	5	conj	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	структурное	структурный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	наследие	наследие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	требующее	требовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	одной	один	NUM	_	Case=Gen|Gender=Fem	16	nummod	_	_
+16	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	по	по	ADP	_	_	12	conj	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = следующей ликвидации так называемых террористических законов и структур, а с другой – сохранения колоритных элементов революционного правосудия.
+1	следующей	следующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	ликвидации	ликвидация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+3	так	так	ADV	_	Degree=Pos	4	advmod	_	_
+4	называемых	называть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	_
+5	террористических	террористический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	структур	структура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	а	а	CCONJ	_	_	14	cc	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	parataxis	_	_
+13	–	–	PUNCT	_	_	12	punct	_	_
+14	сохранения	сохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+15	колоритных	колоритный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 51
+# text = Одним из первых преобразований в этом направлении являлась реорганизация Революционного трибунала, который сохранил за собой право рассматривать лишь контрреволюционные преступления, в то время как иные правонарушения были отнесены к области обычного уголовного правосудия.
+1	Одним	один	NUM	_	Case=Ins|Gender=Masc	8	nummod	_	_
+2	из	из	ADP	_	_	4	case	_	_
+3	первых	первый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	преобразований	преобразование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	7	det	_	_
+7	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	_
+8	являлась	являться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	реорганизация	реорганизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+10	Революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	трибунала	трибунал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	который	который	PRON	_	Case=Nom	14	nsubj	_	_
+14	сохранил	сохранить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+15	за	за	ADP	_	_	16	case	_	_
+16	собой	себя	PRON	_	Case=Ins	14	obl	_	_
+17	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+18	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	obl	_	_
+19	лишь	лишь	PART	_	_	20	advmod	_	_
+20	контрреволюционные	контрреволюционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+21	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	30	punct	_	_
+23	в	в	ADP	_	_	30	cc	_	_
+24	то	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	fixed	_	_
+26	как	как	SCONJ	_	_	23	fixed	_	_
+27	иные	иной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+28	правонарушения	правонарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	30	nsubj:pass	_	_
+29	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	30	aux:pass	_	_
+30	отнесены	отнести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	conj	_	_
+31	к	к	ADP	_	_	32	case	_	_
+32	области	область	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	obl	_	_
+33	обычного	обычный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+34	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 52
+# text = При этом Революционный трибунал фактически предоставлял обвиняемым определенные гарантии законности и соблюдения юридической процедуры .
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	Революционный	революционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	трибунал	трибунал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	фактически	фактически	ADV	_	Degree=Pos	6	advmod	_	_
+6	предоставлял	предоставлять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	обвиняемым	обвинять	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	amod	_	_
+8	определенные	определенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	гарантии	гарантия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
+10	законности	законность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	соблюдения	соблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+13	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	процедуры	процедура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 53
+# text = Существенный сдвиг в общественно-политическом сознании произошел 27 июля 1794 г. во время государственного переворота.
+1	Существенный	существенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	сдвиг	сдвиг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	общественно-политическом	общественно-политический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	сознании	сознание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+6	произошел	произойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	27	27	NUM	_	_	6	nummod	_	_
+8	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	1794	1794	NUM	_	_	10	nummod	_	_
+10	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+11	во	во	ADP	_	_	14	case	_	_
+12	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	fixed	_	_
+13	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	переворота	переворот	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 54
+# text = Помимо всей важности его последствий, а именно смены вектора революционного развития, отстранения от власти якобинцев и применения по отношению к ним созданного ими же самими революционного террора, следует отметить появление нового признака террористической деятельности, который впоследствии найдет свое повсеместное проявление.
+1	Помимо	помимо	ADP	_	_	3	case	_	_
+2	всей	весь	DET	_	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
+3	важности	важность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	obl	_	_
+4	его	его	DET	_	_	5	det	_	_
+5	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	а	а	CCONJ	_	_	9	cc	_	_
+8	именно	именно	PART	_	_	9	advmod	_	_
+9	смены	смена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+10	вектора	вектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	отстранения	отстранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+15	от	от	ADP	_	_	16	case	_	_
+16	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	якобинцев	якобинец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+20	по	по	ADP	_	_	23	case	_	_
+21	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	fixed	_	_
+22	к	к	ADP	_	_	20	fixed	_	_
+23	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	19	nmod	_	_
+24	созданного	создать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+25	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	24	obl	_	_
+26	же	же	PART	_	_	25	advmod	_	_
+27	самими	сам	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	29	amod	_	_
+28	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	24	punct	_	_
+31	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+32	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	31	csubj	_	_
+33	появление	появление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	32	obj	_	_
+34	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	признака	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+36	террористической	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	_
+37	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	41	punct	_	_
+39	который	который	PRON	_	Case=Nom	41	nsubj	_	_
+40	впоследствии	впоследствии	ADV	_	Degree=Pos	41	advmod	_	_
+41	найдет	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+42	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	44	det	_	_
+43	повсеместное	повсеместный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	44	amod	_	_
+44	проявление	проявление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	41	obj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	31	punct	_	_
+
+# sent_id = 55
+# text = Террор стал одним из наиболее эффективных средств политической борьбы, главным инструментом реализации высшей политической власти во Франции.
+1	Террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	одним	один	NUM	_	Case=Ins|Gender=Masc	2	nummod	_	_
+4	из	из	ADP	_	_	7	case	_	_
+5	наиболее	наиболее	ADV	_	Degree=Pos	6	obl	_	_
+6	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+8	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	инструментом	инструмент	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	_
+13	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	высшей	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+15	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+17	во	в	ADP	_	_	18	case	_	_
+18	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 56
+# text = Именно по этой причине террор в очень короткие сроки получил распространение во многих странах, в том числе и в России.
+1	Именно	именно	PART	_	_	4	advmod	_	_
+2	по	по	ADP	_	_	4	case	_	_
+3	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing	4	det	_	_
+4	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
+5	террор	террор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	obl	_	_
+8	короткие	короткий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	_
+10	получил	получить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	во	в	ADP	_	_	14	case	_	_
+13	многих	много	NUM	_	_	14	amod	_	_
+14	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	21	punct	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	18	det	_	_
+18	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	_
+19	и	и	PART	_	_	21	advmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	parataxis	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 57
+# text = Также имеет большое значение тот факт, что уже в период своего зарождения главным оправданием применения террора были избраны морально-этические аспекты регуляции отношений во французском обществе.
+1	Также	также	ADV	_	Degree=Pos	2	advmod	_	_
+2	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	большое	большой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
+6	факт	факт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	19	punct	_	_
+8	что	что	SCONJ	_	_	19	mark	_	_
+9	уже	уже	ADV	_	Degree=Pos	11	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	_
+12	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	13	det	_	_
+13	зарождения	зарождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	оправданием	оправдание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+16	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	19	aux:pass	_	_
+19	избраны	избрать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	acl	_	_
+20	морально	морально	ADV	_	Degree=Pos	19	advmod	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
+22	этические	этический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	аспекты	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	parataxis	_	_
+24	регуляции	регуляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	_
+26	во	в	ADP	_	_	28	case	_	_
+27	французском	французский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	обществе	общество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Например, М. Робеспьер определял террор как "эманацию добродетели… не столько частное начало, сколько следствие общего принципа демократии, примененного к насущнейшим нуждам отечества" .
+1	Например	например	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Робеспьер	Робеспьер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	определял	определять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	террор	террор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+7	как	как	SCONJ	_	_	10	mark	_	_
+8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	эманацию	эманация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+10	добродетели	добродетель	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
+11	…	…	PUNCT	_	_	15	punct	_	_
+12	не	не	PART	_	_	15	advmod	_	_
+13	столько	столько	ADV	_	Degree=Pos	15	mark	_	_
+14	частное	частный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	начало	начало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	сколько	сколько	NUM	_	_	18	mark	_	_
+18	следствие	следствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+19	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+21	демократии	демократия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	примененного	применить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+24	к	к	ADP	_	_	26	case	_	_
+25	насущнейшим	насущный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	26	amod	_	_
+26	нуждам	нужда	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	23	obl	_	_
+27	отечества	отечество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	10	punct	_	_
+29	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 59
+# text = Фактически подобный подход являлся единственно верным и наименее противоречивым из всех существовавших.
+1	Фактически	фактически	ADV	_	Degree=Pos	4	advmod	_	_
+2	подобный	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	являлся	являться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	единственно	единственно	PART	_	_	6	advmod	_	_
+6	верным	верный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	obl	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	наименее	наимено	ADV	_	Degree=Pos	9	obl	_	_
+9	противоречивым	противоречивый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+10	из	из	ADP	_	_	11	case	_	_
+11	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur	9	nmod	_	_
+12	существовавших	существовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 60
+# text = Как ни парадоксально, но имевшиеся во французской революционной среде политические усмотрения были основаны на идеях гражданского и юридического равенства, которые путем применения террора должны были установить такую высшую государственную власть, которая могла реализовывать интересы народа, им создаваться и им же управляться.
+1	Как	как	ADV	_	Degree=Pos	3	obl	_	_
+2	ни	ни	PART	_	_	3	advmod	_	_
+3	парадоксально	парадоксальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	14	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	но	но	CCONJ	_	_	14	cc	_	_
+6	имевшиеся	иметься	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	12	acl	_	_
+7	во	в	ADP	_	_	10	case	_	_
+8	французской	французский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+9	революционной	революционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+11	политические	политический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	усмотрения	усмотрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj:pass	_	_
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:pass	_	_
+14	основаны	основать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	идеях	идея	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	14	obl	_	_
+17	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	юридического	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	conj	_	_
+20	равенства	равенство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	_	_
+22	которые	который	PRON	_	Case=Nom	26	nsubj	_	_
+23	путем	путем	ADP	_	_	24	case	_	_
+24	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	obl	_	_
+25	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+26	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	16	acl:relcl	_	_
+27	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
+28	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+29	такую	такой	DET	_	Case=Acc|Gender=Fem|Number=Sing	32	det	_	_
+30	высшую	высший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	государственную	государственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	власть	власть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	35	punct	_	_
+34	которая	который	PRON	_	Case=Nom	35	nsubj	_	_
+35	могла	мочь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	32	acl:relcl	_	_
+36	реализовывать	реализовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	35	xcomp	_	_
+37	интересы	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	obj	_	_
+38	народа	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	41	iobj	_	_
+41	создаваться	создавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	36	conj	_	_
+42	и	и	CCONJ	_	_	45	cc	_	_
+43	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	45	iobj	_	_
+44	же	же	PART	_	_	43	advmod	_	_
+45	управляться	управлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	36	conj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 61
+# text = Проблема нормирования террора в условиях достижения подобных целей была одной из наиболее трудных: процедура провозглашения прав и свобод человека в качестве главной ценности никоим образом не соотносилась с непосредственным применением террора для достижения таковых ценностей.
+1	Проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	нормирования	нормирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	obl	_	_
+6	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	одной	один	DET	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+11	из	из	ADP	_	_	13	case	_	_
+12	наиболее	наиболее	ADV	_	Degree=Pos	13	obl	_	_
+13	трудных	трудный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	nmod	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	13	punct	_	_
+15	процедура	процедура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+16	провозглашения	провозглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	свобод	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	conj	_	_
+20	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+21	в	в	ADP	_	_	24	case	_	_
+22	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	fixed	_	_
+23	главной	главный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	ценности	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+25	никоим	никой	DET	_	Case=Ins|Gender=Masc|Number=Sing	28	advmod	_	_
+26	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	25	fixed	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	соотносилась	соотноситься	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	parataxis	_	_
+29	с	с	ADP	_	_	31	case	_	_
+30	непосредственным	непосредственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	применением	применение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	obl	_	_
+32	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	для	для	ADP	_	_	34	case	_	_
+34	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+35	таковых	таковой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	ценностей	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 62
+# text = Кроме того, совпадение социального и политического в едином "теле" революции при переходе от идеи к практике привело к появлению уникального феномена, успешно сочетавшегося с террором, – исключительного равнодушия, а иногда и ненависти к правам отдельного человека.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	совпадение	совпадение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+5	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	conj	_	_
+8	в	в	ADP	_	_	11	case	_	_
+9	едином	единый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	теле	тело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	obl	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	11	punct	_	_
+13	революции	революция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	переходе	переход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+16	от	от	ADP	_	_	17	case	_	_
+17	идеи	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	к	к	ADP	_	_	19	case	_	_
+19	практике	практика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	nmod	_	_
+20	привело	привести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+21	к	к	ADP	_	_	22	case	_	_
+22	появлению	появление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	obl	_	_
+23	уникального	уникальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	феномена	феномен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	успешно	успешно	ADV	_	Degree=Pos	27	advmod	_	_
+27	сочетавшегося	сочетаться	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	22	acl	_	_
+28	с	с	ADP	_	_	29	case	_	_
+29	террором	террор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	–	–	PUNCT	_	_	33	punct	_	_
+32	исключительного	исключительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	равнодушия	равнодушие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	38	punct	_	_
+35	а	а	CCONJ	_	_	38	cc	_	_
+36	иногда	иногда	ADV	_	Degree=Pos	38	obl	_	_
+37	и	и	PART	_	_	38	advmod	_	_
+38	ненависти	ненависть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	conj	_	_
+39	к	к	ADP	_	_	40	case	_	_
+40	правам	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	38	nmod	_	_
+41	отдельного	отдельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	_
+42	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 63
+# text = Этот аспект довольно подробно освещен в труде П. Генифе "Французская революция и Террор" .
+1	Этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	аспект	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	довольно	довольно	ADV	_	Degree=Pos	4	advmod	_	_
+4	подробно	подробно	ADV	_	Degree=Pos	5	advmod	_	_
+5	освещен	осветить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	труде	труд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+8	П.	П.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	Генифе	Гениф	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	Французская	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	революция	революция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	appos	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	Террор	террор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	12	punct	_	_
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 64
+# text = Другим, не менее важным аспектом реализации террористического режима во Франции, который проявился практически сразу после начала применения террора, являлся признак противодействия, заключа-
+1	Другим	другой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	менее	менее	ADV	_	Degree=Cmp	5	obl	_	_
+5	важным	важный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	_
+6	аспектом	аспект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	obl	_	_
+7	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	террористического	террористический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	во	в	ADP	_	_	11	case	_	_
+11	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	который	который	PRON	_	Case=Nom	14	nsubj	_	_
+14	проявился	проявиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl:relcl	_	_
+15	практически	практически	ADV	_	Degree=Pos	16	advmod	_	_
+16	сразу	сразу	ADV	_	Degree=Pos	18	obl	_	_
+17	после	после	ADP	_	_	18	case	_	_
+18	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+19	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	6	punct	_	_
+22	являлся	являться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+23	признак	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+24	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	заключа	заключа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
+27	-	-	PUNCT	_	_	22	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = ющийся в обязательном наличии образа врага, для борьбы с которым террор и необходим.
+1	ющийся	ться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	5	acl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	обязательном	обязательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	_
+5	образа	образ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+6	врага	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	для	для	ADP	_	_	9	case	_	_
+9	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	которым	который	PRON	_	Case=Ins	9	nmod	_	_
+12	террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	необходим	необходимый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 66
+# text = Можно провести аналогию с характером применения террора в России в 80-х гг. XIX в. после убийства Александра II и найти существенное количество совпадений .
+1	Можно	можно	ADV	_	Degree=Pos	0	root	_	_
+2	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	аналогию	аналогия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	характером	характер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	_
+6	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	80-х	80-й	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	гг.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	nmod	_	_
+13	XIX	xix	NUM	_	_	14	nummod	_	_
+14	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+15	после	после	ADP	_	_	16	case	_	_
+16	убийства	убийство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+17	Александра	Александр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	II	ii	NUM	_	_	17	nummod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	conj	_	_
+21	существенное	существенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	количество	количество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	совпадений	совпадение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = Только при существовании врагов революции, заговоров, подпольных ячеек и т.п. можно вполне легально использовать террор в качестве исключительного средства устранения угрозы власти и оправдать его применение.
+1	Только	только	PART	_	_	3	advmod	_	_
+2	при	при	ADP	_	_	3	case	_	_
+3	существовании	существование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+4	врагов	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	революции	революция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	заговоров	заговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	подпольных	подпольный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	ячеек	ячейка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	т.п.	т.пункт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	_
+13	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+14	вполне	вполне	ADV	_	Degree=Pos	15	advmod	_	_
+15	легально	легально	ADV	_	Degree=Pos	16	advmod	_	_
+16	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	csubj	_	_
+17	террор	террор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+18	в	в	ADP	_	_	21	case	_	_
+19	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	fixed	_	_
+20	исключительного	исключительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	средства	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	obl	_	_
+22	устранения	устранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	оправдать	оправдать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	conj	_	_
+27	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	28	nmod	_	_
+28	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	26	obj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 68
+# text = Так, по мнению П. Генифе, именно в существовании угрозы "революционный разум, убежденный в собственной правоте и всесилии, находил удобный ответ на ту непостижимую для себя загадку, каковой для него являлось сопротивление…
+1	Так	так	ADV	_	Degree=Pos	23	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	parataxis	_	_
+5	П.	П.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Генифе	Гениф	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	именно	именно	PART	_	_	10	advmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	существовании	существование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+11	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	революционный	революционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	разум	разум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	убежденный	убежденный	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	собственной	собственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	правоте	правота	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	всесилии	всесилие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	16	punct	_	_
+23	находил	находить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+24	удобный	удобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+26	на	на	ADP	_	_	31	case	_	_
+27	ту	тот	DET	_	Case=Acc|Gender=Fem|Number=Sing	31	det	_	_
+28	непостижимую	непостижимый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+29	для	для	ADP	_	_	30	case	_	_
+30	себя	себя	PRON	_	Case=Gen	28	obl	_	_
+31	загадку	загадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	каковой	каковой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	36	obl	_	_
+34	для	для	ADP	_	_	35	case	_	_
+35	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	33	obl	_	_
+36	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	31	acl:relcl	_	_
+37	сопротивление	сопротивление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	nsubj	_	SpaceAfter=No
+38	…	…	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 69
+# text = Откуда все время… возникают новые препятствия, новые трудности, если не из-за происков врагов" .
+1	Откуда	откуда	ADV	_	Degree=Pos	5	advmod	_	_
+2	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+4	…	…	PUNCT	_	_	3	punct	_	_
+5	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	препятствия	препятствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	трудности	трудность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	если	если	SCONJ	_	_	15	mark	_	_
+13	не	не	PART	_	_	15	advmod	_	_
+14	из-за	из-за	ADP	_	_	15	case	_	_
+15	происков	происк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	advcl	_	_
+16	врагов	враг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	15	punct	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 70
+# text = Примечательно, что для власти с точки зрения обращения к террору не имело существенного значения, являлся этот образ реальным или фантомным: применение исключительных методов дестабилизировало политическую и правовую системы в государстве, нивелируя характер относимости между основополагающими сущностями (добром и злом, дозволениями и запретами) и подменяя содержание социальных ценностей.
+1	Примечательно	примечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	13	punct	_	_
+3	что	что	SCONJ	_	_	13	mark	_	_
+4	для	для	ADP	_	_	5	case	_	_
+5	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
+8	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	compound	_	_
+9	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	террору	террор	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	имело	иметь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+14	существенного	существенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	являлся	являться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	conj	_	_
+18	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	19	det	_	_
+19	образ	образ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+20	реальным	реальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	17	obl	_	_
+21	или	или	CCONJ	_	_	22	cc	_	_
+22	фантомным	фантомный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	13	punct	_	_
+24	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+25	исключительных	исключительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+27	дестабилизировало	дестабилизировать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	_	_
+28	политическую	политический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	conj	_	_
+31	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	нивелируя	нивелировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	27	advcl	_	_
+36	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
+37	относимости	относимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	между	между	ADP	_	_	40	case	_	_
+39	основополагающими	основополагать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	40	amod	_	_
+40	сущностями	сущность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	37	nmod	_	_
+41	(	(	PUNCT	_	_	42	punct	_	SpaceAfter=No
+42	добром	добро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	40	parataxis	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	злом	зло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	42	conj	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	дозволениями	дозволение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	42	conj	_	_
+47	и	и	CCONJ	_	_	48	cc	_	_
+48	запретами	запрет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	42	conj	_	SpaceAfter=No
+49	)	)	PUNCT	_	_	42	punct	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
+51	подменяя	подменять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	35	conj	_	_
+52	содержание	содержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	51	obj	_	_
+53	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	54	amod	_	_
+54	ценностей	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	52	nmod	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = В таком случае несвоевременный отказ от террора может привести к неблагоприятным для государства последствиям: искажению правосознания представителей высшей политической власти в государстве и организации революционной борьбы ради самой борьбы.
+1	В	в	ADP	_	_	3	case	_	_
+2	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+4	несвоевременный	несвоевременный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	отказ	отказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6	от	от	ADP	_	_	7	case	_	_
+7	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	к	к	ADP	_	_	14	case	_	_
+11	неблагоприятным	неблагоприятный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	14	amod	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+14	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	9	obl	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	14	punct	_	_
+16	искажению	искажение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	30	iobj	_	_
+17	правосознания	правосознание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	высшей	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+20	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	государстве	государство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	организации	организация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	conj	_	_
+26	революционной	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+28	ради	ради	ADP	_	_	30	case	_	_
+29	самой	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	parataxis	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 72
+# text = Наступающие политические последствия такой деятельности становятся исключительно факультативными.
+1	Наступающие	Наступать	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	политические	политический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+4	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	5	det	_	_
+5	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	становятся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	исключительно	исключительно	ADV	_	Degree=Pos	8	obl	_	_
+8	факультативными	факультативный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 73
+# text = Однако не следует забывать о последствиях социальных: проблемно-объектовая концепция "террор – заговорщик" позволила конституировать французское общество путем материализации конкретной идеи и консолидации в рамках нее всего общества.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	забывать	забывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	о	о	ADP	_	_	6	case	_	_
+6	последствиях	последствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	_
+7	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	6	punct	_	_
+9	проблемно-объектовая	проблемно-объектовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	террор	террор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+13	–	–	PUNCT	_	_	14	punct	_	_
+14	заговорщик	заговорщик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	12	punct	_	_
+16	позволила	позволить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+17	конституировать	конституировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	французское	французский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	общество	общество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+20	путем	путем	ADP	_	_	21	case	_	_
+21	материализации	материализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
+22	конкретной	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	идеи	идея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	консолидации	консолидация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	25	nmod	_	_
+28	нее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	27	nmod	_	_
+29	всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing	30	det	_	_
+30	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 74
+# text = Следует согласиться с мнением П. Генифе, который считал, что самоидентификация французской нации произошла путем отсечения части социального организма, обновления общества за счет исключения из него части его членов .
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	csubj	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	мнением	мнение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+5	П.	П.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Генифе	Гениф	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	который	который	PRON	_	Case=Nom	9	nsubj	_	_
+9	считал	считать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	что	что	SCONJ	_	_	15	mark	_	_
+12	самоидентификация	самоидентификация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+13	французской	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	нации	нация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	произошла	произойти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+16	путем	путем	ADP	_	_	17	case	_	_
+17	отсечения	отсечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+18	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	организма	организм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	обновления	обновление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	conj	_	_
+23	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	за	за	ADP	_	_	26	case	_	_
+25	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	fixed	_	_
+26	исключения	исключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+27	из	из	ADP	_	_	28	case	_	_
+28	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
+29	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+30	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
+31	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	_
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Процесс рождения террора во Франции и последующий поиск возможных правовых альтернатив этому инструменту политического давления постоянно вынуждали представителей революционного движения в России периода второй половины XIX – начала XX в. регулярно проводить аналогию между историческим опытом Франции конца XVIII в. и собственными убеждениями.
+1	Процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+2	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	во	в	ADP	_	_	5	case	_	_
+5	Франции	Франция	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	_	_	8	cc	_	_
+7	последующий	последующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	поиск	поиск	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+9	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+10	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	альтернатив	альтернатива	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+12	этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	13	det	_	_
+13	инструменту	инструмент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	_
+14	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	давления	давление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	постоянно	постоянно	ADV	_	Degree=Pos	17	advmod	_	_
+17	вынуждали	вынуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	представителей	представитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+19	революционного	революционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+23	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	второй	второй	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	половины	половина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+26	XIX	xix	NUM	_	_	28	nummod	_	_
+27	–	–	PUNCT	_	_	26	punct	_	_
+28	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+29	XX	xx	NUM	_	_	30	nummod	_	_
+30	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+31	регулярно	регулярно	ADV	_	Degree=Pos	32	advmod	_	_
+32	проводить	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+33	аналогию	аналогия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+34	между	между	ADP	_	_	36	case	_	_
+35	историческим	исторический	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	опытом	опыт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	nmod	_	_
+37	Франции	Франция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+39	XVIII	xviii	NUM	_	_	40	nummod	_	_
+40	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	40	punct	_	_
+42	и	и	CCONJ	_	_	44	cc	_	_
+43	собственными	собственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	44	amod	_	_
+44	убеждениями	убеждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	40	conj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 76
+# text = Примечательно, что отдельные французские революционные последствия влияли на российскую революционно-террористическую среду не всегда позитивно.
+1	Примечательно	примечательный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	что	что	SCONJ	_	_	8	mark	_	_
+4	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+5	французские	французский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+6	революционные	революционный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+8	влияли	влиять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+9	на	на	ADP	_	_	14	case	_	_
+10	российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+11	революционно	революционный	ADJ	_	Degree=Pos	13	compound	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	террористическую	террористический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	среду	среда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	всегда	всегда	ADV	_	Degree=Pos	17	advmod	_	_
+17	позитивно	позитивный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	advmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 77
+# text = В условиях наличия качественно иной социальной системы образов в России появлялись сомнения в необходимости избрания подобного пути, применения методов насилия и террора, а также в специфике формирования нового политического курса и распределения властных полномочий.
+1	В	в	ADP	_	_	2	case	_	_
+2	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	11	obl	_	_
+3	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	качественно	качественно	ADV	_	Degree=Pos	5	obl	_	_
+5	иной	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+8	образов	образ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+11	появлялись	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	сомнения	сомнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+15	избрания	избрание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	пути	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	_
+20	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	насилия	насилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	а	а	CCONJ	_	_	28	cc	_	_
+26	также	также	PART	_	_	25	fixed	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	специфике	специфика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	conj	_	_
+29	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+31	политического	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	курса	курс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	распределения	распределение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	conj	_	_
+35	властных	властный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 78
+# text = В начале XX в. в дореволюционной, а впоследствии и в Советской России данная аналогия в тех или иных формах и объемах также проводилась руководителями революционных сил: французский 211
+1	В	в	ADP	_	_	2	case	_	_
+2	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+3	XX	xx	NUM	_	_	4	nummod	_	_
+4	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	дореволюционной	дореволюционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	а	а	CCONJ	_	_	13	cc	_	_
+9	впоследствии	впоследствии	ADV	_	Degree=Pos	13	advmod	_	_
+10	и	и	PART	_	_	13	advmod	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	Советской	советский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	conj	_	_
+14	данная	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	аналогия	аналогия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj:pass	_	_
+16	в	в	ADP	_	_	20	case	_	_
+17	тех	тот	DET	_	Case=Loc|Number=Plur	20	det	_	_
+18	или	или	CCONJ	_	_	19	cc	_	_
+19	иных	иной	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	conj	_	_
+20	формах	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	объемах	объем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	20	conj	_	_
+23	также	также	ADV	_	Degree=Pos	24	advmod	_	_
+24	проводилась	проводить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+25	руководителями	руководитель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	24	obl	_	_
+26	революционных	революционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+28	:	:	PUNCT	_	_	24	punct	_	_
+29	французский	французский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	nsubj:pass	_	_
+30	211	211	NUM	_	_	29	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 79
+# text = опыт представлялся иногда в качестве начального, иногда переходного или даже упаднического состояния революции .
+1	опыт	опыт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	представлялся	представляться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	иногда	иногда	ADV	_	Degree=Pos	2	advmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	fixed	_	_
+6	начального	начальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	иногда	иногда	ADV	_	Degree=Pos	9	obl	_	_
+9	переходного	переходный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	_
+10	или	или	CCONJ	_	_	12	cc	_	_
+11	даже	даже	PART	_	_	12	advmod	_	_
+12	упаднического	упаднический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	_
+14	революции	революция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 80
+# text = Главное, не учитывать этот опыт при исследовании процессов формирования террора в России не представлялось возможным.
+1	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+5	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	6	det	_	_
+6	опыт	опыт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	исследовании	исследование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+9	процессов	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	представлялось	представляться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	xcomp	_	_
+16	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = Таким образом, сохранение легитимности государственной власти, зародившейся в революционном пространстве, использовавшем террор в качестве средства достижения этой власти, представлялось сложнейшей
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	сохранение	сохранение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+5	легитимности	легитимность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	зародившейся	зародиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	5	acl	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	революционном	революционный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	использовавшем	использовать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
+15	террор	террор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	fixed	_	_
+18	средства	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+19	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	21	det	_	_
+21	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	14	punct	_	_
+23	представлялось	представляться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+24	сложнейшей	сложный	ADJ	_	Case=Gen|Degree=Sup|Gender=Fem|Number=Sing	23	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 82
+# text = задачей для французских революционеров, которая разрушала все существовавшие в тот период идеологические программы.
+1	задачей	задача	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+2	для	для	ADP	_	_	4	case	_	_
+3	французских	французский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	революционеров	революционер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	которая	который	PRON	_	Case=Nom	7	nsubj	_	_
+7	разрушала	разрушать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
+8	все	весь	DET	_	Case=Acc|Number=Plur	9	det	_	_
+9	существовавшие	существовать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	xcomp	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	12	det	_	_
+12	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+13	идеологические	идеологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	программы	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Последующий отказ от террора должен быть нормированным и находиться исключительно в правовом пространстве.
+1	Последующий	последующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	отказ	отказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	террора	террор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	_
+7	нормированным	нормировать	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	xcomp	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	находиться	находиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	conj	_	_
+10	исключительно	исключительно	ADV	_	Degree=Pos	13	obl	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	правовом	правовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 84
+# text = Вопрос о том, каким образом этого добиться без искажения социальных ценностей, без формирования латентных рисков и кризисных элементов в политико-правовой системе государства, до сих пор остается открытым.
+1	Вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	каким	какой	DET	_	Case=Ins|Gender=Masc|Number=Sing	6	det	_	_
+6	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+7	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+8	добиться	добиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	acl	_	_
+9	без	без	ADP	_	_	10	case	_	_
+10	искажения	искажение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+11	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	ценностей	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	без	без	ADP	_	_	15	case	_	_
+15	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+16	латентных	латентный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	рисков	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+18	и	и	CCONJ	_	_	20	cc	_	_
+19	кризисных	кризисный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	политико	политика	NOUN	_	Animacy=Inan|Gender=Fem	20	nmod	_	SpaceAfter=No
+23	-	-	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	правовой	правовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	parataxis	_	_
+26	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	31	punct	_	_
+28	до	до	ADP	_	_	31	advmod	_	_
+29	сих	сей	DET	_	Case=Gen|Number=Plur	28	fixed	_	_
+30	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	fixed	_	_
+31	остается	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	conj	_	_
+32	открытым	открытый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	31	obl	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

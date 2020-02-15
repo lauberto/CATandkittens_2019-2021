@@ -1,0 +1,1945 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = следует понимать целенаправленное и планомерно организованное выполнение лицами, состоящими на учете органов внутренних дел, различных действий, практических дел с целью формирования и развития уважительного отношения к нормам и традициям человеческого общежития.
+1	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	целенаправленное	целенаправленный	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	планомерно	планомерно	ADV	_	Degree=Pos	6	advmod	_	_
+6	организованное	организовывать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+7	выполнение	выполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	obl	_	_
+8	лицами	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	состоящими	состоять	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	учете	учет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	практических	практический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	conj	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	nmod	_	_
+24	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	conj	_	_
+27	уважительного	уважительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	к	к	ADP	_	_	30	case	_	_
+30	нормам	норма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	28	nmod	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	традициям	традиция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	30	conj	_	_
+33	человеческого	человеческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	общежития	общежитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Например, в нашем случае это может быть требование самостоятельного ежемесячного внесения платежей за оказание коммунальных услуг.
+1	Например	например	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing	5	det	_	_
+5	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	требование	требование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+10	самостоятельного	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+11	ежемесячного	ежемесячный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	внесения	внесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+13	платежей	платеж	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	оказание	оказание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
+16	коммунальных	коммунальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 3
+# text = Результатом систематического использования метода упражнения становится приобретение профилактируемым устойчивых качеств личности – навыков и привычек.
+1	Результатом	результат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+2	систематического	систематический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	использования	использование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	упражнения	упражнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	приобретение	приобретение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+8	профилактируемым	профилактируть	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	amod	_	_
+9	устойчивых	устойчивый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	качеств	качество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+11	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	–	–	PUNCT	_	_	13	punct	_	_
+13	навыков	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	привычек	привычка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = При этом чем сложнее формируемое качество, тем большее количество упражнений необходимо выполнить контролируемому для обретения устойчивой привычки.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+3	чем	что	SCONJ	_	_	4	mark	_	_
+4	сложнее	сложный	ADJ	_	Degree=Cmp	0	root	_	_
+5	формируемое	формировать	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	качество	качество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	тем	тем	SCONJ	_	_	12	mark	_	_
+9	большее	больший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+11	упражнений	упражнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	advcl	_	_
+13	выполнить	выполнить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	_
+14	контролируемому	контролируемый	VERB	_	Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	13	xcomp	_	_
+15	для	для	ADP	_	_	16	case	_	_
+16	обретения	обретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+17	устойчивой	устойчивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	привычки	привычка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 5
+# text = По справедливому замечанию ученых, конечно, было бы просто нерациональным стремиться сразу привить потенциальным преступникам навыки и привычки, свойственные сознательным членам общества .
+1	По	по	ADP	_	_	3	case	_	_
+2	справедливому	справедливый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	замечанию	замечание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+4	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	конечно	конечно	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+9	бы	бы	AUX	_	_	11	aux	_	_
+10	просто	просто	PART	_	_	11	advmod	_	_
+11	нерациональным	нерациональный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	obl	_	_
+12	стремиться	стремиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	_
+13	сразу	сразу	ADV	_	Degree=Pos	14	advmod	_	_
+14	привить	привить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+15	потенциальным	потенциальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	16	amod	_	_
+16	преступникам	преступник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	14	iobj	_	_
+17	навыки	навык	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	привычки	привычка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	свойственные	свойственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	19	amod	_	_
+22	сознательным	сознательный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	amod	_	_
+23	членам	член	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	21	iobj	_	_
+24	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 6
+# text = Речь должна идти о выработке на первых этапах простейших навыков социального поведения, таких как готовность к компромиссам, формирование элементарных навыков доброжелательного общения и т.п.
+1	Речь	речь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+3	идти	идти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	о	о	ADP	_	_	5	case	_	_
+5	выработке	выработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	первых	первый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	8	amod	_	_
+8	этапах	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	nmod	_	_
+9	простейших	простой	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	10	amod	_	_
+10	навыков	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	таких	такой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+15	как	как	SCONJ	_	_	16	mark	_	_
+16	готовность	готовность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	obl	_	_
+17	к	к	ADP	_	_	18	case	_	_
+18	компромиссам	компромисс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	формирование	формирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	conj	_	_
+21	элементарных	элементарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	навыков	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+23	доброжелательного	доброжелательной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	общения	общение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	т.п	т.п	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 7
+# text = Еще одним методом профилактической деятельности следует считать метод поощрения.
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	_
+2	одним	один	NUM	_	Case=Ins|Gender=Masc	3	nummod	_	_
+3	методом	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+4	профилактической	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	метод	метод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	поощрения	поощрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# text = В деятельности сотрудников полиции он ограничен в основном словесными формами.
+1	В	в	ADP	_	_	2	case	_	_
+2	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+3	сотрудников	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj:pass	_	_
+6	ограничен	ограничить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	_
+9	словесными	словесный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	10	amod	_	_
+10	формами	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 9
+# text = Это могут быть или доброжелательная реплика, или одобрительное замечание .
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	cop	_	_
+4	или	или	CCONJ	_	_	6	cc	_	_
+5	доброжелательная	доброжелательной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	реплика	реплика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	или	или	CCONJ	_	_	10	cc	_	_
+9	одобрительное	одобрительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	замечание	замечание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	_
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 10
+# text = Однако через органы местного самоуправления есть возможность поощрить подучетного и материально, например за конструирование детской площадки района.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	через	через	ADP	_	_	3	case	_	_
+3	органы	орган	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
+4	местного	местный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	самоуправления	самоуправление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+8	поощрить	поощрить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	obl	_	_
+9	подучетного	подучетный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	obj	_	_
+10	и	и	CCONJ	_	_	15	cc	_	_
+11	материально	материально	ADV	_	Degree=Pos	15	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	например	например	ADV	_	Degree=Pos	15	obl	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	конструирование	конструирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	conj	_	_
+16	детской	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	площадки	площадка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	района	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 11
+# text = Наиболее значимой мерой воздействия стимулирующего характера для лица, состоящего под административным надзором, является частичное снятие ранее установленных судом ограничений (ч. 3 ст. 4 Федерального закона № 64-ФЗ "Об административном надзоре за лицами, освобожденными из мест лишения свободы") либо вообще досрочное прекращение административного надзора (ч. 2 ст. 9 Федерального закона № 64-ФЗ).
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	obl	_	_
+2	значимой	значимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	мерой	мера	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	_
+4	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	стимулирующего	стимулировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+6	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	для	для	ADP	_	_	8	case	_	_
+8	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	состоящего	состоять	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+11	под	под	ADP	_	_	13	case	_	_
+12	административным	административный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	надзором	надзор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+16	частичное	частичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	снятие	снятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+18	ранее	ранее	ADV	_	Degree=Pos	19	advmod	_	_
+19	установленных	установить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+20	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+21	ограничений	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+22	(	(	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	parataxis	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	_
+25	3	3	NUM	_	_	26	nummod	_	_
+26	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	_
+28	4	4	NUM	_	_	26	nummod	_	_
+29	Федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+31	№	№	SYM	_	_	30	appos	_	_
+32	64-ФЗ	64-ФЗ	PROPN	_	_	31	appos	_	_
+33	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+34	Об	о	ADP	_	_	36	case	_	_
+35	административном	административный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	надзоре	надзор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	appos	_	_
+37	за	за	ADP	_	_	38	case	_	_
+38	лицами	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	36	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	освобожденными	освобождеть	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	38	acl	_	_
+41	из	из	ADP	_	_	42	case	_	_
+42	мест	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	40	obl	_	_
+43	лишения	лишение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	appos	_	_
+44	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+45	"	"	PUNCT	_	_	43	punct	_	SpaceAfter=No
+46	)	)	PUNCT	_	_	43	punct	_	_
+47	либо	либо	CCONJ	_	_	50	cc	_	_
+48	вообще	вообще	ADV	_	Degree=Pos	49	obl	_	_
+49	досрочное	досрочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	50	amod	_	_
+50	прекращение	прекращение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	43	conj	_	_
+51	административного	административный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+52	надзора	надзор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	_
+53	(	(	PUNCT	_	_	54	punct	_	SpaceAfter=No
+54	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	52	parataxis	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	54	punct	_	_
+56	2	2	NUM	_	_	57	nummod	_	_
+57	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	nmod	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	57	punct	_	_
+59	9	9	NUM	_	_	57	nummod	_	_
+60	Федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	61	amod	_	_
+61	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	57	nmod	_	_
+62	№	№	SYM	_	_	61	appos	_	_
+63	64-ФЗ	64-ФЗ	PROPN	_	_	62	appos	_	SpaceAfter=No
+64	)	)	PUNCT	_	_	54	punct	_	SpaceAfter=No
+65	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 12
+# text = В современных социально-экономических условиях достаточно широко может применяться метод оказания помощи.
+1	В	в	ADP	_	_	6	case	_	_
+2	современных	современный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+3	социально	социальный	ADJ	_	Degree=Pos	5	compound	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	экономических	экономический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	obl	_	_
+7	достаточно	достаточно	ADV	_	Degree=Pos	8	advmod	_	_
+8	широко	широко	ADV	_	Degree=Pos	9	advmod	_	_
+9	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	применяться	применяться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	xcomp	_	_
+11	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+12	оказания	оказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 13
+# text = В частности, он должен использоваться для трудового устройства контролируемого, решения вопросов, связанных с улучшением его бытовых условий, организацией досуга, установлением социально полезных контактов, планированием денежных расходов, выбором жизненных целей и т.д.
+1	В	в	ADP	_	_	5	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+5	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+6	использоваться	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	трудового	трудовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	устройства	устройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+10	контролируемого	контролировать	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+13	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	улучшением	улучшений	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	_
+18	его	его	DET	_	_	20	det	_	_
+19	бытовых	бытовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	условий	условие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	организацией	организация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	conj	_	_
+23	досуга	досуг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	установлением	установление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	conj	_	_
+26	социально	социально	ADV	_	Degree=Pos	27	obl	_	_
+27	полезных	полезный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	контактов	контакт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	планированием	планирование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	conj	_	_
+31	денежных	денежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	_
+32	расходов	расход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	выбором	выбор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	conj	_	_
+35	жизненных	жизненный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	nmod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	т.	так	ADV	_	Degree=Pos	17	conj	_	SpaceAfter=No
+39	д	далее	ADV	_	Degree=Pos	38	fixed	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14
+# text = Нельзя пренебрегать оказанием помощи через воздействие на окружающую микросреду профилактируемого.
+1	Нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+2	пренебрегать	пренебрегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	оказанием	оказание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
+4	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	через	через	ADP	_	_	6	case	_	_
+6	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	окружающую	окружать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	_
+9	микросреду	микросреда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+10	профилактируемого	профилактируеть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = По справедливому замечанию В.А. Плешакова, отрицательные факторы могут корениться во всех сферах микросреды: в семье, трудовом коллективе, ближайшем окружении .
+1	По	по	ADP	_	_	3	case	_	_
+2	справедливому	справедливый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	замечанию	замечание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+4	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Плешакова	Плешаков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	отрицательные	отрицательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	факторы	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+10	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	корениться	корениться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	10	xcomp	_	_
+12	во	в	ADP	_	_	14	case	_	_
+13	всех	весь	DET	_	Case=Loc|Number=Plur	14	det	_	_
+14	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	11	obl	_	_
+15	микросреды	микросреда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	14	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	семье	семья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	трудовом	трудовой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	коллективе	коллектив	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	ближайшем	близкий	ADJ	_	Case=Loc|Degree=Sup|Gender=Neut|Number=Sing	24	amod	_	_
+24	окружении	окружение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	_
+25	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 16
+# text = Для нейтрализации их пагубного влияния индивидуальная профилактическая работа проводится с носителями подобного фактора.
+1	Для	для	ADP	_	_	2	case	_	_
+2	нейтрализации	нейтрализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+3	их	их	PRON	_	Case=Gen|Number=Plur|Person=3	5	nmod	_	_
+4	пагубного	пагубный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+6	индивидуальная	индивидуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	профилактическая	профилактический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+9	проводится	проводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	носителями	носитель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	obl	_	_
+12	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	фактора	фактор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 17
+# text = Наиболее кардинальное решение вопроса предусматривает разрыв профилактируемого с данной микросредой (перевод в другой трудовой коллектив, смена места жительства).
+1	Наиболее	наиболее	ADV	_	Degree=Pos	2	obl	_	_
+2	кардинальное	кардинальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	вопроса	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	предусматривает	предусматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	разрыв	разрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	профилактируемого	профилактируеть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	6	acl	_	_
+8	с	с	ADP	_	_	10	case	_	_
+9	данной	данный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	микросредой	микросреда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	перевод	перевод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	_
+13	в	в	ADP	_	_	16	case	_	_
+14	другой	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	трудовой	трудовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	коллектив	коллектив	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	смена	смена	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	conj	_	_
+19	места	место	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	жительства	жительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 18
+# text = Если на это есть законные основания, к носителям отрицательного влияния долж-
+1	Если	если	SCONJ	_	_	4	mark	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	obl	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	законные	законный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	основания	основание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	носителям	носитель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+10	отрицательного	отрицательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	долж	долж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = ны применяться меры соответствующей юридической ответственности.
+1	ны	на	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+2	применяться	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	xcomp	_	_
+3	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+4	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Так, при наличии достаточных правовых оснований, лиц, отрицательно влияющих на профилактируемого, следует направлять на лечение от алкоголизма или наркомании.
+1	Так	так	ADV	_	Degree=Pos	16	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	при	при	ADP	_	_	4	case	_	_
+4	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+5	достаточных	достаточный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+6	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	отрицательно	отрицательно	ADV	_	Degree=Pos	12	advmod	_	_
+12	влияющих	влиять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	профилактируемого	профилактируемый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	направлять	направлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	csubj	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	лечение	лечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	_
+20	от	от	ADP	_	_	21	case	_	_
+21	алкоголизма	алкоголизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	obl	_	_
+22	или	или	CCONJ	_	_	23	cc	_	_
+23	наркомании	наркомания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 21
+# text = При отсутствии вышеуказанных оснований помощь должна заключаться в работе сотрудника полиции по развенчанию носителя антиобщественного влияния .
+1	При	при	ADP	_	_	2	case	_	_
+2	отсутствии	отсутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	вышеуказанных	вышеуказанный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	оснований	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+5	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+7	заключаться	заключаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	xcomp	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+10	сотрудника	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	развенчанию	развенчание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	nmod	_	_
+14	носителя	носитель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	антиобщественного	антиобщественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 22
+# text = К числу более ограничивающих права граждан, но достаточно эффективных методов профилактики относится принуждение.
+1	К	к	ADP	_	_	2	case	_	_
+2	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	13	obl	_	_
+3	более	более	ADV	_	Degree=Cmp	4	advmod	_	_
+4	ограничивающих	ограничивать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+5	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	nmod	_	_
+6	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	но	но	CCONJ	_	_	10	cc	_	_
+9	достаточно	достаточно	ADV	_	Degree=Pos	10	obl	_	_
+10	эффективных	эффективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+12	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	принуждение	принуждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 23
+# text = Однако необходимо помнить, что меры принуждения по отношению к иным методам играют вспомогательную роль.
+1	Однако	однако	ADV	_	Degree=Pos	2	obl	_	_
+2	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	_
+5	что	что	SCONJ	_	_	13	mark	_	_
+6	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	_
+7	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	по	по	ADP	_	_	12	case	_	_
+9	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	fixed	_	_
+10	к	к	ADP	_	_	8	fixed	_	_
+11	иным	иной	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	12	amod	_	_
+12	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	7	nmod	_	_
+13	играют	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+14	вспомогательную	вспомогательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = Они применяются, если другие методы воздействия не позволили достичь положительного результата.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj:pass	_	_
+2	применяются	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	если	если	SCONJ	_	_	9	mark	_	_
+5	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+7	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	позволили	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+10	достичь	достичь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	положительного	положительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	результата	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 25
+# text = По справедливому замечанию Д.Г. Нохрина, метод принуждения является "чрезвычайным" методом социального регулирования .
+1	По	по	ADP	_	_	3	case	_	_
+2	справедливому	справедливый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	замечанию	замечание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+4	Д.	Д.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Нохрина	Нохрин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	чрезвычайным	чрезвычайный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	12	punct	_	_
+14	методом	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	_
+15	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 26
+# text = Он должен вступать в действие только там, где общественные отношения столь специфичны, что любое отклонение от нормативно заданного хода их развития способно причинить значительный вред интересам личности, общества или государства .
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+3	вступать	вступать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	там	там	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	где	где	ADV	_	Degree=Pos	13	advmod	_	_
+10	общественные	общественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	_
+12	столь	столь	ADV	_	Degree=Pos	13	obl	_	_
+13	специфичны	специфичный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	7	acl:relcl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	24	punct	_	_
+15	что	что	SCONJ	_	_	24	mark	_	_
+16	любое	любой	DET	_	Case=Nom|Gender=Neut|Number=Sing	17	det	_	_
+17	отклонение	отклонение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+18	от	от	ADP	_	_	21	case	_	_
+19	нормативно	нормативно	ADV	_	Degree=Pos	20	advmod	_	_
+20	заданного	задать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+21	хода	ход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+22	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	23	nmod	_	_
+23	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+24	способно	способный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	advcl	_	_
+25	причинить	причинить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+26	значительный	значительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	_
+28	интересам	интерес	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	25	iobj	_	_
+29	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	conj	_	_
+32	или	или	CCONJ	_	_	33	cc	_	_
+33	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	conj	_	_
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 27
+# text = С точки зрения отечественных ученых, метод принуждения включает в себя систему более узких методов, каждый из которых характеризуется особенными, специфическими чертами, прежде всего особым способом реализации и целевым предназначением.
+1	С	с	ADP	_	_	2	case	_	_
+2	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	parataxis	_	_
+3	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	compound	_	_
+4	отечественных	отечественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	включает	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	себя	себя	PRON	_	Case=Acc	9	obl	_	_
+12	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+13	более	более	ADV	_	Degree=Cmp	14	obl	_	_
+14	узких	узкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+18	из	из	ADP	_	_	19	case	_	_
+19	которых	который	PRON	_	Case=Gen	17	nmod	_	_
+20	характеризуется	характеризоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	_
+21	особенными	особенный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	24	amod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	специфическими	специфический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	conj	_	_
+24	чертами	черта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	прежде	прежде	ADP	_	_	29	advmod	_	_
+27	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	fixed	_	_
+28	особым	особый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	способом	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	conj	_	_
+30	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+31	и	и	CCONJ	_	_	33	cc	_	_
+32	целевым	целевой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	предназначением	предназначение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 28
+# text = Так, в качестве более узких методов выделяют методы пресечения, ограничения, правовосстановления, превенции, юридической ответственности .
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	7	case	_	_
+4	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	fixed	_	_
+5	более	более	ADV	_	Degree=Cmp	6	obl	_	_
+6	узких	узкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	_
+8	выделяют	выделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+10	пресечения	пресечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	ограничения	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	правовосстановления	правовосстановление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	превенции	превенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 29
+# text = Мы полагаем, что заострять внимание на них в рамках настоящего исследования нет необходимости.
+1	Мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	_
+2	полагаем	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	13	punct	_	_
+4	что	что	SCONJ	_	_	13	mark	_	_
+5	заострять	заострять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	13	csubj	_	_
+6	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	5	obl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	5	obl	_	_
+11	настоящего	настоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+14	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Подробный анализ методам принуждения дан в разрезе принудительных мер административного характера .
+1	Подробный	подробный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
+4	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	дан	дать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	разрезе	разрез	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+8	принудительных	принудительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	административного	административный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 31
+# text = Здесь лишь отметим, что наличие данного метода применительно к рассматриваемому виду деятельности обусловлено повышенной опасностью лиц, склонных к совершению преступлений.
+1	Здесь	здесь	ADV	_	Degree=Pos	3	advmod	_	_
+2	лишь	лишь	PART	_	_	3	advmod	_	_
+3	отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	14	punct	_	_
+5	что	что	SCONJ	_	_	14	mark	_	_
+6	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	_	_
+7	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	метода	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	применительно	применительно	ADV	_	Degree=Pos	14	advmod	_	_
+10	к	к	ADP	_	_	12	case	_	_
+11	рассматриваемому	рассматривать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	виду	вид	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+13	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+15	повышенной	повышенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	опасностью	опасность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	obl	_	_
+17	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	склонных	склонный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	совершению	совершение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	obl	_	_
+22	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 32
+# text = Актуальность применения государственного принуждения в административно-правовых отношениях повышается в случае негативного постпенитенциарного поведения лица, отбывшего уголовное наказание в виде лишения свободы.
+1	Актуальность	актуальность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	9	case	_	_
+6	административно	административный	ADJ	_	Degree=Pos	8	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	правовых	правовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	9	amod	_	_
+9	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	2	nmod	_	_
+10	повышается	повышаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+13	негативного	негативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+14	постпенитенциарного	постпенитенциарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+16	лица	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	отбывшего	отбыть	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
+19	уголовное	уголовный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	наказание	наказание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	fixed	_	_
+23	лишения	лишение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+24	свободы	свобода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 33
+# text = Это свидетельствует о том, что наказание не достигло своих целей.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	о	о	ADP	_	_	4	case	_	_
+4	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	достигло	достичь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	_
+10	своих	свой	DET	_	Case=Gen|Number=Plur	11	det	_	_
+11	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 34
+# text = По справедливому замечанию В.С. Егорова, это предопределяет невозможность эффективного воздействия на такого субъекта иными методами в силу его более глубокой степени нравственной запущенности или наличия психического расстройства, которое исключает возможность адекватно оценивать свое поведение .
+1	По	по	ADP	_	_	3	case	_	_
+2	справедливому	справедливый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	замечанию	замечание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	parataxis	_	_
+4	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Егорова	Егоров	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	предопределяет	предопределявать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	невозможность	невозможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+11	эффективного	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	на	на	ADP	_	_	15	case	_	_
+14	такого	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	субъекта	субъект	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	_
+16	иными	иной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+17	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	nmod	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	nmod	_	_
+20	его	он	DET	_	_	23	det	_	_
+21	более	более	ADV	_	Degree=Cmp	22	obl	_	_
+22	глубокой	глубокий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+24	нравственной	нравственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	запущенности	запущенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+26	или	или	CCONJ	_	_	27	cc	_	_
+27	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	conj	_	_
+28	психического	психический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	расстройства	расстройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	которое	который	PRON	_	Case=Nom	32	nsubj	_	_
+32	исключает	исключать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl:relcl	_	_
+33	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+34	адекватно	адекватно	ADV	_	Degree=Pos	35	advmod	_	_
+35	оценивать	оценивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	33	obl	_	_
+36	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	37	det	_	_
+37	поведение	поведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	35	obj	_	_
+38	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 35
+# text = Практика изучения дел по продлению срока административного надзора в отношении лиц, допускающих правонарушения, показала, что в деятельности органов внутренних дел Алтайского края в качестве меры принуждения в большей части (79,6%) применяется обязанность выплаты штрафа (как правило, в размере до 1 000 руб.).
+1	Практика	практика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+2	изучения	изучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	продлению	продление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+6	срока	срок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	административного	административный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	надзора	надзор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	допускающих	допускать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
+14	правонарушения	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	13	punct	_	_
+16	показала	показать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	37	punct	_	_
+18	что	что	SCONJ	_	_	37	mark	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	37	obl	_	_
+21	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+22	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+24	Алтайского	алтайский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	края	край	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	fixed	_	_
+28	меры	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	obl	_	_
+29	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	в	в	ADP	_	_	32	case	_	_
+31	большей	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	_
+33	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+34	79,6	79,6	NUM	_	_	35	nummod	_	SpaceAfter=No
+35	%	%	SYM	_	_	32	parataxis	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	35	punct	_	_
+37	применяется	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	ccomp	_	_
+38	обязанность	обязанность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	37	nsubj:pass	_	_
+39	выплаты	выплата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+40	штрафа	штраф	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+41	(	(	PUNCT	_	_	46	punct	_	SpaceAfter=No
+42	как	как	SCONJ	_	_	43	mark	_	_
+43	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	46	parataxis	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	43	punct	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	размере	размер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	39	appos	_	_
+47	до	до	ADP	_	_	49	case	_	_
+48	1 000	1 000	NUM	_	_	49	nummod	_	_
+49	руб	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	46	nmod	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	49	punct	_	SpaceAfter=No
+51	)	)	PUNCT	_	_	46	punct	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 36
+# text = Методы профилактического воздействия также могут складываться из приемов , к числу которых, по справедливому замечанию А.И. Алексеева, следует относить разъяснение и опровержение [14.
+1	Методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	профилактического	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	также	также	ADV	_	Degree=Pos	5	advmod	_	_
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	складываться	складываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	_
+7	из	из	ADP	_	_	8	case	_	_
+8	приемов	прием	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+12	которых	который	PRON	_	Case=Gen	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	по	по	ADP	_	_	16	case	_	_
+15	справедливому	справедливый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	замечанию	замечание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	parataxis	_	_
+17	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	_
+19	Алексеева	Алексеева	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+22	относить	относить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	csubj	_	_
+23	разъяснение	разъяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	опровержение	опровержение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	conj	_	_
+26	[	[	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	14	14	NUM	_	_	25	nummod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = С. 57].
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	57	57	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	]	]	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 38
+# text = Разъяснение раскрывается через привитие социальных ценностей (например, бережного отношения к общественному имуществу), прогнозирование последствий повторных правонарушений (разъяснение действующего законодательства).
+1	Разъяснение	Разъяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	раскрывается	раскрываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	через	через	ADP	_	_	4	case	_	_
+4	привитие	привитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+5	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	ценностей	ценность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+8	например	например	ADV	_	Degree=Pos	11	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	бережного	бережный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	parataxis	_	_
+12	к	к	ADP	_	_	14	case	_	_
+13	общественному	общественный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	имуществу	имущество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	прогнозирование	прогнозирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	conj	_	_
+18	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	_
+19	повторных	повторный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	разъяснение	разъяснение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	parataxis	_	_
+23	действующего	действовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	amod	_	_
+24	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 39
+# text = Опровержение заключается в выработке убеждения ложности, несостоятельности криминальных установок, идеалов, преодолении извращенных взглядов о нормах во взаимоотношениях людей, развенчании пренебрежительного, циничного отношения к социальным ценностям .
+1	Опровержение	опровержение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	выработке	выработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	_
+5	убеждения	убеждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	ложности	ложность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	несостоятельности	несостоятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+9	криминальных	криминальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	установок	установка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	идеалов	идеал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	преодолении	преодоление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	_
+15	извращенных	извращенный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	нормах	норма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	nmod	_	_
+19	во	в	ADP	_	_	20	case	_	_
+20	взаимоотношениях	взаимоотношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	18	nmod	_	_
+21	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	развенчании	развенчание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	_
+24	пренебрежительного	пренебрежительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	циничного	циничный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	conj	_	_
+27	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+28	к	к	ADP	_	_	30	case	_	_
+29	социальным	социальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	30	amod	_	_
+30	ценностям	ценность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	27	nmod	_	_
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = В профилактической деятельности также могут применяться такие приемы, как активизация сокровенных чувств, "взрыв", вызывание гуманных переживаний, фланговый подход, прием опосредования, нравственное упражнение, просьба, проявление огорчения, организация успеха в деятельности, проявления доброты, внимания и заботы, приемы моральной поддержки и укрепления веры воспитуемого в собственные силы .
+1	В	в	ADP	_	_	3	case	_	_
+2	профилактической	профилактический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	также	также	ADV	_	Degree=Pos	5	advmod	_	_
+5	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	применяться	применяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+7	такие	такой	DET	_	Case=Nom|Number=Plur	8	det	_	_
+8	приемы	прием	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	как	как	SCONJ	_	_	11	mark	_	_
+11	активизация	активизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	obl	_	_
+12	сокровенных	сокровенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	чувств	чувство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	взрыв	взрыв	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	вызывание	вызывание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	_
+20	гуманных	гуманный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	переживаний	переживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	фланговый	фланговый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	прием	прием	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	_
+27	опосредования	опосредование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	нравственное	нравственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	упражнение	упражнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	просьба	просьба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	проявление	проявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	_
+35	огорчения	огорчение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	организация	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+38	успеха	успех	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
+39	в	в	ADP	_	_	40	case	_	_
+40	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	проявления	проявление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	conj	_	_
+43	доброты	доброта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	45	punct	_	_
+45	внимания	внимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+46	и	и	CCONJ	_	_	47	cc	_	_
+47	заботы	забота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	49	punct	_	_
+49	приемы	прием	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	47	conj	_	_
+50	моральной	моральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	_
+51	поддержки	поддержка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	nmod	_	_
+52	и	и	CCONJ	_	_	53	cc	_	_
+53	укрепления	укрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	51	conj	_	_
+54	веры	вера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	53	nmod	_	_
+55	воспитуемого	воспитуть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	54	amod	_	_
+56	в	в	ADP	_	_	58	case	_	_
+57	собственные	собственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	58	amod	_	_
+58	силы	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	55	obl	_	_
+59	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 41
+# text = Изучение передового опыта профилактической работы коллег зарубежных стран показал, что в данном виде деятельности правоохранительные органы широко опираются на общественные советы, ассоциации и другие территориальные объединения граждан, подразделения "добровольной стражи", группы гражданского патрулирования и т.д. .
+1	Изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	передового	передовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	профилактической	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	коллег	коллега	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	зарубежных	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	19	punct	_	_
+11	что	что	SCONJ	_	_	19	mark	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+15	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	правоохранительные	правоохранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+18	широко	широко	ADV	_	Degree=Pos	19	advmod	_	_
+19	опираются	опираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	ccomp	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	общественные	общественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	_	_
+22	советы	совет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	ассоциации	ассоциация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	22	parataxis	_	_
+25	и	и	CCONJ	_	_	28	cc	_	_
+26	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+27	территориальные	территориальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	28	amod	_	_
+28	объединения	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	conj	_	_
+29	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	подразделения	подразделение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	24	conj	_	_
+32	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+33	добровольной	добровольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	стражи	стража	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	группы	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	24	conj	_	_
+38	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+39	патрулирования	патрулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	37	nmod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	т.	так	ADV	_	Degree=Pos	24	conj	_	SpaceAfter=No
+42	д.	далее	ADV	_	Degree=Pos	41	fixed	_	_
+43	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 42
+# text = Во многих странах возникли общественные движения по оказанию помощи осужденным в период наказания и после их освобождения из тюрьмы .
+1	Во	в	ADP	_	_	3	case	_	_
+2	многих	много	NUM	_	_	3	amod	_	_
+3	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	_
+4	возникли	возникнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	общественные	общественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	движения	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+7	по	по	ADP	_	_	8	case	_	_
+8	оказанию	оказание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	_
+9	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	осужденным	осуждеть	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+13	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	после	после	ADP	_	_	17	case	_	_
+16	их	они	DET	_	_	17	det	_	_
+17	освобождения	освобождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+18	из	из	ADP	_	_	19	case	_	_
+19	тюрьмы	тюрьма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43
+# text = Отечественные ученые также согласны с тезисом, что более широкое привлечение граждан к работе по предупреждению правонарушений (в том числе и в качестве помощников участковых уполномоченных полиции) позитивно скажется на результатах противодействия преступности .
+1	Отечественные	отечественный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+3	также	также	ADV	_	Degree=Pos	4	obl	_	_
+4	согласны	согласный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	тезисом	тезис	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	31	punct	_	_
+8	что	что	SCONJ	_	_	31	mark	_	_
+9	более	более	ADV	_	Degree=Cmp	10	obl	_	_
+10	широкое	широкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
+12	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+13	к	к	ADP	_	_	14	case	_	_
+14	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+15	по	по	ADP	_	_	16	case	_	_
+16	предупреждению	предупреждение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	nmod	_	_
+17	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+19	в	в	ADP	_	_	21	case	_	_
+20	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	21	det	_	_
+21	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	nmod	_	_
+22	и	и	PART	_	_	25	advmod	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	помощников	помощник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	parataxis	_	_
+26	участковых	участковый	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+27	уполномоченных	уполномочить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	28	amod	_	_
+28	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	25	punct	_	_
+30	позитивно	позитивно	ADV	_	Degree=Pos	31	advmod	_	_
+31	скажется	сказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	результатах	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	31	obl	_	_
+34	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	_
+35	преступности	преступность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+36	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 44
+# text = Необходимо придерживаться следующих требований, предъявляемых к методам индивидуальной профилактической работы: 1.
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	придерживаться	придерживаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	1	csubj	_	_
+3	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	требований	требование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	предъявляемых	предъявлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	obl	_	_
+9	индивидуальной	индивидуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+10	профилактической	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	1	1	NUM	_	_	11	nummod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 45
+# text = Целью применения методов должна выступать переориентация асоциальных взглядов и традиций контролируемого.
+1	Целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+2	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+5	выступать	выступать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	переориентация	переориентация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	асоциальных	асоциальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	традиций	традиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	conj	_	_
+11	контролируемого	контролировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 46
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = К разработке профилактических мер следует подходить комплексно, с привлечением представителей всех ведомств, входящих в систему профилактики правонарушений .
+1	К	к	ADP	_	_	2	case	_	_
+2	разработке	разработка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+3	профилактических	профилактический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	подходить	подходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	комплексно	комплексно	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	привлечением	привлечение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	conj	_	_
+11	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	obl	_	_
+12	всех	весь	DET	_	Case=Gen|Number=Plur	13	det	_	_
+13	ведомств	ведомство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	входящих	входить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+18	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 48
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 49
+# text = Сами воспитательные мероприятия должны осуществляться последовательно и непрерывно, а в случае работы с ранее судимыми и отбывающими наказание – в тесной связи с режимными требованиями, установленными судом обязательствами и правоограничениями .
+1	Сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	воспитательные	воспитательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	мероприятия	мероприятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+4	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+5	осуществляться	осуществлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	4	xcomp	_	_
+6	последовательно	последовательно	ADV	_	Degree=Pos	5	advmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	непрерывно	непрерывно	ADV	_	Degree=Pos	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	а	а	CCONJ	_	_	12	cc	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	conj	_	_
+13	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	с	с	ADP	_	_	19	case	_	_
+15	ранее	ранее	ADV	_	Degree=Pos	16	obl	_	_
+16	судимыми	судимь	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	acl	_	_
+17	и	и	CCONJ	_	_	18	cc	_	_
+18	отбывающими	отбывать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	conj	_	_
+19	наказание	наказание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
+20	–	–	PUNCT	_	_	19	punct	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	тесной	тесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	_
+24	с	с	ADP	_	_	26	case	_	_
+25	режимными	режимный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	_
+26	требованиями	требование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	установленными	установить	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	acl	_	_
+29	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	28	obl	_	_
+30	обязательствами	обязательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	28	obl	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	правоограничениями	правоограничение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	30	conj	_	_
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 50
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = Любой метод должен применяться в интересах законопослушного общества.
+1	Любой	любой	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+4	применяться	применяться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	3	xcomp	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	интересах	интерес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	_
+7	законопослушного	законопослушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 52
+# text = Следует помнить, что профилактика – процесс творческий.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	что	что	SCONJ	_	_	7	mark	_	_
+5	профилактика	профилактика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	–	–	PUNCT	_	_	5	punct	_	_
+7	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	_
+8	творческий	творческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 53
+# text = Это деликатное и тонкое дело.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	деликатное	деликатный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	тонкое	тонкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	_
+5	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 54
+# text = В подобной работе не может быть инструкций на все случаи жизни.
+1	В	в	ADP	_	_	3	case	_	_
+2	подобной	подобный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	cop	_	_
+7	инструкций	инструкция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	все	весь	DET	_	Case=Acc|Number=Plur	10	det	_	_
+10	случаи	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	_
+11	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 55
+# text = Следует согласиться с А.А. Борченко, что в реальной действительности определяющую роль могут сыграть любые обстоятельства как субъективного, так и объективного характера .
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	1	csubj	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Борченко	Борченко	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	что	что	PRON	_	Case=Nom	14	nsubj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	реальной	реальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	действительности	действительность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+12	определяющую	определять	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+14	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+15	сыграть	сыграть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	obl	_	_
+16	любые	любой	DET	_	Case=Acc|Number=Plur	17	det	_	_
+17	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+18	как	как	SCONJ	_	_	19	mark	_	_
+19	субъективного	субъективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	acl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	так	так	ADV	_	Degree=Pos	24	cc	_	_
+22	и	и	PART	_	_	21	fixed	_	_
+23	объективного	объективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	conj	_	_
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 56
+# text = Поэтому, на 203
+1	Поэтому	поэтому	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	203	203	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 57
+# text = наш взгляд, сотрудникам полиции целесообразно придерживаться следующих правил профилактики: 1.
+1	наш	наш	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	сотрудникам	сотрудник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
+5	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	целесообразно	целесообразный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+7	придерживаться	придерживаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	csubj	_	_
+8	следующих	следующий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	obl	_	_
+10	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	1	1	NUM	_	_	10	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 58
+# text = Универсальных профилактических мер не существует, эффективность их всегда избирательна.
+1	Универсальных	универсальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+2	профилактических	профилактический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	мер	мера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	эффективность	эффективность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+8	их	их	DET	_	_	7	det	_	_
+9	всегда	всегда	ADV	_	Degree=Pos	10	advmod	_	_
+10	избирательна	избирательный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 59
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = Профилактическое воздействие – процесс длительный: положительные результаты начинают проявляться не сразу, а постепенно, когда убежденность профилактируемого лица в целесообразности законопослушного поведения перерастет в общественно полезное поведение.
+1	Профилактическое	профилактический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	воздействие	воздействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	–	–	PUNCT	_	_	2	punct	_	_
+4	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	длительный	длительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	4	punct	_	_
+7	положительные	положительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	начинают	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+10	проявляться	проявляться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	9	xcomp	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	сразу	сразу	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	а	а	CCONJ	_	_	15	cc	_	_
+15	постепенно	постепенно	ADV	_	Degree=Pos	12	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	25	punct	_	_
+17	когда	когда	SCONJ	_	_	25	mark	_	_
+18	убежденность	убежденность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+19	профилактируемого	профилактируеть	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	целесообразности	целесообразность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	_
+23	законопослушного	законопослушный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	перерастет	перерасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	advcl	_	_
+26	в	в	ADP	_	_	29	case	_	_
+27	общественно	общественно	ADV	_	Degree=Pos	28	obl	_	_
+28	полезное	полезный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	поведение	поведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	25	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 61
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = Успех профилактики напрямую зависит от полноты исходной информации, в частности о населении, проживающем на обслуживаемой территории.
+1	Успех	успех	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	напрямую	напрямую	ADV	_	Degree=Pos	4	advmod	_	_
+4	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	полноты	полнота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+7	исходной	исходный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	в	в	ADP	_	_	13	discourse	_	_
+11	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	fixed	_	_
+12	о	о	ADP	_	_	13	case	_	_
+13	населении	население	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	проживающем	проживають	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+16	на	на	ADP	_	_	18	case	_	_
+17	обслуживаемой	обслуживать	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	18	amod	_	_
+18	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 63
+# text = 4.
+1	4	4	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = Результативность профилактического воздействия во многом обусловлена способностями сотрудника полиции прогнозировать поведение человека.
+1	Результативность	результативность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+2	профилактического	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	во	в	ADP	_	_	5	case	_	_
+5	многом	многое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	обусловлена	обусловить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	способностями	способность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	obl	_	_
+8	сотрудника	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	прогнозировать	прогнозировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+11	поведение	поведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 65
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = Немаловажную роль также играет опыт работы сотрудника полиции с людьми.
+1	Немаловажную	немаловажный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+3	также	также	ADV	_	Degree=Pos	4	advmod	_	_
+4	играет	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	опыт	опыт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	сотрудника	сотрудник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	полиции	полиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 67
+# text = Причем не обязательно в должности представителя власти.
+1	Причем	причем	CCONJ	_	_	5	cc	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	обязательно	обязательно	ADV	_	Degree=Pos	5	obl	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	должности	должность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	_
+6	представителя	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 68
+# text = В целом, подводя итог представленным выше рассуждениям, следует поддержать мнения ученых и практических работников, согласно которым формы и методы профилактической деятельности не могут быть универсальными для всех регионов Российской Федерации .
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	подводя	подводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	_
+5	итог	итог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	представленным	представить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+7	выше	высоко	ADV	_	Degree=Pos	6	advmod	_	_
+8	рассуждениям	рассуждение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	iobj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	поддержать	поддержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	_
+12	мнения	мнение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+13	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	и	и	CCONJ	_	_	16	cc	_	_
+15	практических	практический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	работников	работник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	26	punct	_	_
+18	согласно	согласно	ADP	_	_	19	case	_	_
+19	которым	который	PRON	_	Case=Dat	26	obl	_	_
+20	формы	форма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	26	nsubj	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	методы	метод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	conj	_	_
+23	профилактической	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
+27	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	cop	_	_
+28	универсальными	универсальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	obl	_	_
+29	для	для	ADP	_	_	31	case	_	_
+30	всех	весь	DET	_	Case=Gen|Number=Plur	31	det	_	_
+31	регионов	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+32	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+34	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 69
+# text = Они должны учитывать национальные, экономические, конфессиональные и иные особенности субъектов Российской Федерации, городов, районов.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+3	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	национальные	национальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	экономические	экономический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	конфессиональные	конфессиональный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	conj	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	conj	_	_
+11	особенности	особенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+12	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+13	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	городов	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	районов	район	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 70
+# text = Жесткие разграничительные линии между различными формами и методами предупреждения преступлений провести невозможно .
+1	Жесткие	жесткий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	разграничительные	разграничительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	линии	линия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	11	obj	_	_
+4	между	между	ADP	_	_	6	case	_	_
+5	различными	различный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	формами	форма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	6	conj	_	_
+9	предупреждения	предупреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	провести	провести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	_
+12	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 71
+# text = На практике все они реализуются в тесном переплетении между собой.
+1	На	на	ADP	_	_	2	case	_	_
+2	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+3	все	весь	DET	_	Case=Nom|Number=Plur	4	det	_	_
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	5	nsubj	_	_
+5	реализуются	реализоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	тесном	тесный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	переплетении	переплетение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+9	между	между	ADP	_	_	10	case	_	_
+10	собой	себя	PRON	_	Case=Ins	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 72
+# text = По нашему глубокому убеждению, только встретившись с человеком, можно
+1	По	по	ADP	_	_	4	case	_	_
+2	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	4	det	_	_
+3	глубокому	глубокий	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	убеждению	убеждение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	встретившись	встретиться	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Mid	11	advcl	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	можно	можно	ADV	_	Degree=Pos	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = определить его позицию, найти объяснение его действиям и выработать наиболее эффективные способы индивидуального профилактического воздействия.
+1	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+2	его	его	DET	_	_	3	det	_	_
+3	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	_
+6	объяснение	объяснение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	его	его	DET	_	_	8	det	_	_
+8	действиям	действие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	выработать	выработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	_
+11	наиболее	наиболее	ADV	_	Degree=Pos	12	obl	_	_
+12	эффективные	эффективный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	способы	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
+14	индивидуального	индивидуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+15	профилактического	профилактический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = В то же время термин "профилактика" используется для характеристики не только криминологического вида деятельности, направленного на недопущение самой возможности совершения преступления.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+5	термин	термин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	профилактика	профилактика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	характеристики	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	только	только	PART	_	_	14	advmod	_	_
+14	криминологического	криминологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+16	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	направленного	направить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+19	на	на	ADP	_	_	20	case	_	_
+20	недопущение	недопущение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+21	самой	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 75
+# text = Следует учитывать, что выделяют несколько иных разновидностей профилактики , к числу которых можно отнести: моральную профилактику, предполагающую утверждение нравственных принципов, предписаний и оценок, моделирующих определенный тип поведения и ставящих его под контроль общественной морали; правовую профилактику, направленную на недопущение правонарушений и любых форм противоправного поведения; виктимологическую профилактику, заключающуюся в воздействии на лиц, которые могут стать потерпевшими от правонарушения.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	что	что	SCONJ	_	_	5	mark	_	_
+5	выделяют	выделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+6	несколько	несколько	NUM	_	Case=Nom	8	nummod:gov	_	_
+7	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	разновидностей	разновидность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nsubj	_	_
+9	профилактики	профилактика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	числу	число	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	obl	_	_
+13	которых	который	PRON	_	Case=Gen	12	nmod	_	_
+14	можно	можно	ADV	_	Degree=Pos	8	acl:relcl	_	_
+15	отнести	отнести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	csubj	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	моральную	моральный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	профилактику	профилактика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	предполагающую	предполагать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+21	утверждение	утверждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	нравственных	нравственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	предписаний	предписание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	conj	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	оценок	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	моделирующих	моделировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	_
+30	определенный	определенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	тип	тип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	obj	_	_
+32	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	ставящих	ставить	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	conj	_	_
+35	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	34	obj	_	_
+36	под	под	ADP	_	_	37	case	_	_
+37	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obl	_	_
+38	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	морали	мораль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+40	;	;	PUNCT	_	_	31	punct	_	_
+41	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	профилактику	профилактика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	conj	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	направленную	направить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	42	acl	_	_
+45	на	на	ADP	_	_	46	case	_	_
+46	недопущение	недопущение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	44	obl	_	_
+47	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	46	nmod	_	_
+48	и	и	CCONJ	_	_	50	cc	_	_
+49	любых	любой	DET	_	Case=Gen|Number=Plur	50	det	_	_
+50	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	47	conj	_	_
+51	противоправного	противоправный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	52	amod	_	_
+52	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	50	nmod	_	SpaceAfter=No
+53	;	;	PUNCT	_	_	31	punct	_	_
+54	виктимологическую	виктимологический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
+55	профилактику	профилактика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	conj	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	57	punct	_	_
+57	заключающуюся	заключающуюся	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	55	acl	_	_
+58	в	в	ADP	_	_	59	case	_	_
+59	воздействии	воздействие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	57	obl	_	_
+60	на	на	ADP	_	_	61	case	_	_
+61	лиц	лицо	NOUN	_	Animacy=Anim|Case=Acc|Gender=Neut|Number=Plur	59	nmod	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	64	punct	_	_
+63	которые	который	PRON	_	Case=Nom	64	nsubj	_	_
+64	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	61	acl:relcl	_	_
+65	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	64	xcomp	_	_
+66	потерпевшими	потерпеть	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	65	obl	_	_
+67	от	от	ADP	_	_	68	case	_	_
+68	правонарушения	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	65	obl	_	SpaceAfter=No
+69	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = При этом особую значимость приобретают такие меры индивидуального предупреждения преступлений, как умелое сочетание убеждения и принуждения, целенаправленность и непрерывность воспитательного процесса, преемственность и систематичность воспитательных мероприятий, индивидуальный подход .
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	особую	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	значимость	значимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+5	приобретают	приобретать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	такие	такой	DET	_	Case=Nom|Number=Plur	7	det	_	_
+7	меры	мера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+8	индивидуального	индивидуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	предупреждения	предупреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	как	как	SCONJ	_	_	14	mark	_	_
+13	умелое	умелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	сочетание	сочетание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	advcl	_	_
+15	убеждения	убеждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	принуждения	принуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	целенаправленность	целенаправленность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	непрерывность	непрерывность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	_
+22	воспитательного	воспитательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	преемственность	преемственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	систематичность	систематичность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	_
+28	воспитательных	воспитательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	27	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	индивидуальный	индивидуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+32	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 77
+# text = Иногда ученые индивидуальную профилактику называют педагогической , так как она использует воспитательные и обучающие средства предупреждения правонарушений .
+1	Иногда	иногда	ADV	_	Degree=Pos	2	obl	_	_
+2	ученые	ученый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	индивидуальную	индивидуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	профилактику	профилактика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+5	называют	называть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	педагогической	педагогический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	obl	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	так	так	ADV	_	Degree=Pos	11	mark	_	_
+9	как	как	SCONJ	_	_	8	fixed	_	_
+10	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
+11	использует	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+12	воспитательные	воспитательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	acl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	обучающие	обучать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+15	средства	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+16	предупреждения	предупреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 78
+# text = Но все же следует согласится с А.И. Алексеевым, что ни одно педагогическое средство, ни один педагогический метод не могут расцениваться как панацея от всех бед, считаться постоянными, всегда и везде полезными .
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	все	все	PART	_	_	4	advmod	_	_
+3	же	же	PART	_	_	2	fixed	_	_
+4	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	согласится	согласиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	csubj	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	И.	И.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Алексеевым	Алексеевым	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	22	punct	_	_
+11	что	что	SCONJ	_	_	22	mark	_	_
+12	ни	ни	PART	_	_	13	advmod	_	_
+13	одно	один	NUM	_	Case=Nom|Gender=Neut	15	nummod:gov	_	_
+14	педагогическое	педагогический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	средство	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	ни	ни	CCONJ	_	_	18	cc	_	_
+18	один	один	NUM	_	Case=Nom|Gender=Masc	15	conj	_	_
+19	педагогический	педагогический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+23	расцениваться	расценивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	22	xcomp	_	_
+24	как	как	SCONJ	_	_	25	mark	_	_
+25	панацея	панацея	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	advcl	_	_
+26	от	от	ADP	_	_	28	case	_	_
+27	всех	весь	DET	_	Case=Gen|Number=Plur	28	det	_	_
+28	бед	беда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	считаться	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	22	conj	_	_
+31	постоянными	постоянный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	всегда	всегда	ADV	_	Degree=Pos	36	advmod	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	везде	везде	ADV	_	Degree=Pos	33	conj	_	_
+36	полезными	полезный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	22	conj	_	_
+37	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 79
+# text = ПРИМЕЧАНИЕ 1 О Правительственной комиссии по профилактике правонарушений : Постановление Правительства РФ от 28.03.2008 № 216 // Программа информационной поддержки российской науки и образования: Консультант Плюс: Высшая школа / справочные правовые системы.
+1	ПРИМЕЧАНИЕ	примечание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	_
+3	О	о	ADP	_	_	5	case	_	_
+4	Правительственной	правительственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+6	по	по	ADP	_	_	7	case	_	_
+7	профилактике	профилактика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	_
+8	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	:	:	PUNCT	_	_	5	punct	_	_
+10	Постановление	постановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	_
+11	Правительства	Правительство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	от	от	ADP	_	_	14	case	_	_
+14	28.03.2008	28.03.2008	NOUN	_	_	10	nmod	_	_
+15	№	№	SYM	_	_	14	nummod:entity	_	_
+16	216	216	NUM	_	_	15	nummod	_	_
+17	/	/	PUNCT	_	_	14	punct	_	SpaceAfter=No
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	Программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+20	информационной	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	поддержки	поддержка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	conj	_	SpaceAfter=No
+26	:	:	PUNCT	_	_	19	punct	_	_
+27	Консультант	консультант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	parataxis	_	_
+28	Плюс	плюс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	flat:name	_	SpaceAfter=No
+29	:	:	PUNCT	_	_	27	punct	_	_
+30	Высшая	высший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	parataxis	_	_
+32	/	/	PUNCT	_	_	35	punct	_	_
+33	справочные	справочный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
+34	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	_
+35	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	31	conj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = 2015.
+1	2015	2015	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = URL: http//www.consultant.ru;
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http//www.consultant.ru	http//www.consultant.ru	X	_	Foreign=Yes	1	appos	_	SpaceAfter=No
+4	;	;	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = О Порядке заслушивания общественными советами при Министерстве внутренних дел Российской Федерации и его территориальных органах информации должностных лиц органов внутренних дел Российской Федерации о деятельности органов внутренних дел по пресечению преступлений, охране общественного порядка, обеспечению общественной безопасности и профилактике правонарушений : Приказ МВД России от 23.05.2012 № 534 // Программа информационной поддержки российской науки и образования: Консультант Плюс: Высшая школа / справочные правовые системы.
+1	О	о	ADP	_	_	2	case	_	_
+2	Порядке	порядок	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+3	заслушивания	заслушивание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	общественными	общественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	5	amod	_	_
+5	советами	совет	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	_
+6	при	при	ADP	_	_	7	case	_	_
+7	Министерстве	Министерство	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+8	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+10	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	его	его	DET	_	_	15	det	_	_
+14	территориальных	территориальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	15	amod	_	_
+15	органах	орган	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	conj	_	_
+16	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	должностных	должностной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+19	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+20	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
+22	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+24	о	о	ADP	_	_	25	case	_	_
+25	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	_
+26	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+27	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	_
+29	по	по	ADP	_	_	30	case	_	_
+30	пресечению	пресечение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	nmod	_	_
+31	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	30	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	охране	охрана	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	conj	_	_
+34	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	_
+35	порядка	порядок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	обеспечению	обеспечений	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	conj	_	_
+38	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	профилактике	профилактика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	conj	_	_
+42	правонарушений	правонарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	41	nmod	_	_
+43	:	:	PUNCT	_	_	42	punct	_	_
+44	Приказ	приказ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	42	parataxis	_	_
+45	МВД	МВД	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	nmod	_	_
+46	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	_
+47	от	от	ADP	_	_	48	case	_	_
+48	23.05.2012	23.05.2012	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	_
+49	№	№	SYM	_	_	48	nummod:entity	_	_
+50	534	534	NUM	_	_	49	nummod	_	_
+51	/	/	PUNCT	_	_	48	punct	_	SpaceAfter=No
+52	/	/	PUNCT	_	_	53	punct	_	_
+53	Программа	программа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	nmod	_	_
+54	информационной	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	55	amod	_	_
+55	поддержки	поддержка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	53	nmod	_	_
+56	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	57	amod	_	_
+57	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	_
+58	и	и	CCONJ	_	_	59	cc	_	_
+59	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	57	conj	_	SpaceAfter=No
+60	:	:	PUNCT	_	_	53	punct	_	_
+61	Консультант	консультант	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	53	parataxis	_	_
+62	Плюс	плюс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	61	flat:name	_	SpaceAfter=No
+63	:	:	PUNCT	_	_	61	punct	_	_
+64	Высшая	высший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	65	amod	_	_
+65	школа	школа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	61	parataxis	_	_
+66	/	/	PUNCT	_	_	69	punct	_	_
+67	справочные	справочный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	69	amod	_	_
+68	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	69	amod	_	_
+69	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	65	conj	_	SpaceAfter=No
+70	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 83
+# text = 2015.
+1	2015	2015	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = URL: http//www.consultant.ru и др.
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http//www.consultant.ru	http//www.consultant.ru	X	_	Foreign=Yes	1	parataxis	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

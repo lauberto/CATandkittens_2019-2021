@@ -1,0 +1,2574 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Материалы Венецианской комиссии Совета Европы
+1	Материалы	Материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	Венецианской	венецианский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	Совета	Совет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = Следует отметить, что окончательное решение о назначении судей в соответствии со ст. 179 польской Конституции принимает президент страны 9, что в теории создает возможность отклонения кандидатур судей, выдвинутых по политическим, а не по профессиональным соображениям.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	18	punct	_	_
+4	что	что	SCONJ	_	_	18	mark	_	_
+5	окончательное	окончательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	obj	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	назначении	назначение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	nmod	_	_
+9	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	_
+12	со	с	ADP	_	_	13	case	_	_
+13	ст	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	179	179	NUM	_	_	13	nummod	_	_
+16	польской	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	Конституции	Конституция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+18	принимает	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+19	президент	президент	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+20	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	9	9	NUM	_	_	18	nummod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	что	что	SCONJ	_	_	26	mark	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	теории	теория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	obl	_	_
+26	создает	создать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	_	_
+27	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+28	отклонения	отклонение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+29	кандидатур	кандидатура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	_
+30	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	выдвинутых	выдвинуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	acl	_	_
+33	по	по	ADP	_	_	34	case	_	_
+34	политическим	политический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	32	obl	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	40	punct	_	_
+36	а	а	CCONJ	_	_	40	cc	_	_
+37	не	не	PART	_	_	40	advmod	_	_
+38	по	по	ADP	_	_	40	case	_	_
+39	профессиональным	профессиональный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	40	amod	_	_
+40	соображениям	соображение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	34	conj	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 3
+# text = Вместе с тем совершенно обоснованной является критика Венецианской комиссией чрезмерного участия Парламента в работе органа судейского сообщества.
+1	Вместе	вместе	ADV	_	Degree=Pos	6	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	совершенно	совершенно	ADV	_	Degree=Pos	5	obl	_	_
+5	обоснованной	обоснованный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	obl	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	критика	критика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+8	Венецианской	венецианский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	комиссией	комиссия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	_
+10	чрезмерного	чрезмерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	участия	участие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	Парламента	парламент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	_
+15	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	судейского	судейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = Определенные ассоциации у российского читателя вызовет реформа польского Верховного суда, напоминающая российскую судебную реформу 2014 г.
+1	Определенные	определить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	ассоциации	ассоциация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
+3	у	у	ADP	_	_	5	case	_	_
+4	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	читателя	читатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+6	вызовет	вызвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	реформа	реформа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+8	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	напоминающая	напоминать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+13	российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+14	судебную	судебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	реформу	реформа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+16	2014	2014	NUM	_	_	17	nummod	_	_
+17	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 5
+# text = Законопроект предполагает создание в Верховном суде двух новых палат — Чрезвычайной и Дисциплинарной.
+1	Законопроект	законопроект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	предполагает	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	создание	создание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	Верховном	верховный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	суде	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	_
+7	двух	два	NUM	_	Case=Gen	9	nummod	_	_
+8	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	палат	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+10	—	—	PUNCT	_	_	9	punct	_	_
+11	Чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	Дисциплинарной	Дисциплинарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Функции и юридическое положение Чрезвычайной палаты не вписываются ни в международные стандарты справедливого судебного разбирательства, ни в классическую теорию процессуального права.
+1	Функции	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	_
+2	и	и	CCONJ	_	_	4	cc	_	_
+3	юридическое	юридический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+5	Чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	палаты	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	вписываются	вписываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	ни	ни	PART	_	_	12	advmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	международные	международный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+12	стандарты	стандарт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+13	справедливого	справедливый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+14	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	разбирательства	разбирательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	ни	ни	CCONJ	_	_	20	advmod	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	классическую	классический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	теорию	теория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	_
+21	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 7
+# text = Так, Чрезвычайная палата польского Верховного суда, как заявлено, осуществляет экстраординарный пересмотр судебных решений.
+1	Так	так	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Чрезвычайная	чрезвычайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	палата	палата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+5	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	как	как	SCONJ	_	_	10	mark	_	_
+10	заявлено	заявить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	осуществляет	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	экстраординарный	экстраординарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	пересмотр	пересмотр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
+15	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 8
+# text = Как отмечает крупнейший российский исследователь экстраординарных форм пересмотра судебных актов С. И. Князькин, "ординарность способа проверки, вероятно, является свойством проверочной судебной инстанции, предполагающим наличие полного объема полномочий по установлению фактических обстоятельств дела, проверке правильности применения и толкования норм права, а также полноценного процессуального статуса лиц, участвующих в деле.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	parataxis	_	_
+3	крупнейший	крупный	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	5	amod	_	_
+4	российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	исследователь	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+6	экстраординарных	экстраординарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+12	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	Князькин	Князькин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	2	punct	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	ординарность	ординарность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+17	способа	способ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	проверки	проверка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	16	punct	_	_
+20	вероятно	вероятно	ADV	_	Degree=Pos	22	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+23	свойством	свойство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+24	проверочной	проверочный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+25	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	инстанции	инстанция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	предполагающим	предполагать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	acl	_	_
+29	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	obj	_	_
+30	полного	полный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	объема	объем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+32	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	_
+33	по	по	ADP	_	_	34	case	_	_
+34	установлению	установление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	nmod	_	_
+35	фактических	фактический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	обстоятельств	обстоятельство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+37	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	28	punct	_	_
+39	проверке	проверка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	iobj	_	_
+40	правильности	правильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+41	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	_
+42	и	и	CCONJ	_	_	43	cc	_	_
+43	толкования	толкование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	conj	_	_
+44	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	43	nmod	_	_
+45	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	nmod	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	51	punct	_	_
+47	а	а	CCONJ	_	_	51	cc	_	_
+48	также	также	PART	_	_	47	fixed	_	_
+49	полноценного	полноценный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	51	amod	_	_
+50	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	51	amod	_	_
+51	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	conj	_	_
+52	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	51	nmod	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	участвующих	участвовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	51	acl	_	_
+55	в	в	ADP	_	_	56	case	_	_
+56	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	54	obl	_	SpaceAfter=No
+57	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 9
+# text = Для того чтобы воспользоваться таким статусом, необходим обычный, ординарный порядок обращения в проверочную инстанцию, не предусматривающий никаких ограничений по рассмотрению дела в виде так называемых предварительных этапов-фильтров"10.
+1	Для	для	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	4	mark	_	_
+4	воспользоваться	пользоваться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	advcl	_	_
+5	таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	6	det	_	_
+6	статусом	статус	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	необходим	необходимый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+9	обычный	обычный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	ординарный	ординарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	_
+12	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+13	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	проверочную	проверочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	инстанцию	инстанция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	предусматривающий	предусматривать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+20	никаких	никакой	DET	_	Case=Gen|Number=Plur	21	det	_	_
+21	ограничений	ограничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	obl	_	_
+22	по	по	ADP	_	_	23	case	_	_
+23	рассмотрению	рассмотрение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	nmod	_	_
+24	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	в	в	ADP	_	_	30	case	_	_
+26	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	fixed	_	_
+27	так	так	ADV	_	Degree=Pos	28	advmod	_	_
+28	называемых	называть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	30	acl	_	_
+29	предварительных	предварительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	этапов	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+31	-	-	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	фильтров	фильтр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	parataxis	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	10	10	NUM	_	_	32	nummod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = Соответственно, при экстраординарном пересмотре судебных актов способы и возможности обжалования, а также основания отмены судебных актов существенно ограничены.
+1	Соответственно	соответственно	ADV	_	Degree=Pos	20	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	при	при	ADP	_	_	5	case	_	_
+4	экстраординарном	экстраординарный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	пересмотре	пересмотр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+6	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	способы	способ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	nsubj:pass	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	возможности	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	conj	_	_
+11	обжалования	обжалование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	а	а	CCONJ	_	_	15	cc	_	_
+14	также	также	PART	_	_	13	fixed	_	_
+15	основания	основание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	conj	_	_
+16	отмены	отмена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	существенно	существенно	ADV	_	Degree=Pos	20	advmod	_	_
+20	ограничены	ограничить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 11
+# text = Такой подход соответствует как стандартам, сформулированным практикой ЕСПЧ (о которых настойчиво напоминала и Венецианская комиссия в анализируемом Заключении), так и общемировым тенденциям.
+1	Такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	подход	подход	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	стандартам	стандарт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	3	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	сформулированным	формулировать	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+8	практикой	практика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
+9	ЕСПЧ	ЕСПЧ	PROPN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	_
+10	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+11	о	о	ADP	_	_	12	case	_	_
+12	которых	который	PRON	_	Case=Loc	14	obl	_	_
+13	настойчиво	настойчиво	ADV	_	Degree=Pos	14	advmod	_	_
+14	напоминала	напоминать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	_
+15	и	и	PART	_	_	16	advmod	_	_
+16	Венецианская	Венецианский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	анализируемом	анализируемый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	Заключении	заключение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	так	так	ADV	_	Degree=Pos	26	cc	_	_
+24	и	и	PART	_	_	23	fixed	_	_
+25	общемировым	общемировой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	26	amod	_	_
+26	тенденциям	тенденция	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text = При этом изучение правовой природы Чрезвычайной палаты польского Верховного суда наталкивает на мысли о чрезмерной противоречивости процессуального статуса данной инстанции, что проявляется в следующих аспектах:
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+3	изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+4	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+6	Чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	палаты	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+11	наталкивает	наталкивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	мысли	мысль	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+14	о	о	ADP	_	_	16	case	_	_
+15	чрезмерной	чрезмерный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	противоречивости	противоречивость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	_
+17	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+19	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	инстанции	инстанция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	что	что	PRON	_	Case=Nom	23	nsubj	_	_
+23	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	parataxis	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	следующих	следующий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	26	amod	_	_
+26	аспектах	аспект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = пересмотр судебных актов осуществляется по вопросам не только права, но и факта (традиционно возможность пересмотра по вопросам факта прекращается уже после этапа апелляционного обжалования); в качестве основания пересмотра судебных актов в Чрезвычайной палате декларируется "цель достижения социальной справедливости" — категория, напрочь лишенная какой-либо конкретики; законопроект имеет обратную силу, т. е. возможности "экстраординарного" пересмотра распространены и на уже рассмотренные дела, решения по которым в силу ранее действовавшего законодательства не могли быть пересмотрены ни при каких обстоятельствах; установлены неадекватно продолжительные сроки для возможности "экстраординарного" пересмотра — 20 лет; с заявлением об "экстраординарном" пересмотре могут обращаться и лица, которые никакого отношения к рассматриваемому делу не имели: генеральный прокурор (он же министр юстиции), омбудсмен, группа депутатов и т. д.
+1	пересмотр	пересмотр	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	осуществляется	осуществляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	по	по	ADP	_	_	6	case	_	_
+6	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	только	только	PART	_	_	9	advmod	_	_
+9	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	65	nsubj:pass	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	но	но	CCONJ	_	_	13	cc	_	_
+12	и	и	PART	_	_	11	advmod	_	_
+13	факта	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
+14	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+15	традиционно	традиционно	ADV	_	Degree=Pos	21	advmod	_	_
+16	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+17	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	по	по	ADP	_	_	19	case	_	_
+19	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	17	nmod	_	_
+20	факта	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+21	прекращается	прекращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	parataxis	_	_
+22	уже	уже	ADV	_	Degree=Pos	24	obl	_	_
+23	после	после	ADP	_	_	24	case	_	_
+24	этапа	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	obl	_	_
+25	апелляционного	апелляционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	обжалования	обжалование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
+28	;	;	PUNCT	_	_	9	punct	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	fixed	_	_
+31	основания	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	obl	_	_
+32	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	_
+35	в	в	ADP	_	_	37	case	_	_
+36	Чрезвычайной	чрезвычайный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	_
+37	палате	палата	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	obl	_	_
+38	декларируется	декларировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+39	"	"	PUNCT	_	_	40	punct	_	SpaceAfter=No
+40	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	38	nsubj:pass	_	_
+41	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	_
+42	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	справедливости	справедливость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+44	"	"	PUNCT	_	_	51	punct	_	_
+45	—	—	PUNCT	_	_	51	punct	_	_
+46	категория	категория	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	51	parataxis	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	46	punct	_	_
+48	напрочь	напрочь	ADV	_	Degree=Pos	49	advmod	_	_
+49	лишенная	лишить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	51	acl	_	_
+50	какой-либо	какой-либо	DET	_	Case=Gen|Gender=Fem|Number=Sing	51	det	_	_
+51	конкретики	конкретика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	parataxis	_	SpaceAfter=No
+52	;	;	PUNCT	_	_	40	punct	_	_
+53	законопроект	законопроект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	54	nsubj	_	_
+54	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	conj	_	_
+55	обратную	обратный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	56	amod	_	_
+56	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	54	obj	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	60	punct	_	_
+58	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	60	mark	_	_
+59	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	fixed	_	_
+60	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	parataxis	_	_
+61	"	"	PUNCT	_	_	62	punct	_	SpaceAfter=No
+62	экстраординарного	экстраординарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	64	amod	_	SpaceAfter=No
+63	"	"	PUNCT	_	_	62	punct	_	_
+64	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	60	nmod	_	_
+65	распространены	распространить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
+66	и	и	PART	_	_	70	advmod	_	_
+67	на	на	ADP	_	_	70	case	_	_
+68	уже	уже	ADV	_	Degree=Pos	69	advmod	_	_
+69	рассмотренные	рассмотреть	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	70	acl	_	_
+70	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	65	obl	_	SpaceAfter=No
+71	,	,	PUNCT	_	_	81	punct	_	_
+72	решения	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	81	nsubj:pass	_	_
+73	по	по	ADP	_	_	74	case	_	_
+74	которым	который	PRON	_	Case=Dat	72	nmod	_	_
+75	в	в	ADP	_	_	76	case	_	_
+76	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	81	obl	_	_
+77	ранее	ранее	ADV	_	Degree=Pos	78	advmod	_	_
+78	действовавшего	действовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	79	acl	_	_
+79	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	76	nmod	_	_
+80	не	не	PART	_	_	81	advmod	_	_
+81	могли	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	65	conj	_	_
+82	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	83	aux:pass	_	_
+83	пересмотрены	пересмотреть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	81	xcomp	_	_
+84	ни	ни	PART	_	_	87	advmod	_	_
+85	при	при	ADP	_	_	87	case	_	_
+86	каких	какой	DET	_	Case=Loc|Number=Plur	87	det	_	_
+87	обстоятельствах	обстоятельство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	83	obl	_	SpaceAfter=No
+88	;	;	PUNCT	_	_	65	punct	_	_
+89	установлены	установить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	65	conj	_	_
+90	неадекватно	неадекватный	ADV	_	Degree=Pos	89	advmod	_	_
+91	продолжительные	продолжительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	92	amod	_	_
+92	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	89	obj	_	_
+93	для	для	ADP	_	_	94	case	_	_
+94	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	89	obl	_	_
+95	"	"	PUNCT	_	_	96	punct	_	SpaceAfter=No
+96	экстраординарного	экстраординарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	98	amod	_	SpaceAfter=No
+97	"	"	PUNCT	_	_	96	punct	_	_
+98	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	94	nmod	_	_
+99	—	—	PUNCT	_	_	101	punct	_	_
+100	20	20	NUM	_	_	101	nummod	_	_
+101	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	98	parataxis	_	SpaceAfter=No
+102	;	;	PUNCT	_	_	101	punct	_	_
+103	с	с	ADP	_	_	104	case	_	_
+104	заявлением	заявление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	110	obl	_	_
+105	об	о	ADP	_	_	109	case	_	_
+106	"	"	PUNCT	_	_	107	punct	_	SpaceAfter=No
+107	экстраординарном	экстраординарный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	109	amod	_	SpaceAfter=No
+108	"	"	PUNCT	_	_	107	punct	_	_
+109	пересмотре	пересмотр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	104	nmod	_	_
+110	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	101	conj	_	_
+111	обращаться	обращаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	110	xcomp	_	_
+112	и	и	PART	_	_	113	advmod	_	_
+113	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	110	nsubj	_	SpaceAfter=No
+114	,	,	PUNCT	_	_	122	punct	_	_
+115	которые	который	PRON	_	Case=Nom	122	nsubj	_	_
+116	никакого	никакой	DET	_	Case=Gen|Gender=Neut|Number=Sing	117	det	_	_
+117	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	122	obl	_	_
+118	к	к	ADP	_	_	120	case	_	_
+119	рассматриваемому	рассматривать	VERB	_	Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	120	amod	_	_
+120	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	117	nmod	_	_
+121	не	не	PART	_	_	122	advmod	_	_
+122	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	113	acl:relcl	_	SpaceAfter=No
+123	:	:	PUNCT	_	_	122	punct	_	_
+124	генеральный	генеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	125	amod	_	_
+125	прокурор	прокурор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	122	parataxis	_	_
+126	(	(	PUNCT	_	_	129	punct	_	SpaceAfter=No
+127	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	129	nsubj	_	_
+128	же	же	PART	_	_	127	advmod	_	_
+129	министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	125	parataxis	_	_
+130	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	129	nmod	_	SpaceAfter=No
+131	)	)	PUNCT	_	_	129	punct	_	SpaceAfter=No
+132	,	,	PUNCT	_	_	133	punct	_	_
+133	омбудсмен	омбудсмен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	125	conj	_	SpaceAfter=No
+134	,	,	PUNCT	_	_	135	punct	_	_
+135	группа	группа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	125	conj	_	_
+136	депутатов	депутат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	135	nmod	_	_
+137	и	и	CCONJ	_	_	138	cc	_	_
+138	т.	так	ADV	_	Degree=Pos	125	conj	_	_
+139	д	далее	ADV	_	Degree=Pos	138	fixed	_	SpaceAfter=No
+140	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = Нельзя не отметить, что цель законопроекта сформулирована как "отказ от советского и российского наследия".
+1	Нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	что	что	SCONJ	_	_	8	mark	_	_
+6	цель	цель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj:pass	_	_
+7	законопроекта	законопроект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	сформулирована	формулировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+9	как	как	SCONJ	_	_	11	mark	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	отказ	отказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	obl	_	_
+12	от	от	ADP	_	_	16	case	_	_
+13	советского	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	conj	_	_
+16	наследия	наследие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Однако система пересмотра, при которой жалобы могут подавать и не участвовавшие в деле должностные лица органов государственной власти, является характерной чертой именно советской модели процессуального права.
+1	Однако	однако	ADV	_	Degree=Pos	21	advmod	_	_
+2	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+3	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	которой	который	PRON	_	Case=Loc	8	obl	_	_
+7	жалобы	жалоба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+9	подавать	подавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	участвовавшие	участвовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	16	acl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+15	должностные	должностной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	9	obj	_	_
+17	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	2	punct	_	_
+21	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+22	характерной	характерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	чертой	черта	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	obl	_	_
+24	именно	именно	PART	_	_	25	advmod	_	_
+25	советской	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+27	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 16
+# text = Более того, при обжаловании указанными должностными лицами судебных актов в "чрезвычайном" порядке не требуется ни согласия, ни извещения лиц, являвшихся участниками давно рассмотренного дела.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	при	при	ADP	_	_	5	case	_	_
+5	обжаловании	обжалование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+6	указанными	указать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
+7	должностными	должностной	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	8	amod	_	_
+8	лицами	лицо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	5	nmod	_	_
+9	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	в	в	ADP	_	_	15	case	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	чрезвычайном	чрезвычайный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	_
+15	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+18	ни	ни	CCONJ	_	_	19	cc	_	_
+19	согласия	согласие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	ни	ни	CCONJ	_	_	22	cc	_	_
+22	извещения	извещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	conj	_	_
+23	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	являвшихся	являться	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	23	acl	_	_
+26	участниками	участник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	25	obl	_	_
+27	давно	давно	ADV	_	Degree=Pos	28	advmod	_	_
+28	рассмотренного	рассмотреть	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	_
+29	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 17
+# text = Совокупность указанных недостатков привела Венецианскую комиссию к ожидаемому выводу о нарушении законопроектом принципа правовой определенности (res judcata).
+1	Совокупность	совокупность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	недостатков	недостаток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	привела	привести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Венецианскую	Венецианский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	комиссию	комиссия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	к	к	ADP	_	_	9	case	_	_
+8	ожидаемому	ожидать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	выводу	вывод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
+10	о	о	ADP	_	_	11	case	_	_
+11	нарушении	нарушение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	nmod	_	_
+12	законопроектом	законопроект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	nmod	_	_
+13	принципа	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	определенности	определенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	res	res	X	_	Foreign=Yes	15	flat:foreign	_	_
+18	judcata	judcata	X	_	Foreign=Yes	15	flat:foreign	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 18
+# text = Специфичным выглядит и положение Чрезвычайной палаты внутри Верховного суда Польши.
+1	Специфичным	специфичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	2	obl	_	_
+2	выглядит	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+5	Чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	палаты	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	внутри	внутри	ADV	_	Degree=Pos	9	advmod	_	_
+8	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+10	Польши	Польша	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Как отмечает Венецианская комиссия, Чрезвычайная палата находится несколько выше остальных палат.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+3	Венецианская	Венецианский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	Чрезвычайная	чрезвычайный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	палата	палата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	несколько	несколько	ADV	_	Degree=Pos	10	advmod	_	_
+10	выше	высоко	ADV	_	Degree=Cmp	8	advmod	_	_
+11	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	палат	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 20
+# text = Это обусловлено не только полномочиями по экстраординарному пересмотру судебных дел, но и тем обстоятельством, что именно на Чрезвычайную палату возложено рассмотрение ряда публично-правовых споров в сфере избирательного права, которые обоснованно рассматриваются Венецианской комиссией как политически и общественно чувствительные дела.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	обусловлено	обусловить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	только	только	PART	_	_	5	advmod	_	_
+5	полномочиями	полномочие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	2	obl	_	_
+6	по	по	ADP	_	_	8	case	_	_
+7	экстраординарному	экстраординарный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	пересмотру	пересмотр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	_
+9	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	но	но	CCONJ	_	_	15	cc	_	_
+13	и	и	PART	_	_	12	advmod	_	_
+14	тем	тот	DET	_	Case=Ins|Gender=Neut|Number=Sing	15	det	_	_
+15	обстоятельством	обстоятельство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	что	что	SCONJ	_	_	22	mark	_	_
+18	именно	именно	PART	_	_	21	advmod	_	_
+19	на	на	ADP	_	_	21	case	_	_
+20	Чрезвычайную	чрезвычайный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	палату	палата	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+22	возложено	возложить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	acl	_	_
+23	рассмотрение	рассмотрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj:pass	_	_
+24	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+25	публично	публичный	ADJ	_	Degree=Pos	27	compound	_	SpaceAfter=No
+26	-	-	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	споров	спор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	_
+31	избирательного	избирательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	которые	который	PRON	_	Case=Nom	36	nsubj:pass	_	_
+35	обоснованно	обоснованно	ADV	_	Degree=Pos	36	advmod	_	_
+36	рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	28	acl:relcl	_	_
+37	Венецианской	венецианский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	38	amod	_	_
+38	комиссией	комиссия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	36	obl	_	_
+39	как	как	ADV	_	Degree=Pos	40	advmod	_	_
+40	политически	политически	ADV	_	Degree=Pos	44	acl	_	_
+41	и	и	CCONJ	_	_	43	cc	_	_
+42	общественно	общественно	ADV	_	Degree=Pos	43	obl	_	_
+43	чувствительные	чувствительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	40	conj	_	_
+44	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	36	nsubj:pass	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 21
+# text = Специфики добавляет также то, что дела в Чрезвычайной палате рассматриваются с участием народных заседателей — непрофессиональных судей, не имеющих высшего юридического образования.
+1	Специфики	специфика	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	добавляет	добавлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	также	также	ADV	_	Degree=Pos	2	advmod	_	_
+4	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	что	что	SCONJ	_	_	11	mark	_	_
+7	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	11	nsubj:pass	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	Чрезвычайной	чрезвычайный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	палате	палата	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+11	рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+14	народных	народный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+16	—	—	PUNCT	_	_	18	punct	_	_
+17	непрофессиональных	непрофессиональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+22	высшего	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	obl	_	_
+23	юридического	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = Народные заседатели рассматривают дело совместно с судьей и совместно с ним выносят решение, причем непрофессиональные судьи занимаются разрешением вопросов как права, так и факта (что отличает их от присяжных заседателей, которые занимаются лишь установлени-
+1	Народные	народный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	рассматривают	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	совместно	совместно	ADV	_	Degree=Pos	3	advmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	судьей	судья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+8	и	и	CCONJ	_	_	12	cc	_	_
+9	совместно	совместно	ADV	_	Degree=Pos	12	advmod	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	9	obl	_	_
+12	выносят	выносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+13	решение	решение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	причем	причем	CCONJ	_	_	18	cc	_	_
+16	непрофессиональные	непрофессиональный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	_
+18	занимаются	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	_
+19	разрешением	разрешение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	obl	_	_
+20	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	как	как	SCONJ	_	_	22	mark	_	_
+22	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	так	так	ADV	_	Degree=Pos	26	cc	_	_
+25	и	и	PART	_	_	24	fixed	_	_
+26	факта	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	conj	_	_
+27	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	что	что	PRON	_	Case=Nom	29	nsubj	_	_
+29	отличает	отличать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	parataxis	_	_
+30	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	29	obj	_	_
+31	от	от	ADP	_	_	33	case	_	_
+32	присяжных	присяжный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	заседателей	заседатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	которые	который	PRON	_	Case=Nom	36	nsubj	_	_
+36	занимаются	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	33	acl:relcl	_	_
+37	лишь	лишь	PART	_	_	38	advmod	_	_
+38	установлени	установлень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	36	obl	_	SpaceAfter=No
+39	-	-	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = 9 Конституция Польской Республики 1997 г.
+1	9	9	NUM	_	_	2	nummod	_	_
+2	Конституция	Конституция	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	Польской	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	1997	1997	NUM	_	_	6	nummod	_	_
+6	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = URL: http:// www.sejm.gov.pl/prawo/konst/rosyjsk/kon1.htm (дата обращения: 15.12.2017).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http	http	X	_	Foreign=Yes	1	parataxis	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	/	/	PUNCT	_	_	9	punct	_	_
+7	www.sejm.gov.pl/prawo/konst/rosyjsk/kon1.htm	www.sejm.gov.pl/prawo/konst/rosyjsk/kon1.htm	X	_	Foreign=Yes	6	flat:foreign	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+10	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	15.12.2017	15.12.2017	PROPN	_	_	10	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = 10 Князькин С. И. Экстраординарный характер деятельности надзорной судебной инстанции в гражданском и арбитражном процессе России.
+1	10	10	NUM	_	_	2	nummod	_	_
+2	Князькин	Князькин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Экстраординарный	экстраординарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	характер	характер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+7	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	надзорной	надзорный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+9	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	инстанции	инстанция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+11	в	в	ADP	_	_	15	case	_	_
+12	гражданском	гражданской	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	арбитражном	арбитражный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	_
+15	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
+16	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = М., 2015.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2015	2015	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = Журнал зарубежного законодательства и сравнительного правоведения № 2 — 2018
+1	Журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	зарубежного	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	сравнительного	сравнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	правоведения	правоведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+7	№	№	SYM	_	_	6	nummod:entity	_	_
+8	2	2	NUM	_	_	7	nummod	_	_
+9	—	—	PUNCT	_	_	1	punct	_	_
+10	2018	2018	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = ем фактических обстоятельств дела).
+1	ем	е	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
+2	фактических	фактически	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	обстоятельств	обстоятельство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+4	дела	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = Такая модель (именуемая в науке процессуального права шеффенской) широко использовалась в советской России, а в наши дни прочно укрепилась в процессуальном законодательстве Германии, Дании, Греции, Португалии11.
+1	Такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	именуемая	именовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	науке	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+7	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	шеффенской	шеффенский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	4	punct	_	_
+11	широко	широко	ADV	_	Degree=Pos	12	advmod	_	_
+12	использовалась	использовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	советской	советский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	а	а	CCONJ	_	_	22	cc	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	наши	наш	DET	_	Case=Acc|Number=Plur	20	det	_	_
+20	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	obl	_	_
+21	прочно	прочно	ADV	_	Degree=Pos	22	advmod	_	_
+22	укрепилась	укрепиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	процессуальном	процессуальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	obl	_	_
+26	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	Дании	Дания	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	Греции	Греция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	Португалии11	Португалии11	PROPN	_	Foreign=Yes	26	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 30
+# text = Однако ни в одной из стран народные заседатели не включены в состав суда высшей инстанции, которая традиционно рассматривается как инстанция, требующая от судей максимальной юридической подготовки и наличия значительного профессионального опыта.
+1	Однако	однако	ADV	_	Degree=Pos	10	advmod	_	_
+2	ни	ни	PART	_	_	4	advmod	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	одной	один	NUM	_	Case=Loc|Gender=Fem	10	nummod	_	_
+5	из	из	ADP	_	_	6	case	_	_
+6	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	народные	народный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	заседатели	заседатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	включены	включить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+13	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	высшей	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	инстанции	инстанция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	которая	который	PRON	_	Case=Nom	19	nsubj:pass	_	_
+18	традиционно	традиционно	ADV	_	Degree=Pos	19	advmod	_	_
+19	рассматривается	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	инстанция	инстанция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	требующая	требовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	acl	_	_
+24	от	от	ADP	_	_	25	case	_	_
+25	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	obl	_	_
+26	максимальной	максимальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+27	юридической	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	подготовки	подготовка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	conj	_	_
+31	значительного	значительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+32	профессионального	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
+33	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 31
+# text = В силу изложенного предлагаемая польским законопроектом шеффенская модель Чрезвычайной палаты вызвала у Венецианской комиссии откровенное недоумение — рассматриваемые данной палатой сложные споры в сфере избирательного права, антимонопольного законодательства, напротив, требуют высшего юридического образования.
+1	В	в	ADP	_	_	2	case	_	_
+2	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+3	изложенного	изложить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
+4	предлагаемая	предлагать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	acl	_	_
+5	польским	польский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	законопроектом	законопроект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+7	шеффенская	шеффенский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+9	Чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	палаты	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	вызвала	вызвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	у	у	ADP	_	_	14	case	_	_
+13	Венецианской	венецианский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+15	откровенное	откровенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	недоумение	недоумение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	obj	_	_
+17	—	—	PUNCT	_	_	22	punct	_	_
+18	рассматриваемые	рассматривать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	22	acl	_	_
+19	данной	данный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	палатой	палата	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	obl	_	_
+21	сложные	сложный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	22	amod	_	_
+22	споры	спор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	parataxis	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+25	избирательного	избирательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	антимонопольного	антимонопольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	conj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	напротив	напротив	ADV	_	Degree=Pos	33	parataxis	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	требуют	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+34	высшего	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+35	юридического	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	obl	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 32
+# text = Несколько меньшую критику вызвало у Венецианской комиссии положение Дисциплинарной палаты, однако и оно было признано чрезмерно усиленным.
+1	Несколько	несколько	ADV	_	Degree=Pos	2	advmod	_	_
+2	меньшую	меньший	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	критику	критика	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	вызвало	вызвать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	у	у	ADP	_	_	7	case	_	_
+6	Венецианской	венецианский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+8	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+9	Дисциплинарной	Дисциплинарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	палаты	палата	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	однако	однако	ADV	_	Degree=Pos	16	advmod	_	_
+13	и	и	CCONJ	_	_	16	cc	_	_
+14	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	16	nsubj:pass	_	_
+15	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	16	aux:pass	_	_
+16	признано	признать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
+17	чрезмерно	чрезмерно	ADV	_	Degree=Pos	18	advmod	_	_
+18	усиленным	усилить	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 33
+# text = Данная палата будет рассматривать дисциплинарные дела в отношении судей, а также дела о защите права на судопроизводство в разумный срок.
+1	Данная	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	палата	палата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+5	дисциплинарные	дисциплинарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	дела	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	а	а	CCONJ	_	_	13	cc	_	_
+12	также	также	PART	_	_	11	fixed	_	_
+13	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	conj	_	_
+14	о	о	ADP	_	_	15	case	_	_
+15	защите	защита	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	_
+16	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	судопроизводство	судопроизводство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	nmod	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	разумный	разумный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	срок	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 34
+# text = Следует заметить, что подобных структурных подразделений со сверхполномочиями в российских судах нет — среди ныне существующих коллегий Верховного Суда РФ полномочия распределены равномерно.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	заметить	заметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	13	punct	_	_
+4	что	что	SCONJ	_	_	13	mark	_	_
+5	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+6	структурных	структурный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	подразделений	подразделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nsubj	_	_
+8	со	с	ADP	_	_	9	case	_	_
+9	сверхполномочиями	сверхполномочие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	nmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	российских	российский	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	судах	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+13	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+14	—	—	PUNCT	_	_	23	punct	_	_
+15	среди	среди	ADP	_	_	18	case	_	_
+16	ныне	ныне	ADV	_	Degree=Pos	17	advmod	_	_
+17	существующих	существовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+18	коллегий	коллегия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	23	obl	_	_
+19	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	Суда	Суд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+21	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	полномочия	полномочие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	nsubj:pass	_	_
+23	распределены	распределить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	conj	_	_
+24	равномерно	равномерно	ADV	_	Degree=Pos	23	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Можно вспомнить шестой ("экспертный") судебный состав Высшего Арбитражного Суда РФ, который выделялся среди его остальных подразделений.
+1	Можно	можно	ADV	_	Degree=Pos	0	root	_	_
+2	вспомнить	вспомянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	шестой	шестой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+4	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	экспертный	экспертный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	6	punct	_	_
+9	судебный	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	состав	состав	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+11	Высшего	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+12	Арбитражного	арбитражный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	Суда	суд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+14	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	который	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	выделялся	выделять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	_
+18	среди	среди	ADP	_	_	21	case	_	_
+19	его	его	DET	_	_	21	det	_	_
+20	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	подразделений	подразделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = В данный состав входили судьи, которые до своего назначения на судейскую должность не имели никакого отношения к судебной системе, а занимались научной, преподавательской и аналитической работой в сфере права.
+1	В	в	ADP	_	_	3	case	_	_
+2	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+4	входили	входить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	15	punct	_	_
+7	которые	который	PRON	_	Case=Nom	15	nsubj	_	_
+8	до	до	ADP	_	_	10	case	_	_
+9	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	10	det	_	_
+10	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	судейскую	судейский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	должность	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+16	никакого	никакой	DET	_	Case=Gen|Gender=Neut|Number=Sing	17	det	_	_
+17	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	obl	_	_
+18	к	к	ADP	_	_	20	case	_	_
+19	судебной	судебный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	а	а	CCONJ	_	_	23	cc	_	_
+23	занимались	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	15	conj	_	_
+24	научной	научный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	преподавательской	преподавательский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	24	conj	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	аналитической	аналитический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	24	conj	_	_
+29	работой	работа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	obl	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	nmod	_	_
+32	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 37
+# text = Судьи данного состава назначались содокладчиками по делам, рассматриваемым Высшим Арбитражным Судом РФ в надзорной инстанции, их участие было направлено на достижение баланса позиций карьерных судей из обычных составов и ученых из шестого состава12.
+1	Судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	состава	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	назначались	назначать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	содокладчиками	содокладчик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+6	по	по	ADP	_	_	7	case	_	_
+7	делам	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	рассматриваемым	рассматривать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	_
+10	Высшим	высший	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	9	xcomp	_	_
+11	Арбитражным	Арбитражный	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	_
+12	Судом	суд	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	надзорной	надзорный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	инстанции	инстанция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	их	их	DET	_	_	19	det	_	_
+19	участие	участие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj:pass	_	_
+20	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	aux:pass	_	_
+21	направлено	направить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+24	баланса	баланс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+25	позиций	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	24	nmod	_	_
+26	карьерных	карьерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+28	из	из	ADP	_	_	30	case	_	_
+29	обычных	обычный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	составов	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	conj	_	_
+33	из	из	ADP	_	_	35	case	_	_
+34	шестого	шестой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	состава12	сантиостава1етр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Но каких-либо сверхполномочий не было и у этого подразделения.
+1	Но	но	CCONJ	_	_	5	cc	_	_
+2	каких-либо	какой-либо	DET	_	Case=Gen|Number=Plur	3	det	_	_
+3	сверхполномочий	сверхполномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nsubj	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	и	и	PART	_	_	9	advmod	_	_
+7	у	у	ADP	_	_	9	case	_	_
+8	этого	это	DET	_	Case=Gen|Gender=Neut|Number=Sing	9	det	_	_
+9	подразделения	подразделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = В Заключении по поправкам к Закону "О Верховном суде", а также в Заключении по Закону "О судах общей юрисдикции" многократно делается отнюдь не беспочвенный вывод о заметном и временами откровенном посягательстве на принцип независимости судей.
+1	В	в	ADP	_	_	2	case	_	_
+2	Заключении	заключение	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	obl	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	поправкам	поправка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	Закону	закон	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	_
+7	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+8	О	о	ADP	_	_	10	case	_	_
+9	Верховном	верховный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	суде	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	а	а	CCONJ	_	_	16	cc	_	_
+14	также	также	PART	_	_	13	fixed	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	Заключении	заключение	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	conj	_	_
+17	по	по	ADP	_	_	18	case	_	_
+18	Закону	закон	PROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	_
+19	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	О	о	ADP	_	_	21	case	_	_
+21	судах	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	appos	_	_
+22	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	юрисдикции	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	21	punct	_	_
+25	многократно	многократно	ADV	_	Degree=Pos	26	advmod	_	_
+26	делается	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+27	отнюдь	отнюдь	ADV	_	Degree=Pos	28	advmod	_	_
+28	не	не	PART	_	_	30	advmod	_	_
+29	беспочвенный	беспочвенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	вывод	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj:pass	_	_
+31	о	о	ADP	_	_	36	case	_	_
+32	заметном	заметный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+33	и	и	CCONJ	_	_	35	cc	_	_
+34	временами	временами	ADV	_	Degree=Pos	35	obl	_	_
+35	откровенном	откроветь	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	32	conj	_	_
+36	посягательстве	посягательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	nmod	_	_
+37	на	на	ADP	_	_	38	case	_	_
+38	принцип	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	nmod	_	_
+39	независимости	независимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+40	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 40
+# text = Данный принцип, выводимый российскопольским правоведом Е. В. Васьковским на первый план, в современной польской судебной реформе, наСм.:
+1	Данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	принцип	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	выводимый	выводить	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	российскопольским	российскопольский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	правоведом	правовед	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
+7	Е.	Е.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	appos	_	_
+8	В.	В.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Васьковским	Васьковский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	flat:name	_	_
+10	на	на	ADP	_	_	12	case	_	_
+11	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	план	план	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	в	в	ADP	_	_	18	case	_	_
+15	современной	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+16	польской	польскый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	судебной	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	реформе	реформа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	4	punct	_	_
+20	наСм	наСй	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	:	:	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 41
+# text = Курс уголовного процесса / А. А. Арутюнян, Л. В. Брусницын, О. Л. Васильев и др.; под ред. Л. В. Головко.
+1	Курс	курс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Арутюнян	Арутюнян	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	1	punct	_	_
+9	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+10	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	_
+11	Брусницын	Брусницын	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	О.	О.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+14	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
+15	Васильев	Васильев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	др.	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	conj	_	SpaceAfter=No
+18	;	;	PUNCT	_	_	1	punct	_	_
+19	под	под	ADP	_	_	20	case	_	_
+20	ред	редактор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+22	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	20	appos	_	_
+23	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	22	flat:name	_	_
+24	Головко	Головко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	22	flat:name	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 42
+# text = М., 2016.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2016	2016	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = С. 976.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	976	976	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = 12 Подробнее см.: Сарбаш С. В. Памяти шестого судебного состава упраздненного ВАС РФ, или Как это было // О собственности: сб. ст. к юбилею К. И.
+1	12	12	NUM	_	_	3	nummod	_	_
+2	Подробнее	подробно	ADV	_	Degree=Cmp	3	advmod	_	_
+3	см.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	Сарбаш	Сарбаш	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Памяти	память	NUM	_	Case=Gen	11	nummod	_	_
+9	шестого	шестой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	состава	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+12	упраздненного	упразднить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	ВАС	ВАС	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	23	punct	_	_
+16	или	или	CCONJ	_	_	23	cc	_	_
+17	Как	как	ADV	_	Degree=Pos	23	advmod	_	_
+18	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+19	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	cop	_	_
+20	/	/	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	/	/	PUNCT	_	_	19	punct	_	_
+22	О	о	ADP	_	_	23	case	_	_
+23	собственности	собственность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+24	:	:	PUNCT	_	_	23	punct	_	_
+25	сб.	сб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	parataxis	_	_
+26	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	25	nmod	_	_
+27	к	к	ADP	_	_	28	case	_	_
+28	юбилею	юбилей	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	26	nmod	_	_
+29	К.	К.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+30	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	flat:name	_	_
+
+# sent_id = 45
+# text = Скловского.
+1	Скловского	Скловский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 46
+# text = М., 2015.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2015	2015	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 47
+# text = С. 254—264.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	254	254	NUM	_	_	0	root	_	SpaceAfter=No
+4	—	—	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	264	264	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 48
+# text = 11
+1	11	11	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = против, оказался по большому счету проигнорирован.
+1	против	против	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	оказался	оказаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	по	по	ADP	_	_	6	case	_	_
+5	большому	большой	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	счету	счет	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	obl	_	_
+7	проигнорирован	игнорировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 50
+# text = К сожалению, в этом нет ничего принципиально нового — о непростых отношениях с Министерством юстиции, а также сверхполномочиях председателей судов упоминал в своем интервью известный польский юрист, судья в отставке с многолетним стажем Дариуш Селицкий13.
+1	К	к	ADP	_	_	2	case	_	_
+2	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+6	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ничего	ничто	PRON	_	Case=Gen	6	nsubj	_	_
+8	принципиально	принципиально	ADV	_	Degree=Pos	9	obl	_	_
+9	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+10	—	—	PUNCT	_	_	6	punct	_	_
+11	о	о	ADP	_	_	13	case	_	_
+12	непростых	непростой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	отношениях	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	23	obl	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	Министерством	Министерство	PROPN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	nmod	_	_
+16	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	а	а	CCONJ	_	_	20	cc	_	_
+19	также	также	PART	_	_	18	fixed	_	_
+20	сверхполномочиях	сверхполномочие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	13	conj	_	_
+21	председателей	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
+22	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+23	упоминал	упоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	своем	свой	DET	_	Case=Loc|Gender=Neut|Number=Sing	26	det	_	_
+26	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	obl	_	_
+27	известный	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+28	польский	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	юрист	юрист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	судья	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	parataxis	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	отставке	отставка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	nmod	_	_
+34	с	с	ADP	_	_	36	case	_	_
+35	многолетним	многолетний	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	стажем	стаж	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	nmod	_	_
+37	Дариуш	Дариуш	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	appos	_	_
+38	Селицкий13	Селицкий13	PROPN	_	Foreign=Yes	37	flat:foreign	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 51
+# text = Так, законопроекты предполагают резко снизить возраст ухода судей в отставку и тем самым удалить с должностей судей, достигших возраста отставки в соответствии с новым законодательством.
+1	Так	так	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	законопроекты	законопроект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	предполагают	предполагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	резко	резко	ADV	_	Degree=Pos	6	advmod	_	_
+6	снизить	снизить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+7	возраст	возраст	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	ухода	уход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	отставку	отставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+12	и	и	CCONJ	_	_	15	cc	_	_
+13	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	15	obl	_	_
+14	самым	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+15	удалить	удалить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	должностей	должность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	obl	_	_
+18	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	достигших	достигнуть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	acl	_	_
+21	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	_
+22	отставки	отставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	в	в	ADP	_	_	27	case	_	_
+24	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	с	с	ADP	_	_	23	fixed	_	_
+26	новым	новый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Венецианская комиссия указала на то, что в интересах обеспечения независимости и несменяемости судей судьи, еще не достигшие пенсионного возраста по старому законодательству, должны сохранить свои полномочия и после вступления в силу нового законодательства.
+1	Венецианская	Венецианский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	указала	указать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	19	punct	_	_
+7	что	что	SCONJ	_	_	19	mark	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	интересах	интерес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	_
+10	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	независимости	независимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	несменяемости	несменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	conj	_	_
+14	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	9	punct	_	_
+17	еще	еще	ADV	_	Degree=Pos	19	advmod	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	достигшие	достичь	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+20	пенсионного	пенсионный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+22	по	по	ADP	_	_	24	case	_	_
+23	старому	старый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	законодательству	законодательство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	conj	_	_
+27	сохранить	сохранить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	свои	свой	DET	_	Case=Acc|Number=Plur	29	det	_	_
+29	полномочия	полномочие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	27	obj	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	после	после	ADP	_	_	32	case	_	_
+32	вступления	вступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obl	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	nmod	_	_
+35	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 53
+# text = Такие судьи должны доработать до возраста отставки, предусмотренного законодательством, действующим в момент их назначения.
+1	Такие	такой	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+4	доработать	доработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	до	до	ADP	_	_	6	case	_	_
+6	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+7	отставки	отставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	предусмотренного	предусмотреть	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+10	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	действующим	действовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+15	их	их	DET	_	_	16	det	_	_
+16	назначения	назначение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 54
+# text = Нельзя не вспомнить, что аналогичная проблема уже не раз приобретала актуальность и в России: изначально возраста отставки судей как такового не существовало, судьи назначались пожизненно в буквальном смысле слова — на срок до естественного ухода из жизни (или добровольной отставки).
+1	Нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	вспомнить	вспомянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	что	что	SCONJ	_	_	11	mark	_	_
+6	аналогичная	аналогичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	уже	уже	ADV	_	Degree=Pos	10	obl	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+11	приобретала	приобретать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+12	актуальность	актуальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	изначально	изначально	ADV	_	Degree=Pos	18	obl	_	_
+18	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nsubj	_	_
+19	отставки	отставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	как	как	SCONJ	_	_	22	mark	_	_
+22	такового	таковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	obl	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	существовало	существовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+27	назначались	назначать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	24	conj	_	_
+28	пожизненно	пожизненно	ADV	_	Degree=Pos	27	advmod	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	буквальном	буквальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	смысле	смысл	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	35	nmod	_	_
+32	слова	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	—	—	PUNCT	_	_	31	punct	_	_
+34	на	на	ADP	_	_	35	case	_	_
+35	срок	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
+36	до	до	ADP	_	_	38	case	_	_
+37	естественного	естественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
+38	ухода	уход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+39	из	из	ADP	_	_	40	case	_	_
+40	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+41	(	(	PUNCT	_	_	44	punct	_	SpaceAfter=No
+42	или	или	CCONJ	_	_	44	cc	_	_
+43	добровольной	добровольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	_
+44	отставки	отставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	parataxis	_	SpaceAfter=No
+45	)	)	PUNCT	_	_	44	punct	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 55
+# text = Потом, однако, в законодательство о статусе судей были внесены поправки об установлении возраста отставки 65 лет, а так как закон распространялся и на действующих судей, значительное количество судей были вынуждены покинуть свои должности.
+1	Потом	потом	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	однако	однако	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	статусе	статус	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	11	aux:pass	_	_
+11	внесены	внести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+12	поправки	поправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	nsubj:pass	_	_
+13	об	о	ADP	_	_	14	case	_	_
+14	установлении	установление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+15	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	отставки	отставка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	65	65	NUM	_	_	18	nummod	_	_
+18	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	34	punct	_	_
+20	а	а	CCONJ	_	_	34	cc	_	_
+21	так	так	ADV	_	Degree=Pos	24	mark	_	_
+22	как	как	SCONJ	_	_	21	fixed	_	_
+23	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+24	распространялся	распространяться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	34	advcl	_	_
+25	и	и	PART	_	_	28	advmod	_	_
+26	на	на	ADP	_	_	28	case	_	_
+27	действующих	действовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	amod	_	_
+28	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	24	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	34	punct	_	_
+30	значительное	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	34	nsubj:pass	_	_
+32	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	34	aux:pass	_	_
+34	вынуждены	вынудить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	_
+35	покинуть	покинуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	34	xcomp	_	_
+36	свои	свой	DET	_	Case=Acc|Number=Plur	37	det	_	_
+37	должности	должность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	35	obj	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 56
+# text = Впоследствии "колебания" российского законодательства в части возраста выхода в отставку судей продолжились.
+1	Впоследствии	впоследствии	ADV	_	Degree=Pos	14	advmod	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	колебания	колебание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	части	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	возраста	возраст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	отставку	отставка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
+14	продолжились	продолжиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 57
+# text = Данные неоднократные изменения были охарактеризованы Т. Г. Морщаковой как "закон одного судьи"14, под которыми она подразумевала поправки, нацеленные на конкретного судью или конкретную группу судей, по каким-то причинам неугодную законодателю.
+1	Данные	данные	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	неоднократные	неоднократный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	_
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	охарактеризованы	характеризовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	Т.	Т.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+7	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	flat:name	_	_
+8	Морщаковой	Морщакова	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	flat:name	_	_
+9	как	как	SCONJ	_	_	11	mark	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	_
+12	одного	один	NUM	_	Case=Gen|Gender=Masc	13	nummod	_	_
+13	судьи	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+15	14	14	NUM	_	_	11	nummod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	под	под	ADP	_	_	18	case	_	_
+18	которыми	который	PRON	_	Case=Ins	20	obl	_	_
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	nsubj	_	_
+20	подразумевала	подразумевать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+21	поправки	поправка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	нацеленные	нацелить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+24	на	на	ADP	_	_	26	case	_	_
+25	конкретного	конкретный	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	судью	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	23	obl	_	_
+27	или	или	CCONJ	_	_	28	cc	_	_
+28	конкретную	конкретный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	группу	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+30	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	по	по	ADP	_	_	34	case	_	_
+33	каким-то	какой-то	DET	_	Case=Dat|Number=Plur	34	det	_	_
+34	причинам	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	36	nmod	_	_
+35	неугодную	неугодный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	законодателю	законодатель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 58
+# text = Таким образом, значительное количество польских судей поставлены в зависимость от не до конца продуманных решений законодателя.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	значительное	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	_
+6	польских	польский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	поставлены	ставить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	зависимость	зависимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+11	от	от	ADP	_	_	14	case	_	_
+12	не	не	PART	_	_	14	advmod	_	_
+13	до	до	ADP	_	_	14	case	_	_
+14	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	_
+15	продуманных	продуманный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+17	законодателя	законодатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 59
+# text = Не обеспечивают законопроекты и независимости судебных органов от исполнительной власти.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	обеспечивают	обеспечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	законопроекты	законопроект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	независимости	независимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+6	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	от	от	ADP	_	_	10	case	_	_
+9	исполнительной	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 60
+# text = Актуальной, в частности, является проблема чрезмерной зависимости судебной власти от Министерства юстиции.
+1	Актуальной	актуальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	в	в	ADP	_	_	6	discourse	_	_
+4	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	fixed	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	_
+7	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+8	чрезмерной	чрезмерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+14	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = Министр юстиции фактически выполняет роль высшего дисциплинарного звена в отношении председателей судов и судейского корпуса в целом.
+1	Министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	фактически	фактически	ADV	_	Degree=Pos	4	advmod	_	_
+4	выполняет	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	высшего	высший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+7	дисциплинарного	дисциплинарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	звена	звено	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	председателей	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+12	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	судейского	судейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	корпуса	корпус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 62
+# text = Он может запрашивать у руководителей судов отчеты о их деятельности, направлять "письменные уве13 Судебная система Польши: взгляд польского юриста.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	запрашивать	запрашивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	у	у	ADP	_	_	5	case	_	_
+5	руководителей	руководитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	_
+6	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	отчеты	отчет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+8	о	о	ADP	_	_	10	case	_	_
+9	их	их	DET	_	_	10	det	_	_
+10	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	направлять	направлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	_
+13	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+14	письменные	письменный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	уве13	уве13	NUM	_	_	17	nummod	_	_
+16	Судебная	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	система	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+18	Польши	Польша	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	17	punct	_	_
+20	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	parataxis	_	_
+21	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	юриста	юрист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 63
+# text = URL: http://jobr.ru/sudebnayasstemapolshevzglyadpolskogosu dJobrnovost_state_1454.html (дата обращения: 15.12.2017).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://jobr.ru/sudebnayasstemapolshevzglyadpolskogosu	http://jobr.ru/sudebnayasstemapolshevzglyadpolskogosu	X	_	Foreign=Yes	1	parataxis	_	_
+4	dJobrnovost_state_1454.html	dJobrnovost_state_1454.html	X	_	Foreign=Yes	3	flat:foreign	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+7	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	6	punct	_	_
+9	15.12.2017	15.12.2017	PROPN	_	_	6	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = 14 См.: Морщакова Т. Г. О судебной системе России // Стенограмма лекции в Школе гражданского просвещения "Голицыно".
+1	14	14	NUM	_	_	2	nummod	_	_
+2	См	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	Морщакова	Морщаков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	parataxis	_	_
+6	Т.	Т.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	О	о	ADP	_	_	10	case	_	_
+9	судебной	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+11	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	/	/	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	/	/	PUNCT	_	_	10	punct	_	_
+14	Стенограмма	стенограмма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+15	лекции	лекция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	Школе	школ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	_
+18	гражданского	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	просвещения	просвещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+20	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	Голицыно	Голицыно	PROPN	_	_	19	appos	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 65
+# text = URL: https://zakon.ru/blog/2014/8/25/tamara_georgevna_ morshhakova_o_sudebnoj_ssteme_ross_golcyno_yul_2014_ goda_tekst (дата обращения: 15.12.2017).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	https://zakon.ru/blog/2014/8/25/tamara_georgevna_	https://zakon.ru/blog/2014/8/25/tamara_georgevna_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	parataxis	_	_
+4	morshhakova_o_sudebnoj_ssteme_ross_golcyno_yul_2014_	morshhakova_o_sudebnoj_ssteme_ross_golcyno_yul_2014_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	goda_tekst	goda_tekst	X	_	Foreign=Yes	4	flat:foreign	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
+8	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	7	punct	_	_
+10	15.12.2017	15.12.2017	PROPN	_	_	7	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 66
+# text = Материалы Венецианской комиссии Совета Европы
+1	Материалы	материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+2	Венецианской	венецианский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	Совета	Совет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 67
+# text = домления", представляющие собой обязательные к исполнению указания.
+1	домления	домление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	представляющие	представлять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+5	собой	себя	PRON	_	Case=Ins	4	fixed	_	_
+6	обязательные	обязательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	исполнению	исполнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+9	указания	указание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Более того, размер финансового вознаграждения конкретного председателя суда напрямую зависит от того, как данного председателя оценит министр юстиции.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	размер	размер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+5	финансового	финансовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	вознаграждения	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	конкретного	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	напрямую	напрямую	ADV	_	Degree=Pos	11	advmod	_	_
+11	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	от	от	ADP	_	_	13	case	_	_
+13	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	acl	_	_
+18	оценит	оценить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+19	министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+20	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 69
+# text = Заметим, что отдельные функции в отношении судебной власти имеет, например, Министерство юстиции Германии, однако в Германии данный орган занимается больше хозяйственными вопросами, существующими в судебной системе, и вопросами обучения судей.
+1	Заметим	заметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	что	что	SCONJ	_	_	10	mark	_	_
+4	отдельные	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	_
+5	функции	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	_
+6	в	в	ADP	_	_	9	case	_	_
+7	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	_
+10	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	например	например	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	23	punct	_	_
+14	Министерство	Министерство	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+15	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	23	punct	_	_
+18	однако	однако	ADV	_	Degree=Pos	23	advmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	Германии	Германия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	obl	_	_
+21	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	орган	орган	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+23	занимается	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	_
+24	больше	много	ADV	_	Degree=Cmp	25	obl	_	_
+25	хозяйственными	хозяйственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	26	amod	_	_
+26	вопросами	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	существующими	существовать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	acl	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	судебной	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	вопросами	вопрос	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	23	conj	_	_
+35	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+36	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = При этом немецкое Министерство юстиции лишено возможности принятия в отношении судей каких-то окончательных и безапелляционных решений15.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	немецкое	немецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	Министерство	Министерство	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
+5	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	лишено	лишить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+8	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+12	каких-то	какой-то	DET	_	Case=Gen|Number=Plur	16	det	_	_
+13	окончательных	окончательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	безапелляционных	безапелляционный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	conj	_	_
+16	решений15	решений15	NOUN	_	_	8	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 71
+# text = Минимальны полномочия в отношении судебной власти и у российского Министерства юстиции16.
+1	Минимальны	минимальный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+2	полномочия	полномочие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	fixed	_	_
+5	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+7	и	и	CCONJ	_	_	10	cc	_	_
+8	у	у	ADP	_	_	10	case	_	_
+9	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	Министерства	министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+11	юстиции16	юстиции16	X	_	Foreign=Yes	10	flat:foreign	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Польская же модель взаимоотношений Министерства юстиции и судебной власти, видимо, исходит из того, что суды являются подведомственными министру юстиции учреждениями.
+1	Польская	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+4	взаимоотношений	взаимоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+5	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	видимо	видимо	ADV	_	Degree=Pos	13	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	исходит	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	из	из	ADP	_	_	15	case	_	_
+15	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	что	что	SCONJ	_	_	19	mark	_	_
+18	суды	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
+19	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	acl	_	_
+20	подведомственными	подведомственный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	_
+21	министру	министр	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
+22	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	учреждениями	учреждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 73
+# text = Ситуацию осложняет и то, что в отличие от Германии и России польский министр юстиции одновременно является генеральным прокурором.
+1	Ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+2	осложняет	осложнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	17	punct	_	_
+6	что	что	SCONJ	_	_	17	mark	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	от	от	ADP	_	_	7	fixed	_	_
+10	Германии	Германия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
+13	польский	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	министр	министр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+15	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	одновременно	одновременно	ADV	_	Degree=Pos	17	advmod	_	_
+17	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	acl	_	_
+18	генеральным	генеральный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	прокурором	прокурор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 74
+# text = Это обстоятельство вновь заставляет скептически относиться к изначальной цели польской судебной реформы, заявленной как "отказ от советского и российского наследия".
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	обстоятельство	обстоятельство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	вновь	вновь	ADV	_	Degree=Pos	4	advmod	_	_
+4	заставляет	заставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	скептически	скептически	ADV	_	Degree=Pos	6	advmod	_	_
+6	относиться	относиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	4	xcomp	_	_
+7	к	к	ADP	_	_	9	case	_	_
+8	изначальной	изначальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	цели	цель	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+10	польской	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+11	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	реформы	реформа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	заявленной	заявить	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	как	как	SCONJ	_	_	17	mark	_	_
+16	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	отказ	отказ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	_
+18	от	от	ADP	_	_	22	case	_	_
+19	советского	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	conj	_	_
+22	наследия	наследие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 75
+# text = В сложившейся модели получается, что прокуратура не только является участником споров, рассматриваемых судами, но и имеет огромные рычаги влияния на судей.
+1	В	в	ADP	_	_	3	case	_	_
+2	сложившейся	сложиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	amod	_	_
+3	модели	модель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
+4	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	что	что	SCONJ	_	_	10	mark	_	_
+7	прокуратура	прокуратура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	только	только	PART	_	_	10	advmod	_	_
+10	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+11	участником	участник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	10	obl	_	_
+12	споров	спор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	рассматриваемых	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	судами	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	но	но	CCONJ	_	_	19	cc	_	_
+18	и	и	PART	_	_	17	advmod	_	_
+19	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+20	огромные	огромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+21	рычаги	рычаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	19	obj	_	_
+22	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 76
+# text = Подобная ситуация имела место в советской России, в которой прокуроры осуществляли надзор за судами и судьями.
+1	Подобная	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	имела	иметь	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	советской	советский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	которой	который	PRON	_	Case=Loc	12	obl	_	_
+11	прокуроры	прокурор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+12	осуществляли	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	надзор	надзор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	судами	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	12	obl	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	судьями	судья	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 77
+# text = Что касается совмещения функций Генеральной прокуратуры и Министерства юстиции, то такая модель в настоящее время существует в США.
+1	Что	что	PRON	_	Case=Nom	2	nsubj	_	_
+2	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	advcl	_	_
+3	совмещения	совмещение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	_
+4	функций	функция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	Генеральной	генеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	прокуратуры	прокуратура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
+9	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	2	punct	_	_
+11	то	то	SCONJ	_	_	17	mark	_	_
+12	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	13	det	_	_
+13	модель	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+14	в	в	ADP	_	_	17	advmod	_	_
+15	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	fixed	_	_
+16	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	fixed	_	_
+17	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	США	США	PROPN	_	Animacy=Inan|Case=Loc|Number=Plur	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 78
+# text = Однако у американского Министерства юстиции отсутствуют какие-либо контрольно-надзорные функции в отношении судов.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	у	у	ADP	_	_	4	case	_	_
+3	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+5	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	отсутствуют	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	какие-либо	какой-либо	DET	_	Case=Nom|Number=Plur	11	det	_	_
+8	контрольно	контрольный	ADJ	_	Degree=Pos	10	compound	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	надзорные	надзорный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	функции	функция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	fixed	_	_
+14	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 79
+# text = В силу изложенного критика Венецианской комиссией статуса польского Министерства юстиции и возникшей зависимости судов от данного органа выглядит более чем резонной и обоснованной.
+1	В	в	ADP	_	_	2	case	_	_
+2	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obl	_	_
+3	изложенного	изложить	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	критика	критика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Венецианской	венецианский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	комиссией	комиссия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	_
+7	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+8	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	возникшей	возникнуть	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	13	amod	_	_
+13	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	_
+14	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	от	от	ADP	_	_	17	case	_	_
+16	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	органа	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+18	выглядит	выглядеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	более	более	ADV	_	Degree=Cmp	21	case	_	_
+20	чем	чем	SCONJ	_	_	19	fixed	_	_
+21	резонной	резонный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	obl	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	обоснованной	обоснованный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 80
+# text = Наконец, в Заключении Венецианской комиссии была подробно проанализирована хорошо знакомая
+1	Наконец	наконец	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Заключении	заключение	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+5	Венецианской	венецианский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+8	подробно	подробно	ADV	_	Degree=Pos	9	advmod	_	_
+9	проанализирована	анализировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	хорошо	хорошо	ADV	_	Degree=Pos	9	advmod	_	_
+11	знакомая	знакомый	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 81
+# text = российскому специалисту проблема сверхполномочий председателей судов.
+1	российскому	российский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	специалисту	специалист	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	_
+3	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	сверхполномочий	сверхполномочий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+5	председателей	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 82
+# text = Так, польский Закон "О судах общей юрисдикции" рассматривает председателя не только как судью, но и как высшее административное должностное лицо суда.
+1	Так	так	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	польский	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	Закон	Закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	О	о	ADP	_	_	7	case	_	_
+7	судах	суд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	appos	_	_
+8	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	юрисдикции	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	7	punct	_	_
+11	рассматривает	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	председателя	председатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	только	только	PART	_	_	16	advmod	_	_
+15	как	как	SCONJ	_	_	16	mark	_	_
+16	судью	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	24	punct	_	_
+18	но	но	CCONJ	_	_	24	cc	_	_
+19	и	и	PART	_	_	20	advmod	_	_
+20	как	как	SCONJ	_	_	16	cc	_	_
+21	высшее	высший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+22	административное	административный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+23	должностное	должностной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	лицо	лицо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	_
+25	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 83
+# text = Председатель имеет право инициировать проверки в отношении судей, назначать инспекционные комиссии, заменять начавших рассматривать дела судей (что с точки зрения теории процессуального права недопустимо), распределять судей в судебные составы и т. д.
+1	Председатель	председатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	инициировать	инициировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	obl	_	_
+5	проверки	проверка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	назначать	назначать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	_
+11	инспекционные	инспекционный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	_	_
+12	комиссии	комиссия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	заменять	заменять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	conj	_	_
+15	начавших	начать	VERB	_	Animacy=Anim|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	14	xcomp	_	_
+16	рассматривать	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	дела	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+18	судей	судья	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
+20	что	что	PRON	_	Case=Nom	27	nsubj	_	_
+21	с	с	ADP	_	_	22	case	_	_
+22	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	_
+23	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	compound	_	_
+24	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	процессуального	процессуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+27	недопустимо	недопустимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	17	parataxis	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	распределять	распределять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	conj	_	_
+31	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	30	obj	_	_
+32	в	в	ADP	_	_	34	case	_	_
+33	судебные	судебный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	34	amod	_	_
+34	составы	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	30	obl	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	т.	так	ADV	_	Degree=Pos	34	conj	_	_
+37	д	далее	ADV	_	Degree=Pos	36	fixed	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 84
+# text = Более того, председатель апелляционного суда имеет полномочия в отношении не только судей своего суда, но и председателей нижестоящих судов.
+1	Более	более	ADV	_	Degree=Cmp	2	nummod:gov	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	председатель	председатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	апелляционного	апелляционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	полномочия	полномочие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
+9	в	в	ADP	_	_	13	case	_	_
+10	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	fixed	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	только	только	PART	_	_	13	advmod	_	_
+13	судей	судья	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	8	nmod	_	_
+14	своего	свой	DET	_	Case=Gen|Gender=Masc|Number=Sing	15	det	_	_
+15	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	но	но	CCONJ	_	_	19	cc	_	_
+18	и	и	PART	_	_	17	advmod	_	_
+19	председателей	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	conj	_	_
+20	нижестоящих	нижестоящий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 85
+# text = В частности, польский закон наделяет председателя вышестоящего суда полномочиями направлять своему коллеге (а точнее, подчиненному) из нижестоящего суда письменные указания на "ошибки в управлении судом", наличие которых может вылиться и в финансовые санкции.
+1	В	в	ADP	_	_	6	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	польский	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	наделяет	наделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	председателя	председатель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	вышестоящего	вышестоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	полномочиями	полномочие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	11	obl	_	_
+11	направлять	направлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+12	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	13	det	_	_
+13	коллеге	коллега	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	_
+14	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+15	а	а	CCONJ	_	_	18	cc	_	_
+16	точнее	точно	ADV	_	Degree=Cmp	18	parataxis	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	подчиненному	подчиненный	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	18	punct	_	_
+20	из	из	ADP	_	_	22	case	_	_
+21	нижестоящего	нижестоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	_
+23	письменные	письменный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+24	указания	указание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+25	на	на	ADP	_	_	27	case	_	_
+26	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	ошибки	ошибка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+28	в	в	ADP	_	_	29	case	_	_
+29	управлении	управление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	27	nmod	_	_
+30	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
+34	которых	который	PRON	_	Case=Gen	33	nmod	_	_
+35	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl:relcl	_	_
+36	вылиться	вылиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	35	xcomp	_	_
+37	и	и	PART	_	_	40	advmod	_	_
+38	в	в	ADP	_	_	40	case	_	_
+39	финансовые	финансовый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	40	amod	_	_
+40	санкции	санкция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	36	obl	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 86
+# text = Указанные полномочия являются абсолютно недопустимыми, в связи с чем Венецианская комиссия указала на однозначную необходимость пересмотра данного Закона.
+1	Указанные	указанный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	полномочия	полномочие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	абсолютно	абсолютно	ADV	_	Degree=Pos	5	obl	_	_
+5	недопустимыми	недопустимый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	в	в	ADP	_	_	10	case	_	_
+8	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	fixed	_	_
+9	с	с	ADP	_	_	7	fixed	_	_
+10	чем	что	PRON	_	Case=Ins	13	obl	_	_
+11	Венецианская	Венецианский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+13	указала	указать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+14	на	на	ADP	_	_	16	case	_	_
+15	однозначную	однозначный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+17	пересмотра	пересмотр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	Закона	Закон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 87
+# text = Недопустимость выражается не только в наличии чрезмерных полномочий у председателей судов, а прежде всего в том, что польское законодательство выстроило иерархическую систему зависимости: судьи вынуждены подстраиваться под председателя суда, а тот вынужден подстраиваться под Министерство юстиции.
+1	Недопустимость	недопустимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	выражается	выражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	только	только	PART	_	_	6	advmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+7	чрезмерных	чрезмерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	полномочий	полномочие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+9	у	у	ADP	_	_	10	case	_	_
+10	председателей	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	судов	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	а	а	CCONJ	_	_	17	cc	_	_
+14	прежде	прежде	ADP	_	_	17	advmod	_	_
+15	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	fixed	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	что	что	SCONJ	_	_	22	mark	_	_
+20	польское	польский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	законодательство	законодательство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+22	выстроило	выстроить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	acl	_	_
+23	иерархическую	иерархический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+25	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+26	:	:	PUNCT	_	_	22	punct	_	_
+27	судьи	судья	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	28	nsubj:pass	_	_
+28	вынуждены	вынудить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	22	parataxis	_	_
+29	подстраиваться	подстраиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	28	xcomp	_	_
+30	под	под	ADP	_	_	31	case	_	_
+31	председателя	председатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	obl	_	_
+32	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	а	а	CCONJ	_	_	36	cc	_	_
+35	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+36	вынужден	вынудить	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	28	conj	_	_
+37	подстраиваться	подстраиваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	36	xcomp	_	_
+38	под	под	ADP	_	_	39	case	_	_
+39	Министерство	Министерство	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obl	_	_
+40	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 88
+# text = При такой ситуации не приходится говорить о беспристрастном правосудии, особенно если рядовому судье вдруг поступит дело с участием органов прокуратуры.
+1	При	при	ADP	_	_	3	case	_	_
+2	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	det	_	_
+3	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	приходится	приходиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	о	о	ADP	_	_	9	case	_	_
+8	беспристрастном	беспристрастный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	правосудии	правосудие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	особенно	особенно	ADV	_	Degree=Pos	16	advmod	_	_
+12	если	если	SCONJ	_	_	16	mark	_	_
+13	рядовому	рядовой	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	судье	судья	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	_
+15	вдруг	вдруг	ADV	_	Degree=Pos	16	advmod	_	_
+16	поступит	поступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+17	дело	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	участием	участие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	nmod	_	_
+20	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	прокуратуры	прокуратура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 89
+# text = В заключение еще раз отметим общие исторические корни российского и польского правосудия.
+1	В	в	ADP	_	_	2	case	_	_
+2	заключение	заключение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+3	еще	еще	ADV	_	Degree=Pos	4	obl	_	_
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+5	отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+6	общие	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+7	исторические	исторический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	корни	корень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+9	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	польского	польский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	conj	_	_
+12	правосудия	правосудие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 90
+# text = Несмотря на то что на современном историческом этапе российско-польские отношения находятся в состоянии глубочайшего кризиса, российские исследователи продолжают проявлять интерес к польскому праву, о чем свидетельствует ряд научных работ17.
+1	Несмотря	несмотря	ADV	_	Polarity=Neg	3	case	_	_
+2	на	на	ADP	_	_	1	fixed	_	_
+3	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obl	_	_
+4	что	что	SCONJ	_	_	13	mark	_	_
+5	на	на	ADP	_	_	8	case	_	_
+6	современном	современный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	историческом	исторический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+9	российско	российский	ADJ	_	Degree=Pos	11	compound	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	польские	польский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	13	nsubj	_	_
+13	находятся	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+16	глубочайшего	глубокий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	кризиса	кризис	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	13	punct	_	_
+19	российские	российский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+20	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
+21	продолжают	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+22	проявлять	проявлять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+23	интерес	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+24	к	к	ADP	_	_	26	case	_	_
+25	польскому	польский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	праву	право	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	о	о	ADP	_	_	29	case	_	_
+29	чем	что	PRON	_	Case=Loc	30	obl	_	_
+30	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
+31	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	30	obj	_	_
+32	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	работ17	работ17	NUM	_	_	31	nummod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 91
+# text = Представляется, что именно путь научного осмысления (а в чем-то и переосмысления) поможет сделать польскому обществу и польским властям шаг к преодолению возникшей кризисной ситуации.
+1	Представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	15	punct	_	_
+3	что	что	SCONJ	_	_	15	mark	_	_
+4	именно	именно	PART	_	_	5	advmod	_	_
+5	путь	путь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+6	научного	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	осмысления	осмысление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
+9	а	а	CCONJ	_	_	13	cc	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	чем-то	что-то	PRON	_	Case=Loc	13	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	переосмысления	переосмысление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	parataxis	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	поможет	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+16	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	xcomp	_	_
+17	польскому	польский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	обществу	общество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	iobj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	польским	польский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	_
+21	властям	власть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	18	conj	_	_
+22	шаг	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	_
+23	к	к	ADP	_	_	24	case	_	_
+24	преодолению	преодоление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	nmod	_	_
+25	возникшей	возникнуть	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	27	amod	_	_
+26	кризисной	кризисный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 92
+# text = См., например: Сиденко О. А. Конституционный процесс в условиях демократической трансформации в Польше: конец 1980‑х — начало 2000‑х гг.: дис. ... канд. юрид. наук.
+1	См.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	например	например	ADV	_	Degree=Pos	1	parataxis	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	1	punct	_	_
+5	Сиденко	Сиденко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	amod	_	_
+6	О.	О.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+8	Конституционный	конституционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	nmod	_	_
+12	демократической	демократический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	трансформации	трансформация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	parataxis	_	_
+18	1980‑х	1980‑й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	acl	_	_
+19	—	—	PUNCT	_	_	18	punct	_	_
+20	начало	начало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	2000‑х	2000‑й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	20	punct	_	_
+24	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	parataxis	_	_
+25	.	.	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	24	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	20	punct	_	_
+28	канд.	кандемик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	nmod	_	_
+29	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	29	punct	_	_
+31	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 93
+# text = Воронеж, 2005; Зенькович Д. И. Международный коммерческий арбитраж в России и Польше: сравнительно-правовой анализ: дис. ... канд. юрид. наук.
+1	Воронеж	Воронеж	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2005	2005	NUM	_	_	1	conj	_	SpaceAfter=No
+4	;	;	PUNCT	_	_	1	punct	_	_
+5	Зенькович	Зенькович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Международный	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+9	коммерческий	коммерческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	арбитраж	арбитраж	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	:	:	PUNCT	_	_	10	punct	_	_
+16	сравнительно	сравнительный	ADJ	_	Degree=Pos	18	compound	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	правовой	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	19	punct	_	_
+21	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	parataxis	_	_
+22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	21	punct	_	_
+25	канд.	кандемик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	conj	_	_
+26	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	_
+28	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = М., 2011; Янкевич С. В. Судебный порядок разрешения налоговых споров в Польше // Финансовое право.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2011	2011	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	;	;	PUNCT	_	_	1	punct	_	_
+5	Янкевич	Янкевич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+7	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Судебный	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	порядок	порядок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+10	разрешения	разрешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	налоговых	налоговый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	споров	спор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	Польше	Польша	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+15	/	/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	/	/	PUNCT	_	_	18	punct	_	_
+17	Финансовое	финансовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	parataxis	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = 2015.
+1	2015	2015	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = № 11. С. 35—40.
+1	№	№	SYM	_	_	0	root	_	_
+2	11	11	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	С	С	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+6	35	35	NUM	_	_	1	nummod	_	SpaceAfter=No
+7	—	—	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	40	40	NUM	_	_	6	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 97
+# text = URL: http://www.bmjv.de/EN/Mnstry/StructureOrgansaton/ Drectorates/AbtR.html?nn= 6427850 (дата обращени я: 15.12.2017).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.bmjv.de/EN/Mnstry/StructureOrgansaton/	http://www.bmjv.de/en/mnstry/structureorgansaton/	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	parataxis	_	_
+4	Drectorates	Drectorates	PROPN	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	AbtR.html	AbtR.html	PROPN	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+7	?nn=	?nn=	SYM	_	_	3	appos	_	_
+8	6427850	6427850	NUM	_	_	7	nummod	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	дата	дата	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	7	parataxis	_	_
+11	обращени	обращенить	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	_
+12	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	10	nsubj	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	10	punct	_	_
+14	15.12.2017	15.12.2017	PROPN	_	_	10	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = 16 Департамент по вопросам правовой помощи и взаимодействия с судебной системой Российской Федерации Министерства юстиции Российской Федерации.
+1	16	16	NUM	_	_	2	nummod	_	_
+2	Департамент	департамент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	вопросам	вопрос	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	2	nmod	_	_
+5	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
+9	с	с	ADP	_	_	11	case	_	_
+10	судебной	судебный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	системой	система	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+12	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	Министерства	Министерство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	юстиции	юстиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 99
+# text = URL: http://mnjust. ru/structure/central/dpp/ (дата обращения: 15.12.2017).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://mnjust.	http://mnjust.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	nmod	_	_
+4	ru	ru	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	structure/central/dpp	structure/central/dpp	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+10	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	9	punct	_	_
+12	15.12.2017	15.12.2017	PROPN	_	_	9	parataxis	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	9	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 100
+# text = Журнал зарубежного законодательства и сравнительного правоведения № 2 — 2018
+1	Журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	зарубежного	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	сравнительного	сравнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	правоведения	правоведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+7	№	№	SYM	_	_	6	nummod:entity	_	_
+8	2	2	NUM	_	_	7	nummod	_	_
+9	—	—	PUNCT	_	_	1	punct	_	_
+10	2018	2018	NUM	_	_	1	nummod	_	SpacesAfter=\n
+

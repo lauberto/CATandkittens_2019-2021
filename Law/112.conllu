@@ -1,0 +1,2896 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = выступает наличие соотносимого с потребностями граждан информационного общества.
+1	выступает	выступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+3	соотносимого	соотносимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	потребностями	потребность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	_
+6	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+7	информационного	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = 2
+# text = 2 По этой причине большинство государств старается усилить свое влияние в информационных сетях, увеличить степень своего присутствия в них.
+1	2	2	NUM	_	_	7	nummod	_	_
+2	По	по	ADP	_	_	4	case	_	_
+3	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing	4	det	_	_
+4	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+5	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	старается	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	усилить	усиливать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
+10	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	информационных	информационный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	увеличить	увеличить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	conj	_	_
+16	степень	степень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+17	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	18	det	_	_
+18	присутствия	присутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	них	они	PRON	_	Case=Loc|Number=Plur|Person=3	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 3
+# text = Эти процессы присущи практически всем странам СНГ, в том числе и Азербайджанской Республике.
+1	Эти	этот	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	процессы	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+3	присущи	присускать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+4	практически	практически	ADV	_	Degree=Pos	5	obl	_	_
+5	всем	весь	DET	_	Case=Dat|Number=Plur	6	det	_	_
+6	странам	страна	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	iobj	_	_
+7	СНГ	СНГ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	11	det	_	_
+11	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+12	и	и	PART	_	_	13	advmod	_	_
+13	Азербайджанской	Азербайджанский	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	Республике	республика	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# text = Вместе с тем как в мировых масштабах, так и в национальных границах технический и технологический прогресс не выполняет однозначной социальной функции.
+1	Вместе	вместе	ADV	_	Degree=Pos	19	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	как	как	SCONJ	_	_	7	mark	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	мировых	мировой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	масштабах	масштаб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	19	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	так	так	ADV	_	Degree=Pos	13	cc	_	_
+10	и	и	PART	_	_	9	fixed	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	национальных	национальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	obl	_	_
+14	технический	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	технологический	технологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	conj	_	_
+17	прогресс	прогресс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	выполняет	выполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+20	однозначной	однозначный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+21	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	функции	функция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 5
+# text = Формирование единого киберпространства порождает не только новые коммуникативные созидательные возможности, но и ряд девиантных, в том числе криминальных явлений.
+1	Формирование	формирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	единого	единый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	киберпространства	киберпространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	порождает	порождать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	только	только	PART	_	_	7	advmod	_	_
+7	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+8	коммуникативные	коммуникативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+9	созидательные	созидательный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	возможности	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	но	но	CCONJ	_	_	14	cc	_	_
+13	и	и	PART	_	_	12	advmod	_	_
+14	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+15	девиантных	девиантный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	19	det	_	_
+19	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	_
+20	криминальных	криминальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	явлений.	явлений.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+
+# sent_id = 6
+# text = 3 Как и процесс глобализации в целом, глобальная преступность в ее современных формах, в международной среде и в параметрах национальных преступных формирований канализируется по уже глобальным коммуникациям: в сфере материального взаимодействия — через транспортные средства, энергоносители и средства связи, в сфере обмена информации — с использованием экспоненциально расширяющихся возможностей компьютерного киберпространства.
+1	3	3	NUM	_	_	25	nummod	_	_
+2	Как	как	SCONJ	_	_	4	mark	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nsubj:pass	_	_
+5	глобализации	глобализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	глобальная	глобальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	преступность	преступность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+11	в	в	ADP	_	_	14	case	_	_
+12	ее	ее	DET	_	_	14	det	_	_
+13	современных	современный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+14	формах	форма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	международной	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	conj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	параметрах	параметр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	conj	_	_
+22	национальных	национальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+23	преступных	преступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	формирований	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+25	канализируется	канализируться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+26	по	по	ADP	_	_	29	case	_	_
+27	уже	уже	ADV	_	Degree=Pos	28	obl	_	_
+28	глобальным	глобальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	29	amod	_	_
+29	коммуникациям	коммуникация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
+30	:	:	PUNCT	_	_	29	punct	_	_
+31	в	в	ADP	_	_	32	case	_	_
+32	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	parataxis	_	_
+33	материального	материальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+35	—	—	PUNCT	_	_	32	punct	_	_
+36	через	через	ADP	_	_	38	case	_	_
+37	транспортные	транспортный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	38	amod	_	_
+38	средства	средства	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	32	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	энергоносители	энергоноситель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	32	conj	_	_
+41	и	и	CCONJ	_	_	42	cc	_	_
+42	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	32	conj	_	_
+43	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	46	punct	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	32	conj	_	_
+47	обмена	обмен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
+48	информации	информация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	_
+49	—	—	PUNCT	_	_	32	punct	_	_
+50	с	с	ADP	_	_	51	case	_	_
+51	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	32	nmod	_	_
+52	экспоненциально	экспоненциально	ADV	_	Degree=Pos	53	advmod	_	_
+53	расширяющихся	расширяться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	54	acl	_	_
+54	возможностей	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	51	nmod	_	_
+55	компьютерного	компьютерный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	56	amod	_	_
+56	киберпространства	киберпространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	54	nmod	_	SpaceAfter=No
+57	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 7
+# text = За последние несколько лет Азербайджанская Республика сделала ряд серьезных шагов в сфере борьбы с киберпреступностью.
+1	За	за	ADP	_	_	4	case	_	_
+2	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	4	nummod:gov	_	_
+4	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+5	Азербайджанская	Азербайджанский	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	Республика	Республика	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	flat:name	_	_
+7	сделала	делать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+9	серьезных	серьезный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	шагов	шаг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	_
+13	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	с	с	ADP	_	_	15	case	_	_
+15	киберпреступностью	киберпреступность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 8
+# text = Долгое время в Республике действовали уголовные нормы, которые предусматривали ответственность за так называемые "компьютерные преступления".
+1	Долгое	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+5	действовали	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	уголовные	уголовный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	которые	который	PRON	_	Case=Nom	10	nsubj	_	_
+10	предусматривали	предусматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+11	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	за	за	ADP	_	_	17	case	_	_
+13	так	так	ADV	_	Degree=Pos	14	advmod	_	_
+14	называемые	называть	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	компьютерные	компьютерный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obl	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9
+# text = Эти нормы были приняты в конце 1990-х гг. и по своему составу полностью дублировали нормы российского уголовного законодательства того периода.
+1	Эти	этот	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	приняты	принять	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+7	1990-х	1990-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	14	cc	_	_
+10	по	по	ADP	_	_	12	case	_	_
+11	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	12	det	_	_
+12	составу	состав	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+13	полностью	полностью	ADV	_	Degree=Pos	14	advmod	_	_
+14	дублировали	дублировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+15	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+16	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+17	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+19	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	20	det	_	_
+20	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 10
+# text = Производство по данным статьям велось службами национальной безопасности, количество дел и решений было минимальным.
+1	Производство	производство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+2	по	по	ADP	_	_	3	case	_	_
+3	данным	данный	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	5	obl	_	_
+4	статьям	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	3	nmod	_	_
+5	велось	вести	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	15	parataxis	_	_
+6	службами	служба	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	obl	_	_
+7	национальной	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+11	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	conj	_	_
+14	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	cop	_	_
+15	минимальным	минимальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 11
+# text = Ситуация должна была кардинально измениться после того, как информационно-коммуникационные технологии были определены основным ненефтяным приоритетом экономики.
+1	Ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	кардинально	кардинально	ADV	_	Degree=Pos	5	advmod	_	_
+5	измениться	измениться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	_
+6	после	после	ADP	_	_	7	case	_	_
+7	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	как	как	SCONJ	_	_	10	mark	_	_
+10	информационно	информационный	ADJ	_	Degree=Pos	7	acl	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+12	коммуникационные	коммуникационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	15	nsubj:pass	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
+15	определены	определить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+16	основным	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+17	ненефтяным	ненефтяной	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	приоритетом	приоритет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	_
+19	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 12
+# text = 4
+1	4	4	NUM	_	_	0	root	_	_
+
+# sent_id = 13
+# text = Последовавшие за этим национальные проекты ознаменовались принятием целого ряда нормативных актов, включая Законы Азербайджанской Республики "Об электронной торговле",5 "Об электронной подписи и электронном документообороте",6 "О доступе к информации"7 и др.
+1	Последовавшие	следовать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+2	за	за	ADP	_	_	3	case	_	_
+3	этим	этот	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	национальные	национальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	проекты	проект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	ознаменовались	ознаменоваться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	принятием	принятие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+8	целого	целый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	нормативных	нормативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	включая	включая	ADV	_	Degree=Pos	11	acl:relcl	_	_
+14	Законы	Закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+15	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+18	Об	о	ADP	_	_	20	case	_	_
+19	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	appos	_	SpaceAfter=No
+21	",5	",5	NOUN	_	_	20	nsubj	_	_
+22	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+23	Об	о	ADP	_	_	25	case	_	_
+24	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	подписи	подпись	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	электронном	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	25	conj	_	_
+28	документообороте"	документообороте"	PUNCT	_	_	32	punct	_	SpaceAfter=No
+29	,6	,6	NUM	_	_	32	nummod	_	_
+30	"	"	PUNCT	_	_	32	punct	_	SpaceAfter=No
+31	О	о	ADP	_	_	32	case	_	_
+32	доступе	доступ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+33	к	к	ADP	_	_	34	case	_	_
+34	информации	информация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	7	7	NUM	_	_	32	nummod	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	conj	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 14
+# text = Однако процесс обладал признаками формализма, так как большинство этих своевременных нормативных актов, вступив в законную силу, не приобрело реальной значимости.
+1	Однако	однако	ADV	_	Degree=Pos	3	parataxis	_	_
+2	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	обладал	обладать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	признаками	признак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	_
+5	формализма	формализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	21	punct	_	_
+7	так	так	ADV	_	Degree=Pos	21	mark	_	_
+8	как	как	SCONJ	_	_	7	fixed	_	_
+9	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+10	этих	этот	DET	_	Case=Gen|Number=Plur	13	det	_	_
+11	своевременных	своевременный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+12	нормативных	нормативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	9	punct	_	_
+15	вступив	вступить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	законную	законный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	15	punct	_	_
+20	не	не	PART	_	_	21	advmod	_	_
+21	приобрело	приобрести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+22	реальной	реальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	значимости	значимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 15
+# text = Процесс законсервировался еще на 5–6 лет, поскольку информационная инфраструктура страны явно не соответствовала необходимому уровню для полноценной интеграции 2 Джансараева Р. Е., Аратулы К. Борьба с киберпреступлениями:
+1	Процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	законсервировался	законсервироваться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	еще	еще	ADV	_	Degree=Pos	8	obl	_	_
+4	на	на	ADP	_	_	8	case	_	_
+5	5	5	NUM	_	_	8	nummod	_	SpaceAfter=No
+6	–	–	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	6	6	NUM	_	_	5	nummod	_	_
+8	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	поскольку	поскольку	SCONJ	_	_	16	mark	_	_
+11	информационная	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	инфраструктура	инфраструктура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+13	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	явно	явно	ADV	_	Degree=Pos	16	advmod	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	соответствовала	соответствовать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+17	необходимому	необходимый	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	уровню	уровень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	_
+19	для	для	ADP	_	_	21	case	_	_
+20	полноценной	полноценный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+22	2	2	NUM	_	_	21	nummod	_	_
+23	Джансараева	Джансараев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+24	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	23	flat:name	_	_
+25	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	23	flat:name	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	Аратулы	Аратула	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	_
+28	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	flat:name	_	_
+29	Борьба	борьба	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	flat:name	_	_
+30	с	с	ADP	_	_	31	case	_	_
+31	киберпреступлениями	киберпреступление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+32	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 16
+# text = Сравнительный анализ законодательства стран СНГ // Криминологический журнал Байкальского государственного университета экономики и права.
+1	Сравнительный	сравнительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	СНГ	СНГ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	/	/	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	/	/	PUNCT	_	_	9	punct	_	_
+8	Криминологический	Криминологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+10	Байкальского	байкальский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+13	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 17
+# text = 2012.
+1	2012	2012	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = № 3.
+1	№	№	SYM	_	_	0	root	_	_
+2	3	3	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = С. 95. 3 Пономарев Д. А. Информационные технологии как криминогенный фактор организованной преступности в условиях глобализации.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	95	95	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	3	3	NUM	_	_	2	nummod	_	_
+5	Пономарев	Пономарев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
+6	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Информационные	информационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+10	как	как	SCONJ	_	_	12	mark	_	_
+11	криминогенный	криминогенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	фактор	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	acl	_	_
+13	организованной	организовывать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	преступности	преступность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	14	nmod	_	_
+17	глобализации	глобализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Доклад на VI Международной конференции "Право и Интернет", Москва, 2004 г. // www.fap.ru/p/06/r16.htm (дата обращения: 30.01.2015).
+1	Доклад	доклад	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	на	на	ADP	_	_	5	case	_	_
+3	VI	vi	NUM	_	_	5	nummod	_	_
+4	Международной	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	конференции	конференция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Право	право	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	appos	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	Интернет	Интернет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	2004	2004	NUM	_	_	15	nummod	_	_
+15	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	15	punct	_	_
+17	/	/	PUNCT	_	_	15	punct	_	SpaceAfter=No
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	www.fap.ru/p/06/r16.htm	www.fap.ru/p/06/r16.htm	X	_	Foreign=Yes	15	flat:foreign	_	_
+20	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	_
+22	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	21	punct	_	_
+24	30.01.2015	30.01.2015	NOUN	_	_	21	parataxis	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = 4 Постановление Президента Азербайджанской Республики от 17 февраля 2003 г. № 1146 "Об утверждении "Национальной стратегии развития ИКТ во благо Азербайджанской Республики на 2003–2012 гг."" // http://mncom.gov.az/qanunverclk/serencamlar/# (дата обращения: 29.01.2015).
+1	4	4	NUM	_	_	2	nummod	_	_
+2	Постановление	постановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	Президента	Президент	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Азербайджанской	Азербайджанский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	3	flat:name	_	_
+5	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	flat:name	_	_
+6	от	от	ADP	_	_	7	case	_	_
+7	17	17	NUM	_	_	2	nummod	_	_
+8	февраля	февраль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+9	2003	2003	NUM	_	_	10	nummod	_	_
+10	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+12	№	№	SYM	_	_	2	nmod	_	_
+13	1146	1146	NUM	_	_	12	nummod	_	_
+14	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	Об	о	ADP	_	_	16	case	_	_
+16	утверждении	утверждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	appos	_	_
+17	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	Национальной	национальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+20	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	ИКТ	ИКТ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	во	в	ADP	_	_	23	case	_	_
+23	благо	благо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	nmod	_	_
+24	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+26	на	на	ADP	_	_	30	case	_	_
+27	2003	2003	NUM	_	_	30	nummod	_	SpaceAfter=No
+28	–	–	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	2012	2012	NUM	_	_	27	nummod	_	_
+30	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	38	punct	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	38	punct	_	_
+33	/	/	PUNCT	_	_	38	punct	_	SpaceAfter=No
+34	/	/	PUNCT	_	_	38	punct	_	_
+35	http://mncom.gov.az/qanunverclk/serencamlar/	http://mncom.gov.az/qanunverclk/serencamlar/	PUNCT	_	_	38	punct	_	SpaceAfter=No
+36	#	#	PUNCT	_	_	38	punct	_	_
+37	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	appos	_	_
+39	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+40	:	:	PUNCT	_	_	38	punct	_	_
+41	29.01.2015	29.01.2015	NOUN	_	_	38	parataxis	_	SpaceAfter=No
+42	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = 5 Закон Азербайджанской Республики от 10 мая 2005 г. № 908 IIQ "Об электронной торговле" // http://e-qanun.az/framework/10406 (дата обращения: 29.01.2015).
+1	5	5	NUM	_	_	2	nummod	_	_
+2	Закон	закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	10	case	_	_
+6	10	10	NUM	_	_	10	nummod	_	_
+7	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	2005	2005	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+10	№	№	SYM	_	_	2	nmod	_	_
+11	908	908	NUM	_	_	10	nummod	_	_
+12	IIQ	IIQ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+14	Об	о	ADP	_	_	16	case	_	_
+15	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	/	/	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	/	/	PUNCT	_	_	20	punct	_	_
+20	http://e-qanun.az/framework/10406	http://e-qanun.az/framework/10406	X	_	Foreign=Yes	16	appos	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	parataxis	_	_
+23	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+24	:	:	PUNCT	_	_	22	punct	_	_
+25	29.01.2015	29.01.2015	NOUN	_	_	22	parataxis	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = 6 Закон Азербайджанской Республики от 9 марта 2004 г.
+1	6	6	NUM	_	_	2	nummod	_	_
+2	Закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	9	9	NUM	_	_	2	nummod	_	_
+7	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	2004	2004	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 24
+# text = № 602-IIQ "Об электронной подписи и электронном документообороте" // http://mncom.gov.az/qanunverclk/qanunlar/# (дата обращения: 29.01.2015).
+1	№	№	SYM	_	_	0	root	_	_
+2	602	602	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	IIQ	IIQ	PROPN	_	Foreign=Yes	1	appos	_	_
+5	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+6	Об	о	ADP	_	_	8	case	_	_
+7	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	подписи	подпись	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	appos	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	электронном	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	документообороте	документооборот	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	8	punct	_	_
+13	/	/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+14	/	/	PUNCT	_	_	18	punct	_	_
+15	http://mncom.gov.az/qanunverclk/qanunlar/	http://mncom.gov.az/qanunverclk/qanunlar/	PUNCT	_	_	18	punct	_	SpaceAfter=No
+16	#	#	PUNCT	_	_	18	punct	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	_
+19	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	18	punct	_	_
+21	29.01.2015	29.01.2015	NOUN	_	_	18	parataxis	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 25
+# text = 7 Закон Азербайджанской Республики от 30 сентября 2005 г.
+1	7	7	NUM	_	_	2	nummod	_	_
+2	Закон	закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	30	30	NUM	_	_	2	nummod	_	_
+7	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	2005	2005	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = № 1024-IIQ "О доступе к информации" // http://e-qanun.az/framework/11142 (дата обращения: 29.01.2015).
+1	№	№	SYM	_	_	0	root	_	_
+2	1024	1024	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	IIQ	IIQ	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	О	о	ADP	_	_	7	case	_	_
+7	доступе	доступ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	appos	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	информации	информация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	7	punct	_	_
+11	/	/	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	/	/	PUNCT	_	_	13	punct	_	_
+13	http://e-qanun.az/framework/11142	http://e-qanun.az/framework/11142	NOUN	_	_	7	parataxis	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	_
+16	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	:	:	PUNCT	_	_	15	punct	_	_
+18	29.01.2015	29.01.2015	NOUN	_	_	15	parataxis	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = в общественные отношения таких институтов, как электронная торговля, электронное правительство и т. д.
+1	в	в	ADP	_	_	3	case	_	_
+2	общественные	общественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
+4	таких	такой	DET	_	Case=Gen|Number=Plur	5	det	_	_
+5	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	как	как	SCONJ	_	_	9	mark	_	_
+8	электронная	электронный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	торговля	торговля	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	электронное	электронный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	правительство	правительство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	т.	так	ADV	_	Degree=Pos	9	conj	_	_
+15	д	далее	ADV	_	Degree=Pos	14	fixed	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 28
+# text = Таким образом, основной причиной неэффективности электронного законодательства стало несоответствие принимаемых актов реальному уровню развития информационного общества.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	9	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	основной	основной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	причиной	причина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
+6	неэффективности	неэффективность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	электронного	электронный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	несоответствие	несоответствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+11	принимаемых	принимать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	12	amod	_	_
+12	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	реальному	реальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	уровню	уровень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	nmod	_	_
+15	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	информационного	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 29
+# text = Тем не менее резкий скачок информационных технологий за последние пять лет сдвинул процесс с мертвой точки.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	резкий	резкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	скачок	скачок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+6	информационных	информационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+8	за	за	ADP	_	_	11	case	_	_
+9	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	пять	пять	NUM	_	Case=Acc	11	nummod:gov	_	_
+11	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	_
+12	сдвинул	сдвинуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	мертвой	мертвый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 30
+# text = Сегодня мы наблюдаем в Азербайджане настоящий электронный бум: повышаются статистические показатели по электронной торговле, внедряются различные проекты в рамках строительства электронного правительства, на порядок улучшена информационная инфраструктура по всей стране.
+1	Сегодня	сегодня	ADV	_	Degree=Pos	3	advmod	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	наблюдаем	наблюдать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	Азербайджане	Азербайджан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+6	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	электронный	электронный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	бум	бум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	повышаются	повышаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	parataxis	_	_
+11	статистические	статистический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	показатели	показатель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+13	по	по	ADP	_	_	15	case	_	_
+14	электронной	электронный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	торговле	торговля	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	внедряются	внедряться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	_	_
+18	различные	различный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	19	amod	_	_
+19	проекты	проект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj:pass	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	nmod	_	_
+22	строительства	строительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	электронного	электронный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	порядок	порядок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
+28	улучшена	улучшить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	10	conj	_	_
+29	информационная	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	инфраструктура	инфраструктура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj:pass	_	_
+31	по	по	ADP	_	_	33	case	_	_
+32	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing	33	det	_	_
+33	стране	страна	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 31
+# text = С нормативной точки зрения эффективность осуществляемых проектов подтверждается тем, что в большинстве случаев своевременно принимаются подзаконные акты, регламенты, положения соответствующих исполнительных органов, т. е. процесс идет не только на бумаге.
+1	С	с	ADP	_	_	3	case	_	_
+2	нормативной	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	_
+4	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	compound	_	_
+5	эффективность	эффективность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+6	осуществляемых	осуществлять	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	проектов	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	подтверждается	подтверждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	что	что	SCONJ	_	_	16	mark	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+14	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+15	своевременно	своевременно	ADV	_	Degree=Pos	16	advmod	_	_
+16	принимаются	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	acl	_	_
+17	подзаконные	подзаконный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	акты	акт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nsubj:pass	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	регламенты	регламент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	18	conj	_	_
+23	соответствующих	соответствовать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+24	исполнительных	исполнительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+25	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	30	punct	_	_
+27	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	mark	_	_
+28	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	fixed	_	_
+29	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+30	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	только	только	PART	_	_	34	advmod	_	_
+33	на	на	ADP	_	_	34	case	_	_
+34	бумаге	бумага	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 32
+# text = На следующем этапе нормотворческая эстафета должна быть передана законодателю для соответствующей нормативно-правовой регламентации этих общественных отношений, что обусловливает целый ряд необходимых критериев, которым должна соответствовать должная правовая база: принятию законов должны предшествовать тщательные научно-правовые исследования; нужно унифицировать терминологическую базу во избежание противоречий и пробелов в законодательстве; принимаемые акты не должны быть политически ангажированы.
+1	На	на	ADP	_	_	3	case	_	_
+2	следующем	следующий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	нормотворческая	нормотворческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	эстафета	эстафета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+6	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+7	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	aux:pass	_	_
+8	передана	передать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	xcomp	_	_
+9	законодателю	законодатель	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	_
+10	для	для	ADP	_	_	15	case	_	_
+11	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+12	нормативно	нормативный	ADJ	_	Degree=Pos	14	compound	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	регламентации	регламентация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	_
+16	этих	этот	DET	_	Case=Gen|Number=Plur	18	det	_	_
+17	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	что	что	PRON	_	Case=Nom	21	nsubj	_	_
+21	обусловливает	обусловливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+22	целый	целый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	_
+24	необходимых	необходимый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	_
+25	критериев	критерий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	которым	который	PRON	_	Case=Dat	29	iobj	_	_
+28	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	25	acl:relcl	_	_
+29	соответствовать	соответствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	28	xcomp	_	_
+30	должная	должной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	правовая	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	база	база	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	SpaceAfter=No
+33	:	:	PUNCT	_	_	32	punct	_	_
+34	принятию	принятие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	37	iobj	_	_
+35	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	_
+36	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	32	parataxis	_	_
+37	предшествовать	предшествовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	xcomp	_	_
+38	тщательные	тщательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	41	amod	_	_
+39	научно-	научно-	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	правовые	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	41	amod	_	_
+41	исследования	исследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	37	obj	_	SpaceAfter=No
+42	;	;	PUNCT	_	_	36	punct	_	_
+43	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	36	conj	_	_
+44	унифицировать	унифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	43	csubj	_	_
+45	терминологическую	терминологический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	46	amod	_	_
+46	базу	база	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	obj	_	_
+47	во	в	ADP	_	_	49	case	_	_
+48	избежание	избежание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	47	fixed	_	_
+49	противоречий	противоречие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	44	obl	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
+51	пробелов	пробел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	49	conj	_	_
+52	в	в	ADP	_	_	53	case	_	_
+53	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	51	nmod	_	SpaceAfter=No
+54	;	;	PUNCT	_	_	36	punct	_	_
+55	принимаемые	принимать	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	56	amod	_	_
+56	акты	акт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	36	conj	_	_
+57	не	не	PART	_	_	58	advmod	_	_
+58	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	56	acl:relcl	_	_
+59	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	61	aux:pass	_	_
+60	политически	политически	ADV	_	Degree=Pos	61	advmod	_	_
+61	ангажированы	ангажировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	58	xcomp	_	SpaceAfter=No
+62	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 33
+# text = Особое внимание в этом процессе следует уделить уголовно-правовой составляющей.
+1	Особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	5	det	_	_
+5	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	уделить	уделить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	уголовно	уголовный	ADJ	_	Degree=Pos	10	compound	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	составляющей	составляющая	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34
+# text = В 2010 г. Азербайджанская Республика ратифицировала с некоторыми оговорками Конвенцию о киберпреступлениях, а летом прошлого года в Уголовный кодекс страны были внесены соответствующие изменения.
+1	В	в	ADP	_	_	3	case	_	_
+2	2010	2010	NUM	_	_	3	nummod	_	_
+3	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	Азербайджанская	Азербайджанский	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	Республика	Республика	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	_
+6	ратифицировала	ратифицировать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	с	с	ADP	_	_	9	case	_	_
+8	некоторыми	некоторый	DET	_	Case=Ins|Number=Plur	9	det	_	_
+9	оговорками	оговорка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	obl	_	_
+10	Конвенцию	конвенция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+11	о	о	ADP	_	_	12	case	_	_
+12	киберпреступлениях	киберпреступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	23	punct	_	_
+14	а	а	CCONJ	_	_	23	cc	_	_
+15	летом	лето	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	23	obl	_	_
+16	прошлого	прошлый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	Уголовный	уголовный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	кодекс	кодекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obl	_	_
+21	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	23	aux:pass	_	_
+23	внесены	внести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	6	conj	_	_
+24	соответствующие	соответствующий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	25	amod	_	_
+25	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	nsubj:pass	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 35
+# text = В частности, понятие "компьютерные преступления" было заменено понятием "киберпреступления" — именно так называется глава УК, посвященная преступлениям в сфере информационных технологий.
+1	В	в	ADP	_	_	10	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	компьютерные	компьютерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	преступления	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	appos	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	_
+10	заменено	заменить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	понятием	понятие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	киберпреступления	киберпреступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	_
+15	—	—	PUNCT	_	_	18	punct	_	_
+16	именно	именно	PART	_	_	17	advmod	_	_
+17	так	так	ADV	_	Degree=Pos	18	advmod	_	_
+18	называется	называться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	parataxis	_	_
+19	глава	глава	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+20	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	посвященная	посвятить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+23	преступлениям	преступление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	22	iobj	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	_
+26	информационных	информационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 36
+# text = Кроме того, законодатель предусмотрел ответственность за создание, распространение и использование детской порнографии, в том числе и в информационных сетях.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	предусмотрел	предусмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	за	за	ADP	_	_	8	case	_	_
+8	создание	создание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	conj	_	_
+13	детской	детский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	порнографии	порнография	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	18	det	_	_
+18	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	nmod	_	_
+19	и	и	PART	_	_	22	advmod	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	информационных	информационный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	22	amod	_	_
+22	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = Таким образом, появился целый ряд новых составов преступлений, за которые предусматривается уголовное наказание.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+7	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	составов	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+9	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	за	за	ADP	_	_	12	case	_	_
+12	которые	который	PRON	_	Case=Acc	13	obl	_	_
+13	предусматривается	предусматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	_
+14	уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Однако в то же время законодатель не объяснил само значение понятия "киберпреступление", которое стало неологизмом не только для юридического, но и для обыденного азербайджанского языка.
+1	Однако	однако	ADV	_	Degree=Pos	8	advmod	_	_
+2	в	в	ADP	_	_	5	case	_	_
+3	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	5	det	_	_
+4	же	же	PART	_	_	3	advmod	_	_
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+6	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	объяснил	объяснить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	само	сам	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+11	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	киберпреступление	киберпреступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	appos	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которое	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl:relcl	_	_
+18	неологизмом	неологизм	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	только	только	PART	_	_	22	advmod	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	юридического	юридический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	29	punct	_	_
+24	но	но	CCONJ	_	_	29	cc	_	_
+25	и	и	PART	_	_	24	advmod	_	_
+26	для	для	ADP	_	_	29	case	_	_
+27	обыденного	обыденный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+28	азербайджанского	азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 39
+# text = В целом проблема отсутствия должного разъяснения терминов, используемых в новых информационно- и электронно-правовых актах, является серьезным упущением в законодательной технике.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+3	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	должного	должный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	разъяснения	разъяснение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	терминов	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	используемых	использовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	новых	новый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	12	amod	_	_
+12	информационно	информационный	ADJ	_	Degree=Pos	9	obl	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	18	punct	_	_
+14	и	и	CCONJ	_	_	18	cc	_	_
+15	электронно	электронный	ADJ	_	Degree=Pos	17	compound	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	правовых	правовой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	18	amod	_	_
+18	актах	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	acl:relcl	_	_
+21	серьезным	серьезный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	упущением	упущение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	_	_
+23	в	в	ADP	_	_	25	case	_	_
+24	законодательной	законодательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	технике	техника	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 40
+# text = С учетом того, что информационные технологии — одна из наиболее динамично развивающихся сфер общественной жизни, эволюция информационно-коммуникационных институтов происходит перманентно, а в масштабах истории — мгновенно.
+1	С	с	ADP	_	_	2	case	_	_
+2	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
+3	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	23	punct	_	_
+5	что	что	SCONJ	_	_	23	mark	_	_
+6	информационные	информационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	_
+8	—	—	PUNCT	_	_	7	punct	_	_
+9	одна	один	NUM	_	Case=Nom|Gender=Fem	23	nsubj	_	_
+10	из	из	ADP	_	_	14	case	_	_
+11	наиболее	наиболее	ADV	_	Degree=Pos	12	advmod	_	_
+12	динамично	динамично	ADV	_	Degree=Pos	13	advmod	_	_
+13	развивающихся	развиваться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	14	acl	_	_
+14	сфер	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+15	общественной	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	эволюция	эволюция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	conj	_	_
+19	информационно	информационный	ADJ	_	Degree=Pos	21	compound	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	коммуникационных	коммуникационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	институтов	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+23	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+24	перманентно	перманентно	ADV	_	Degree=Pos	23	advmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	31	punct	_	_
+26	а	а	CCONJ	_	_	31	cc	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	масштабах	масштаб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	31	obl	_	_
+29	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+30	—	—	PUNCT	_	_	31	punct	_	_
+31	мгновенно	мгновенно	ADV	_	Degree=Pos	23	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 41
+# text = Это требует от нормотворца мобильности и гибкости, потому как вчерашнее ноу-хау завтра может выйти из моды и устареть.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	нормотворца	нормотворец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	_
+5	мобильности	мобильность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	гибкости	гибкость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	потому	потому	ADV	_	Degree=Pos	14	mark	_	_
+10	как	как	SCONJ	_	_	9	fixed	_	_
+11	вчерашнее	вчерашний	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	ноу-хау	ноу-хау	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+13	завтра	завтра	ADV	_	Degree=Pos	14	advmod	_	_
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+15	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+16	из	из	ADP	_	_	17	case	_	_
+17	моды	мода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	устареть	стареть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 42
+# text = В большинстве стран постсоветского пространства законотворческий процесс несколько консервативен; это приводит к тому, что на данном этапе технологии опережают регламентирующую их использование правовую базу.
+1	В	в	ADP	_	_	2	case	_	_
+2	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+3	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	_
+4	постсоветского	постсоветский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	пространства	пространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	законотворческий	законотворческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	несколько	несколько	ADV	_	Degree=Pos	9	advmod	_	_
+9	консервативен	консервативна	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+10	;	;	PUNCT	_	_	9	punct	_	_
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+12	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+13	к	к	ADP	_	_	14	case	_	_
+14	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	21	punct	_	_
+16	что	что	SCONJ	_	_	21	mark	_	_
+17	на	на	ADP	_	_	19	case	_	_
+18	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	21	obl	_	_
+20	технологии	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	опережают	опережать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	_
+22	регламентирующую	регламентировать	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	amod	_	_
+23	их	они	DET	_	_	24	det	_	_
+24	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+25	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	базу	база	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 43
+# text = И хотя на данном этапе причины кардинально противоположны, мы вновь становимся свидетелями неэффективности нормативной базы.
+1	И	и	CCONJ	_	_	12	cc	_	_
+2	хотя	хотя	SCONJ	_	_	8	mark	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+6	причины	причина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	_
+7	кардинально	кардинально	ADV	_	Degree=Pos	8	obl	_	_
+8	противоположны	противоположный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	12	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	12	nsubj	_	_
+11	вновь	вновь	ADV	_	Degree=Pos	12	advmod	_	_
+12	становимся	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	свидетелями	свидетель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	obl	_	_
+14	неэффективности	неэффективность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	нормативной	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	базы	база	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 44
+# text = Одной из важнейших задач на данном этапе является нормативное закрепление используемой в информационно-коммуникационном пространстве терминологии 125
+1	Одной	один	NUM	_	Case=Ins|Gender=Fem	8	nummod	_	_
+2	из	из	ADP	_	_	4	case	_	_
+3	важнейших	важный	ADJ	_	Case=Gen|Degree=Sup|Number=Plur	4	amod	_	_
+4	задач	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+8	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	нормативное	нормативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	закрепление	закрепление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+11	используемой	использовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	_
+12	в	в	ADP	_	_	16	case	_	_
+13	информационно	информационный	ADJ	_	Degree=Pos	15	compound	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	коммуникационном	коммуникационный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	пространстве	пространство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+17	терминологии	терминология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+18	125	125	NUM	_	_	8	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = (например, "Интернет", "социальная сеть", "лайк" и т. д.).
+1	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	например	например	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Интернет	Интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	социальная	социальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	сеть	сеть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	лайк	лайк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	14	punct	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	т.	так	ADV	_	Degree=Pos	5	conj	_	_
+18	д.	далее	ADV	_	Degree=Pos	17	fixed	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 46
+# text = В обратном случае принятие некоторых правовых норм может оказать медвежью услугу для развития инфраструктуры либо создать условия для злоупотреблений.
+1	В	в	ADP	_	_	3	case	_	_
+2	обратном	обратный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+4	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+5	некоторых	некоторый	DET	_	Case=Gen|Number=Plur	7	det	_	_
+6	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	оказать	оказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	медвежью	медвежий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	услугу	услуга	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+12	для	для	ADP	_	_	13	case	_	_
+13	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+14	инфраструктуры	инфраструктура	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	либо	либо	CCONJ	_	_	16	cc	_	_
+16	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	conj	_	_
+17	условия	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+18	для	для	ADP	_	_	19	case	_	_
+19	злоупотреблений	злоупотребление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 47
+# text = В частности, в мае 2014 г. в УК Азербайджанской Республики внесены изменения, которые устанавливают ответственность за распространение в Интернете заведомо ложных сведений, порочащих или унижающих честь и достоинство другого лица или подрывающих его репутацию.
+1	В	в	ADP	_	_	12	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	мае	май	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+6	2014	2014	NUM	_	_	7	nummod	_	_
+7	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+10	Азербайджанской	Азербайджанский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	11	amod	_	_
+11	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	внесены	внести	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+13	изменения	изменение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj:pass	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	которые	который	PRON	_	Case=Nom	16	nsubj	_	_
+16	устанавливают	устанавливать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+17	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+18	за	за	ADP	_	_	19	case	_	_
+19	распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	Интернете	Интернет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
+22	заведомо	заведомо	ADV	_	Degree=Pos	23	obl	_	_
+23	ложных	ложный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	сведений	сведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	obl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	порочащих	порочать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+27	или	или	CCONJ	_	_	28	cc	_	_
+28	унижающих	унижать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	conj	_	_
+29	честь	честь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	obj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	достоинство	достоинство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	29	conj	_	_
+32	другого	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+34	или	или	CCONJ	_	_	35	cc	_	_
+35	подрывающих	подрывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	33	acl	_	_
+36	его	его	DET	_	_	37	det	_	_
+37	репутацию	репутация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	obj	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+# sent_id = 48
+# text = 8 Принятие данной нормы нацелено прежде всего на обеспечение защиты прав граждан, однако в то же время в азербайджанском законодательстве нет нормативного определения понятия "Интернет".
+1	8	8	NUM	_	_	2	nummod	_	_
+2	Принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+3	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	нацелено	нацелить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	прежде	прежде	ADP	_	_	5	advmod	_	_
+7	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	fixed	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	обеспечение	обеспечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+10	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	22	punct	_	_
+14	однако	однако	ADV	_	Degree=Pos	22	advmod	_	_
+15	в	в	ADP	_	_	18	case	_	_
+16	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	18	det	_	_
+17	же	же	PART	_	_	16	advmod	_	_
+18	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obl	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	азербайджанском	азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	obl	_	_
+22	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+23	нормативного	нормативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nsubj	_	_
+25	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	Интернет	Интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	appos	_	SpaceAfter=No
+28	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 49
+# text = При широком толковании понятия "Интернет" это создаст ситуацию, когда под уголовную ответственность попадают действия, осуществленные как в электронных СМИ, публичных блогах, официальных сайтах, так и на частных страницах в социальных сетях, электронной почте, комментариях.
+1	При	при	ADP	_	_	3	case	_	_
+2	широком	широкий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	толковании	толкование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+4	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Интернет	Интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	создаст	создать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+10	ситуацию	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	когда	когда	SCONJ	_	_	16	mark	_	_
+13	под	под	ADP	_	_	15	case	_	_
+14	уголовную	уголовный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+16	попадают	попадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
+17	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	осуществленные	осуществить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+20	как	как	SCONJ	_	_	23	mark	_	_
+21	в	в	ADP	_	_	23	case	_	_
+22	электронных	электронный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	23	amod	_	_
+23	СМИ	сми	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	19	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	публичных	публичный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	26	amod	_	_
+26	блогах	блог	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	23	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	19	punct	_	_
+28	официальных	официальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	29	amod	_	_
+29	сайтах	сайт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	35	punct	_	_
+31	так	так	ADV	_	Degree=Pos	35	cc	_	_
+32	и	и	PART	_	_	31	fixed	_	_
+33	на	на	ADP	_	_	35	case	_	_
+34	частных	частный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	35	amod	_	_
+35	страницах	страница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	29	conj	_	_
+36	в	в	ADP	_	_	38	case	_	_
+37	социальных	социальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	38	amod	_	_
+38	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	35	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	почте	почта	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	conj	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	комментариях	комментарий	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	38	conj	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 50
+# text = Законодатель не разграничивает сегменты интернет-пространства на сферу личного и общественного пользования.
+1	Законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	разграничивает	разграничивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	сегменты	сегмент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	интернет	интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	пространства	пространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	сферу	сфера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+10	личного	личной	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	общественного	общественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	_
+13	пользования	пользование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 51
+# text = Особенно много вопросов возникает в социальных сетях, где настройки конфиденциальности дифференцируют такие функции, как личная переписка, хроника, комментарии, кнопки "Нравится", "Рекомендую", — в каждом отдельном случае мотивы и степень публичности действий социальных пользователей разнятся.
+1	Особенно	особенно	ADV	_	Degree=Pos	2	advmod	_	_
+2	много	много	ADV	_	Degree=Pos	4	nsubj	_	_
+3	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	_
+4	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	социальных	социальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	где	где	ADV	_	Degree=Pos	12	advmod	_	_
+10	настройки	настройка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+11	конфиденциальности	конфиденциальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	дифференцируют	дифференцировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+13	такие	такой	DET	_	Case=Nom|Number=Plur	14	det	_	_
+14	функции	функция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	как	как	SCONJ	_	_	18	mark	_	_
+17	личная	личный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	переписка	переписка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	хроника	хроника	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	комментарии	комментарий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	18	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	кнопки	кнопка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	conj	_	_
+25	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	Нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	parataxis	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	Рекомендую	Рекомендой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	45	punct	_	_
+33	—	—	PUNCT	_	_	45	punct	_	_
+34	в	в	ADP	_	_	37	case	_	_
+35	каждом	каждый	DET	_	Case=Loc|Gender=Masc|Number=Sing	37	det	_	_
+36	отдельном	отдельный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	38	nmod	_	_
+38	мотивы	мотив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	45	nsubj	_	_
+39	и	и	CCONJ	_	_	40	cc	_	_
+40	степень	степень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	38	conj	_	_
+41	публичности	публичность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	_
+42	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	41	nmod	_	_
+43	социальных	социальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	44	amod	_	_
+44	пользователей	пользователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	_
+45	разнятся	разниться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	conj	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Кроме того, в такой редакции под действие закона не попадает деятельность, осуществленная в корпоративных сетях, хотя и не подключенных к глобальной Сети, но тоже имеющих десятки, а порой сотни пользователей.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	6	det	_	_
+6	редакции	редакция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+7	под	под	ADP	_	_	8	case	_	_
+8	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+9	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	попадает	попасть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	осуществленная	осуществить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	корпоративных	корпоративный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	_
+17	сетях	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	хотя	хотя	SCONJ	_	_	22	mark	_	_
+20	и	и	PART	_	_	22	advmod	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	подключенных	подключить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+23	к	к	ADP	_	_	25	case	_	_
+24	глобальной	глобальный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	Сети	сеть	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	но	но	CCONJ	_	_	29	cc	_	_
+28	тоже	тоже	PART	_	_	29	advmod	_	_
+29	имеющих	иметь	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	_
+30	десятки	десяток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	29	obj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	а	а	CCONJ	_	_	33	cc	_	_
+33	порой	пора	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	conj	_	_
+34	сотни	сотня	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+35	пользователей	пользователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 53
+# text = Некоторые информационно-коммуникационные ресурсы носят закрытый характер.
+1	Некоторые	некоторый	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	информационно-коммуникационные	информационно-коммуникационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	ресурсы	ресурс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	носят	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	закрытый	закрытый	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 54
+# text = Например, согласно российскому законодательству среди принципов эксплуатации и развития государственной автоматизированной системы (ГАС) Российской Федерации "Выборы" предусмотрена недопустимость ее подключения при проведении выборов и референдума к иным информационным системам и сетям связи, не применяемым в ГАС "Выборы", в частности к информационно-телекоммуникационной сети "Интернет".9 По этой причине целесообразно использовать понятие "информационно-коммуникационные сети" или же пойти еще дальше и использовать термин "киберпространство", дав ему четкое правовое определение.
+1	Например	например	ADV	_	Degree=Pos	22	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	согласно	согласно	ADP	_	_	5	case	_	_
+4	российскому	российский	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	законодательству	законодательство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	22	obl	_	_
+6	среди	среди	ADP	_	_	7	case	_	_
+7	принципов	принцип	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	эксплуатации	эксплуатация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+12	автоматизированной	автоматизировать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	ГАС	ГАС	PROPN	_	Foreign=Yes	13	parataxis	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	_
+17	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	Выборы	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	"	"	PUNCT	_	_	20	punct	_	_
+22	предусмотрена	предусмотреть	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+23	недопустимость	недопустимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	nsubj:pass	_	_
+24	ее	ее	DET	_	_	25	det	_	_
+25	подключения	подключение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+26	при	при	ADP	_	_	27	case	_	_
+27	проведении	проведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	nmod	_	_
+28	выборов	выборы	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	референдума	референдум	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	conj	_	_
+31	к	к	ADP	_	_	34	case	_	_
+32	иным	иной	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	34	amod	_	_
+33	информационным	информационный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	34	amod	_	_
+34	системам	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	30	nmod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	сетям	сеть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	34	conj	_	_
+37	связи	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	40	punct	_	_
+39	не	не	PART	_	_	40	advmod	_	_
+40	применяемым	применять	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	23	conj	_	_
+41	в	в	ADP	_	_	42	case	_	_
+42	ГАС	ГАС	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	obl	_	_
+43	"	"	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	Выборы	выборы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	40	nsubj:pass	_	SpaceAfter=No
+45	"	"	PUNCT	_	_	44	punct	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	61	punct	_	_
+47	в	в	ADP	_	_	61	discourse	_	_
+48	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	47	fixed	_	_
+49	к	к	ADP	_	_	53	case	_	_
+50	информационно	информационный	ADJ	_	Degree=Pos	52	compound	_	SpaceAfter=No
+51	-	-	PUNCT	_	_	50	punct	_	SpaceAfter=No
+52	телекоммуникационной	телекоммуникационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	53	amod	_	_
+53	сети	сеть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	61	obl	_	_
+54	"	"	PUNCT	_	_	55	punct	_	SpaceAfter=No
+55	Интернет	Интернет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	53	appos	_	SpaceAfter=No
+56	"	"	PUNCT	_	_	55	punct	_	SpaceAfter=No
+57	.9	.9	NUM	_	_	61	nummod	_	_
+58	По	по	ADP	_	_	60	case	_	_
+59	этой	этот	DET	_	Case=Dat|Gender=Fem|Number=Sing	60	det	_	_
+60	причине	причина	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	61	obl	_	_
+61	целесообразно	целесообразный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	44	acl:relcl	_	_
+62	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	61	csubj	_	_
+63	понятие	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	71	obj	_	_
+64	"	"	PUNCT	_	_	67	punct	_	SpaceAfter=No
+65	информационно-	информационно-	PUNCT	_	_	63	punct	_	SpaceAfter=No
+66	коммуникационные	коммуникационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	67	amod	_	_
+67	сети	сеть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	63	appos	_	SpaceAfter=No
+68	"	"	PUNCT	_	_	67	punct	_	_
+69	или	или	CCONJ	_	_	73	cc	_	_
+70	же	же	PART	_	_	69	advmod	_	_
+71	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	62	xcomp	_	_
+72	еще	еще	ADV	_	Degree=Pos	73	advmod	_	_
+73	дальше	далеко	ADV	_	Degree=Cmp	71	advmod	_	_
+74	и	и	CCONJ	_	_	75	cc	_	_
+75	использовать	использовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	73	conj	_	_
+76	термин	термин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	75	obj	_	_
+77	"	"	PUNCT	_	_	78	punct	_	SpaceAfter=No
+78	киберпространство	киберпространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	76	appos	_	SpaceAfter=No
+79	"	"	PUNCT	_	_	78	punct	_	SpaceAfter=No
+80	,	,	PUNCT	_	_	81	punct	_	_
+81	дав	дать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	75	advcl	_	_
+82	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	81	iobj	_	_
+83	четкое	четкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	85	amod	_	_
+84	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	85	amod	_	_
+85	определение	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	81	obj	_	SpaceAfter=No
+86	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 55
+# text = При этом не обязательно придумывать колесо заново, достаточно обратиться к опыту американского законодательства.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	обязательно	обязательно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	придумывать	придумать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	колесо	колесо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	заново	заново	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	достаточно	достаточный	ADV	_	Degree=Pos	10	advmod	_	_
+10	обратиться	обратиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	conj	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	опыту	опыт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+13	американского	американский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 56
+# text = Так, развивая определение Верховного Суда США, киберпространство можно определить как особую публичную среду общественных отношений,10 не находящуюся на определенной территории, но доступную каждому в любой точке мира через использование информационно-коммуникационных технических средств.11 Такое определение подчеркивает и уникальный правовой статус, и международно-правовой характер, и информационно-коммуникационную технологическую составляющую.
+1	Так	так	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	развивая	развивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	10	advcl	_	_
+4	определение	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	Верховного	верховный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	Суда	суд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	США	США	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	киберпространство	киберпространство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+10	можно	можно	ADV	_	Degree=Pos	39	parataxis	_	_
+11	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	39	xcomp	_	_
+12	как	как	SCONJ	_	_	15	mark	_	_
+13	особую	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+14	публичную	публичный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	среду	среда	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	obl	_	_
+16	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	отношений,10	отношений,10	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	obj	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	находящуюся	находиться	VERB	_	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	39	acl	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	определенной	определить	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	но	но	CCONJ	_	_	25	cc	_	_
+25	доступную	доступный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+26	каждому	каждый	DET	_	Case=Dat|Gender=Masc|Number=Sing	25	det	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	любой	любой	DET	_	Case=Loc|Gender=Fem|Number=Sing	29	det	_	_
+29	точке	точка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	39	obl	_	_
+30	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+31	через	через	ADP	_	_	32	case	_	_
+32	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	39	obl	_	_
+33	информационно	информационне	ADJ	_	Degree=Pos	36	amod	_	SpaceAfter=No
+34	-коммуникационных	-коммуникационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+35	технических	технический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	средств.11	средств.11	NOUN	_	_	39	obl	_	_
+37	Такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	38	det	_	_
+38	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	39	nsubj	_	_
+39	подчеркивает	подчеркивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+40	и	и	PART	_	_	43	advmod	_	_
+41	уникальный	уникальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	_
+42	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	43	amod	_	_
+43	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	39	obj	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	49	punct	_	_
+45	и	и	CCONJ	_	_	49	cc	_	_
+46	международно	международный	ADJ	_	Degree=Pos	48	compound	_	SpaceAfter=No
+47	-	-	PUNCT	_	_	46	punct	_	SpaceAfter=No
+48	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	amod	_	_
+49	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	39	conj	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	56	punct	_	_
+51	и	и	CCONJ	_	_	56	cc	_	_
+52	информационно	информационный	ADJ	_	Degree=Pos	54	compound	_	SpaceAfter=No
+53	-	-	PUNCT	_	_	52	punct	_	SpaceAfter=No
+54	коммуникационную	коммуникационный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	56	amod	_	_
+55	технологическую	технологический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	56	amod	_	_
+56	составляющую	составляющая	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	39	conj	_	SpaceAfter=No
+57	.	.	PUNCT	_	_	39	punct	_	_
+
+# sent_id = 57
+# text = Из истории развития информационно-коммуникационных 8
+1	Из	из	ADP	_	_	2	case	_	_
+2	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+3	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	информационно-коммуникационных	информационно-коммуникационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	nmod	_	_
+5	8	8	NUM	_	_	2	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 58
+# text = В Азербайджане будут наказывать за оскорбления в Интернете // www.1news.az/socety/ 20130514041549688.html (дата обращения: 09.12.2014).
+1	В	в	ADP	_	_	2	case	_	_
+2	Азербайджане	Азербайджан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	наказывать	наказать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+5	за	за	ADP	_	_	6	case	_	_
+6	оскорбления	оскорбление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	Интернете	Интернет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	/	/	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	www.1news.az/socety/	www.1news.az/socety/	PUNCT	_	_	8	punct	_	_
+12	20130514041549688.html	20130514041549688.html	X	_	Foreign=Yes	11	flat:foreign	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	parataxis	_	_
+15	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	09.12.2014	09.12.2014	X	_	Foreign=Yes	15	parataxis	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59
+# text = 9 Федеральный закон от 10 января 2003 г.
+1	9	9	NUM	_	_	3	nummod	_	_
+2	Федеральный	федеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	от	от	ADP	_	_	5	case	_	_
+5	10	10	NUM	_	_	3	nummod	_	_
+6	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	_	_
+7	2003	2003	NUM	_	_	8	nummod	_	_
+8	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 60
+# text = № 20-ФЗ "О государственной автоматизированной системе Российской Федерации "Выборы"" // СЗ РФ.
+1	№	№	SYM	_	_	0	root	_	_
+2	20-ФЗ	20-ФЗ	PROPN	_	_	1	appos	_	_
+3	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	7	case	_	_
+5	государственной	государственный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+6	автоматизированной	автоматизированный	VERB	_	Aspect=Perf|Case=Dat|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	1	appos	_	_
+8	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+11	Выборы	выборы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	16	punct	_	_
+14	/	/	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	СЗ	СЗ	PROPN	_	_	11	appos	_	_
+17	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = 2003.
+1	2003	2003	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = № 2.
+1	№	№	SYM	_	_	0	root	_	_
+2	2	2	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = Ст. 172.
+1	Ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	172	172	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = 10 Азизов Р. Ф. Еlaw.az / Введение в электронное право.
+1	10	10	NUM	_	_	2	nummod	_	_
+2	Азизов	Азизов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Еlaw.az	Еlaw.az	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	Введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	appos	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	электронное	электронный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 65
+# text = Баку, 2008.
+1	Баку	Бак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2008	2008	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 66
+# text = С. 42. 11 Рассолов И. М. Право и Интернет.
+1	С	секунда	ADP	_	_	7	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	42	42	NUM	_	_	7	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	11	11	NUM	_	_	3	nummod	_	_
+6	Рассолов	Рассолов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	_
+7	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Право	право	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	flat:name	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	Интернет	Интернет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 67
+# text = 2-е изд., доп. М., 2009.
+1	2-е	2-й	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
+2	изд.	издемик	ADV	_	Degree=Pos	1	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	доп.	допункт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	_
+5	М.	м.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	2009	2009	NUM	_	_	4	nummod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = С. 6.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	6	6	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 69
+# text = технологий мы знаем, что Интернет — не первая и не единственная сеть, хотя и абсолютно доминирующая.
+1	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	obl	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	знаем	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	_
+5	что	что	SCONJ	_	_	13	mark	_	_
+6	Интернет	Интернет	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+7	—	—	PUNCT	_	_	6	punct	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+10	и	и	CCONJ	_	_	12	cc	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	единственная	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	_
+13	сеть	сеть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	хотя	хотя	SCONJ	_	_	18	mark	_	_
+16	и	и	PART	_	_	18	advmod	_	_
+17	абсолютно	абсолютно	ADV	_	Degree=Pos	18	advmod	_	_
+18	доминирующая	доминировать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 70
+# text = Однако в случае существенных изменений в этом сегменте мировой экономики могут получить развитие иные сети, что приведет к несостоятельности нормативных актов, ориентированных исключительно на интернет-коммуникации.
+1	Однако	однако	ADV	_	Degree=Pos	11	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+4	существенных	существенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	8	det	_	_
+8	сегменте	сегмент	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+9	мировой	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	экономики	экономика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	получить	получить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	сети	сеть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	что	что	PRON	_	Case=Nom	18	nsubj	_	_
+18	приведет	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	parataxis	_	_
+19	к	к	ADP	_	_	20	case	_	_
+20	несостоятельности	несостоятельность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	18	obl	_	_
+21	нормативных	нормативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	ориентированных	ориентировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	_
+25	исключительно	исключительно	ADV	_	Degree=Pos	29	obl	_	_
+26	на	на	ADP	_	_	29	case	_	_
+27	интернет	интернет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	compound	_	SpaceAfter=No
+28	-	-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+29	коммуникации	коммуникация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 71
+# text = Главное же, что следует учитывать при этом, — развитие законодательства должно быть комплексным, так как очевидно, что без соответствующих изменений в гражданском, административном законодательстве введение уголовно-правовых норм как средство защиты от киберпреступлений окажется неэффективным.12 Так, если законодатель определяет уголовно-правовую ответственность за оскорбление либо клевету в Интернете, логичным будет предположить и необходимость такой ответственности за распространение экстремистских, террористических и любых других материалов, направленных против общества, человека и гражданина.
+1	Главное	главное	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+2	же	же	PART	_	_	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	что	что	PRON	_	Case=Acc	6	obj	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+6	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	при	при	ADP	_	_	8	case	_	_
+8	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	—	—	PUNCT	_	_	13	punct	_	_
+11	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+12	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+14	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	cop	_	_
+15	комплексным	комплексный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	xcomp	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	так	так	ADV	_	Degree=Pos	19	mark	_	_
+18	как	как	SCONJ	_	_	17	fixed	_	_
+19	очевидно	очевидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	15	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	40	punct	_	_
+21	что	что	SCONJ	_	_	40	mark	_	_
+22	без	без	ADP	_	_	24	case	_	_
+23	соответствующих	соответствующий	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	amod	_	_
+24	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	40	obl	_	_
+25	в	в	ADP	_	_	29	case	_	_
+26	гражданском	гражданский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	административном	административный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	26	conj	_	_
+29	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	nmod	_	_
+30	введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	40	nsubj	_	_
+31	уголовно	уголовный	ADJ	_	Degree=Pos	33	compound	_	SpaceAfter=No
+32	-	-	PUNCT	_	_	31	punct	_	SpaceAfter=No
+33	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	34	amod	_	_
+34	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	_
+35	как	как	SCONJ	_	_	36	mark	_	_
+36	средство	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	acl	_	_
+37	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	от	от	ADP	_	_	39	case	_	_
+39	киберпреступлений	киберпреступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	37	nmod	_	_
+40	окажется	оказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	19	ccomp	_	_
+41	неэффективным.12	неэффективным.12	NUM	_	_	58	nummod	_	_
+42	Так	так	ADV	_	Degree=Pos	58	advmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	42	punct	_	_
+44	если	если	SCONJ	_	_	46	mark	_	_
+45	законодатель	законодатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	46	nsubj	_	_
+46	определяет	определять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	advcl	_	_
+47	уголовно	уголовный	ADJ	_	Degree=Pos	49	compound	_	SpaceAfter=No
+48	-	-	PUNCT	_	_	47	punct	_	SpaceAfter=No
+49	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	50	amod	_	_
+50	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
+51	за	за	ADP	_	_	52	case	_	_
+52	оскорбление	оскорбление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	50	nmod	_	_
+53	либо	либо	CCONJ	_	_	54	cc	_	_
+54	клевету	клевета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	52	conj	_	_
+55	в	в	ADP	_	_	56	case	_	_
+56	Интернете	Интернет	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	54	nmod	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	46	punct	_	_
+58	логичным	логичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	40	obl	_	_
+59	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	58	cop	_	_
+60	предположить	предположить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	58	csubj	_	_
+61	и	и	PART	_	_	62	advmod	_	_
+62	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	60	obj	_	_
+63	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	64	det	_	_
+64	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	62	nmod	_	_
+65	за	за	ADP	_	_	66	case	_	_
+66	распространение	распространение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	64	nmod	_	_
+67	экстремистских	экстремистский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	73	amod	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	69	punct	_	_
+69	террористических	террористический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	67	conj	_	_
+70	и	и	CCONJ	_	_	71	cc	_	_
+71	любых	любой	DET	_	Case=Gen|Number=Plur	73	det	_	_
+72	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	73	amod	_	_
+73	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	66	nmod	_	SpaceAfter=No
+74	,	,	PUNCT	_	_	75	punct	_	_
+75	направленных	направить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	73	acl	_	_
+76	против	против	ADP	_	_	77	case	_	_
+77	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	75	obl	_	SpaceAfter=No
+78	,	,	PUNCT	_	_	79	punct	_	_
+79	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	77	conj	_	_
+80	и	и	CCONJ	_	_	81	cc	_	_
+81	гражданина	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	77	conj	_	SpaceAfter=No
+82	.	.	PUNCT	_	_	58	punct	_	_
+
+# sent_id = 72
+# text = Однако в действующей редакции азербайджанского УК такие составы не предусмотрены, и это является пробелом, поскольку количество такого рода материалов увеличивается с каждым днем.
+1	Однако	однако	ADV	_	Degree=Pos	10	advmod	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	действующей	действовать	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+4	редакции	редакция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+5	азербайджанского	азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	такие	такой	DET	_	Case=Nom|Number=Plur	8	det	_	_
+8	составы	состав	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	предусмотрены	предусмотреть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	_
+15	пробелом	пробел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	22	punct	_	_
+17	поскольку	поскольку	SCONJ	_	_	22	mark	_	_
+18	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+19	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	20	det	_	_
+20	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+21	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+22	увеличивается	увеличиваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	15	advcl	_	_
+23	с	с	ADP	_	_	25	case	_	_
+24	каждым	каждый	DET	_	Case=Ins|Gender=Masc|Number=Sing	25	det	_	_
+25	днем	день	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 73
+# text = Целый ряд иных видов киберпреступлений, таких как спаминг, киберсквотинг и др., до сих пор не являются ни уголовно, ни административно наказуемыми в Азербайджанской Республике.
+1	Целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	видов	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	киберпреступлений	киберпреступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	таких	такой	DET	_	Case=Gen|Number=Plur	4	det	_	_
+8	как	как	SCONJ	_	_	9	mark	_	_
+9	спаминг	спаминг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	киберсквотинг	киберсквотинг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	др.	др	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	до	до	ADP	_	_	19	advmod	_	_
+16	сих	сей	DET	_	Case=Gen|Number=Plur	15	fixed	_	_
+17	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	fixed	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+20	ни	ни	CCONJ	_	_	21	cc	_	_
+21	уголовно	уголовный	ADV	_	Degree=Pos	28	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	ни	ни	CCONJ	_	_	25	cc	_	_
+24	административно	административный	ADV	_	Degree=Pos	25	advmod	_	_
+25	наказуемыми	наказуть	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	21	conj	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	Республике	республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 74
+# text = Спам, как известно, приносит многомиллиардные убытки, дискредитирует институт электронной почты, так как чрезмерно нагружает ее, усложняет работу.13 Тем не менее действующая редакция ст.
+1	Спам	спам	INTJ	_	_	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	приносит	приносить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	многомиллиардные	многомиллиардный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	убытки	убыток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	дискредитирует	дискредитировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+11	институт	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+12	электронной	электронный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	почты	почта	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	так	так	ADV	_	Degree=Pos	18	mark	_	_
+16	как	как	SCONJ	_	_	15	fixed	_	_
+17	чрезмерно	чрезмерно	ADV	_	Degree=Pos	18	advmod	_	_
+18	нагружает	нагружать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+19	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	усложняет	усложнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
+22	работу.13	работу.13	NUM	_	_	23	nummod	_	_
+23	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	_	_
+24	не	не	PART	_	Polarity=Neg	23	fixed	_	_
+25	менее	менее	ADV	_	Degree=Cmp	23	fixed	_	_
+26	действующая	действовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	_
+27	редакция	редакция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+28	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 75
+# text = 6 Закона Азербайджанской Республики "Об электронной торговле" разрешает рассылку такого рода рекламных сообщений, разве что ограничивая ее коммерческими целями.14 Но ведь спам в большинстве случаев и преследует коммерческие цели, правда, при этом в абсолютном большинстве стран не признается законным средством рекламы.
+1	6	6	NUM	_	_	2	nummod	_	_
+2	Закона	Закон	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+6	Об	о	ADP	_	_	8	case	_	_
+7	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	разрешает	разрешить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	_
+11	рассылку	рассылка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	такого	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	13	det	_	_
+13	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+14	рекламных	рекламный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	сообщений	сообщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	разве	разве	PART	_	_	19	advmod	_	_
+18	что	что	SCONJ	_	_	17	fixed	_	_
+19	ограничивая	ограничивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	30	advcl	_	_
+20	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	obj	_	_
+21	коммерческими	коммерческий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	obl	_	_
+22	целями.14	целями.14	X	_	Foreign=Yes	21	flat:foreign	_	_
+23	Но	но	CCONJ	_	_	22	appos	_	_
+24	ведь	ведь	PART	_	_	25	advmod	_	_
+25	спам	спам	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	obl	_	_
+28	случаев	случай	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	27	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	преследует	преследовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+31	коммерческие	коммерческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	_
+32	цели	цель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	30	obj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	43	punct	_	_
+34	правда	правда	ADV	_	Degree=Pos	43	parataxis	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	34	punct	_	_
+36	при	при	ADP	_	_	37	case	_	_
+37	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	43	obl	_	_
+38	в	в	ADP	_	_	40	case	_	_
+39	абсолютном	абсолютный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+40	большинстве	большинство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	43	obl	_	_
+41	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	40	nmod	_	_
+42	не	не	PART	_	_	43	advmod	_	_
+43	признается	признавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	30	conj	_	_
+44	законным	законный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	43	obl	_	_
+45	средством	средство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	43	obl	_	_
+46	рекламы	реклама	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 76
+# text = Что касается киберсквотинга, т. е. незаконной регистрации доменных имен лицами, не обладающими исключительными правами на товарный знак, то здесь ситуация предельно проста.
+1	Что	что	PRON	_	Case=Nom	2	nsubj	_	_
+2	касается	касаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	advcl	_	_
+3	киберсквотинга	киберсквотинг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	mark	_	_
+6	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	fixed	_	_
+7	незаконной	незаконный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	parataxis	_	_
+9	доменных	доменный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	имен	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+11	лицами	лицо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	не	не	PART	_	_	14	advmod	_	_
+14	обладающими	обладать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	_
+15	исключительными	исключительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	16	amod	_	_
+16	правами	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	14	obl	_	_
+17	на	на	ADP	_	_	19	case	_	_
+18	товарный	товарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	знак	знак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	14	punct	_	_
+21	то	то	SCONJ	_	_	25	mark	_	_
+22	здесь	здесь	ADV	_	Degree=Pos	25	advmod	_	_
+23	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+24	предельно	предельно	ADV	_	Degree=Pos	25	obl	_	_
+25	проста	простой	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 77
+# text = Понятие "домен" в азербайджанском законодательстве использовано лишь в одном техническом подзаконном акте, при этом не раскрывающем полностью его правовое содержание,15 что не позволяет выявить правовой статус "доменов", регламентировать права и обязанности регистрантов и тем более обеспечить в административном или уголовном порядке защиту прав добросовестных правообладателей.
+1	Понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	домен	домен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	азербайджанском	азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+8	использовано	использовать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	лишь	лишь	PART	_	_	14	advmod	_	_
+10	в	в	ADP	_	_	14	case	_	_
+11	одном	один	NUM	_	Case=Loc|Gender=Masc	14	nummod	_	_
+12	техническом	технический	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+13	подзаконном	подзаконн	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	акте	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	при	при	ADP	_	_	17	case	_	_
+17	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	раскрывающем	раскрывать	VERB	_	Aspect=Imp|Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	_
+20	полностью	полностью	ADV	_	Degree=Pos	19	advmod	_	_
+21	его	его	DET	_	_	23	det	_	_
+22	правовое	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	содержание,15	содержание,15	NOUN	_	_	26	iobj	_	_
+24	что	что	PRON	_	Case=Acc	26	obj	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	xcomp	_	_
+27	выявить	выявить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	правовой	правовой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	статус	статус	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
+30	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+31	доменов	домен	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	31	punct	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	регламентировать	регламентировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	29	acl:relcl	_	_
+35	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	34	obj	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	35	conj	_	_
+38	регистрантов	регистрант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	_
+39	и	и	CCONJ	_	_	42	cc	_	_
+40	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	41	obl	_	_
+41	более	более	ADV	_	Degree=Cmp	42	advmod	_	_
+42	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	34	conj	_	_
+43	в	в	ADP	_	_	47	case	_	_
+44	административном	административный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
+45	или	или	CCONJ	_	_	46	cc	_	_
+46	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	44	conj	_	_
+47	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	42	obl	_	_
+48	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	42	obj	_	_
+49	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	48	nmod	_	_
+50	добросовестных	добросовестный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	51	amod	_	_
+51	правообладателей	правообладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
+52	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 78
+# text = Таким образом, несмотря на серьезный прорыв Азербайджанской Республики в направлении совершенствования уголовного законодательства в сфере борьбы с киберпреступлениями, целый ряд вопросов остался вне поля правовой регламентации.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	несмотря	несмотря	ADV	_	Polarity=Neg	7	case	_	_
+5	на	на	ADP	_	_	4	fixed	_	_
+6	серьезный	серьезный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	прорыв	прорыв	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obl	_	_
+8	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	nmod	_	_
+12	совершенствования	совершенствование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	_
+17	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	киберпреступлениями	киберпреступление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	7	punct	_	_
+21	целый	целый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+23	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+24	остался	остаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+25	вне	вне	ADP	_	_	26	case	_	_
+26	поля	поле	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	_
+27	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	регламентации	регламентация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 79
+# text = Поэтому на данном этапе следует предпринять активные шаги в следующих направлениях: 12
+1	Поэтому	поэтому	ADV	_	Degree=Pos	5	advmod	_	_
+2	на	на	ADP	_	_	4	case	_	_
+3	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	предпринять	предпринять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	активные	активный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	шаги	шаг	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	следующих	следующий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	amod	_	_
+11	направлениях	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	12	12	NUM	_	_	11	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 80
+# text = Мамонов К. Л. Компьютерные преступления.
+1	Мамонов	Мамонов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+2	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Л.	Л.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Компьютерные	компьютерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	преступления	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 81
+# text = Некоторые проблемы криминализации // Вестник Санкт-Петербургского университета.
+1	Некоторые	некоторый	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	криминализации	криминализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	/	/	PUNCT	_	_	6	punct	_	_
+6	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	_
+7	Санкт-Петербургского	санкт-петербургский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	университета	университет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 82
+# text = Сер.
+1	Сер	Сер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Философия.
+1	Философия	философия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = Политология.
+1	Политология	политология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Социология.
+1	Социология	социология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = Психология.
+1	Психология	психология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = Право.
+1	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = 1. 1994.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	1994	1994	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = С. 102.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	102	102	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = 13 Азизов Р. Ф. Еlaw.az / Введение в электронное право.
+1	13	13	NUM	_	_	2	nummod	_	_
+2	Азизов	Азизов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Еlaw.az	Еlaw.az	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	Введение	введение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	appos	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	электронное	электронный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	право.	право	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+
+# sent_id = 93
+# text = С. 82.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	82	82	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 94
+# text = 14 Закон Азербайджанской Республики от 10 мая 2005 г. № 908-IIQ "Об электронной торговле".
+1	14	14	NUM	_	_	2	nummod	_	_
+2	Закон	закон	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Азербайджанской	Азербайджанский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	10	10	NUM	_	_	2	nummod	_	_
+7	мая	май	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	2005	2005	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+11	№	№	SYM	_	_	2	nummod:entity	_	_
+12	908	908	NUM	_	_	11	nummod	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	IIQ	IIQ	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+15	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	Об	о	ADP	_	_	18	case	_	_
+17	электронной	электронный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	торговле	торговля	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 95
+# text = 15 Постановление Кабинета Министров Азербайджанской Республики от 31 марта 2006 г.
+1	15	15	NUM	_	_	2	nummod	_	_
+2	Постановление	постановление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	Кабинета	кабинет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Министров	Министр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	Азербайджанской	Азербайджанский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	6	amod	_	_
+6	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+7	от	от	ADP	_	_	8	case	_	_
+8	31	31	NUM	_	_	2	nummod	_	_
+9	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	2006	2006	NUM	_	_	11	nummod	_	_
+11	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 96
+# text = № 91 "О правилах администрирования доменов GOV.AZ" // http://e-qanun.az/framework/12015 (дата обращения: 29.01.2015).
+1	№	№	SYM	_	_	0	root	_	_
+2	91	91	NUM	_	_	1	nummod	_	_
+3	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	5	case	_	_
+5	правилах	правило	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	appos	_	_
+6	администрирования	администрирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	доменов	домен	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	GOV.AZ	GOV.AZ	PROPN	_	Foreign=Yes	7	flat:foreign	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	12	punct	_	_
+10	/	/	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	/	/	PUNCT	_	_	12	punct	_	_
+12	http://e-qanun.az/framework/12015	http://e-qanun.az/framework/12015	NOUN	_	_	7	appos	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	parataxis	_	_
+15	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	14	punct	_	_
+17	29.01.2015	29.01.2015	NOUN	_	_	14	parataxis	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 97
+# text = 1) организовать на национальном уровне постоянный контроль за ситуацией в тех сферах, где могут возникнуть угрозы роста киберпреступности, объединить усилия широкой общественности, профессионалов, ученых и представителей органов власти, делового мира для надежной защиты информационных ресурсов; 2) проводить активные проекты по укреплению международного сотрудничества, усовершенствованию модельного законодательства в этой сфере, формированию и развитию связей между органами, которые занимаются обеспечением информационной безопасности и устранением последствий таких угроз.
+1	1	1	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	_
+3	организовать	организовывать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	национальном	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	постоянный	постоянный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	контроль	контроль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+9	за	за	ADP	_	_	10	case	_	_
+10	ситуацией	ситуация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	тех	тот	DET	_	Case=Loc|Number=Plur	13	det	_	_
+13	сферах	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	где	где	ADV	_	Degree=Pos	16	advmod	_	_
+16	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+17	возникнуть	возникнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+19	роста	рост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	киберпреступности	киберпреступность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	объединить	объединить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	conj	_	_
+23	усилия	усилие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+24	широкой	широкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	общественности	общественность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	профессионалов	профессионал	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	ученых	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	conj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	25	conj	_	_
+32	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	делового	деловой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	conj	_	_
+37	для	для	ADP	_	_	39	case	_	_
+38	надежной	надежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+40	информационных	информационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	amod	_	_
+41	ресурсов	ресурс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	SpaceAfter=No
+42	;	;	PUNCT	_	_	41	punct	_	_
+43	2	2	NUM	_	_	45	nummod	_	SpaceAfter=No
+44	)	)	PUNCT	_	_	43	punct	_	_
+45	проводить	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	41	conj	_	_
+46	активные	активный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	47	amod	_	_
+47	проекты	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	45	obj	_	_
+48	по	по	ADP	_	_	49	case	_	_
+49	укреплению	укрепление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	47	nmod	_	_
+50	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	51	amod	_	_
+51	сотрудничества	сотрудничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	усовершенствованию	усовершенствование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	49	conj	_	_
+54	модельного	модельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	55	amod	_	_
+55	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+56	в	в	ADP	_	_	58	case	_	_
+57	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	58	det	_	_
+58	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	55	nmod	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	формированию	формирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	49	conj	_	_
+61	и	и	CCONJ	_	_	62	cc	_	_
+62	развитию	развитие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	49	conj	_	_
+63	связей	связь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	62	nmod	_	_
+64	между	между	ADP	_	_	65	case	_	_
+65	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	63	nmod	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	68	punct	_	_
+67	которые	который	PRON	_	Case=Nom	68	nsubj	_	_
+68	занимаются	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	47	acl:relcl	_	_
+69	обеспечением	обеспечение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	68	obl	_	_
+70	информационной	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	71	amod	_	_
+71	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	69	nmod	_	_
+72	и	и	CCONJ	_	_	73	cc	_	_
+73	устранением	устранение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	69	conj	_	_
+74	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	73	nmod	_	_
+75	таких	такой	DET	_	Case=Gen|Number=Plur	76	det	_	_
+76	угроз	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	74	nmod	_	SpaceAfter=No
+77	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 98
+# text = Бесспорно, эффективное международное сотрудничество в борьбе с киберперступностью невозможно, если в законодательстве одной страны деяние считается преступлением, а в другой уголовной ответственности не предусмотрено.
+1	Бесспорно	бесспорно	ADV	_	Degree=Pos	10	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	эффективное	эффективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+4	международное	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	сотрудничество	сотрудничество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	борьбе	борьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	киберперступностью	киберперступность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	_
+10	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	если	если	SCONJ	_	_	18	mark	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+15	одной	один	NUM	_	Case=Gen|Gender=Fem	16	nummod	_	_
+16	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	деяние	деяние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj:pass	_	_
+18	считается	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	_
+19	преступлением	преступление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	27	punct	_	_
+21	а	а	CCONJ	_	_	27	cc	_	_
+22	в	в	ADP	_	_	25	case	_	_
+23	другой	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+24	уголовной	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	предусмотрено	предусмотреть	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	18	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 99
+# text = Отсутствие единообразия в национальном уголовном законодательстве стран может негативно отразиться на развитии методов эффективной борьбы с киберпреступностью — явлением, для которого не существует государственных границ.16 Одна из ключевых проблем — проблема определения юрисдикции, которая предопределяется транснациональностью рассматриваемого явления.
+1	Отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+2	единообразия	единообразие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	в	в	ADP	_	_	6	case	_	_
+4	национальном	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+5	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+7	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	негативно	негативно	ADV	_	Degree=Pos	10	advmod	_	_
+10	отразиться	отразиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+13	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	эффективной	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	киберпреступностью	киберпреступность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	nmod	_	_
+18	—	—	PUNCT	_	_	19	punct	_	_
+19	явлением	явление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	которого	который	PRON	_	Case=Gen	24	obl	_	_
+23	не	не	PART	_	_	24	advmod	_	_
+24	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+25	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	границ.16	границ.16	NOUN	_	_	32	nmod	_	_
+27	Одна	один	NUM	_	Case=Nom|Gender=Fem	32	nummod:gov	_	_
+28	из	из	ADP	_	_	30	case	_	_
+29	ключевых	ключевой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+31	—	—	PUNCT	_	_	27	punct	_	_
+32	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	_
+33	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+34	юрисдикции	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	которая	который	PRON	_	Case=Nom	37	nsubj	_	_
+37	предопределяется	предопределяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	34	acl:relcl	_	_
+38	транснациональностью	транснациональность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	37	obl	_	_
+39	рассматриваемого	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	40	amod	_	_
+40	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 100
+# text = Очень сложно определить место совершения преступления, так как при кибератаках преступники могут находиться на удаленных расстояниях, при этом физическое нахождение преступника может не совпадать с его нахождением в сети, т. е. атака может совершаться с компьютеров и серверов в третьих странах.
+1	Очень	очень	ADV	_	Degree=Pos	2	obl	_	_
+2	сложно	сложно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+4	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	так	так	ADV	_	Degree=Pos	13	mark	_	_
+9	как	как	SCONJ	_	_	8	fixed	_	_
+10	при	при	ADP	_	_	11	case	_	_
+11	кибератаках	кибератак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+12	преступники	преступник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+13	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+14	находиться	находиться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	13	xcomp	_	_
+15	на	на	ADP	_	_	17	case	_	_
+16	удаленных	удалить	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	_
+17	расстояниях	расстояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	24	punct	_	_
+19	при	при	ADP	_	_	20	case	_	_
+20	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	24	obl	_	_
+21	физическое	физический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	нахождение	нахождение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	_
+23	преступника	преступник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+25	не	не	PART	_	_	26	advmod	_	_
+26	совпадать	совпадать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	xcomp	_	_
+27	с	с	ADP	_	_	29	case	_	_
+28	его	его	DET	_	_	29	det	_	_
+29	нахождением	нахождение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	сети	сеть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	mark	_	_
+34	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	fixed	_	_
+35	атака	атака	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	_
+36	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	parataxis	_	_
+37	совершаться	совершать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	36	xcomp	_	_
+38	с	с	ADP	_	_	39	case	_	_
+39	компьютеров	компьютер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	obl	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	серверов	сервер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	39	conj	_	_
+42	в	в	ADP	_	_	44	case	_	_
+43	третьих	третий	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	44	amod	_	_
+44	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	41	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 101
+# text = В этом случае важно быстродействие правоохранительных органов всех стран, так как даже одна страна может стать убежищем для кибертеррористов.
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	быстродействие	быстродействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	правоохранительных	правоохранительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+8	всех	весь	DET	_	Case=Gen|Number=Plur	9	det	_	_
+9	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	так	так	ADV	_	Degree=Pos	16	mark	_	_
+12	как	как	SCONJ	_	_	11	fixed	_	_
+13	даже	даже	PART	_	_	14	advmod	_	_
+14	одна	один	NUM	_	Case=Nom|Gender=Fem	15	nummod:gov	_	_
+15	страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+16	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+17	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	xcomp	_	_
+18	убежищем	убежище	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	_
+19	для	для	ADP	_	_	20	case	_	_
+20	кибертеррористов	кибертеррорист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 102
+# text = Высокой оценки заслуживают инициативы отдельных стран по налаживанию конкретных соглашений с другими странами.
+1	Высокой	высокий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
+3	заслуживают	заслуживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	инициативы	инициатива	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+5	отдельных	отдельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+7	по	по	ADP	_	_	8	case	_	_
+8	налаживанию	налаживание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	_
+9	конкретных	конкретный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	соглашений	соглашение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	другими	другой	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	13	amod	_	_
+13	странами	страна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 103
+# text = Например, по предложению Испании пять европейских государств решили объединиться в сообщество, в рамках которого они изучают, как террористы и преступники используют ресурсы Интернета: закрываются сайты, которые уличаются в нарушении действующего закона о терроризме, осуществляется обмен данными о подозреваемых, вовлеченных в террористическую деятельность, и террористических актах и взрывах.17 Предполагается, что именно такие формы сотрудничества особенно перспективны в рамках деятельности региональных организаций (СНГ, ГУАМ, ЕврАзЭС).
+1	Например	например	ADV	_	Degree=Pos	9	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	предложению	предложение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	_
+5	Испании	Испания	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	пять	пять	NUM	_	Case=Nom	8	nummod:gov	_	_
+7	европейских	европейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nsubj	_	_
+9	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	объединиться	объединиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	9	xcomp	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	obl	_	_
+16	которого	который	PRON	_	Case=Gen	15	nmod	_	_
+17	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	18	nsubj	_	_
+18	изучают	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	_	_
+20	как	как	SCONJ	_	_	24	mark	_	_
+21	террористы	террорист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	преступники	преступник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	21	conj	_	_
+24	используют	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+25	ресурсы	ресурс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	24	obj	_	_
+26	Интернета	Интернет	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+27	:	:	PUNCT	_	_	24	punct	_	_
+28	закрываются	закрывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	24	parataxis	_	_
+29	сайты	сайт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	28	nsubj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	которые	который	PRON	_	Case=Nom	32	nsubj	_	_
+32	уличаются	уличать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	29	acl:relcl	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	нарушении	нарушение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	obl	_	_
+35	действующего	действовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	36	amod	_	_
+36	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	_
+37	о	о	ADP	_	_	38	case	_	_
+38	терроризме	терроризм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	осуществляется	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	28	conj	_	_
+41	обмен	обмен	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	40	nsubj:pass	_	_
+42	данными	данные	NOUN	_	Animacy=Inan|Case=Ins|Number=Plur	41	nmod	_	_
+43	о	о	ADP	_	_	44	case	_	_
+44	подозреваемых	подозреваемый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	42	nmod	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	вовлеченных	вовлечь	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	44	acl	_	_
+47	в	в	ADP	_	_	49	case	_	_
+48	террористическую	террористический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+49	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	46	obl	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	53	punct	_	_
+51	и	и	CCONJ	_	_	53	cc	_	_
+52	террористических	террористический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	53	amod	_	_
+53	актах	акт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	46	conj	_	_
+54	и	и	CCONJ	_	_	55	cc	_	_
+55	взрывах.17	взрывах.17	NUM	_	_	46	conj	_	_
+56	Предполагается	предполагаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	28	conj	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	64	punct	_	_
+58	что	что	SCONJ	_	_	64	mark	_	_
+59	именно	именно	PART	_	_	60	advmod	_	_
+60	такие	такой	DET	_	Case=Nom|Number=Plur	61	det	_	_
+61	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	64	nsubj	_	_
+62	сотрудничества	сотрудничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	61	nmod	_	_
+63	особенно	особенно	ADV	_	Degree=Pos	64	obl	_	_
+64	перспективны	перспективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	56	ccomp	_	_
+65	в	в	ADP	_	_	66	case	_	_
+66	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	64	obl	_	_
+67	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	66	nmod	_	_
+68	региональных	региональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	69	amod	_	_
+69	организаций	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	67	nmod	_	_
+70	(	(	PUNCT	_	_	71	punct	_	SpaceAfter=No
+71	СНГ	СНГ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	69	parataxis	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	73	punct	_	_
+73	ГУАМ	ГУАМ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	71	conj	_	SpaceAfter=No
+74	,	,	PUNCT	_	_	75	punct	_	_
+75	ЕврАзЭС	ЕврАзЭС	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	71	conj	_	SpaceAfter=No
+76	)	)	PUNCT	_	_	71	punct	_	SpaceAfter=No
+77	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 104
+# text = Важно осознавать, что в информационной среде большая нагрузка падает на представителей частного сектора, зачастую под угрозой остаются именно частные компьютерные системы, базы данных.
+1	Важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	осознавать	осознавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	что	что	SCONJ	_	_	10	mark	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	информационной	информационный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	среде	среда	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+8	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	нагрузка	нагрузка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	падает	падать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	представителей	представитель	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	10	obl	_	_
+13	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	сектора	сектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	зачастую	зачастую	ADV	_	Degree=Pos	19	advmod	_	_
+17	под	под	ADP	_	_	18	case	_	_
+18	угрозой	угроза	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	19	obl	_	_
+19	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	conj	_	_
+20	именно	именно	PART	_	_	21	advmod	_	_
+21	частные	частный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+22	компьютерные	компьютерный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	базы	база	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	conj	_	_
+26	данных	данные	NOUN	_	Animacy=Inan|Case=Gen|Number=Plur	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = В то же время развитие систем информационной безопасности идет в большей степени именно за счет частного сектора.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+5	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+6	систем	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+7	информационной	информационный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	большей	больший	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	степени	степень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	_
+13	именно	именно	PART	_	_	17	advmod	_	_
+14	за	за	ADP	_	_	17	case	_	_
+15	счет	счет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	fixed	_	_
+16	частного	частный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	сектора	сектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 106
+# text = Поэтому продуктивно привлечение представителей негосударственного сектора к процессу разработки механизмов предотвращения и устранения киберпреступлений — и при разработке программных продуктов, и при обсуждении механизмов, и при создании норм права, регулирующих эти процессы.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	2	advmod	_	_
+2	продуктивно	продуктивный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	негосударственного	негосударственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	сектора	сектор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	процессу	процесс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	_
+9	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	предотвращения	предотвращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	устранения	устранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+14	киберпреступлений	киберпреступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+15	—	—	PUNCT	_	_	18	punct	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	при	при	ADP	_	_	18	case	_	_
+18	разработке	разработка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	conj	_	_
+19	программных	программный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	продуктов	продукт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	при	при	ADP	_	_	24	case	_	_
+24	обсуждении	обсуждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	conj	_	_
+25	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	и	и	CCONJ	_	_	29	cc	_	_
+28	при	при	ADP	_	_	29	case	_	_
+29	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	conj	_	_
+30	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	_
+31	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	регулирующих	регулировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	acl	_	_
+34	эти	этот	DET	_	Case=Acc|Number=Plur	35	det	_	_
+35	процессы	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	33	obj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 107
+# text = Информационное пространство будет эффективным только тогда, когда станет открытым для общества, дающим возможность согласованно реализовывать частные и публичные интересы граждан, общества и государства на комплексной и системной основе.18 16
+1	Информационное	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	пространство	пространство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	эффективным	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	только	только	PART	_	_	6	advmod	_	_
+6	тогда	тогда	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	когда	когда	ADV	_	Degree=Pos	9	advmod	_	_
+9	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	4	conj	_	_
+10	открытым	открытый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	obl	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	дающим	дать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	conj	_	_
+15	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	согласованно	согласованно	ADV	_	Degree=Pos	17	advmod	_	_
+17	реализовывать	реализовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	obl	_	_
+18	частные	частный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	21	amod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	публичные	публичный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	18	conj	_	_
+21	интересы	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+22	граждан	гражданин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	общества	общество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	conj	_	_
+27	на	на	ADP	_	_	31	case	_	_
+28	комплексной	комплексный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	системной	системный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	conj	_	_
+31	основе.18	основе.18	NOUN	_	_	26	nmod	_	_
+32	16	16	NUM	_	_	9	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 108
+# text = Джансараева Р. Е., Аратулы К. Борьба с киберпреступлениями.
+1	Джансараева	Джансараев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+3	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Аратулы	Аратула	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	conj	_	_
+6	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+7	Борьба	борьба	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	киберпреступлениями	киберпреступление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = С. 98.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	98	98	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 110
+# text = C миру по байту // Вестник онлайн.
+1	C	с	ADP	_	_	2	case	_	_
+2	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	байту	байт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+5	/	/	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	/	/	PUNCT	_	_	7	punct	_	_
+7	Вестник	вестник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
+8	онлайн	онлайн	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 111
+# text = 2005.
+1	2005	2005	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 112
+# text = 11 марта (доступно по: http://vestnk_old.ulsu.ru/ ssues/738/16/ (дата обращения: 09.12.2014)).
+1	11	11	NUM	_	_	0	root	_	_
+2	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	доступно	доступный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	parataxis	_	_
+5	по	по	ADP	_	_	7	case	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	http://vestnk_old.ulsu.ru	http://vestnk_old.ulsu.ru	X	_	Foreign=Yes	4	nsubj	_	SpaceAfter=No
+8	/	/	PUNCT	_	_	4	flat:foreign	_	_
+9	ssues	ssues	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+10	/	/	PUNCT	_	_	4	punct	_	SpaceAfter=No
+11	738/16	738/16	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+12	/	/	PUNCT	_	_	4	punct	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
+15	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	_
+17	09.12.2014	09.12.2014	X	_	Foreign=Yes	15	parataxis	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	4	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 113
+# text = 18 Пономарев Д. А.
+1	18	18	NUM	_	_	2	nummod	_	_
+2	Пономарев	Пономарев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+
+# sent_id = 114
+# text = Информационные технологии как криминогенный фактор...
+1	Информационные	информационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	технологии	технология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	как	как	SCONJ	_	_	5	mark	_	_
+4	криминогенный	криминогенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	фактор	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	acl	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 115
+# text = 17
+1	17	17	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 116
+# text = Соответствующее нормотворчество в сфере борьбы с киберпреступностью в Азербайджанской Республике, равно как и в других странах постсоветского пространства, должно пойти по пути внедрения концепции правового сорегулирования, предполагающей сочетание механизмов публичного (государственного и международного) управления и социального самоуправления.19 Статья поступила в редакцию 17 сентября 2014 г.
+1	Соответствующее	соответствующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	нормотворчество	нормотворчество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	борьбы	борьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	киберпреступностью	киберпреступность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	nmod	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	Азербайджанской	Азербайджанский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	равно	равно	ADV	_	Degree=Pos	17	obl	_	_
+13	как	как	SCONJ	_	_	17	mark	_	_
+14	и	и	PART	_	_	17	advmod	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	других	другой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	17	amod	_	_
+17	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	conj	_	_
+18	постсоветского	постсоветский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	пространства	пространство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	2	punct	_	_
+21	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+22	пойти	пойти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	_
+23	по	по	ADP	_	_	24	case	_	_
+24	пути	путь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	22	obl	_	_
+25	внедрения	внедрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	сорегулирования	сорегулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	предполагающей	предполагать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	26	acl	_	_
+31	сочетание	сочетание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	30	obj	_	_
+32	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	31	nmod	_	_
+33	публичного	публичный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+34	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+35	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	appos	_	_
+36	и	и	CCONJ	_	_	37	cc	_	_
+37	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	conj	_	SpaceAfter=No
+38	)	)	PUNCT	_	_	35	punct	_	_
+39	управления	управление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	социального	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	39	conj	_	_
+42	самоуправления.19	самоуправления.19	NUM	_	_	30	nummod	_	_
+43	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	44	nsubj	_	_
+44	поступила	поступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	parataxis	_	_
+45	в	в	ADP	_	_	46	case	_	_
+46	редакцию	редакция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	44	obl	_	_
+47	17	17	NUM	_	_	44	nummod	_	_
+48	сентября	сентябрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	47	flat	_	_
+49	2014	2014	NUM	_	_	50	nummod	_	_
+50	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	SpaceAfter=No
+51	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 117
+# text = Азизов Р. Ф. Правовое регулирование: информационный аспект.
+1	Азизов	Азизов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Правовое	правовой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	регулирование	регулирование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	информационный	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	аспект	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 118
+# text = Дис. ... к. ю. н. СПб., 2007.
+1	Дис.	Дис.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	к.	коло	ADP	_	_	6	case	_	_
+6	ю	я	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	н	н	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+10	СПб.	СПб.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	2007	2007	NUM	_	_	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+

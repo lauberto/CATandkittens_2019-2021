@@ -1,0 +1,2256 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = В. А. Баринов, В. И. Климко ИНТЕЛЛЕКТУАЛЬНАЯ СОБСТВЕННОСТЬ РЕСПУБЛИКИ КРЫМ И СЕВАСТОПОЛЯ В ПЕРЕХОДНЫЙ ПЕРИОД В статье приводится обзор состояния интеллектуальной собственности Республики Крым и города федерального значения Севастополя, вошедших в состав Российской Федерации; проведен анализ возможных осложнений, связанных с присоединением указанных регионов, на основании которого сделаны основные выводы.
+1	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Баринов	Баринов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Климко	Климко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	ИНТЕЛЛЕКТУАЛЬНАЯ	интеллектуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	СОБСТВЕННОСТЬ	собственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+10	РЕСПУБЛИКИ	Республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	КРЫМ	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+12	И	и	CCONJ	_	_	13	cc	_	_
+13	СЕВАСТОПОЛЯ	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	conj	_	_
+14	В	в	ADP	_	_	16	case	_	_
+15	ПЕРЕХОДНЫЙ	переходный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	ПЕРИОД	период	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	_
+17	В	в	ADP	_	_	18	case	_	_
+18	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+19	приводится	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	parataxis	_	_
+20	обзор	обзор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj:pass	_	_
+21	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+25	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	appos	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	conj	_	_
+28	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+30	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	вошедших	войти	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	30	acl	_	_
+33	в	в	ADP	_	_	34	case	_	_
+34	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
+35	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
+37	;	;	PUNCT	_	_	19	punct	_	_
+38	проведен	провести	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	conj	_	_
+39	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	54	nsubj	_	_
+40	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	41	amod	_	_
+41	осложнений	осложнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	39	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	41	acl	_	_
+44	с	с	ADP	_	_	45	case	_	_
+45	присоединением	присоединение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	43	obl	_	_
+46	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	47	amod	_	_
+47	регионов	регион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	45	nmod	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	43	punct	_	_
+49	на	на	ADP	_	_	50	case	_	_
+50	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	52	obl	_	_
+51	которого	который	PRON	_	Case=Gen	50	nmod	_	_
+52	сделаны	делать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	43	xcomp	_	_
+53	основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	54	amod	_	_
+54	выводы	вывод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	38	nsubj:pass	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Ключевые слова: интеллектуальная собственность, переходный период, патент, товарный знак, Республика Крым.
+1	Ключевые	ключевой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	слова	слово	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	интеллектуальная	интеллектуальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	собственность	собственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	переходный	переходный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	патент	патент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	товарный	товарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	знак	знак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Республика	Республика	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+16	Крым.	Крым.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
+
+# sent_id = 3
+# text = V.
+1	V	v	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 4
+# text = A. Barnov, V.
+1	A	a	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Barnov	Barnov	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	V	v	PROPN	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = I.
+1	I	i	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 6
+# text = Klmko INTELLECTUAL PROPERTY OF THE REPUBLIC OF CRIMEA AND SEVASTOPOL IN THE TRANSITIONAL PERIOD
+1	Klmko	Klmko	PROPN	_	Foreign=Yes	0	root	_	_
+2	INTELLECTUAL	INTELLECTUAL	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	PROPERTY	PROPERTY	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+4	OF	of	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	THE	THE	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	REPUBLIC	REPUBLIC	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	OF	of	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+8	CRIMEA	CRIMEA	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+9	AND	and	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	SEVASTOPOL	SEVASTOPOL	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+11	IN	IN	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	THE	THE	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+13	TRANSITIONAL	TRANSITIONAL	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+14	PERIOD	PERIOD	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = Согласно свободному и добровольному волеизъявлению народов Крыма, нашедшему свое отражение на общекрымском референдуме, который состоялся 16 марта 2014 г., 18 марта 2014 г. был подписан и 21 марта 2014 г. вступил в силу по факту ратификации международный Договор между Российской Федерацией и Республикой Крым о принятии в Российскую Федерацию Республики Крым и образовании в составе Российской Федерации новых субъектов.1 Баринов Владимир Андреевич — кандидат экономических наук, Молодежная коллегия СанктПетербурга, 190000, Российская Федерация, Санкт-Петербург, Большая морская ул., 31; v.barnov_ nbox.ru Климко Василий Иванович — кандидат технических наук, Молодежная коллегия СанктПетербурга, 190000, Российская Федерация, Санкт-Петербург, Большая морская ул., 31; klmkovasly@ gmal.com Barnov Vladmr Andreevch — canddate of economc scences, The Youth College of St.
+1	Согласно	согласно	ADP	_	_	5	case	_	_
+2	свободному	свободный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	добровольному	добровольный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	_
+5	волеизъявлению	волеизъявление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	28	obl	_	_
+6	народов	народ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	нашедшему	найти	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	28	advcl	_	_
+10	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	11	det	_	_
+11	отражение	отражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	общекрымском	общекрымский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	референдуме	референдум	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	который	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	состоялся	состояться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	14	acl:relcl	_	_
+18	16	16	NUM	_	_	17	nummod	_	_
+19	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	flat	_	_
+20	2014	2014	NUM	_	_	21	nummod	_	_
+21	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	9	punct	_	_
+23	18	18	NUM	_	_	28	nsubj:pass	_	_
+24	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	flat	_	_
+25	2014	2014	NUM	_	_	26	nummod	_	_
+26	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+27	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	aux:pass	_	_
+28	подписан	подписать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+29	и	и	PART	_	_	30	advmod	_	_
+30	21	21	NUM	_	_	28	nummod	_	_
+31	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	flat	_	_
+32	2014	2014	NUM	_	_	33	nummod	_	_
+33	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+34	вступил	вступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	nsubj:pass	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obl	_	_
+37	по	по	ADP	_	_	38	case	_	_
+38	факту	факт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	34	obl	_	_
+39	ратификации	ратификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+40	международный	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	_
+41	Договор	Договор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	_
+42	между	между	ADP	_	_	44	case	_	_
+43	Российской	российский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	44	amod	_	_
+44	Федерацией	Федерация	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	41	nmod	_	_
+45	и	и	CCONJ	_	_	46	cc	_	_
+46	Республикой	Республика	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	44	conj	_	_
+47	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	41	appos	_	_
+48	о	о	ADP	_	_	49	case	_	_
+49	принятии	принятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	47	nmod	_	_
+50	в	в	ADP	_	_	52	case	_	_
+51	Российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	_
+52	Федерацию	Федерация	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	47	nmod	_	_
+53	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	nmod	_	_
+54	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	53	appos	_	_
+55	и	и	CCONJ	_	_	56	cc	_	_
+56	образовании	образование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	54	conj	_	_
+57	в	в	ADP	_	_	58	case	_	_
+58	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	53	nmod	_	_
+59	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	60	amod	_	_
+60	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	_
+61	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	62	amod	_	_
+62	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	60	nmod	_	SpaceAfter=No
+63	.1	.1	NUM	_	_	47	nummod	_	_
+64	Баринов	Баринов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	47	flat:name	_	_
+65	Владимир	Владимир	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	47	appos	_	_
+66	Андреевич	Андреевич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	65	flat:name	_	_
+67	—	—	PUNCT	_	_	68	punct	_	_
+68	кандидат	кандидат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	appos	_	_
+69	экономических	экономический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	70	amod	_	_
+70	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	68	nmod	_	SpaceAfter=No
+71	,	,	PUNCT	_	_	73	punct	_	_
+72	Молодежная	молодежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	73	amod	_	_
+73	коллегия	коллегия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	68	conj	_	_
+74	СанктПетербурга	СанктПетербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	73	nmod	_	SpaceAfter=No
+75	,	,	PUNCT	_	_	76	punct	_	_
+76	190000	190000	NUM	_	_	74	nummod	_	SpaceAfter=No
+77	,	,	PUNCT	_	_	79	punct	_	_
+78	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	79	amod	_	_
+79	Федерация	Федерация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	68	conj	_	SpaceAfter=No
+80	,	,	PUNCT	_	_	81	punct	_	_
+81	Санкт-Петербург	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	68	conj	_	SpaceAfter=No
+82	,	,	PUNCT	_	_	85	punct	_	_
+83	Большая	Большой	PROPN	_	_	85	amod	_	_
+84	морская	морской	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	85	amod	_	_
+85	ул.	улица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	68	conj	_	SpaceAfter=No
+86	,	,	PUNCT	_	_	87	punct	_	_
+87	31	31	NUM	_	_	68	conj	_	SpaceAfter=No
+88	;	;	PUNCT	_	_	68	punct	_	_
+89	v.barnov	v.barnov	NOUN	_	_	68	conj	_	SpaceAfter=No
+90	_	_	PUNCT	_	_	89	punct	_	_
+91	nbox.ru	nbox.ru	X	_	Foreign=Yes	89	flat:foreign	_	_
+92	Климко	Климко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	89	appos	_	_
+93	Василий	Василий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	92	flat:name	_	_
+94	Иванович	Иванович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	92	flat:name	_	_
+95	—	—	PUNCT	_	_	96	punct	_	_
+96	кандидат	кандидат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	92	appos	_	_
+97	технических	технический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	98	amod	_	_
+98	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	96	nmod	_	SpaceAfter=No
+99	,	,	PUNCT	_	_	101	punct	_	_
+100	Молодежная	молодежный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	101	amod	_	_
+101	коллегия	коллегия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	96	conj	_	_
+102	СанктПетербурга	СанктПетербург	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	101	nmod	_	SpaceAfter=No
+103	,	,	PUNCT	_	_	104	punct	_	_
+104	190000	190000	NUM	_	_	102	nummod	_	SpaceAfter=No
+105	,	,	PUNCT	_	_	107	punct	_	_
+106	Российская	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	107	amod	_	_
+107	Федерация	Федерация	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	96	conj	_	SpaceAfter=No
+108	,	,	PUNCT	_	_	109	punct	_	_
+109	Санкт-Петербург	Санкт-Петербург	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	96	conj	_	SpaceAfter=No
+110	,	,	PUNCT	_	_	113	punct	_	_
+111	Большая	Большой	PROPN	_	_	113	amod	_	_
+112	морская	морской	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	113	amod	_	_
+113	ул.	улица	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	96	conj	_	SpaceAfter=No
+114	,	,	PUNCT	_	_	115	punct	_	_
+115	31	31	NUM	_	_	96	conj	_	SpaceAfter=No
+116	;	;	PUNCT	_	_	96	punct	_	_
+117	klmkovasly@	klmkovasly@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	96	conj	_	_
+118	gmal.com	gmal.com	X	_	Foreign=Yes	117	flat:foreign	_	_
+119	Barnov	Barnov	NOUN	_	_	117	nmod	_	_
+120	Vladmr	Vladmr	PROPN	_	Foreign=Yes	119	flat:foreign	_	_
+121	Andreevch	Andreevch	PROPN	_	Foreign=Yes	119	flat:foreign	_	_
+122	—	—	PUNCT	_	_	119	cc	_	_
+123	canddate	canddate	X	_	Foreign=Yes	119	flat:foreign	_	_
+124	of	of	X	_	Foreign=Yes	119	flat:foreign	_	_
+125	economc	economc	X	_	Foreign=Yes	119	flat:foreign	_	_
+126	scences	scences	X	_	Foreign=Yes	119	flat:foreign	_	SpaceAfter=No
+127	,	,	PUNCT	_	_	128	punct	_	_
+128	The	The	PROPN	_	Foreign=Yes	119	flat:foreign	_	_
+129	Youth	Youth	PROPN	_	Foreign=Yes	119	flat:foreign	_	_
+130	College	College	PROPN	_	Foreign=Yes	119	flat:foreign	_	_
+131	of	of	X	_	Foreign=Yes	119	flat:foreign	_	_
+132	St	St	PROPN	_	Foreign=Yes	119	flat:foreign	_	SpaceAfter=No
+133	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 8
+# text = Petersburg, 31, Bolshaya Morskaya st., St.
+1	Petersburg	Petersburg	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	31	31	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Bolshaya	Bolshaya	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	Morskaya	Morskaya	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	st	st	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	St	St	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 9
+# text = Petersburg, 190000, Russan Federaton; nbox.ru Klmko Vasl Ivanovch — canddate of techncal scences, The Youth College of St.
+1	Petersburg	Petersburg	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	190000	190000	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Russan	Russan	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	Federaton	Federaton	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+7	;	;	PUNCT	_	_	1	punct	_	_
+8	nbox.ru	nbox.ru	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	Klmko	Klmko	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+10	Vasl	Vasl	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+11	Ivanovch	Ivanovch	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+12	—	—	PUNCT	_	_	1	cc	_	_
+13	canddate	canddate	X	_	Foreign=Yes	1	flat:foreign	_	_
+14	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+15	techncal	techncal	X	_	Foreign=Yes	1	flat:foreign	_	_
+16	scences	scences	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	The	The	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+19	Youth	Youth	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+20	College	College	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+21	of	of	X	_	Foreign=Yes	1	flat:foreign	_	_
+22	St	St	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Petersburg, 31, Bolshaya Morskaya st., St.
+1	Petersburg	Petersburg	X	_	Foreign=Yes	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	31	31	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Bolshaya	Bolshaya	PROPN	_	Foreign=Yes	3	flat:foreign	_	_
+6	Morskaya	Morskaya	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+7	st	st	X	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	St	St	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Petersburg, 190000, Russan Federaton; mal.com 1 Федеральный конституционный закон от 21 марта 2014 г.
+1	Petersburg	Petersburg	NOUN	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	190000	190000	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Russan	Russan	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+6	Federaton	Federaton	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+7	;	;	PUNCT	_	_	1	punct	_	_
+8	mal.com	mal.com	X	_	Foreign=Yes	1	flat:foreign	_	_
+9	1	1	NUM	_	_	1	nummod	_	_
+10	Федеральный	федеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+11	конституционный	конституционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+13	от	от	ADP	_	_	14	case	_	_
+14	21	21	NUM	_	_	12	nummod	_	_
+15	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	flat	_	_
+16	2014	2014	NUM	_	_	17	nummod	_	_
+17	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = № 6-ФКЗ "О принятии в Российскую Федерацию Республики Крым и образовании в составе Российской Федерации новых субъектов Республики Крым и города федерального значения Севастополя" // СЗ РФ.
+1	№	№	SYM	_	_	0	root	_	_
+2	6-ФКЗ	6-ФКЗ	PROPN	_	_	1	appos	_	_
+3	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	5	case	_	_
+5	принятии	принятие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	appos	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	Российскую	российский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	Федерацию	Федерация	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	_
+9	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	appos	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	образовании	образование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	conj	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	_
+15	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+17	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	appos	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	города	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	conj	_	_
+23	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	29	punct	_	_
+27	/	/	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	/	/	PUNCT	_	_	29	punct	_	_
+29	СЗ	СЗ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	parataxis	_	_
+30	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 13
+# text = 2014.
+1	2014	2014	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 14
+# text = № 12.
+1	№	№	SYM	_	_	0	root	_	_
+2	12	12	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Ст. 1201.
+1	Ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	1201	1201	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 16
+# text = Республика Крым и город федерального значения Севастополь были приняты в состав Российской Федерации в соответствии с Конституцией РФ и ст.
+1	Республика	Республика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+2	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	город	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+5	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	приняты	принять	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+12	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	в	в	ADP	_	_	17	case	_	_
+15	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	fixed	_	_
+16	с	с	ADP	_	_	14	fixed	_	_
+17	Конституцией	Конституция	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	9	obl	_	_
+18	РФ	РФ	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	ст	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 17
+# text = 4 Федерального конституционного закона от 17 декабря 2001 г.
+1	4	4	NUM	_	_	4	nummod	_	_
+2	Федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	конституционного	конституционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	закона	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	17	17	NUM	_	_	4	nummod	_	_
+7	декабря	декабрь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	flat	_	_
+8	2001	2001	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 18
+# text = № 6-ФКЗ "О порядке принятия в РФ и образования в ее составе нового субъекта РФ".2 Расширение собственных границ ставит перед государством ряд вопросов, решение которых требуется найти в достаточно сжатые сроки.
+1	№	№	SYM	_	_	22	obj	_	_
+2	6-ФКЗ	6-ФКЗ	PROPN	_	_	1	appos	_	_
+3	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	О	о	ADP	_	_	5	case	_	_
+5	порядке	порядок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	appos	_	_
+6	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	РФ	РФ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	ее	ее	DET	_	_	13	det	_	_
+13	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+14	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	субъекта	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+18	.2	.2	NUM	_	_	19	nummod	_	_
+19	Расширение	расширение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+20	собственных	собственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	_
+22	ставит	ставить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+23	перед	перед	ADP	_	_	24	case	_	_
+24	государством	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+25	ряд	ряд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+26	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	_
+29	которых	который	PRON	_	Case=Gen	28	nmod	_	_
+30	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	acl:relcl	_	_
+31	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	30	xcomp	_	_
+32	в	в	ADP	_	_	35	case	_	_
+33	достаточно	достаточно	ADV	_	Degree=Pos	34	advmod	_	_
+34	сжатые	сжать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	35	acl	_	_
+35	сроки	срок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	31	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 19
+# text = Согласно ст.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 20
+# text = 6 Договора со дня принятия в РФ Республики Крым и образования в составе РФ новых субъектов и до 1 января 2015 г. действует переходный период, в течение которого урегулируются вопросы интеграции новых субъектов РФ в экономическую, финансовую, кредитную и правовую системы РФ, в систему органов государственной власти РФ, а также вопросы исполнения воинской обязанности и несения военной службы на территориях Республики Крым и города федерального значения Севастополя.
+1	6	6	NUM	_	_	2	nummod	_	_
+2	Договора	договор	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nsubj	_	_
+3	со	с	ADP	_	_	4	case	_	_
+4	дня	день	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	РФ	РФ	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	appos	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	conj	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	составе	состав	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	_
+14	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	до	до	ADP	_	_	19	case	_	_
+19	1	1	NUM	_	_	13	conj	_	_
+20	января	январь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	flat	_	_
+21	2015	2015	NUM	_	_	22	nummod	_	_
+22	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	19	punct	_	_
+24	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+25	переходный	переходный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	31	punct	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	fixed	_	_
+30	которого	который	PRON	_	Case=Gen	31	obl	_	_
+31	урегулируются	урегулировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	26	acl:relcl	_	_
+32	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	31	nsubj:pass	_	_
+33	интеграции	интеграция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	субъектов	субъект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+36	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+37	в	в	ADP	_	_	45	case	_	_
+38	экономическую	экономический	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	45	amod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	финансовую	финансовый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	38	conj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	кредитную	кредитный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	38	conj	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	правовую	правовой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	38	conj	_	_
+45	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	33	nmod	_	_
+46	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	49	punct	_	_
+48	в	в	ADP	_	_	49	case	_	_
+49	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	45	conj	_	_
+50	органов	орган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	49	nmod	_	_
+51	государственной	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	_
+52	власти	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	_
+53	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	57	punct	_	_
+55	а	а	CCONJ	_	_	57	cc	_	_
+56	также	также	PART	_	_	55	fixed	_	_
+57	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	49	conj	_	_
+58	исполнения	исполнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	57	nmod	_	_
+59	воинской	воинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	60	amod	_	_
+60	обязанности	обязанность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	_
+61	и	и	CCONJ	_	_	62	cc	_	_
+62	несения	несение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	60	conj	_	_
+63	военной	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	64	amod	_	_
+64	службы	служба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	62	nmod	_	_
+65	на	на	ADP	_	_	66	case	_	_
+66	территориях	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	62	nmod	_	_
+67	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	66	nmod	_	_
+68	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	67	appos	_	_
+69	и	и	CCONJ	_	_	70	cc	_	_
+70	города	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	67	conj	_	_
+71	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	72	amod	_	_
+72	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	70	nmod	_	_
+73	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	72	nmod	_	SpaceAfter=No
+74	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 21
+# text = Все указанные вопросы весьма многогранны ввиду значительно усложненного за последние годы законодательства, регулирующего нормативно-правовые взаимоотношения, как в России, так и на Украине.
+1	Все	все	DET	_	Case=Nom|Number=Plur	3	det	_	_
+2	указанные	указать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+4	весьма	весьма	ADV	_	Degree=Pos	5	obl	_	_
+5	многогранны	многогранный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+6	ввиду	ввид	ADP	_	_	12	case	_	_
+7	значительно	значительно	ADV	_	Degree=Pos	8	advmod	_	_
+8	усложненного	усложнить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+9	за	за	ADP	_	_	11	case	_	_
+10	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obl	_	_
+12	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	регулирующего	регулировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+15	нормативно	нормативный	ADJ	_	Degree=Pos	17	compound	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	правовые	правовой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	amod	_	_
+18	взаимоотношения	взаимоотношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	как	как	SCONJ	_	_	22	mark	_	_
+21	в	в	ADP	_	_	22	case	_	_
+22	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	так	так	ADV	_	Degree=Pos	27	cc	_	_
+25	и	и	PART	_	_	24	fixed	_	_
+26	на	на	ADP	_	_	27	case	_	_
+27	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 22
+# text = Отдельной темой для обсуждения является вопрос правового статуса и охраны интеллектуальной собственности.
+1	Отдельной	отдельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	темой	тема	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	obl	_	_
+3	для	для	ADP	_	_	4	case	_	_
+4	обсуждения	обсуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	статуса	статус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+11	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 23
+# text = В соответствии с существующими на настоящий момент нормами имеется так называемый территориальный принцип действия прав на объекты интеллектуальной собственности, согласно которому права на средства индивидуализации и патенты возникают в соответствии с законодательством государства, принявшего их к регистрации.3 Действие и защита права на интеллектуальную собственность локализованы исключительно в территориальных границах данного государства.
+1	В	в	ADP	_	_	8	case	_	_
+2	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	с	с	ADP	_	_	1	fixed	_	_
+4	существующими	существовать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+5	на	на	ADP	_	_	7	case	_	_
+6	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+8	нормами	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	9	obl	_	_
+9	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	так	так	ADV	_	Degree=Pos	11	advmod	_	_
+11	называемый	называть	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	13	acl	_	_
+12	территориальный	территориальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	принцип	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	47	obj	_	_
+14	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	nmod	_	_
+18	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	29	punct	_	_
+21	согласно	согласно	ADP	_	_	22	case	_	_
+22	которому	который	PRON	_	Case=Dat	29	obl	_	_
+23	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	29	obj	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	средства	средство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	23	nmod	_	_
+26	индивидуализации	индивидуализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	патенты	патент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	conj	_	_
+29	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+30	в	в	ADP	_	_	33	case	_	_
+31	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	fixed	_	_
+32	с	с	ADP	_	_	30	fixed	_	_
+33	законодательством	законодательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	29	obl	_	_
+34	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	принявшего	принять	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	33	acl	_	_
+37	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	39	nmod	_	_
+38	к	к	ADP	_	_	39	case	_	_
+39	регистрации.3	регистрации.3	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	36	obl	_	_
+40	Действие	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+41	и	и	CCONJ	_	_	42	cc	_	_
+42	защита	защита	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	40	conj	_	_
+43	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	_
+44	на	на	ADP	_	_	46	case	_	_
+45	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	46	amod	_	_
+46	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	43	nmod	_	_
+47	локализованы	локализовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	csubj	_	_
+48	исключительно	исключительно	ADV	_	Degree=Pos	51	obl	_	_
+49	в	в	ADP	_	_	51	case	_	_
+50	территориальных	территориальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	51	amod	_	_
+51	границах	граница	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	47	obl	_	_
+52	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	53	amod	_	_
+53	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	51	nmod	_	SpaceAfter=No
+54	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 24
+# text = Это положение подтверждается, например, в ст. 1479 ГК РФ и ст. 432 ГК Украины.
+1	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	подтверждается	подтверждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	например	например	ADV	_	Degree=Pos	3	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	11	punct	_	_
+10	1479	1479	NUM	_	_	11	nummod	_	_
+11	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+12	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+16	432	432	NUM	_	_	14	nummod	_	_
+17	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	_
+18	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 25
+# text = После вхождения в состав Российской Федерации Республики Крым в формальном плане прекращают свое действие ранее зарегистрированные в Госпатенте Украины изобретения, полезные модели, промышленные образцы, а также свидетельства на знаки для товаров и услуг и вступают в силу действующие на территории РФ права на интеллектуальную собственность.
+1	После	после	ADP	_	_	2	case	_	_
+2	вхождения	вхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	obl	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	состав	состав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	формальном	формальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	_
+12	прекращают	прекращать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	14	det	_	_
+14	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+15	ранее	ранее	ADV	_	Degree=Pos	16	advmod	_	_
+16	зарегистрированные	регистрировать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	Госпатенте	Госпатент	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+19	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	полезные	полезный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	модели	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	промышленные	промышленный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	26	amod	_	_
+26	образцы	образец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	20	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	а	а	CCONJ	_	_	30	cc	_	_
+29	также	также	PART	_	_	28	fixed	_	_
+30	свидетельства	свидетельство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	20	conj	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	знаки	знак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	30	nmod	_	_
+33	для	для	ADP	_	_	34	case	_	_
+34	товаров	товар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	услуг	услуга	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	34	conj	_	_
+37	и	и	CCONJ	_	_	38	cc	_	_
+38	вступают	вступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	conj	_	_
+39	в	в	ADP	_	_	40	case	_	_
+40	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	38	obl	_	_
+41	действующие	действовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	45	acl	_	_
+42	на	на	ADP	_	_	43	case	_	_
+43	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	41	obl	_	_
+44	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	nmod	_	_
+45	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+46	на	на	ADP	_	_	48	case	_	_
+47	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	48	amod	_	_
+48	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 26
+# text = В сложившейся ситуации крымские правообладатели не могут пользоваться правовой охраной товарных знаков и патентов, поскольку она распространяется исключительно на территории Украины.
+1	В	в	ADP	_	_	3	case	_	_
+2	сложившейся	сложиться	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	amod	_	_
+3	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+4	крымские	крымский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	правообладатели	правообладатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	пользоваться	пользоваться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	7	xcomp	_	_
+9	правовой	правовой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	охраной	охрана	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+11	товарных	товарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	патентов	патент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	поскольку	поскольку	SCONJ	_	_	18	mark	_	_
+17	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	nsubj	_	_
+18	распространяется	распространяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	advcl	_	_
+19	исключительно	исключительно	ADV	_	Degree=Pos	21	obl	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	18	obl	_	_
+22	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 27
+# text = При этом следует учитывать и возможные нарушения товарных знаков и патентов, зарегистрированных на территории РФ.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	учитывать	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
+5	и	и	PART	_	_	6	advmod	_	_
+6	возможные	возможный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+8	товарных	товарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	патентов	патент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	зарегистрированных	регистрировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+16	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 28
+# text = При регистрации патента на изобретение оценивается в первую очередь его новизна на уровне мировой значимости.
+1	При	при	ADP	_	_	2	case	_	_
+2	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+3	патента	патент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	изобретение	изобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+6	оценивается	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	в	в	ADP	_	_	11	discourse	_	_
+8	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	fixed	_	_
+9	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	fixed	_	_
+10	его	его	DET	_	_	11	det	_	_
+11	новизна	новизн	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+14	мировой	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	значимости	значимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 29
+# text = К тому же уровень изобретательской активности в Автономной Республике Крым достаточно низок, что отражается в приведенной на рис.
+1	К	к	ADP	_	_	2	case	_	_
+2	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	parataxis	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	уровень	уровень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+5	изобретательской	изобретательский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	активности	активность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	Автономной	автономный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+10	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	appos	_	_
+11	достаточно	достаточно	ADV	_	Degree=Pos	12	obl	_	_
+12	низок	низкий	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	что	что	PRON	_	Case=Nom	15	nsubj	_	_
+15	отражается	отражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	parataxis	_	_
+16	в	в	ADP	_	_	17	mark	_	_
+17	приведенной	приведеть	VERB	_	Aspect=Perf|Case=Loc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	xcomp	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	рис	рис	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 30
+# text = 1 статистике.
+1	1	1	NUM	_	_	2	nummod	_	_
+2	статистике	статистика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 31
+# text = 4 Для сравнения: в Российской Федерации в 2013 г. поступили 44 914 заявок на изобретение и 14 358 заявок на полезную модель.5 Сравнивая данные цифры, логично предположить ничтожную вероятность реализации 2
+1	4	4	NUM	_	_	3	nummod	_	_
+2	Для	для	ADP	_	_	3	case	_	_
+3	сравнения	сравнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	2013	2013	NUM	_	_	10	nummod	_	_
+10	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+11	поступили	поступить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	28	csubj	_	_
+12	44	44	NUM	_	_	14	nummod	_	_
+13	914	914	NUM	_	_	12	nummod	_	_
+14	заявок	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nsubj	_	_
+15	на	на	ADP	_	_	16	case	_	_
+16	изобретение	изобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	nmod	_	_
+17	и	и	CCONJ	_	_	20	cc	_	_
+18	14	14	NUM	_	_	20	nummod	_	_
+19	358	358	NUM	_	_	20	nummod	_	_
+20	заявок	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	conj	_	_
+21	на	на	ADP	_	_	23	case	_	_
+22	полезную	полезный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	модель.5	модель.5	NOUN	_	_	20	nmod	_	_
+24	Сравнивая	сравнивать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	28	advcl	_	_
+25	данные	данные	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	26	amod	_	_
+26	цифры	цифра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	24	obj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	24	punct	_	_
+28	логично	логично	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	3	parataxis	_	_
+29	предположить	предположить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	28	xcomp	_	_
+30	ничтожную	ничтожный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+32	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+33	2	2	NUM	_	_	28	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = СЗ РФ.
+1	СЗ	Сз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = 2001. № 52 (ч. 1).
+1	2001	2001	NUM	_	_	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	№	№	SYM	_	_	0	root	_	_
+4	52	52	NUM	_	_	3	nummod	_	_
+5	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	ч.	ч.	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	1	1	NUM	_	_	3	nummod	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 34
+# text = Ст. 4916.
+1	Ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	4916	4916	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 35
+# text = Сергунина Т. В. Граница для патента // www.rg.ru/2014/04/15/patent.html (дата обращения: 01.05.2014).
+1	Сергунина	Сергунин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Т.	Т.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	_
+4	Граница	граница	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+5	для	для	ADP	_	_	6	case	_	_
+6	патента	патент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	_	_	6	punct	_	_
+9	www.rg.ru/2014/04/15/patent.html	www.rg.ru/2014/04/15/patent.html	X	_	Foreign=Yes	6	flat:foreign	_	_
+10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	_
+12	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+14	01.05.2014	01.05.2014	X	_	Foreign=Yes	12	parataxis	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = 4 Промислова власнсть у цифрах.
+1	4	4	NUM	_	_	2	nummod	_	_
+2	Промислова	Промислов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	власнсть	власнсть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	у	у	ADP	_	_	5	case	_	_
+5	цифрах	цифра	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = Показники дяльност Державної служби нтелек туальної власност України та Державного пдприємства "Український інститут промислової власності" за I квартал 2014 року.
+1	Показники	Показник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
+2	дяльност	дяльност	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+3	Державної	Державної	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	служби	служба	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	нтелек	нтелекий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	туальної	туальної	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	власност	власност	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+8	України	України	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+9	та	тот	DET	_	Case=Nom|Gender=Fem|Number=Sing	11	det	_	_
+10	Державного	державный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	пдприємства	пдприємство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	obl	_	_
+12	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	Український	Український	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	інститут	інститут	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	appos	_	_
+15	промислової	промислової	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	власності	власності	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	19	punct	_	_
+18	за	за	ADP	_	_	19	case	_	_
+19	I	i	NUM	_	_	16	nummod	_	_
+20	квартал	квартал	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+21	2014	2014	NUM	_	_	22	nummod	_	_
+22	року	рок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	20	iobj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 38
+# text = Київ, 2014.
+1	Київ	Київ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2014	2014	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = 51 с. (www.upv.org/_upload/fle/prom-vlas-2014-1.pdf).
+1	51	51	NUM	_	_	2	nummod	_	_
+2	с	секунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	www.upv.org/_upload/fle/prom-vlas-2014-1.pdf	www.upv.org/_upload/fle/prom-vlas-2014-1.pdf	X	_	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = 5 Изобретательская активность в регионах России в 2013 г. // Федеральный институт промышленной собственности : www.fps.ru/stedocs/a_z_akt_2013.pdf (дата обращения: 01.05.2014).
+1	5	5	NUM	_	_	3	nummod	_	_
+2	Изобретательская	Изобретательский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	активность	активность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	nmod	_	_
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	2013	2013	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+10	/	/	PUNCT	_	_	13	punct	_	SpaceAfter=No
+11	/	/	PUNCT	_	_	13	punct	_	_
+12	Федеральный	федеральный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	институт	институт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+14	промышленной	промышленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	:	:	PUNCT	_	_	13	punct	_	_
+17	www.fps.ru/stedocs/a_z_akt_2013.pdf	www.fps.ru/stedocs/a_z_akt_2013.pdf	X	_	Foreign=Yes	13	parataxis	_	_
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	parataxis	_	_
+20	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	20	punct	_	_
+22	01.05.2014	01.05.2014	X	_	Foreign=Yes	20	parataxis	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 41
+# text = 3
+1	3	3	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = сценария, связанного с нарушением прав пользования объектами промышленной собственности в случае присоединения новых территорий и изменения государственных границ.
+1	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	связанного	связать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	пользования	пользование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	объектами	объект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	3	obl	_	_
+9	промышленной	промышленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+13	присоединения	присоединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	территорий	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	изменения	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	conj	_	_
+18	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = Рисунок 1.
+1	Рисунок	рисунок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = Поступление заявок на изобретения и полезные модели в течение I квартала 2010–2014 гг. по Украине в целом и Автономной Республике Крым (включая Севастополь) в частности
+1	Поступление	поступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	заявок	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	nmod	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	полезные	полезный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	модели	модель	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+8	в	в	ADP	_	_	11	case	_	_
+9	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	fixed	_	_
+10	I	i	NUM	_	_	11	nummod	_	_
+11	квартала	квартал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+12	2010	2010	NUM	_	_	15	nummod	_	SpaceAfter=No
+13	–	–	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	2014	2014	NUM	_	_	12	nummod	_	_
+15	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
+16	по	по	ADP	_	_	17	case	_	_
+17	Украине	Украина	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	_
+20	и	и	CCONJ	_	_	22	cc	_	_
+21	Автономной	автономный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	Республике	Республика	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	conj	_	_
+23	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nmod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	включая	включать	ADV	_	Degree=Pos	23	parataxis	_	_
+26	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	flat:name	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	25	punct	_	_
+28	в	в	ADP	_	_	23	case	_	_
+29	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	28	fixed	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = Значительно сложнее дело обстоит с товарными знаками и знаками обслуживания.
+1	Значительно	значительно	ADV	_	Degree=Pos	2	advmod	_	_
+2	сложнее	сложный	ADJ	_	Degree=Cmp	0	root	_	_
+3	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	обстоит	обстоять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
+5	с	с	ADP	_	_	7	case	_	_
+6	товарными	товарный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	знаками	знак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	знаками	знак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	conj	_	_
+10	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 46
+# text = Ранее в истории взаимоотношений коммерческих предприятий России и Украины уже имелись инциденты, связанные с нарушением прав на товарные знаки.6 Большинство нарушений связано с использованием товарного знака, сходного до степени смешения с товарным знаком одного из лидеров рынка.
+1	Ранее	ранее	ADV	_	Degree=Pos	3	obl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+4	взаимоотношений	взаимоотношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	_
+5	коммерческих	коммерческий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	предприятий	предприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	_
+10	уже	уже	ADV	_	Degree=Pos	11	advmod	_	_
+11	имелись	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	инциденты	инцидент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	23	nsubj:pass	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	связанные	связать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	с	с	ADP	_	_	16	case	_	_
+16	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+17	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	_
+18	на	на	ADP	_	_	20	case	_	_
+19	товарные	товарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	знаки.6	знаки.6	NOUN	_	_	16	nmod	_	_
+21	Большинство	большинство	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	amod	_	_
+22	нарушений	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
+23	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	11	csubj	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	23	obl	_	_
+26	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	сходного	сходный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+30	до	до	ADP	_	_	31	case	_	_
+31	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	obl	_	_
+32	смешения	смешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	_
+33	с	с	ADP	_	_	35	case	_	_
+34	товарным	товарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	_
+35	знаком	знак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	32	nmod	_	_
+36	одного	один	NUM	_	Case=Gen|Gender=Masc	35	nummod	_	_
+37	из	из	ADP	_	_	38	case	_	_
+38	лидеров	лидер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
+39	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 47
+# text = Разумеется, все спорные ситуации, доходившие до вынесения судебных решений, влекли за собой потерю той или иной компанией значительной доли рынка, порой оцениваемой в десятки миллионов долларов.
+1	Разумеется	разумеется	ADV	_	Degree=Pos	13	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	все	весь	DET	_	Case=Nom|Number=Plur	5	det	_	_
+4	спорные	спорный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	доходившие	доходить	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+8	до	до	ADP	_	_	9	case	_	_
+9	вынесения	вынесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	obl	_	_
+10	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	7	punct	_	_
+13	влекли	влечь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	собой	себя	PRON	_	Case=Ins	13	obl	_	_
+16	потерю	потеря	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+17	той	тот	DET	_	Case=Ins|Gender=Fem|Number=Sing	20	det	_	_
+18	или	или	CCONJ	_	_	19	cc	_	_
+19	иной	иной	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	conj	_	_
+20	компанией	компания	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	nmod	_	_
+21	значительной	значительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	доли	доля	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+23	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	порой	порой	ADV	_	Degree=Pos	26	advmod	_	_
+26	оцениваемой	оценивать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	acl	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	десятки	десяток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obl	_	_
+29	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
+30	долларов	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 48
+# text = В свете присоединения Республики Крым и города федерального значения Севастополь в ближайшее время может быть выявлено значительное количество подобных разногласий, что делает данную проблему весьма актуальной.
+1	В	в	ADP	_	_	2	case	_	_
+2	свете	свет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+3	присоединения	присоединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	города	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+8	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	ближайшее	ближайший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	aux:pass	_	_
+16	выявлено	выявить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	xcomp	_	_
+17	значительное	значительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj:pass	_	_
+19	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	разногласий	разногласие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	что	что	PRON	_	Case=Nom	23	nsubj	_	_
+23	делает	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+24	данную	данный	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	amod	_	_
+25	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+26	весьма	весьма	ADV	_	Degree=Pos	27	obl	_	_
+27	актуальной	актуальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 49
+# text = Ежегодно на регистрацию товарного знака и знака обслуживания на Украине подается свыше 20 тыс.
+1	Ежегодно	ежегодно	ADV	_	Degree=Pos	11	advmod	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	регистрацию	регистрация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+4	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	conj	_	_
+8	обслуживания	обслуживание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
+11	подается	подавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+12	свыше	свыше	ADP	_	_	14	case	_	_
+13	20	20	NUM	_	_	14	nummod	_	_
+14	тыс	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nsubj:pass	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 50
+# text = (24 471 за 2013 г.),7 а в России — свыше 60 тыс. заявок (64 928 за 2013 г.).
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	24	24	NUM	_	_	0	root	_	_
+3	471	471	NUM	_	_	2	nummod	_	_
+4	за	за	ADP	_	_	6	case	_	_
+5	2013	2013	NUM	_	_	6	nummod	_	_
+6	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	),7	),7	PROPN	_	_	6	appos	_	_
+9	а	а	CCONJ	_	_	11	cc	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	conj	_	_
+12	—	—	PUNCT	_	_	15	punct	_	_
+13	свыше	свыше	ADP	_	_	15	case	_	_
+14	60	60	NUM	_	_	15	nummod	_	_
+15	тыс.	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	orphan	_	_
+16	заявок	заявка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	64	64	NUM	_	_	16	nummod	_	_
+19	928	928	NUM	_	_	18	nummod	_	_
+20	за	за	ADP	_	_	22	case	_	_
+21	2013	2013	NUM	_	_	22	nummod	_	_
+22	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
+# sent_id = 51
+# text = 8 С целью поиска выхода из ситуации, когда возможно возникновение подобных спорных моментов, следует обратиться к международному историческому опыту решения подобных проблем.
+1	8	8	NUM	_	_	16	nummod	_	_
+2	С	с	ADP	_	_	3	case	_	_
+3	целью	цель	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	nmod	_	_
+4	поиска	поиск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	из	из	ADP	_	_	7	case	_	_
+7	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	когда	когда	SCONJ	_	_	10	mark	_	_
+10	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	acl:relcl	_	_
+11	возникновение	возникновение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+12	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+13	спорных	спорный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	моментов	момент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	1	punct	_	_
+16	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	обратиться	обратиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	16	csubj	_	_
+18	к	к	ADP	_	_	21	case	_	_
+19	международному	международный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+20	историческому	исторический	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	21	amod	_	_
+21	опыту	опыт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+22	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	подобных	подобный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 52
+# text = Последним крупным историческим событием, связанным с изменением государственных границ двух государств, обладающих значительным количеством объектов интеллектуальной собственности, являлось объединение ФРГ и ГДР.
+1	Последним	последний	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	крупным	крупный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+3	историческим	исторический	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	событием	событие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	связанным	связать	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	изменением	изменение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+9	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+11	двух	два	NUM	_	Case=Gen	12	nummod	_	_
+12	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	обладающих	обладать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
+15	значительным	значительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	количеством	количество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+17	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+18	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	14	punct	_	_
+21	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+22	объединение	объединение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+23	ФРГ	ФРГ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	ГДР	ГДР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 53
+# text = 6
+1	6	6	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 54
+# text = Из-за войны акционеров Nemroff пострадал российский производитель алкоголя // РБК daly.
+1	Из-за	из-за	ADP	_	_	2	case	_	_
+2	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+3	акционеров	акционер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	Nemroff	Nemroff	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+5	пострадал	страдать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	российский	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	производитель	производитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+8	алкоголя	алкоголь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	/	/	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	/	/	PUNCT	_	_	8	punct	_	_
+11	РБК	Рбк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	appos	_	_
+12	daly	daly	X	_	Foreign=Yes	11	flat:foreign	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 55
+# text = Ежедневная деловая газета : www.rbcdaly.ru/market/562949984000976.
+1	Ежедневная	ежедневный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	деловая	деловой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	газета	газета	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	www.rbcdaly.ru/market/562949984000976	www.rbcdaly.ru/market/562949984000976	X	_	Foreign=Yes	3	parataxis	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 56
+# text = 7 Державна служба нтелектуальної власност України.
+1	7	7	NUM	_	_	2	nummod	_	_
+2	Державна	Державна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	служба	служба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_
+4	нтелектуальної	нтелектуальної	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	власност	власност	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+6	України	України	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 57
+# text = Рчний звт 2013.
+1	Рчний	Рчний	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	звт	звтор	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	2013	2013	NUM	_	_	2	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 58
+# text = Київ, 2014.
+1	Київ	Київ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2014	2014	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = 62 с.
+1	62	62	NUM	_	_	0	root	_	_
+2	с	секунда	ADP	_	_	1	case	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = 8 Изобретательская активность в регионах России в 2013 г.
+1	8	8	NUM	_	_	3	nummod	_	_
+2	Изобретательская	Изобретательский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	активность	активность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	регионах	регион	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	3	nmod	_	_
+6	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	2013	2013	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = Аналогичные ситуации возникали и в случае вхождения стран восточной Европы в Евросоюз.
+1	Аналогичные	аналогичный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	возникали	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	и	и	PART	_	_	6	advmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	вхождения	вхождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+9	восточной	восточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	Евросоюз	Евросоюз	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 62
+# text = Вопросы сохранения и перехода прав на интеллектуальную собственность возникают и в случае разделения государства — последний исторический пример был связан с распадом Югославии.
+1	Вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+2	сохранения	сохранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	перехода	переход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	_
+5	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+9	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	xcomp	_	_
+10	и	и	PART	_	_	12	advmod	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+13	разделения	разделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	—	—	PUNCT	_	_	12	punct	_	_
+16	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+17	исторический	исторический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	пример	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	_
+19	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	aux:pass	_	_
+20	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+21	с	с	ADP	_	_	22	case	_	_
+22	распадом	распад	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	_
+23	Югославии	Югославия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 63
+# text = Проблема является актуальной и при создании интеллектуальной собственности группой лиц, работающих на территории различных государств.
+1	Проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	актуальной	актуальный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	obl	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	создании	создание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	conj	_	_
+7	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	группой	группа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	nmod	_	_
+10	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	работающих	работать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+15	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 64
+# text = Проведенная в странах бывшего социалистического лагеря массовая приватизация позволила перевести имущество, находящееся в собственности государства, в частную собственность, и согласно п.
+1	Проведенная	провести	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	obl	_	_
+4	бывшего	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+5	социалистического	социалистический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	лагеря	лагерь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	массовая	массовый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	приватизация	приватизация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+9	позволила	позволить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	перевести	перевести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	имущество	имущество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	находящееся	находиться	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	11	acl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	собственности	собственность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+16	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	частную	частный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	согласно	согласно	ADP	_	_	24	case	_	_
+24	п	п	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 65
+# text = 1 ст. 209 ГК РФ собственнику принадлежат права владения, пользования и распоряжения своим имуществом.
+1	1	1	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	209	209	NUM	_	_	5	nummod	_	_
+5	ГК	ГК	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	obj	_	_
+6	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	собственнику	собственник	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	_
+8	принадлежат	принадлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	права	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
+10	владения	владение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	пользования	пользование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	распоряжения	распоряжение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+15	своим	свой	DET	_	Case=Ins|Gender=Neut|Number=Sing	16	det	_	_
+16	имуществом	имущество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 66
+# text = Однако если волеизъявлению владельца материальных активов воспрепятствовать практически невозможно, то исключительное право патентообладателя имеет территориальное ограничение; иначе говоря, собственник имеет полное право изменить адрес регистрации завода в связи с изменением государственных границ, но использование принадлежащих ему патентов, ранее зарегистрированных в одной стране, в другой стране будет неправомочным.
+1	Однако	однако	ADV	_	Degree=Pos	15	advmod	_	_
+2	если	если	SCONJ	_	_	9	mark	_	_
+3	волеизъявлению	волеизъявление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	_
+4	владельца	владелец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	материальных	материальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	активов	актив	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	воспрепятствовать	препятствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	_
+8	практически	практически	ADV	_	Degree=Pos	9	obl	_	_
+9	невозможно	невозможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	15	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	то	то	SCONJ	_	_	15	mark	_	_
+12	исключительное	исключительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+14	патентообладателя	патентообладатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	территориальное	территориальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	ограничение	ограничение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	SpaceAfter=No
+18	;	;	PUNCT	_	_	15	punct	_	_
+19	иначе	иначе	ADV	_	Degree=Pos	20	advmod	_	_
+20	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	23	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	собственник	собственник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+23	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+24	полное	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	право	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+26	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	obl	_	_
+27	адрес	адрес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+28	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+29	завода	завод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	в	в	ADP	_	_	33	case	_	_
+31	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	30	fixed	_	_
+32	с	с	ADP	_	_	30	fixed	_	_
+33	изменением	изменение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	obl	_	_
+34	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	границ	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	53	punct	_	_
+37	но	но	CCONJ	_	_	53	cc	_	_
+38	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	53	nsubj	_	_
+39	принадлежащих	принадлежать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	41	acl	_	_
+40	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	39	iobj	_	_
+41	патентов	патент	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	44	punct	_	_
+43	ранее	ранее	ADV	_	Degree=Pos	44	advmod	_	_
+44	зарегистрированных	регистрировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	41	acl	_	_
+45	в	в	ADP	_	_	47	case	_	_
+46	одной	один	NUM	_	Case=Loc|Gender=Fem	47	nummod	_	_
+47	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	44	obl	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	44	punct	_	_
+49	в	в	ADP	_	_	51	case	_	_
+50	другой	другой	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	_
+51	стране	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	38	nmod	_	_
+52	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	cop	_	_
+53	неправомочным	неправомочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+54	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 67
+# text = На текущий момент на территории Республики Крым и Севастополя, вне зависимости от признания мировым сообществом присоединения Крыма, утрачена юрисдикция украинского правительства и де-факто действует защита признаваемых в России прав на интеллектуальную собственность.
+1	На	на	ADP	_	_	3	case	_	_
+2	текущий	текущий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	Севастополя	Севастополь	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	вне	вне	ADP	_	_	12	case	_	_
+12	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
+13	от	от	ADP	_	_	14	case	_	_
+14	признания	признание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	мировым	мировой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	сообществом	сообщество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	nmod	_	_
+17	присоединения	присоединение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+18	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	12	punct	_	_
+20	утрачена	утратить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+21	юрисдикция	юрисдикция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj:pass	_	_
+22	украинского	украинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	правительства	правительство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	27	cc	_	_
+25	де-	де-	PUNCT	_	_	27	punct	_	SpaceAfter=No
+26	факто	факто	PRON	_	Case=Nom	27	nsubj	_	_
+27	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	_
+28	защита	защита	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+29	признаваемых	признавать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	32	acl	_	_
+30	в	в	ADP	_	_	31	case	_	_
+31	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	obl	_	_
+32	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	_
+33	на	на	ADP	_	_	35	case	_	_
+34	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 68
+# text = Таким образом, украинские правоохранительные и таможенные органы не могут пресекать выведение на рынок Крыма продукции, нарушающей права на изобретения и товарные знаки, действующие на территории Украины, поскольку практическое исполнение судебных решений (например, арест и уничтожение выпускаемой продукции, на которую нанесен зарегистрированный в Украине товарный знак) будет невозможным ввиду отсутствия механизмов реализации судебных решений третьих стран.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	украинские	украинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+5	правоохранительные	правоохранительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	таможенные	таможенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	conj	_	_
+8	органы	орган	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	пресекать	пресекать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	выведение	выведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	рынок	рынок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+15	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	нарушающей	нарушать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	_
+19	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	obj	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	19	nmod	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	товарные	товарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+24	знаки	знак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	21	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	действующие	действовать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+27	на	на	ADP	_	_	28	case	_	_
+28	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	obl	_	_
+29	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	26	punct	_	_
+31	поскольку	поскольку	SCONJ	_	_	55	mark	_	_
+32	практическое	практический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	исполнение	исполнение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
+34	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	_
+36	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+37	например	например	ADV	_	Degree=Pos	39	parataxis	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	арест	арест	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	35	parataxis	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	уничтожение	уничтожение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	39	conj	_	_
+42	выпускаемой	выпускать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	43	amod	_	_
+43	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	на	на	ADP	_	_	46	case	_	_
+46	которую	который	PRON	_	Case=Acc	47	obl	_	_
+47	нанесен	нанести	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	43	acl:relcl	_	_
+48	зарегистрированный	регистрировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	52	acl	_	_
+49	в	в	ADP	_	_	50	case	_	_
+50	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	48	obl	_	_
+51	товарный	товарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	_
+52	знак	знак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	47	nsubj:pass	_	SpaceAfter=No
+53	)	)	PUNCT	_	_	47	punct	_	_
+54	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	55	cop	_	_
+55	невозможным	невозможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	acl	_	_
+56	ввиду	ввиду	ADP	_	_	57	case	_	_
+57	отсутствия	отсутствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	obl	_	_
+58	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	57	nmod	_	_
+59	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	nmod	_	_
+60	судебных	судебный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	61	amod	_	_
+61	решений	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	59	nmod	_	_
+62	третьих	третий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	63	amod	_	_
+63	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	61	nmod	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 69
+# text = Вместе с тем существует вероятность нарушения исключительных прав на интеллектуальную собственность, зарегистрированную на территории РФ.
+1	Вместе	вместе	ADV	_	Degree=Pos	4	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	исключительных	исключительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+9	на	на	ADP	_	_	11	case	_	_
+10	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	собственность	собственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	зарегистрированную	зарегистрировать	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+14	на	на	ADP	_	_	15	case	_	_
+15	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+16	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 70
+# text = В случае с нарушением прав на использование изобретения конфликт возможен лишь в том случае, если зарегистрированное в Российской Федерации изобретение использовалось в том или ином виде частным лицом на территории Украины в качестве ноу-хау.
+1	В	в	ADP	_	_	2	case	_	_
+2	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	нарушением	нарушение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	2	nmod	_	_
+5	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+8	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	конфликт	конфликт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	возможен	возможный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+11	лишь	лишь	PART	_	_	14	advmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	14	det	_	_
+14	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	если	если	SCONJ	_	_	17	mark	_	_
+17	зарегистрированное	регистрировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	Российской	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+21	изобретение	изобретение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj:pass	_	_
+22	использовалось	использовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	10	conj	_	_
+23	в	в	ADP	_	_	27	case	_	_
+24	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	27	det	_	_
+25	или	или	CCONJ	_	_	26	cc	_	_
+26	ином	иной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	24	conj	_	_
+27	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	obl	_	_
+28	частным	частный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	27	nmod	_	_
+30	на	на	ADP	_	_	31	case	_	_
+31	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	nmod	_	_
+32	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	_
+33	в	в	ADP	_	_	35	case	_	_
+34	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	fixed	_	_
+35	ноу-хау	ноу-хау	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	29	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 71
+# text = Регистрация патента в Украине при этом была бы невозможной ввиду необходимости наличия новизны на мировом уровне.
+1	Регистрация	регистрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+2	патента	патент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+7	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	бы	бы	AUX	_	_	9	aux	_	_
+9	невозможной	невозможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+10	ввиду	ввиду	ADP	_	_	11	case	_	_
+11	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+12	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	новизны	новизна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	на	на	ADP	_	_	16	case	_	_
+15	мировом	мировой	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 72
+# text = Таким образом, налицо нарушение прав интеллектуальной собственности, которое по формальным признакам ранее таковым не являлось.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	налицо	налицо	ADV	_	Degree=Pos	0	root	_	_
+5	нарушение	нарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+6	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	_
+7	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	_
+10	которое	который	PRON	_	Case=Nom	17	nsubj	_	_
+11	по	по	ADP	_	_	13	case	_	_
+12	формальным	формальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	13	amod	_	_
+13	признакам	признак	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	17	obl	_	_
+14	ранее	ранее	ADV	_	Degree=Pos	15	advmod	_	_
+15	таковым	таковой	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	17	iobj	_	_
+16	не	не	PART	_	_	17	advmod	_	_
+17	являлось	являться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 73
+# text = Безусловно, подобная ситуация противоречит ст. 27 Всеобщей декларации прав человека и идейному обоснованию интеллектуальной собственности.
+1	Безусловно	безусловно	ADV	_	Degree=Pos	5	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	подобная	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	противоречит	противоречить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	27	27	NUM	_	_	6	nummod	_	_
+9	Всеобщей	всеобщий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	декларации	декларация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+11	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	15	cc	_	_
+14	идейному	идейный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	обоснованию	обоснование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	conj	_	_
+16	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 74
+# text = Даже в том случае, если изобретение явилось независимым результатом интеллектуальной деятельности двух или более лиц, исключительным правом на его использование обладает тот, кто зарегистрировал его раньше, тем самым установив приоритет.
+1	Даже	даже	PART	_	_	4	advmod	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	если	если	SCONJ	_	_	8	mark	_	_
+7	изобретение	изобретение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+8	явилось	явиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	23	advcl	_	_
+9	независимым	независимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	результатом	результат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl	_	_
+11	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	двух	два	NUM	_	Case=Gen	16	nummod	_	_
+14	или	или	CCONJ	_	_	15	cc	_	_
+15	более	более	ADV	_	Degree=Cmp	13	conj	_	_
+16	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	исключительным	исключительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	правом	право	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	conj	_	_
+20	на	на	ADP	_	_	22	case	_	_
+21	его	его	DET	_	_	22	det	_	_
+22	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nmod	_	_
+23	обладает	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+24	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	31	det	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	кто	кто	PRON	_	Case=Nom	27	nsubj	_	_
+27	зарегистрировал	регистрировать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+28	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	27	obj	_	_
+29	раньше	рано	ADV	_	Degree=Cmp	27	advmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	24	punct	_	_
+31	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	33	obl	_	_
+32	самым	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+33	установив	установить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	23	advcl	_	_
+34	приоритет	приоритет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	33	obj	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 75
+# text = При вхождении в зону действия российской юрисдикции необходимо получение лицензии на использование подобного изобретения, что соответствует идее защиты интеллектуальной собственности в целом.
+1	При	при	ADP	_	_	2	case	_	_
+2	вхождении	вхождение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	зону	зона	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
+5	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+6	российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	юрисдикции	юрисдикция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+9	получение	получение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+10	лицензии	лицензия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
+13	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	что	что	PRON	_	Case=Nom	17	nsubj	_	_
+17	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+18	идее	идея	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	iobj	_	_
+19	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 76
+# text = Вероятность подобного сценария является весьма низкой, поскольку на территории Крыма отсутствуют высокотехнологические предприятия, для обеспечения 58
+1	Вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	весьма	весьма	ADV	_	Degree=Pos	6	obl	_	_
+6	низкой	низкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	поскольку	поскольку	SCONJ	_	_	12	mark	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+11	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	отсутствуют	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+13	высокотехнологические	высокотехнологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+14	предприятия	предприятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	для	для	ADP	_	_	17	case	_	_
+17	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	conj	_	_
+18	58	58	NUM	_	_	17	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 77
+# text = деятельности которых необходимо использование современных результатов интеллектуальной деятельности.
+1	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
+2	которых	который	PRON	_	Case=Gen	1	nmod	_	_
+3	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	использование	использование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+5	современных	современный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	результатов	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 78
+# text = Значительно интереснее случай нарушения прав на использование товарного знака.
+1	Значительно	значительно	ADV	_	Degree=Pos	2	advmod	_	_
+2	интереснее	интересный	ADJ	_	Degree=Cmp	0	root	_	_
+3	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	на	на	ADP	_	_	7	case	_	_
+7	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+8	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 79
+# text = Регистрация товарного знака на Украине в отличие от Российской Федерации является обязательным условием для создания сайта в доменной зоне "ua".
+1	Регистрация	регистрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+2	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	_
+6	в	в	ADP	_	_	10	case	_	_
+7	отличие	отличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	fixed	_	_
+8	от	от	ADP	_	_	6	fixed	_	_
+9	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+11	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	обязательным	обязательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	условием	условие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+14	для	для	ADP	_	_	15	case	_	_
+15	создания	создание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	сайта	сайт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	доменной	доменный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	зоне	зона	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	_
+20	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	ua	ua	X	_	Foreign=Yes	19	appos	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 80
+# text = Наличие Свидетельства о регистрации товарного знака (торговой марки) позволяет создать сайт в соответствии со словесной частью торговой марки (например, Свидетельство о регистрации ТМ "Фиаско" дает возможность регистрации доменных имен fasco.ua и fasko.ua).
+1	Наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+2	Свидетельства	свидетельство	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	о	о	ADP	_	_	4	case	_	_
+4	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+5	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	торговой	торговый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	марки	марка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	9	punct	_	_
+11	позволяет	позволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	_
+12	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	сайт	сайт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+14	в	в	ADP	_	_	18	case	_	_
+15	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	fixed	_	_
+16	со	с	ADP	_	_	14	fixed	_	_
+17	словесной	словесный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	_
+19	торговой	торговый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	марки	марка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+21	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+22	например	например	ADV	_	Degree=Pos	24	parataxis	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	Свидетельство	свидетельство	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	parataxis	_	_
+25	о	о	ADP	_	_	26	case	_	_
+26	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	nmod	_	_
+27	ТМ	ТМ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+28	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+29	Фиаско	Фиаско	ADV	_	Degree=Pos	24	advmod	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	24	punct	_	_
+31	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+32	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+33	регистрации	регистрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	доменных	доменный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
+35	имен	имя	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	_
+36	fasco.ua	fasco.ua	X	_	Foreign=Yes	35	flat:foreign	_	_
+37	и	и	CCONJ	_	_	35	cc	_	_
+38	fasko.ua	fasko.ua	X	_	Foreign=Yes	35	flat:foreign	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	31	punct	_	_
+
+# sent_id = 81
+# text = В России подобное ограничение отсутствует, что значительно уменьшает число зарегистрированных товарных знаков и повышает вероятность наличия конфликтной ситуации, связанной с неправомерным использованием данного права.
+1	В	в	ADP	_	_	2	case	_	_
+2	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+3	подобное	подобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	ограничение	ограничение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	что	что	SCONJ	_	_	9	mark	_	_
+8	значительно	значительно	ADV	_	Degree=Pos	9	advmod	_	_
+9	уменьшает	уменьшить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+10	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+11	зарегистрированных	регистрировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+12	товарных	товарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	знаков	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	повышает	повышать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+16	вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+17	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	конфликтной	конфликтный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	связанной	связать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	с	с	ADP	_	_	24	case	_	_
+23	неправомерным	неправомерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	использованием	использование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	obl	_	_
+25	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 82
+# text = Таким образом, наиболее вероятным является сценарий, при котором на территории Крыма используется товарный знак, ранее зарегистрированный в Украине и схожий до степени смешения с товарным знаком, зарегистрированным на территории РФ.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	наиболее	наиболее	ADV	_	Degree=Pos	5	obl	_	_
+5	вероятным	вероятный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	obl	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	сценарий	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	при	при	ADP	_	_	10	case	_	_
+10	котором	который	PRON	_	Case=Loc	14	obl	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
+13	Крыма	Крым	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	используется	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	_
+15	товарный	товарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	знак	знак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj:pass	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	ранее	ранее	ADV	_	Degree=Pos	19	advmod	_	_
+19	зарегистрированный	регистрировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	obl	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	схожий	схожий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	conj	_	_
+24	до	до	ADP	_	_	25	case	_	_
+25	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	obl	_	_
+26	смешения	смешение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	с	с	ADP	_	_	29	case	_	_
+28	товарным	товарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	_
+29	знаком	знак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	зарегистрированным	регистрировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	acl	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	obl	_	_
+34	РФ	РФ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 83
+# text = Подобные ситуации имели место при объединении ФРГ и ГДР, когда на обеих частях сохранялись территориальные принципы действия прав на использование товарного знака.
+1	Подобные	подобный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	имели	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	объединении	объединение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+7	ФРГ	ФРГ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	ГДР	ГДР	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	когда	когда	SCONJ	_	_	15	mark	_	_
+12	на	на	ADP	_	_	14	case	_	_
+13	обеих	оба	NUM	_	Case=Gen|Gender=Fem	14	nummod	_	_
+14	частях	часть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	obl	_	_
+15	сохранялись	сохраняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	acl	_	_
+16	территориальные	территориальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+18	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	nmod	_	_
+22	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 84
+# text = Для реализации подобного сценария Республике Крым и городу федерального значения Севастополь необходимо предоставить суверенитет, подобный тому, который имеют независимые страны — участники Таможенного Союза — Беларусь и Казахстан.9 В указанных странах действуют отдельные системы охраны интеллектуальной собственности, но отсутствуют таможенные барьеры.
+1	Для	для	ADP	_	_	2	case	_	_
+2	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	obl	_	_
+3	подобного	подобный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Республике	Республика	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Крым	Крым	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	городу	город	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	conj	_	_
+9	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+12	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+13	предоставить	предоставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	csubj	_	_
+14	суверенитет	суверенитет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	подобный	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+17	тому	тот	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	16	iobj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	который	который	PRON	_	Case=Acc	20	obj	_	_
+20	имеют	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+21	независимые	независимый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	страны	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	_
+23	—	—	PUNCT	_	_	24	punct	_	_
+24	участники	участник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	conj	_	_
+25	Таможенного	таможенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	Союза	Союз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
+27	—	—	PUNCT	_	_	34	punct	_	_
+28	Беларусь	Беларусь	PROPN	_	_	34	obl	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	Казахстан.9	Казахстан.9	NUM	_	_	28	conj	_	_
+31	В	в	ADP	_	_	33	case	_	_
+32	указанных	указать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	amod	_	_
+33	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	34	obl	_	_
+34	действуют	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
+35	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	_
+36	системы	система	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	34	nsubj	_	_
+37	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	42	punct	_	_
+41	но	но	CCONJ	_	_	42	cc	_	_
+42	отсутствуют	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+43	таможенные	таможенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	44	amod	_	_
+44	барьеры	барьер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	42	nsubj	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 85
+# text = Ситуация может усугубиться негативным влиянием сложной экономической ситуации на Украине, в результате которой многие крымские компании могут потерять значительную долю рынка сбыта продукции и встанут перед необходимостью выхода на новые рынки.
+1	Ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	усугубиться	усугубить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	_
+4	негативным	негативный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+6	сложной	сложный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	Украине	Украина	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
+14	которой	который	PRON	_	Case=Gen	13	nmod	_	_
+15	многие	много	NUM	_	_	17	amod	_	_
+16	крымские	крымский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	17	amod	_	_
+17	компании	компания	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
+18	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+19	потерять	терять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	значительную	значительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	долю	доля	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+22	рынка	рынок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	сбыта	сбыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	продукции	продукция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	встанут	встать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	18	conj	_	_
+27	перед	перед	ADP	_	_	28	case	_	_
+28	необходимостью	необходимость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	_
+29	выхода	выход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	на	на	ADP	_	_	32	case	_	_
+31	новые	новый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	_
+32	рынки	рынок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 86
+# text = В данном случае опять же налицо будет нарушение прав интеллектуальной собственности, связанное с недобросовестной конкуренцией, и попрание основ института защиты интеллектуальной собственности.
+1	В	в	ADP	_	_	3	case	_	_
+2	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+4	опять	опять	ADV	_	Degree=Pos	6	advmod	_	_
+5	же	же	PART	_	_	4	advmod	_	_
+6	налицо	налицо	ADV	_	Degree=Pos	0	root	_	_
+7	будет	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	_
+8	нарушение	нарушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+9	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	связанное	связать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
+14	с	с	ADP	_	_	16	case	_	_
+15	недобросовестной	недобросовестный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	конкуренцией	конкуренция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	попрание	попрание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	conj	_	_
+20	основ	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	_
+21	института	институт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 87
+# text = Это связано в первую очередь с невозможностью наделения Республики Крым и города федерального значения Севастополь суверенитетом в отношении системы охраны интеллектуальной собственности: товары, выпускаемые на данной территории, будут продаваться не только по месту выпуска, но и по всей России в целом, что, безусловно, может привести к нарушению прав на использование товарного знака.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	в	в	ADP	_	_	7	discourse	_	_
+4	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	fixed	_	_
+5	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	fixed	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	невозможностью	невозможность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+8	наделения	наделение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	Республики	Республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	appos	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	conj	_	_
+13	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+16	суверенитетом	суверенитет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	fixed	_	_
+19	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+20	охраны	охрана	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	интеллектуальной	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+23	:	:	PUNCT	_	_	16	punct	_	_
+24	товары	товар	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	32	nsubj:pass	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	выпускаемые	выпускать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+27	на	на	ADP	_	_	29	case	_	_
+28	данной	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	26	punct	_	_
+31	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	aux:pass	_	_
+32	продаваться	продавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	16	parataxis	_	_
+33	не	не	PART	_	_	34	advmod	_	_
+34	только	только	PART	_	_	36	advmod	_	_
+35	по	по	ADP	_	_	36	case	_	_
+36	месту	место	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	obl	_	_
+37	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	43	punct	_	_
+39	но	но	CCONJ	_	_	43	cc	_	_
+40	и	и	PART	_	_	39	advmod	_	_
+41	по	по	ADP	_	_	43	case	_	_
+42	всей	весь	DET	_	Case=Dat|Gender=Fem|Number=Sing	43	det	_	_
+43	России	Россия	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	32	conj	_	_
+44	в	в	ADP	_	_	45	case	_	_
+45	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	43	nmod	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	51	punct	_	_
+47	что	что	SCONJ	_	_	51	mark	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	_
+49	безусловно	безусловно	ADV	_	Degree=Pos	51	parataxis	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	49	punct	_	_
+51	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	acl	_	_
+52	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	51	xcomp	_	_
+53	к	к	ADP	_	_	54	case	_	_
+54	нарушению	нарушение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	52	obl	_	_
+55	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	54	nmod	_	_
+56	на	на	ADP	_	_	57	case	_	_
+57	использование	использование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	55	nmod	_	_
+58	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	59	amod	_	_
+59	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	57	nmod	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 88
+# text = Единственным вариантом в данном случае является перерегистрация товарного знака.
+1	Единственным	единственный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	вариантом	вариант	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	перерегистрация	перерегистрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+8	товарного	товарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	знака	знак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 89
+# text = На момент написания статьи Роспатентом инициирована перерегистрация, в ходе которой физические и юридические лица, постоянно проживающие или имеющие место нахождения на территории Республики Крым или города федерального значения Севастополь, являющиеся обладателями исключительных прав на объекты промышленной собственности, удостоверенных соответствующими охранными документами Украины, действовавшими по состоянию на 18 марта 2014 г., вправе 9
+1	На	на	ADP	_	_	2	case	_	_
+2	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+3	написания	написание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	Роспатентом	Роспатент	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+6	инициирована	инициировать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	перерегистрация	перерегистрация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	57	punct	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	fixed	_	_
+11	которой	который	PRON	_	Case=Gen	57	obl	_	_
+12	физические	физический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	юридические	юридический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	conj	_	_
+15	лица	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	57	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	постоянно	постоянно	ADV	_	Degree=Pos	18	advmod	_	_
+18	проживающие	проживать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	_
+19	или	или	CCONJ	_	_	20	cc	_	_
+20	имеющие	иметь	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	conj	_	_
+21	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	нахождения	нахождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+25	Республики	республика	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	appos	_	_
+26	Крым	Крым	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	appos	_	_
+27	или	или	CCONJ	_	_	28	cc	_	_
+28	города	город	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	25	conj	_	_
+29	федерального	федеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+31	Севастополь	Севастополь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	являющиеся	являться	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	31	acl	_	_
+34	обладателями	обладатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	33	obl	_	_
+35	исключительных	исключительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	прав	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+37	на	на	ADP	_	_	38	case	_	_
+38	объекты	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	34	nmod	_	_
+39	промышленной	промышленный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	собственности	собственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	удостоверенных	удостоверить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	40	acl	_	_
+43	соответствующими	соответствующий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	45	amod	_	_
+44	охранными	охранный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	45	amod	_	_
+45	документами	документ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	42	obl	_	_
+46	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	действовавшими	действовать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	46	acl	_	_
+49	по	по	ADP	_	_	50	case	_	_
+50	состоянию	состояние	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	48	obl	_	_
+51	на	на	ADP	_	_	52	case	_	_
+52	18	18	NUM	_	_	50	nummod	_	_
+53	марта	март	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	52	flat	_	_
+54	2014	2014	NUM	_	_	55	nummod	_	_
+55	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	48	punct	_	_
+57	вправе	вправе	ADV	_	Degree=Pos	7	acl:relcl	_	_
+58	9	9	NUM	_	_	6	nummod	_	SpacesAfter=\n
+

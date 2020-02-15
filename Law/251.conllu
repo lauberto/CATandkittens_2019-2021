@@ -1,0 +1,1679 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = состава преступления, может при определенных обстоятельствах свидетельствовать об отсутствии умысла на причинение смерти.
+1	состава	состав	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	при	при	ADP	_	_	7	case	_	_
+6	определенных	определенный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	обстоятельствах	обстоятельство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	8	obl	_	_
+8	свидетельствовать	свидетельствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+9	об	о	ADP	_	_	10	case	_	_
+10	отсутствии	отсутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+11	умысла	умысти	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	_
+14	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 2
+# text = Так, В. вызвала скорую помощь, попыталась сама остановить кровотечение.
+1	Так	так	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	вызвала	вызвать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	скорую	скорый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	попыталась	пытаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+9	сама	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	obl	_	_
+10	остановить	остановить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+11	кровотечение	кровотечение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 3
+# text = Однако при определенной ситуации это может быть лишь проявлением деятельного раскаяния виновного, которое не нивелирует содеянное в целом, если характер насильственных действий свидетельствует об умысле на причинение смерти.
+1	Однако	однако	ADV	_	Degree=Pos	6	advmod	_	_
+2	при	при	ADP	_	_	4	case	_	_
+3	определенной	определенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	cop	_	_
+8	лишь	лишь	PART	_	_	9	advmod	_	_
+9	проявлением	проявление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+10	деятельного	деятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	раскаяния	раскаяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	которое	который	PRON	_	Case=Nom	16	nsubj	_	_
+15	не	не	PART	_	_	16	advmod	_	_
+16	нивелирует	нивелировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+17	содеянное	содеять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	xcomp	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	если	если	SCONJ	_	_	25	mark	_	_
+22	характер	характер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+23	насильственных	насильстветь	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
+25	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	_
+26	об	о	ADP	_	_	27	case	_	_
+27	умысле	умысло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	nmod	_	_
+30	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = Но даже если не установлено, что последний желал смерти потерпевшего, то не следует забывать, что при сознательном допущении смертельного исхода либо безразличном к нему отношении содеянное есть не что иное как убийство с косвенным умыслом.
+1	Но	но	CCONJ	_	_	5	cc	_	_
+2	даже	даже	PART	_	_	5	advmod	_	_
+3	если	если	SCONJ	_	_	5	mark	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	установлено	установить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	15	punct	_	_
+7	что	что	SCONJ	_	_	15	mark	_	_
+8	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	желал	желать	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+10	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	потерпевшего	потерпевший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	то	то	SCONJ	_	_	15	mark	_	_
+14	не	не	PART	_	_	15	advmod	_	_
+15	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+16	забывать	забывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	csubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	что	что	SCONJ	_	_	16	obl	_	_
+19	при	при	ADP	_	_	21	case	_	_
+20	сознательном	сознательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	допущении	допущение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	obl	_	_
+22	смертельного	смертельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	исхода	исход	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	либо	либо	CCONJ	_	_	28	cc	_	_
+25	безразличном	безразличн	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+26	к	к	ADP	_	_	27	case	_	_
+27	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
+28	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	conj	_	_
+29	содеянное	содеять	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	32	acl	_	_
+30	есть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	29	fixed	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	что	что	PRON	_	Case=Nom	33	nsubj	_	_
+33	иное	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	28	parataxis	_	_
+34	как	как	SCONJ	_	_	35	mark	_	_
+35	убийство	убийство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	obl	_	_
+36	с	с	ADP	_	_	38	case	_	_
+37	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
+38	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	35	nmod	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 5
+# text = Приведем следующий пример.
+1	Приведем	привести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	следующий	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	пример	пример	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = Рис.
+1	Рис	рис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 8
+# text = Эвристический алгоритм квалификации и отграничения от смежных составов
+1	Эвристический	Эвристический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	алгоритм	алгоритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	отграничения	отграничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+6	от	от	ADP	_	_	8	case	_	_
+7	смежных	смежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	составов	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 9
+# text = Так, обвиняемый З., будучи в состоянии алкогольного опьянения, в ходе ссоры со своей матерью, умышленно избил ее, причинив не менее 13 ударов по голове и не менее 7 ударов по конечностям, в результате чего потерпевшая скончалась спустя 3–4 часа после произошедшего от закрытой черепно-мозговой травмы, сопровождающейся многочисленными кровоизлияниями в вещество головного мозга .
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	обвиняемый	обвинять	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	nsubj	_	_
+4	З.	З.	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	будучи	быть	AUX	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	cop	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	_
+9	алкогольного	алкогольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	опьянения	опьянение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	fixed	_	_
+14	ссоры	ссора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+15	со	с	ADP	_	_	17	case	_	_
+16	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	17	det	_	_
+17	матерью	мать	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	умышленно	умышленно	ADV	_	Degree=Pos	20	advmod	_	_
+20	избил	избить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+21	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	20	obj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	причинив	причинить	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	20	advcl	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	менее	менее	ADV	_	Degree=Cmp	27	nummod:gov	_	_
+26	13	13	NUM	_	_	27	nummod	_	_
+27	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	23	obl	_	_
+28	по	по	ADP	_	_	29	case	_	_
+29	голове	голова	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	27	nmod	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	менее	менее	ADV	_	Degree=Cmp	27	conj	_	_
+33	7	7	NUM	_	_	34	nummod	_	_
+34	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	32	obl	_	_
+35	по	по	ADP	_	_	36	case	_	_
+36	конечностям	конечность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	42	punct	_	_
+38	в	в	ADP	_	_	39	case	_	_
+39	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	42	obl	_	_
+40	чего	что	PRON	_	Case=Gen	41	obl	_	_
+41	потерпевшая	потерпеть	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	42	nsubj	_	_
+42	скончалась	скончаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	36	acl:relcl	_	_
+43	спустя	спустя	ADP	_	_	47	case	_	_
+44	3	3	NUM	_	_	47	nummod	_	SpaceAfter=No
+45	–	–	PUNCT	_	_	46	punct	_	SpaceAfter=No
+46	4	4	NUM	_	_	44	nummod	_	_
+47	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	42	obl	_	_
+48	после	после	ADP	_	_	57	case	_	_
+49	произошедшего	произойти	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	57	acl	_	_
+50	от	от	ADP	_	_	53	case	_	_
+51	закрытой	закрыть	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	53	amod	_	_
+52	черепно-мозговой	черепно-мозговой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	53	amod	_	_
+53	травмы	травма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	49	obl	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	49	punct	_	_
+55	сопровождающейся	сопровождаться	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	57	amod	_	_
+56	многочисленными	многочисленный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	57	amod	_	_
+57	кровоизлияниями	кровоизлияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	42	obl	_	_
+58	в	в	ADP	_	_	59	case	_	_
+59	вещество	вещество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	57	nmod	_	_
+60	головного	головной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	61	amod	_	_
+61	мозга	мозг	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	59	nmod	_	_
+62	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 10
+# text = Действия виновного органами предварительного следствия и судом были квалифицированы по ч. 3
+1	Действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	9	nsubj:pass	_	_
+2	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	органами	орган	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	_
+4	предварительного	предварительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	следствия	следствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	судом	суд	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	conj	_	_
+8	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	aux:pass	_	_
+9	квалифицированы	квалифицировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	ч	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	_
+13	3	3	NUM	_	_	9	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 11
+# text = ст. 147 УК.
+1	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
+2	147	147	NUM	_	_	3	nummod	_	_
+3	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 12
+# text = В приговоре суд указал: "…обвиняемый З. во время совершения преступления действовал с косвенным умыслом, то есть сознавал общественную опасность своих действий, предвидел их общественно опасные последствия, не желал, но относился к ним безразлично.
+1	В	в	ADP	_	_	2	case	_	_
+2	приговоре	приговор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	указал	указать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+7	…	…	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	обвиняемый	обвинять	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+9	З.	З.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+10	во	во	ADP	_	_	12	case	_	_
+11	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	fixed	_	_
+12	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	obl	_	_
+13	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	действовал	действовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+15	с	с	ADP	_	_	17	case	_	_
+16	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	mark	_	_
+20	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	fixed	_	_
+21	сознавал	сознавать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
+22	общественную	общественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	опасность	опасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+24	своих	свой	DET	_	Case=Gen|Number=Plur	25	det	_	_
+25	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	предвидел	предвидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
+28	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	27	obj	_	_
+29	общественно	общественно	ADV	_	Degree=Pos	30	obl	_	_
+30	опасные	опасный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	27	obj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	не	не	PART	_	_	34	advmod	_	_
+34	желал	желать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	31	acl:relcl	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	но	но	CCONJ	_	_	37	cc	_	_
+37	относился	относиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	34	conj	_	_
+38	к	к	ADP	_	_	39	case	_	_
+39	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	37	obl	_	_
+40	безразлично	безразлично	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	37	advmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 13
+# text = В действиях З. содержатся признаки истязания, о чем свидетельствует множественное количество нанесенных ударов…".
+1	В	в	ADP	_	_	2	case	_	_
+2	действиях	действие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	4	obl	_	_
+3	З.	З.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	содержатся	содержаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	признаки	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+6	истязания	истязание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	о	о	ADP	_	_	9	case	_	_
+9	чем	что	PRON	_	Case=Loc	10	obl	_	_
+10	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+11	множественное	множественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	количество	количество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+13	нанесенных	нанесеть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+15	…	…	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = Между тем нанесение множества ударов (13!) кулаком физически развитого мужчины в область головы пожилого человека 203
+1	Между	между	ADP	_	_	2	case	_	_
+2	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	nmod	_	_
+3	нанесение	нанесение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	множества	множество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	ударов	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	13	13	NUM	_	_	5	nummod	_	SpaceAfter=No
+8	!	!	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	7	punct	_	_
+10	кулаком	кулак	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	_
+11	физически	физически	ADV	_	Degree=Pos	13	advmod	_	_
+12	развитого	развитый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	мужчины	мужчина	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	область	область	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
+16	головы	голова	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	пожилого	пожилой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+19	203	203	NUM	_	_	3	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = с причинением опасных для жизни повреждений, ставших причиной смерти, не только может, но и свидетельствует об умысле на лишение жизни с косвенным умыслом.
+1	с	с	ADP	_	_	2	case	_	_
+2	причинением	причинение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	14	obl	_	_
+3	опасных	опасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+4	для	для	ADP	_	_	5	case	_	_
+5	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
+6	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	ставших	стать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	6	acl	_	_
+9	причиной	причина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+10	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	8	punct	_	_
+12	не	не	PART	_	_	13	advmod	_	_
+13	только	только	PART	_	_	14	advmod	_	_
+14	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	но	но	CCONJ	_	_	18	cc	_	_
+17	и	и	PART	_	_	16	advmod	_	_
+18	свидетельствует	свидетельствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+19	об	о	ADP	_	_	20	case	_	_
+20	умысле	умысло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
+21	на	на	ADP	_	_	22	case	_	_
+22	лишение	лишение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	nmod	_	_
+23	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	с	с	ADP	_	_	26	case	_	_
+25	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 16
+# text = Этого суд не учел (возможность лишения жизни и с косвенным умыслом) и применил более мягкий уголовный закон.
+1	Этого	этот	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+2	суд	суд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	учел	учесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
+7	лишения	лишение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	и	и	CCONJ	_	_	12	cc	_	_
+10	с	с	ADP	_	_	12	case	_	_
+11	косвенным	косвенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+13	)	)	PUNCT	_	_	6	punct	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	применил	применить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	более	более	ADV	_	Degree=Cmp	17	obl	_	_
+17	мягкий	мягкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+18	уголовный	уголовный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	закон	закон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 17
+# text = Из этого следует, что еще один фактор, который должен учитываться при оценке содеянного, – это физическое состояние потерпевшего, его пол и возраст.
+1	Из	из	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	obl	_	_
+3	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	что	что	SCONJ	_	_	3	csubj	_	_
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+7	один	один	NUM	_	Case=Nom|Gender=Masc	8	nummod:gov	_	_
+8	фактор	фактор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	который	который	PRON	_	Case=Nom	11	nsubj	_	_
+11	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	acl:relcl	_	_
+12	учитываться	учитывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	11	xcomp	_	_
+13	при	при	ADP	_	_	14	case	_	_
+14	оценке	оценка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+15	содеянного	содеять	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	–	–	PUNCT	_	_	15	punct	_	_
+18	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	20	det	_	_
+19	физическое	физический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	состояние	состояние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+21	потерпевшего	потерпевший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	его	его	DET	_	_	24	det	_	_
+24	пол	пол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	conj	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	возраст	возраст	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 18
+# text = Наглядно показано в нашем примере, что насилие, не представляющее опасности для взрослого здорового человека, может оказаться смертельным для малолетнего, престарелого (пожилого в нашем случае) или больного человека, что не может не осознаваться вменяемым субъектом преступления, исходя из его общего интеллектуального развития.
+1	Наглядно	наглядно	ADV	_	Degree=Pos	2	advmod	_	_
+2	показано	показать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing	5	det	_	_
+5	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	18	punct	_	_
+7	что	что	SCONJ	_	_	18	mark	_	_
+8	насилие	насилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	представляющее	представлять	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+12	опасности	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+13	для	для	ADP	_	_	16	case	_	_
+14	взрослого	взрослый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+15	здорового	здоровый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	11	punct	_	_
+18	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+19	оказаться	оказаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	18	xcomp	_	_
+20	смертельным	смертельный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	19	obl	_	_
+21	для	для	ADP	_	_	33	case	_	_
+22	малолетнего	малолетний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	престарелого	престарелый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	conj	_	_
+25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	пожилого	пожилой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	parataxis	_	_
+27	в	в	ADP	_	_	29	case	_	_
+28	нашем	наш	DET	_	Case=Loc|Gender=Masc|Number=Sing	29	det	_	_
+29	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	26	punct	_	_
+31	или	или	CCONJ	_	_	32	cc	_	_
+32	больного	больной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	conj	_	_
+33	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	37	punct	_	_
+35	что	что	PRON	_	Case=Nom	37	nsubj	_	_
+36	не	не	PART	_	_	37	advmod	_	_
+37	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	_	_
+38	не	не	PART	_	_	39	advmod	_	_
+39	осознаваться	осознавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	37	xcomp	_	_
+40	вменяемым	вменять	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	41	amod	_	_
+41	субъектом	субъект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	39	obl	_	_
+42	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	39	advcl	_	_
+45	из	из	ADP	_	_	49	case	_	_
+46	его	его	DET	_	_	49	det	_	_
+47	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	49	amod	_	_
+48	интеллектуального	интеллектуальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	49	amod	_	_
+49	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	obl	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Причем и от вида умысла, с которым действует виновный, возникают отдельные проблемы при квалификации содеянного.
+1	Причем	причем	CCONJ	_	_	4	cc	_	_
+2	и	и	PART	_	_	4	advmod	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	obl	_	_
+5	умысла	умысти	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	которым	который	PRON	_	Case=Ins	9	obl	_	_
+9	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+10	виновный	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+15	при	при	ADP	_	_	16	case	_	_
+16	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	_
+17	содеянного	содеять	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 20
+# text = Предлагаем следующие рекомендации по квалификации.
+1	Предлагаем	предлагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	следующие	следующий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	3	amod	_	_
+3	рекомендации	рекомендация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 21
+# text = В том случае, если виновный действует с прямым конкретизированным видом умысла, то при причинении тяжкого телесного повреждения его действия квалифицируются по соответствующей части ст. 147 УК.
+1	В	в	ADP	_	_	3	case	_	_
+2	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	если	если	SCONJ	_	_	7	mark	_	_
+6	виновный	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+8	с	с	ADP	_	_	11	case	_	_
+9	прямым	прямой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+10	конкретизированным	конкретизировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	amod	_	_
+11	видом	вид	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	_
+12	умысла	умысти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	22	punct	_	_
+14	то	то	SCONJ	_	_	22	mark	_	_
+15	при	при	ADP	_	_	16	case	_	_
+16	причинении	причинение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	obl	_	_
+17	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+20	его	его	DET	_	_	21	det	_	_
+21	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+22	квалифицируются	квалифицировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	conj	_	_
+23	по	по	ADP	_	_	25	case	_	_
+24	соответствующей	соответствующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	части	часть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	obl	_	_
+26	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	25	iobj	_	_
+27	147	147	NUM	_	_	28	nummod	_	_
+28	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 22
+# text = В том случае, если он стремится причинить смерть потерпевшему, – ст. 139 УК (соответствующая ее часть), при покушении на причинение смерти лицу – ч.
+1	В	в	ADP	_	_	3	case	_	_
+2	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	если	если	SCONJ	_	_	7	mark	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+7	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	причинить	причинить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	смерть	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+10	потерпевшему	потерпевшему	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	–	–	PUNCT	_	_	13	punct	_	_
+13	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	_
+14	139	139	NUM	_	_	13	nummod	_	_
+15	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	соответствующая	соответствовать	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+18	ее	она	DET	_	_	19	det	_	_
+19	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	appos	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	при	при	ADP	_	_	23	case	_	_
+23	покушении	покушение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	conj	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	nmod	_	_
+26	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	лицу	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+28	–	–	PUNCT	_	_	29	punct	_	_
+29	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 23
+# text = 1 ст. 14, ст. 139 УК (причиненный фактически вред здоровью поглощается и отдельной квалификации не требует).
+1	1	1	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	14	14	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	conj	_	_
+7	139	139	NUM	_	_	8	nummod	_	_
+8	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	причиненный	причинить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+11	фактически	фактически	ADV	_	Degree=Pos	13	obl	_	_
+12	вред	вред	ADP	_	_	13	case	_	_
+13	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	_
+14	поглощается	поглощать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	obj	_	_
+15	и	и	PART	_	_	16	advmod	_	_
+16	отдельной	отдельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	obl	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	требует	требовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 24
+# text = При неконкретизированном умысле ответственность наступает за фактически причиненное последствие из числа охватывавшихся умыслом виновного, на что прямо указывается в Постановлении 2006 г. (п. 4).
+1	При	при	ADP	_	_	3	case	_	_
+2	неконкретизированном	неконкретизированный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	умысле	умысло	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	за	за	ADP	_	_	9	case	_	_
+7	фактически	фактически	ADV	_	Degree=Pos	8	advmod	_	_
+8	причиненное	причинить	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
+9	последствие	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+10	из	из	ADP	_	_	11	case	_	_
+11	числа	число	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	охватывавшихся	охватывать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	amod	_	_
+13	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	11	nmod	_	_
+14	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	что	что	PRON	_	Case=Acc	19	obl	_	_
+18	прямо	прямо	ADV	_	Degree=Pos	19	advmod	_	_
+19	указывается	указывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	Постановлении	Постановление	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	obl	_	_
+22	2006	2006	NUM	_	_	23	nummod	_	_
+23	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	(	(	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	п.	пункт	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	parataxis	_	_
+26	4	4	NUM	_	_	25	nummod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 25
+# text = Тем не менее квалификация действий по фактически наступившим последствиям, если виновный сознавал общественную опасность своего действия или бездействия, предвидел возможность причинения потерпевшему телесных повреждений любой тяжести и желал этого либо не желал, но сознательно допускал или относился к последствиям своего деяния безразлично, представляется не совсем верной и нуждается в конкретизации.
+1	Тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	21	discourse	_	_
+2	не	не	PART	_	Polarity=Neg	1	fixed	_	_
+3	менее	менее	ADV	_	Degree=Cmp	1	fixed	_	_
+4	квалификация	квалификация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+5	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+6	по	по	ADP	_	_	9	case	_	_
+7	фактически	фактически	ADV	_	Degree=Pos	8	obl	_	_
+8	наступившим	наступить	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	amod	_	_
+9	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	4	punct	_	_
+11	если	если	SCONJ	_	_	13	mark	_	_
+12	виновный	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	сознавал	сознавать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	_
+14	общественную	общественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	опасность	опасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+16	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	17	det	_	_
+17	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	или	или	CCONJ	_	_	19	cc	_	_
+19	бездействия	бездействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	13	punct	_	_
+21	предвидел	предвидеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+22	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	причинения	причинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	потерпевшему	терпеть	DET	_	Case=Dat|Gender=Neut|Number=Sing	26	det	_	_
+25	телесных	телесный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+27	любой	любой	DET	_	Case=Gen|Gender=Fem|Number=Sing	28	det	_	_
+28	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	желал	желать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	_
+31	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	obl	_	_
+32	либо	либо	CCONJ	_	_	34	cc	_	_
+33	не	не	PART	_	_	34	advmod	_	_
+34	желал	желать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	38	punct	_	_
+36	но	но	CCONJ	_	_	38	cc	_	_
+37	сознательно	сознательно	ADV	_	Degree=Pos	38	advmod	_	_
+38	допускал	допускать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	_
+39	или	или	CCONJ	_	_	40	cc	_	_
+40	относился	относиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	21	conj	_	_
+41	к	к	ADP	_	_	42	case	_	_
+42	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	40	obl	_	_
+43	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	44	det	_	_
+44	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	42	nmod	_	_
+45	безразлично	безразлично	ADV	_	Degree=Pos	40	advmod	_	SpaceAfter=No
+46	,	,	PUNCT	_	_	47	punct	_	_
+47	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	_
+48	не	не	PART	_	_	49	advmod	_	_
+49	совсем	совсем	ADV	_	Degree=Pos	50	obl	_	_
+50	верной	верный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	47	obl	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	нуждается	нуждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	_
+53	в	в	ADP	_	_	54	case	_	_
+54	конкретизации	конкретизация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	52	obl	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 26
+# text = Вопрос о квалификации исследуемого преступления в зависимости от вида умысла (прямой или косвенный) и его "подвидов" (конкретизированный, неконкретизированный, альтернативный) решается по-разному.
+1	Вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+4	исследуемого	исследовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	от	от	ADP	_	_	9	case	_	_
+9	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	умысла	умысти	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	прямой	прямой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	_
+13	или	или	CCONJ	_	_	14	cc	_	_
+14	косвенный	косвенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	12	punct	_	_
+16	и	и	CCONJ	_	_	19	cc	_	_
+17	его	он	DET	_	_	19	det	_	_
+18	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	подвидов	подвид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	19	punct	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	конкретизированный	конкретизированный	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	parataxis	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	неконкретизированный	неконкретизированный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	альтернативный	альтернативный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	22	punct	_	_
+28	решается	решать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+29	по-разному	по-разному	ADV	_	Degree=Pos	28	advmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 27
+# text = Кроме того, ситуация может разниться и в случае наступления или ненаступления общественно опасных последствий.
+1	Кроме	кроме	ADP	_	_	2	case	_	_
+2	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	разниться	разниться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	_	_
+7	и	и	PART	_	_	9	advmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+10	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	ненаступления	ненаступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+13	общественно	общественно	ADV	_	Degree=Pos	14	obl	_	_
+14	опасных	опасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 28
+# text = Рассмотрим это на примере прямого неконкретизированного умысла.
+1	Рассмотрим	рассмотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+5	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+6	неконкретизированного	неконкретизированный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = Так, виновный желает причинить тяжкое телесное повреждение вне зависимости от конкретного признака такового вреда здоровью (опасность для жизни или обезображение лица и т.д.), но в результате вред может не наступить (или причиняется телесное повреждение меньшей степени тяжести), или же причиняется более тяжкое последствие (смерть человека).
+1	Так	так	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	виновный	виновный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	желает	желать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	причинить	причинить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	тяжкое	тяжкий	DET	_	Case=Acc|Gender=Neut|Number=Sing	8	det	_	_
+7	телесное	телесный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	повреждение	повреждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+9	вне	вне	ADP	_	_	10	case	_	_
+10	зависимости	зависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+11	от	от	ADP	_	_	13	case	_	_
+12	конкретного	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	признака	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+14	такового	таковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+16	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	iobj	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	опасность	опасность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	_
+19	для	для	ADP	_	_	20	case	_	_
+20	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+21	или	или	CCONJ	_	_	22	cc	_	_
+22	обезображение	обезображение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	conj	_	_
+23	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	т.д.	т.демик	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	32	punct	_	_
+28	но	но	CCONJ	_	_	32	cc	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	obl	_	_
+31	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	_
+32	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+33	не	не	PART	_	_	34	advmod	_	_
+34	наступить	наступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	xcomp	_	_
+35	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+36	или	или	CCONJ	_	_	37	cc	_	_
+37	причиняется	причинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+38	телесное	телесный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+39	повреждение	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	37	nsubj	_	_
+40	меньшей	меньший	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+42	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+43	)	)	PUNCT	_	_	37	punct	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	или	или	CCONJ	_	_	47	cc	_	_
+46	же	же	PART	_	_	45	advmod	_	_
+47	причиняется	причинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	_
+48	более	более	ADV	_	Degree=Cmp	47	advmod	_	_
+49	тяжкое	тяжкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	50	amod	_	_
+50	последствие	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	47	nsubj	_	_
+51	(	(	PUNCT	_	_	52	punct	_	SpaceAfter=No
+52	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	50	parataxis	_	_
+53	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	52	nmod	_	SpaceAfter=No
+54	)	)	PUNCT	_	_	52	punct	_	SpaceAfter=No
+55	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 30
+# text = В первой ситуации полагаем правильным квалифицировать действия по ч. 1 ст. 14 УК и ч. 1 ст. 147 УК.
+1	В	в	ADP	_	_	3	case	_	_
+2	первой	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+4	полагаем	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	правильным	правильный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+6	квалифицировать	квалифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+7	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+8	по	по	ADP	_	_	9	case	_	_
+9	ч	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
+11	1	1	NUM	_	_	12	nummod	_	_
+12	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+14	14	14	NUM	_	_	15	nummod	_	_
+15	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	_	_
+19	1	1	NUM	_	_	20	nummod	_	_
+20	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	conj	_	_
+21	147	147	NUM	_	_	22	nummod	_	_
+22	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 31
+# text = Дополнительной квалификации за фактически причиненный вред здоровью не требуется, поскольку он 204
+1	Дополнительной	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nsubj	_	_
+3	за	за	ADP	_	_	6	case	_	_
+4	фактически	фактически	ADV	_	Degree=Pos	5	advmod	_	_
+5	причиненный	причинить	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+6	вред	вред	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+7	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	iobj	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	требуется	требоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	поскольку	поскольку	SCONJ	_	_	13	mark	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+13	204	204	NUM	_	_	9	advcl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = поглощается умыслом на более тяжкие последствия.
+1	поглощается	глощаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	умыслом	умысло	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	_
+3	на	на	ADP	_	_	6	case	_	_
+4	более	более	ADV	_	Degree=Cmp	5	obl	_	_
+5	тяжкие	тяжкий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 33
+# text = В то же время в литературе имеются точки зрения о квалификации в таком случае "с учетом необходимости уголовно-правовой оценки направленности умысла на причинение наиболее тяжкого последствия" .
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	литературе	литература	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+7	имеются	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	точки	точка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	24	nsubj	_	_
+9	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	compound	_	_
+10	о	о	ADP	_	_	11	case	_	_
+11	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
+12	в	в	ADP	_	_	14	case	_	_
+13	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	14	det	_	_
+14	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	с	с	ADP	_	_	17	case	_	_
+17	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	obl	_	_
+18	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	уголовно	уголовный	ADJ	_	Degree=Pos	21	compound	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+21	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	оценки	оценка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+23	направленности	направленность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	умысла	умысти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+25	на	на	ADP	_	_	26	case	_	_
+26	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obl	_	_
+27	наиболее	наиболее	ADV	_	Degree=Pos	28	obl	_	_
+28	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	последствия	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	29	punct	_	_
+31	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 34
+# text = То есть если имеется все-таки вероятность наступления смерти, хотя бы и незначительная, то и квалифицировать следует с учетом таковой.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	если	если	SCONJ	_	_	4	mark	_	_
+4	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	17	advcl	_	_
+5	все-таки	все-таки	PART	_	_	4	advmod	_	_
+6	вероятность	вероятность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+7	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	хотя	хотя	PART	_	_	13	advmod	_	_
+11	бы	бы	PART	_	_	10	fixed	_	_
+12	и	и	PART	_	_	13	advmod	_	_
+13	незначительная	незначительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	то	то	SCONJ	_	_	17	mark	_	_
+16	и	и	PART	_	_	17	advmod	_	_
+17	квалифицировать	квалифицировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	csubj	_	_
+18	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	_
+21	таковой	таковой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 35
+# text = Согласимся в этом аспекте с Н.А. Бабием, что "принятие этого положения неверно и будет означать полное отрицание правового значения прямого неконкретизированного умысла, ибо желание менее тяжкого последствия игнорируется вовсе" .
+1	Согласимся	согласиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	аспекте	аспект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	Н.	Н.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Бабием	Бабий	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	что	что	SCONJ	_	_	15	mark	_	_
+11	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+12	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+13	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	14	det	_	_
+14	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	неверно	неверный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	ccomp	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
+18	означать	означать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	conj	_	_
+19	полное	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	отрицание	отрицание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	значения	значение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	прямого	прямой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+24	неконкретизированного	неконкретизированный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	32	punct	_	_
+27	ибо	ибо	SCONJ	_	_	32	mark	_	_
+28	желание	желание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj:pass	_	_
+29	менее	менее	ADV	_	Degree=Cmp	30	obl	_	_
+30	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	31	amod	_	_
+31	последствия	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+32	игнорируется	игнорировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	advcl	_	_
+33	вовсе	вовсе	ADV	_	Degree=Pos	32	advmod	_	SpaceAfter=No
+34	"	"	PUNCT	_	_	33	punct	_	_
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 36
+# text = В таком случае безразличное отношение виновного к последствиям своего общественно опасного деяния выражается в том, что последний не предпринимает дополнительных усилий для достижения именно более тяжких последствий (не причиняет смерть потерпевшему).
+1	В	в	ADP	_	_	3	case	_	_
+2	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+4	безразличное	безразличный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	отношение	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+6	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	nmod	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	nmod	_	_
+9	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	12	det	_	_
+10	общественно	общественно	ADV	_	Degree=Pos	11	obl	_	_
+11	опасного	опасный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+13	выражается	выражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	что	что	SCONJ	_	_	20	mark	_	_
+18	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	предпринимает	предпринимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl	_	_
+21	дополнительных	дополнительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	усилий	усилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	obl	_	_
+23	для	для	ADP	_	_	24	case	_	_
+24	достижения	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	именно	именно	PART	_	_	26	advmod	_	_
+26	более	более	ADV	_	Degree=Cmp	27	obl	_	_
+27	тяжких	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	24	nmod	_	_
+29	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
+30	не	не	PART	_	_	31	advmod	_	_
+31	причиняет	причинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	parataxis	_	_
+32	смерть	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+33	потерпевшему	потерпеть	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	31	xcomp	_	SpaceAfter=No
+34	)	)	PUNCT	_	_	31	punct	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 37
+# text = Поэтому более логичным представляется квалификация, предложенная нами выше.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	4	advmod	_	_
+2	более	более	ADV	_	Degree=Cmp	3	obl	_	_
+3	логичным	логичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+4	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	квалификация	квалификация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	предложенная	предложить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+8	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	7	obl	_	_
+9	выше	высоко	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Во второй рассматриваемой выше ситуации – ответственность должна наступать по совокупности преступлений – за покушение на преступление, предусмотренное ч.
+1	Во	в	ADP	_	_	5	case	_	_
+2	второй	второй	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+3	рассматриваемой	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
+4	выше	высоко	ADV	_	Degree=Pos	3	advmod	_	_
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	_
+6	–	–	PUNCT	_	_	5	punct	_	_
+7	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+9	наступать	наступать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	совокупности	совокупность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
+12	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+13	–	–	PUNCT	_	_	15	punct	_	_
+14	за	за	ADP	_	_	15	case	_	_
+15	покушение	покушение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	предусмотренное	предусмотреть	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+20	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 39
+# text = 1 ст. 147 УК, и фактически причиненную смерть по неосторожности, что тем самым наиболее полно отразит умысел виновного.
+1	1	1	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	147	147	NUM	_	_	5	nummod	_	_
+5	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	фактически	фактически	ADV	_	Degree=Pos	9	advmod	_	_
+9	причиненную	причинить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	_
+10	смерть	смерть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+11	по	по	ADP	_	_	12	case	_	_
+12	неосторожности	неосторожность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	что	что	SCONJ	_	_	19	mark	_	_
+15	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	19	obl	_	_
+16	самым	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+17	наиболее	наиболее	ADV	_	Degree=Pos	18	advmod	_	_
+18	полно	полно	ADV	_	Degree=Pos	19	advmod	_	_
+19	отразит	отразить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	ccomp	_	_
+20	умысел	умысло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj:pass	_	_
+21	виновного	виновный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = В теории уголовного права выделяют и так называемый общий умысел, который употребляется при характеристике субъективного отношения к последствиям, причиняемым одним из двух равноопасных действий .
+1	В	в	ADP	_	_	2	case	_	_
+2	теории	теория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	_
+3	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	выделяют	выделять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	и	и	PART	_	_	7	advmod	_	_
+7	так	так	ADV	_	Degree=Pos	8	advmod	_	_
+8	называемый	называть	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	_
+9	общий	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	умысел	умысло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	который	который	PRON	_	Case=Nom	13	nsubj:pass	_	_
+13	употребляется	употреблять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl:relcl	_	_
+14	при	при	ADP	_	_	15	case	_	_
+15	характеристике	характеристик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+16	субъективного	субъективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	отношения	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	к	к	ADP	_	_	19	case	_	_
+19	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	причиняемым	причинять	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	15	acl	_	_
+22	одним	один	NUM	_	Case=Ins|Gender=Masc	21	nummod	_	_
+23	из	из	ADP	_	_	26	case	_	_
+24	двух	два	NUM	_	Case=Gen	26	nummod	_	_
+25	равноопасных	равноопасный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 41
+# text = При наличии общего умысла на причинение тяжких телесных повреждений лицо совершает определенное действие, направленное на достижение данного последствия, например уродует лицо своей жертве (но шрам впоследствии оказывается изгладимым), и, полагая достижение результата, тем не менее, ломает потерпевшему ребра, что приводит к пневмотораксу и фактически – к наступлению тяжкого телесного повреждения.
+1	При	при	ADP	_	_	2	case	_	_
+2	наличии	наличие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+3	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	_
+7	тяжких	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	телесных	телесный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+10	лицо	лицо	NOUN	_	Animacy=Anim|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+11	совершает	совершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	advcl	_	_
+12	определенное	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	действие	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	направленное	направить	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+16	на	на	ADP	_	_	17	case	_	_
+17	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obl	_	_
+18	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	последствия	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	15	punct	_	_
+21	например	например	ADV	_	Degree=Pos	22	advmod	_	_
+22	уродует	уродовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+23	лицо	лицо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
+24	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing	25	det	_	_
+25	жертве	жертва	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	23	iobj	_	_
+26	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+27	но	но	CCONJ	_	_	30	cc	_	_
+28	шрам	шр	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	30	iobj	_	_
+29	впоследствии	впоследствии	ADV	_	Degree=Pos	30	advmod	_	_
+30	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	parataxis	_	_
+31	изгладимым	изгладить	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	30	xcomp	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	44	punct	_	_
+34	и	и	CCONJ	_	_	44	cc	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	44	punct	_	_
+36	полагая	полагать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	44	advcl	_	_
+37	достижение	достижение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	36	obj	_	_
+38	результата	результат	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	44	punct	_	_
+40	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	44	discourse	_	_
+41	не	не	PART	_	Polarity=Neg	40	fixed	_	_
+42	менее	менее	ADV	_	Degree=Cmp	40	fixed	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	ломает	ломать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
+45	потерпевшему	потерпеть	DET	_	Case=Dat|Gender=Neut|Number=Sing	46	det	_	_
+46	ребра	ребро	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	44	obl	_	SpaceAfter=No
+47	,	,	PUNCT	_	_	49	punct	_	_
+48	что	что	PRON	_	Case=Nom	49	nsubj	_	_
+49	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	parataxis	_	_
+50	к	к	ADP	_	_	51	case	_	_
+51	пневмотораксу	пневмоторакс	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	49	obl	_	_
+52	и	и	CCONJ	_	_	53	cc	_	_
+53	фактически	фактически	ADV	_	Degree=Pos	51	conj	_	_
+54	–	–	PUNCT	_	_	53	punct	_	_
+55	к	к	ADP	_	_	56	case	_	_
+56	наступлению	наступление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	49	obl	_	_
+57	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	59	amod	_	_
+58	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	59	amod	_	_
+59	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	56	nmod	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 42
+# text = Ответственность в таком случае наступает за оконченное преступление, несмотря на то, какими действиями было причинено тяжкое телесное повреждение, а ошибка в виде последствия не изменяет и не отменяет общего умысла на причинение телесных повреждений определенной степени тяжести.
+1	Ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+5	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	за	за	ADP	_	_	8	case	_	_
+7	оконченное	оконченный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	преступление	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	несмотря	несмотря	ADV	_	Polarity=Neg	12	case	_	_
+11	на	на	ADP	_	_	10	fixed	_	_
+12	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	какими	какой	DET	_	Case=Ins|Number=Plur	15	det	_	_
+15	действиями	действие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	_
+16	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+17	причинено	причинить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	acl	_	_
+18	тяжкое	тяжкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+19	телесное	телесный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	повреждение	повреждение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj:pass	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	28	punct	_	_
+22	а	а	CCONJ	_	_	28	cc	_	_
+23	ошибка	ошибка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	fixed	_	_
+26	последствия	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	obl	_	_
+27	не	не	PART	_	_	28	advmod	_	_
+28	изменяет	изменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	не	не	PART	_	_	31	advmod	_	_
+31	отменяет	отменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+32	общего	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+33	умысла	умысло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	obl	_	_
+34	на	на	ADP	_	_	35	case	_	_
+35	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	obl	_	_
+36	телесных	телесный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+37	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	_
+38	определенной	определенный	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	amod	_	_
+39	степени	степень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+40	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 43
+# text = Изучение материалов уголовных дел показало, что чаще всего возникают спорные ситуации при отграничении умышленного причинения тяжкого телесного повреждения и причинение смерти по неосторожности в случае последующего падения от примененного насилия на плоскость (пол, асфальт) или последующим соударении с какими-либо выступающими предметами (угол стены, спинка кровати и т.п.), от чего наступает смерть.
+1	Изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	материалов	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	уголовных	уголовный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	дел	дело	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+5	показало	показать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	что	что	SCONJ	_	_	10	mark	_	_
+8	чаще	часто	ADV	_	Degree=Cmp	10	advmod	_	_
+9	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+10	возникают	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+11	спорные	спорный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
+13	при	при	ADP	_	_	14	case	_	_
+14	отграничении	отграничение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+15	умышленного	умышлить	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	причинения	причинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	причинение	причинение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	conj	_	_
+22	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	по	по	ADP	_	_	24	case	_	_
+24	неосторожности	неосторожность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	nmod	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+27	последующего	последующий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	от	от	ADP	_	_	31	case	_	_
+30	примененного	применить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	amod	_	_
+31	насилия	насилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+32	на	на	ADP	_	_	33	case	_	_
+33	плоскость	плоскость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+34	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+35	пол	пол	NUM	_	_	33	nummod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	асфальт	асфальт	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	35	conj	_	SpaceAfter=No
+38	)	)	PUNCT	_	_	35	punct	_	_
+39	или	или	CCONJ	_	_	41	cc	_	_
+40	последующим	последующий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	41	amod	_	_
+41	соударении	соударение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	conj	_	_
+42	с	с	ADP	_	_	45	case	_	_
+43	какими-либо	какой-либо	DET	_	Case=Ins|Number=Plur	45	det	_	_
+44	выступающими	выступать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	45	amod	_	_
+45	предметами	предмет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	41	nmod	_	_
+46	(	(	PUNCT	_	_	47	punct	_	SpaceAfter=No
+47	угол	угол	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	45	parataxis	_	_
+48	стены	стена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	50	punct	_	_
+50	спинка	спинка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	47	conj	_	_
+51	кровати	кровать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	_
+52	и	и	CCONJ	_	_	53	cc	_	_
+53	т.п.	т.пункт	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	47	conj	_	SpaceAfter=No
+54	)	)	PUNCT	_	_	47	punct	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	58	punct	_	_
+56	от	от	ADP	_	_	57	case	_	_
+57	чего	что	PRON	_	Case=Gen	58	obl	_	_
+58	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	parataxis	_	_
+59	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	58	nsubj	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 44
+# text = Алгоритмы отграничения указанных смежных составов приводим ниже.
+1	Алгоритмы	алгоритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	отграничения	отграничение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	указанных	указать	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	смежных	смежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	составов	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	приводим	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ниже	низко	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 45
+# text = В том случае, если имеется прямой умысел по отношению к причинению тяжкого телесного повреждения, а смерть причиняется от падения, то содеянное квалифицируется по ч. 1 ст. 14, ст. 147 УК, ст. 144 УК.
+1	В	в	ADP	_	_	3	case	_	_
+2	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	если	если	SCONJ	_	_	6	mark	_	_
+6	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	advcl	_	_
+7	прямой	прямая	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	умысел	умысесть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+9	по	по	ADP	_	_	12	case	_	_
+10	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	fixed	_	_
+11	к	к	ADP	_	_	9	fixed	_	_
+12	причинению	причинение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+13	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+14	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	а	а	CCONJ	_	_	19	cc	_	_
+18	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+19	причиняется	причинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	conj	_	_
+20	от	от	ADP	_	_	21	case	_	_
+21	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	6	punct	_	_
+23	то	то	SCONJ	_	_	25	mark	_	_
+24	содеянное	содеять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	nsubj:pass	_	_
+25	квалифицируется	квалифицировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+26	по	по	ADP	_	_	27	case	_	_
+27	ч	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	25	punct	_	_
+29	1	1	NUM	_	_	30	nummod	_	_
+30	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj:pass	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	30	punct	_	_
+32	14	14	NUM	_	_	30	nummod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	conj	_	_
+35	147	147	NUM	_	_	36	nummod	_	_
+36	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	conj	_	_
+39	144	144	NUM	_	_	40	nummod	_	_
+40	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 46
+# text = Если по отношению к смерти у лица имеется косвенный умысел, а смерть наступает в результате па-
+1	Если	если	SCONJ	_	_	8	mark	_	_
+2	по	по	ADP	_	_	5	case	_	_
+3	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	fixed	_	_
+4	к	к	ADP	_	_	2	fixed	_	_
+5	смерти	смерть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+6	у	у	ADP	_	_	7	case	_	_
+7	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+8	имеется	иметься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	косвенный	косвенный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	умысел	умысло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	а	а	CCONJ	_	_	14	cc	_	_
+13	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
+14	наступает	наступить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+17	па	п	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	-	-	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = дения, то содеянное подлежит квалификации по ст. 147 УК, ст. 144 УК.
+1	дения	дение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	то	то	SCONJ	_	_	5	mark	_	_
+4	содеянное	содеять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	nsubj	_	_
+5	подлежит	подлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
+7	по	по	ADP	_	_	8	case	_	_
+8	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	_
+9	147	147	NUM	_	_	10	nummod	_	_
+10	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	conj	_	_
+13	144	144	NUM	_	_	14	nummod	_	_
+14	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 48
+# text = При условии не наступления уголовно-наказуемого вреда здоровью возможно и привлечение к административной ответственности по соответствующей статье за причинение телесных повреждений.
+1	При	при	ADP	_	_	2	case	_	_
+2	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	наступления	наступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+5	уголовно	уголовный	ADJ	_	Degree=Pos	7	compound	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	наказуемого	наказуть	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	acl	_	_
+8	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	obl	_	_
+9	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	iobj	_	_
+10	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	привлечение	привлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+13	к	к	ADP	_	_	15	case	_	_
+14	административной	административный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	_
+16	по	по	ADP	_	_	18	case	_	_
+17	соответствующей	соответствующий	VERB	_	Aspect=Imp|Case=Loc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	amod	_	_
+18	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	_
+19	за	за	ADP	_	_	20	case	_	_
+20	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	_
+21	телесных	телесный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 49
+# text = Если причиняется смерть по неосторожности в результате умышленного причинения тяжкого телесного повреждения и произошло падение в ходе причинения вреда здоровью, то содеянное подлежит квалификации по ч.
+1	Если	если	SCONJ	_	_	2	mark	_	_
+2	причиняется	причинять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	advcl	_	_
+3	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	неосторожности	неосторожность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
+8	умышленного	умышленный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
+9	причинения	причинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+11	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	произошло	произойти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	падение	падение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	fixed	_	_
+18	причинения	причинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+19	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	то	то	SCONJ	_	_	24	mark	_	_
+23	содеянное	содеять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	nsubj	_	_
+24	подлежит	подлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+25	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	obl	_	_
+26	по	по	ADP	_	_	27	case	_	_
+27	ч	час	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 50
+# text = 3 ст. 147 УК, вред от падения не учитывается.
+1	3	3	NUM	_	_	2	nummod	_	_
+2	ст	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	147	147	NUM	_	_	5	nummod	_	_
+5	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	вред	вред	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	_
+8	от	от	ADP	_	_	9	case	_	_
+9	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	учитывается	учитывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 51
+# text = В том случае, если приименное фактически к потерпевшему лицу насилие является по степени тяжести причиненного вреда здоровью тяжким, а смерть наступает в результате падения и сопряжено с получением несовместимого с жизнью телесным повреждением, то содеянное квалифицируется по ст. 147 УК, ст. 144 УК; если же насилие по степени вреда здоровью является менее тяжким телесным повреждением, а смерть наступает также от падения и соударения с поверхностью, то квалифицируется по ст. 149 УК, ст. 144 УК.
+1	В	в	ADP	_	_	3	case	_	_
+2	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	если	если	SCONJ	_	_	6	mark	_	_
+6	приименное	прииметь	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+7	фактически	фактически	ADV	_	Degree=Pos	10	obl	_	_
+8	к	к	ADP	_	_	10	case	_	_
+9	потерпевшему	потерпеть	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	лицу	лицо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	obl	_	_
+11	насилие	насилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	по	по	ADP	_	_	14	case	_	_
+14	степени	степень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
+15	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	причиненного	причинить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
+17	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+18	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	iobj	_	_
+19	тяжким	тяжкий	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	18	iobj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	а	а	CCONJ	_	_	23	cc	_	_
+22	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+23	наступает	наступить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	23	obl	_	_
+26	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	сопряжено	сопрячь	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	conj	_	_
+29	с	с	ADP	_	_	30	case	_	_
+30	получением	получение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	28	obl	_	_
+31	несовместимого	несовместимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+32	с	с	ADP	_	_	33	case	_	_
+33	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	31	nmod	_	_
+34	телесным	телесный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	повреждением	повреждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	39	punct	_	_
+37	то	то	SCONJ	_	_	39	mark	_	_
+38	содеянное	содеять	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	39	nsubj:pass	_	_
+39	квалифицируется	квалифицировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	conj	_	_
+40	по	по	ADP	_	_	41	case	_	_
+41	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	obl	_	_
+42	147	147	NUM	_	_	43	nummod	_	_
+43	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	45	punct	_	_
+45	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	41	conj	_	_
+46	144	144	NUM	_	_	47	nummod	_	_
+47	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	SpaceAfter=No
+48	;	;	PUNCT	_	_	39	punct	_	_
+49	если	если	SCONJ	_	_	56	mark	_	_
+50	же	же	PART	_	_	56	advmod	_	_
+51	насилие	насилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	56	nsubj	_	_
+52	по	по	ADP	_	_	53	case	_	_
+53	степени	степень	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	51	nmod	_	_
+54	вреда	вред	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	53	nmod	_	_
+55	здоровью	здоровье	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	54	iobj	_	_
+56	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	74	advcl	_	_
+57	менее	менее	ADV	_	Degree=Cmp	58	obl	_	_
+58	тяжким	тяжкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	60	amod	_	_
+59	телесным	телесный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	60	amod	_	_
+60	повреждением	повреждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	56	obl	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	64	punct	_	_
+62	а	а	CCONJ	_	_	64	cc	_	_
+63	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	64	nsubj	_	_
+64	наступает	наступать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	conj	_	_
+65	также	также	ADV	_	Degree=Pos	64	advmod	_	_
+66	от	от	ADP	_	_	67	case	_	_
+67	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	64	obl	_	_
+68	и	и	CCONJ	_	_	69	cc	_	_
+69	соударения	соударение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	67	conj	_	_
+70	с	с	ADP	_	_	71	case	_	_
+71	поверхностью	поверхность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	67	nmod	_	SpaceAfter=No
+72	,	,	PUNCT	_	_	56	punct	_	_
+73	то	то	SCONJ	_	_	74	mark	_	_
+74	квалифицируется	квалифицировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	39	conj	_	_
+75	по	по	ADP	_	_	76	case	_	_
+76	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	74	iobj	_	_
+77	149	149	NUM	_	_	78	nummod	_	_
+78	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	76	nmod	_	SpaceAfter=No
+79	,	,	PUNCT	_	_	80	punct	_	_
+80	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	76	conj	_	_
+81	144	144	NUM	_	_	82	nummod	_	_
+82	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	80	nmod	_	SpaceAfter=No
+83	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 52
+# text = Во всех указанных случаях только заключение судебно-медицинской экспертизы должно устанавливать степень тяжести примененного насилия, и какое конкретно из повреждений стало причиной смерти (от удара или падения), что должно быть положено в основу правильной квалификации содеянного.
+1	Во	в	ADP	_	_	4	case	_	_
+2	всех	весь	DET	_	Case=Loc|Number=Plur	4	det	_	_
+3	указанных	указать	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	11	obl	_	_
+5	только	только	PART	_	_	6	advmod	_	_
+6	заключение	заключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+7	судебно	судебный	ADJ	_	Degree=Pos	9	compound	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	медицинской	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+11	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+12	устанавливать	устанавливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	степень	степень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	тяжести	тяжесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	примененного	применить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	amod	_	_
+16	насилия	насилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	23	punct	_	_
+18	и	и	CCONJ	_	_	23	cc	_	_
+19	какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing	24	det	_	_
+20	конкретно	конкретно	ADV	_	Degree=Pos	19	obl	_	_
+21	из	из	ADP	_	_	22	case	_	_
+22	повреждений	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	obl	_	_
+23	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	11	conj	_	_
+24	причиной	причина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	23	obl	_	_
+25	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+27	от	от	ADP	_	_	28	case	_	_
+28	удара	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	parataxis	_	_
+29	или	или	CCONJ	_	_	30	cc	_	_
+30	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	conj	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	что	что	PRON	_	Case=Nom	34	nsubj	_	_
+34	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	23	obl	_	_
+35	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	cop	_	_
+36	положено	класть	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	34	xcomp	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	основу	основа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	36	obl	_	_
+39	правильной	правильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	nmod	_	_
+41	содеянного	содеять	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	40	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 53
+# text = Это один из нюансов.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	один	один	NUM	_	Case=Nom|Gender=Masc	0	root	_	_
+3	из	из	ADP	_	_	4	case	_	_
+4	нюансов	нюанс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 54
+# text = Второй момент – нетяжкое насилие не может само по себе повлечь причинение смерти.
+1	Второй	второй	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	момент	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	–	–	PUNCT	_	_	7	punct	_	_
+4	нетяжкое	нетяжкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	насилие	насилие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
+8	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	себе	себя	PRON	_	Case=Dat	8	nmod	_	_
+11	повлечь	влечь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+12	причинение	причинение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 55
+# text = Смерть может наступить, но в результате иных объективных причин, например, того же падения на пол и получения несовместимого с жизнью ранения.
+1	Смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	наступить	наступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	но	но	CCONJ	_	_	7	cc	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	conj	_	_
+8	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+9	объективных	объективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	причин	причина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	например	например	ADV	_	Degree=Pos	16	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	16	det	_	_
+15	же	же	PART	_	_	14	advmod	_	_
+16	падения	падение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+17	на	на	ADP	_	_	18	case	_	_
+18	пол	пол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	получения	получение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+21	несовместимого	несовместимый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	obl	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	жизнью	жизнь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	21	obl	_	_
+24	ранения	ранение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 56
+# text = Именно на этом акцентирует внимание Постановление 2006 г. в п. 20, разъясняя правила квалификации в случае причинения тяжкого и нетяжкого насилия, от которого по неосторожности наступила смерть потерпевшего (по совокупности преступлений, например, ст. 147 УК и ст. 144 УК).
+1	Именно	именно	PART	_	_	3	advmod	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+4	акцентирует	акцентировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+6	Постановление	постановление	PROPN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	nmod	_	_
+7	2006	2006	NUM	_	_	6	nummod	_	_
+8	г.	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	nsubj	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	п	п	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+12	20	20	NUM	_	_	4	nummod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	разъясняя	разъяснять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	_
+15	правила	правило	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obj	_	_
+16	квалификации	квалификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+19	причинения	причинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	нетяжкого	нетяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	conj	_	_
+23	насилия	насилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	от	от	ADP	_	_	26	case	_	_
+26	которого	который	PRON	_	Case=Gen	29	obl	_	_
+27	по	по	ADP	_	_	28	case	_	_
+28	неосторожности	неосторожность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	obl	_	_
+29	наступила	наступить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	23	acl:relcl	_	_
+30	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	_
+31	потерпевшего	потерпевший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+33	по	по	ADP	_	_	34	case	_	_
+34	совокупности	совокупность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	parataxis	_	_
+35	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	34	punct	_	_
+37	например	например	ADV	_	Degree=Pos	39	obl	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	_
+39	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	31	parataxis	_	_
+40	147	147	NUM	_	_	41	nummod	_	_
+41	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	_
+42	и	и	CCONJ	_	_	43	cc	_	_
+43	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	39	conj	_	_
+44	144	144	NUM	_	_	45	nummod	_	_
+45	УК	ук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	SpaceAfter=No
+46	)	)	PUNCT	_	_	39	punct	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 57
+# text = Примечательным в этом плане будет уголовное дело в отношении К. . Так, последнему инкриминировалось причинение тяжкого телесного повреждения, повлекшего по неосторожности смерть потерпевшего.
+1	Примечательным	примечательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	15	obl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	4	det	_	_
+4	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	_
+5	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+6	уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	отношении	отношение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	fixed	_	_
+10	К.	К.	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+12	Так	так	ADV	_	Degree=Pos	15	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	последнему	последний	ADV	_	Degree=Pos	15	advmod	_	_
+15	инкриминировалось	инкриминировать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+16	причинение	причинение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	15	nsubj:pass	_	_
+17	тяжкого	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+18	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	повреждения	повреждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	повлекшего	повлекнуть	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+22	по	по	ADP	_	_	23	case	_	_
+23	неосторожности	неосторожность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	nmod	_	_
+24	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	conj	_	_
+25	потерпевшего	потерпевший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 58
+# text = Будучи допрошенным в ходе следствия, К. показал, что потерпевший Г. нахо-
+1	Будучи	быть	AUX	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	2	aux:pass	_	_
+2	допрошенным	допрошеть	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	fixed	_	_
+5	следствия	следствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	К.	К.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	показал	показать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	что	что	SCONJ	_	_	12	nsubj	_	_
+11	потерпевший	потерпеть	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	ccomp	_	_
+13	нахо	нахо	ADV	_	Degree=Pos	12	flat:name	_	SpaceAfter=No
+14	-	-	PUNCT	_	_	13	punct	_	SpacesAfter=\n
+

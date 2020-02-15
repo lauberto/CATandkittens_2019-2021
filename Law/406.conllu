@@ -1,0 +1,2954 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Журнал российского права № 12 — 2017
+1	Журнал	Журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	№	№	SYM	_	_	3	nummod:entity	_	_
+5	12	12	NUM	_	_	4	nummod	_	_
+6	—	—	PUNCT	_	_	1	punct	_	_
+7	2017	2017	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = хическая патология подразделялась на три группы душевных болезней: 1) определяющие отсутствие вмене‑ ния (например, глубокое слабоумие больного, совершившего незначи‑ тельную кражу); 2) "богохульные", которые вменяемость предопреде‑ ляли, так как симптомы психиче‑ ской болезни и признаки преступ‑ ления совпадали.
+1	хическая	хический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	патология	патология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+3	подразделялась	подразделяться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	на	на	ADP	_	_	6	case	_	_
+5	три	три	NUM	_	Animacy=Inan|Case=Acc	6	nummod:gov	_	_
+6	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
+7	душевных	душевный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	болезней	болезнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+10	1	1	NUM	_	_	8	nummod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	_
+12	определяющие	определять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	amod	_	_
+13	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+14	вмене	вмена	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+15	‑	‑	PUNCT	_	_	14	punct	_	_
+16	ния	ние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nmod	_	_
+17	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
+18	например	например	ADV	_	Degree=Pos	21	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	глубокое	глубокий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	слабоумие	слабоумий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	parataxis	_	_
+22	больного	больной	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	совершившего	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	25	amod	_	_
+25	незначи	незнача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
+26	‑	‑	PUNCT	_	_	28	punct	_	_
+27	тельную	тельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	кражу	кража	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	parataxis	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	;	;	PUNCT	_	_	25	punct	_	_
+31	2	2	NUM	_	_	25	nummod	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	31	punct	_	_
+33	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+34	богохульные	богохульный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	31	appos	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	41	punct	_	_
+37	которые	который	PRON	_	Case=Nom	41	nsubj	_	_
+38	вменяемость	вменяемость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	41	obj	_	_
+39	предопреде	предопреда	ADV	_	Degree=Pos	41	advmod	_	SpaceAfter=No
+40	‑	‑	PUNCT	_	_	39	punct	_	_
+41	ляли	лять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	31	acl:relcl	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	46	punct	_	_
+43	так	так	ADV	_	Degree=Pos	46	mark	_	_
+44	как	как	SCONJ	_	_	43	fixed	_	_
+45	симптомы	симптом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	46	nsubj	_	_
+46	психиче	психикий	ADJ	_	Degree=Cmp	41	advcl	_	SpaceAfter=No
+47	‑	‑	PUNCT	_	_	49	punct	_	_
+48	ской	ский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	_
+49	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	46	obl	_	_
+50	и	и	CCONJ	_	_	51	cc	_	_
+51	признаки	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	49	conj	_	_
+52	преступ	преступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	51	nmod	_	SpaceAfter=No
+53	‑	‑	PUNCT	_	_	55	punct	_	_
+54	ления	ление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	obl	_	_
+55	совпадали	совпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	52	acl:relcl	_	SpaceAfter=No
+56	.	.	PUNCT	_	_	41	punct	_	_
+
+# sent_id = 3
+# text = Например, "де‑ мономаны" с галлюцинаторными и бредовыми синдромами религиоз‑ ного содержания подлежали мучи‑ тельным пыткам и устрашающей казни; 3) определяющие невменяе‑ мость при совершении незначитель‑ ных преступлений, но предопреде‑ ляющие ответственность в случае совершения преступлений против царя или членов его семьи, Рос‑ сийского государства, православ‑ ной церкви, а также других тяжких преступлений (отцеубийство и др.)6.
+1	Например	например	ADV	_	Degree=Pos	17	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	де	де	PART	_	_	17	parataxis	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	мономаны	мономан	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	17	punct	_	_
+8	с	с	ADP	_	_	12	case	_	_
+9	галлюцинаторными	галлюцинаторный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	бредовыми	бредовый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	conj	_	_
+12	синдромами	синдром	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+13	религиоз	религиоз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+14	‑	‑	PUNCT	_	_	13	punct	_	_
+15	ного	ный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	содержания	содержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+17	подлежали	подлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	мучи	муча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	21	punct	_	_
+20	тельным	тельный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	_
+21	пыткам	пытка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	18	appos	_	_
+22	и	и	CCONJ	_	_	24	cc	_	_
+23	устрашающей	устрашать	VERB	_	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	amod	_	_
+24	казни	казнь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
+25	;	;	PUNCT	_	_	21	punct	_	_
+26	3	3	NUM	_	_	29	nummod	_	SpaceAfter=No
+27	)	)	PUNCT	_	_	26	punct	_	_
+28	определяющие	определять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	29	amod	_	_
+29	невменяе	невменяе	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	conj	_	SpaceAfter=No
+30	‑	‑	PUNCT	_	_	31	punct	_	_
+31	мость	мость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	conj	_	_
+32	при	при	ADP	_	_	33	case	_	_
+33	совершении	совершение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	31	nmod	_	_
+34	незначитель	незначитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
+35	‑	‑	PUNCT	_	_	37	punct	_	_
+36	ных	ный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	37	amod	_	_
+37	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	но	но	CCONJ	_	_	42	cc	_	_
+40	предопреде	предопреда	ADV	_	Degree=Pos	42	advmod	_	SpaceAfter=No
+41	‑	‑	PUNCT	_	_	42	punct	_	_
+42	ляющие	лять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	conj	_	_
+43	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	42	obj	_	_
+44	в	в	ADP	_	_	45	case	_	_
+45	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	42	obl	_	_
+46	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	45	nmod	_	_
+47	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	46	nmod	_	_
+48	против	против	ADP	_	_	49	case	_	_
+49	царя	царь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	_
+50	или	или	CCONJ	_	_	51	cc	_	_
+51	членов	член	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	49	conj	_	_
+52	его	его	DET	_	_	53	det	_	_
+53	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	51	nmod	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	42	punct	_	_
+55	Рос	Рос	ADJ	_	Degree=Pos	42	obl	_	SpaceAfter=No
+56	‑	‑	PUNCT	_	_	55	punct	_	_
+57	сийского	сийский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	58	amod	_	_
+58	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	55	nmod	_	SpaceAfter=No
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	православ	православа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	58	conj	_	SpaceAfter=No
+61	‑	‑	PUNCT	_	_	63	punct	_	_
+62	ной	ный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	63	amod	_	_
+63	церкви	церковь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	58	conj	_	SpaceAfter=No
+64	,	,	PUNCT	_	_	69	punct	_	_
+65	а	а	CCONJ	_	_	69	cc	_	_
+66	также	также	PART	_	_	65	fixed	_	_
+67	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	69	amod	_	_
+68	тяжких	тяжкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	69	amod	_	_
+69	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	58	conj	_	_
+70	(	(	PUNCT	_	_	71	punct	_	SpaceAfter=No
+71	отцеубийство	отцеубийство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	69	parataxis	_	_
+72	и	и	CCONJ	_	_	73	cc	_	_
+73	др.	др	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	71	conj	_	SpaceAfter=No
+74	)6	)6	X	_	Foreign=Yes	73	flat:foreign	_	SpaceAfter=No
+75	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 4
+# text = К такой нервно-психической патоло‑ гии относилась, например, эпилеп‑ сия (падучая болезнь).
+1	К	к	ADP	_	_	4	case	_	_
+2	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	4	det	_	_
+3	нервно-психической	нервно-психический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	патоло	патоло	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	гии	гия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	относилась	относиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	например	например	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	эпилеп	эпилеп	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+12	‑	‑	PUNCT	_	_	13	punct	_	_
+13	сия	сия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	appos	_	_
+14	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	падучая	падучий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	болезнь	болезнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 5
+# text = Развитие медицинских взглядов в середине XVII в. привело к тому, что в 1667 г. в отечественном праве с учетом мнения придворных вра‑ чей появилось новое положение о невменяемости больного со слабо‑ умием: "А ежели кто есть юроди‑ вый от рождения... помиловати то‑ го подобает, человеколюбия ради".
+1	Развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+2	медицинских	медицинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	_
+6	XVII	xvii	NUM	_	_	7	nummod	_	_
+7	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+9	привело	привести	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	что	что	SCONJ	_	_	16	mark	_	_
+14	в	в	ADP	_	_	16	case	_	_
+15	1667	1667	NUM	_	_	16	nummod	_	_
+16	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	acl	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	отечественном	отечественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+20	с	с	ADP	_	_	21	case	_	_
+21	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	_
+22	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	придворных	придворный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	вра	вр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	27	punct	_	_
+26	чей	чей	DET	_	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+27	появилось	появиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	24	acl:relcl	_	_
+28	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+30	о	о	ADP	_	_	31	case	_	_
+31	невменяемости	невменяемость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	nmod	_	_
+32	больного	больной	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+33	со	с	ADP	_	_	34	case	_	_
+34	слабо	слабо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+35	‑	‑	PUNCT	_	_	36	punct	_	_
+36	умием	умие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	34	conj	_	SpaceAfter=No
+37	:	:	PUNCT	_	_	36	punct	_	_
+38	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+39	А	а	CCONJ	_	_	42	cc	_	_
+40	ежели	ежели	SCONJ	_	_	42	mark	_	_
+41	кто	кто	PRON	_	Case=Nom	42	nsubj	_	_
+42	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	parataxis	_	_
+43	юроди	юродь	ADV	_	Degree=Pos	42	advmod	_	SpaceAfter=No
+44	‑	‑	PUNCT	_	_	42	punct	_	_
+45	вый	вый	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	52	acl	_	_
+46	от	от	ADP	_	_	47	case	_	_
+47	рождения	рождение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	45	obl	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	47	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	47	punct	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	45	punct	_	_
+51	помиловати	помиловати	ADV	_	Degree=Pos	55	advmod	_	_
+52	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	42	nsubj	_	SpaceAfter=No
+53	‑	‑	PUNCT	_	_	52	punct	_	_
+54	го	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	52	amod	_	_
+55	подобает	добать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	52	acl	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	57	punct	_	_
+57	человеколюбия	человеколюбие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	55	obl	_	_
+58	ради	ради	ADP	_	_	57	case	_	SpaceAfter=No
+59	"	"	PUNCT	_	_	57	punct	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 6
+# text = В 1669 г. в "Новоуказных статьях о татьбах, разбойных и убийственных делах" говорилось, что "ежели бес‑ ный смерть причинит", то "не по‑ винен будет он в смерти"7.
+1	В	в	ADP	_	_	3	case	_	_
+2	1669	1669	NUM	_	_	3	nummod	_	_
+3	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	16	obl	_	_
+4	в	в	ADP	_	_	7	case	_	_
+5	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	Новоуказных	Новоуказный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	amod	_	_
+7	статьях	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	16	obl	_	_
+8	о	о	ADP	_	_	9	case	_	_
+9	татьбах	татьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	разбойных	разбойный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	14	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	убийственных	убийственный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	11	conj	_	_
+14	делах	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	9	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	7	punct	_	_
+16	говорилось	говорить	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	что	что	SCONJ	_	_	21	mark	_	_
+19	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	ежели	ежели	SCONJ	_	_	21	mark	_	_
+21	бес	бо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	ccomp	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	25	punct	_	_
+23	ный	ный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	_
+25	причинит	причинить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	21	parataxis	_	SpaceAfter=No
+26	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	33	punct	_	_
+28	то	то	SCONJ	_	_	33	mark	_	_
+29	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
+30	не	не	PART	_	_	33	advmod	_	_
+31	по	по	ADP	_	_	33	case	_	SpaceAfter=No
+32	‑	‑	PUNCT	_	_	31	punct	_	_
+33	винен	винен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	25	conj	_	_
+34	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	cop	_	_
+35	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	33	nsubj	_	_
+36	в	в	ADP	_	_	37	case	_	_
+37	смерти	смерть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	obl	_	SpaceAfter=No
+38	"	"	PUNCT	_	_	39	punct	_	SpaceAfter=No
+39	7	7	NUM	_	_	37	nummod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 7
+# text = При под‑ готовке этого Уложения были ис‑ пользованы достижения правовой и медицинской наук Византии и Во‑ сточной Европы.
+1	При	при	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+2	под	под	ADP	_	_	8	case	_	SpaceAfter=No
+3	‑	‑	PUNCT	_	_	8	punct	_	_
+4	готовке	готовка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	iobj	_	_
+5	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	6	det	_	_
+6	Уложения	Уложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	ис	йоктосекунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	8	punct	_	_
+10	пользованы	пользовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	достижения	достижение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj:pass	_	_
+12	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	медицинской	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	_	_
+15	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+16	Византии	Византия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+17	и	и	CCONJ	_	_	21	cc	_	_
+18	Во	Во	ADP	_	_	21	case	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	18	punct	_	_
+20	сточной	сточный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 8
+# text = По нашему мнению, в тот историко-медицинский пери‑ од к "бесом одержимым" относи‑
+1	По	по	ADP	_	_	3	case	_	_
+2	нашему	наш	DET	_	Case=Dat|Gender=Neut|Number=Sing	3	det	_	_
+3	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	в	в	ADP	_	_	10	case	_	_
+6	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+7	историко	исторический	ADJ	_	Degree=Pos	9	compound	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	медицинский	медицинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	пери	перь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	10	punct	_	_
+12	од	один	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+13	к	к	ADP	_	_	15	case	_	_
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	бесом	бес	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	obl	_	_
+16	одержимым	одержимый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	18	punct	_	_
+18	относи	относь	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	18	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 9
+# text = лись больные не только с бредовыми идеями религиозного содержания, но и с другой тяжелой нервно-пси‑ хической патологией.
+1	лись	ться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+2	больные	больной	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
+3	не	не	PART	_	_	4	advmod	_	_
+4	только	только	PART	_	_	7	advmod	_	_
+5	с	с	ADP	_	_	7	case	_	_
+6	бредовыми	бредовый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	идеями	идея	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	1	obl	_	_
+8	религиозного	религиозный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	содержания	содержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	но	но	CCONJ	_	_	16	cc	_	_
+12	и	и	PART	_	_	11	advmod	_	_
+13	с	с	ADP	_	_	16	case	_	_
+14	другой	другой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+15	тяжелой	тяжелый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	нервно-пси	нервно-пси	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+17	‑	‑	PUNCT	_	_	19	punct	_	_
+18	хической	хический	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	патологией	патология	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	appos	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = Однако исто‑ рические документы XVIII в. при‑ водят примеры жесткого наказания больных.
+1	Однако	однако	ADV	_	Degree=Pos	11	advmod	_	_
+2	исто	исть	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+3	‑	‑	PUNCT	_	_	2	punct	_	_
+4	рические	рический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	документы	документ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+6	XVIII	xviii	NUM	_	_	7	nummod	_	_
+7	в	в	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	при	при	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	9	punct	_	_
+11	водят	водить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	примеры	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
+13	жесткого	жесткий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	больных	больной	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 11
+# text = Так, в 1671 г., был повешен по решению суда душевнобольной И. Клеопин.
+1	Так	так	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	1671	1671	NUM	_	_	5	nummod	_	_
+5	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	aux:pass	_	_
+8	повешен	вешать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	решению	решение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+11	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	душевнобольной	душевнобольный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+13	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+14	Клеопин	Клеопин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 12
+# text = В 1697 г. к "наказанию кнутом" был приговорен О. Моисеев, хотя был "в неуме, дураковат, нем и глух"8.
+1	В	в	ADP	_	_	3	case	_	_
+2	1697	1697	NUM	_	_	3	nummod	_	_
+3	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+4	к	к	ADP	_	_	6	case	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	наказанию	наказание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	_
+7	кнутом	кнут	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	6	punct	_	_
+9	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	aux:pass	_	_
+10	приговорен	приговорить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+11	О.	О.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+12	Моисеев	Моисеев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	хотя	хотя	SCONJ	_	_	15	mark	_	_
+15	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
+16	"	"	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	в	в	ADP	_	_	18	case	_	_
+18	неуме	неум	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	дураковат	дураковат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
+23	и	и	PART	_	_	24	advmod	_	_
+24	глух	глухой	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	8	8	NUM	_	_	24	nummod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 13
+# text = Первое наиболее известное меди‑ цинское обследование подсудимого в отечественном судопроизводстве описано в 1690 г., когда был освиде‑ тельствован неизвестный, называв‑ ший себя сыном царя Ивана IV Ва‑ сильевича.
+1	Первое	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	наиболее	наиболее	ADV	_	Degree=Pos	3	obl	_	_
+3	известное	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	меди	медь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	parataxis	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	цинское	цинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	обследование	обследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+8	подсудимого	подсудимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	отечественном	отечественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	судопроизводстве	судопроизводство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+12	описано	описать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	1690	1690	NUM	_	_	15	nummod	_	_
+15	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	когда	когда	SCONJ	_	_	19	mark	_	_
+18	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+19	освиде	освиде	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
+20	‑	‑	PUNCT	_	_	21	punct	_	_
+21	тельствован	тельствован	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	19	conj	_	_
+22	неизвестный	неизвестный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	21	nsubj:pass	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	называв	называть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	21	advcl	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	ший	нуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	24	conj	_	_
+27	себя	себя	PRON	_	Case=Acc	26	obj	_	_
+28	сыном	сын	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	26	obl	_	_
+29	царя	царь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	Ивана	Иван	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	appos	_	_
+31	IV	iv	NUM	_	_	32	nummod	_	_
+32	Ва	В	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	28	appos	_	SpaceAfter=No
+33	‑	‑	PUNCT	_	_	32	punct	_	_
+34	сильевича	сильевича	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	32	flat:name	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 14
+# text = Для этого были пригла‑ шены три выпускника медицинских факультетов европейских универ‑ ситетов, служившие врачами при русском дворе.
+1	Для	для	ADP	_	_	2	case	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	obl	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	пригла	причь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	6	punct	_	_
+6	шены	сить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
+7	три	три	NUM	_	Case=Nom	8	nummod:gov	_	_
+8	выпускника	выпускник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+9	медицинских	медицинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	факультетов	факультет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	европейских	европейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	универ	универ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	10	punct	_	_
+14	ситетов	ситет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	служившие	служить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	_
+17	врачами	врач	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	16	obl	_	_
+18	при	при	ADP	_	_	20	case	_	_
+19	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 15
+# text = Они написали свое заключение о психическом заболе‑ вании подсудимого на латинском языке — языке римского права9.
+1	Они	они	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	написали	писать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+4	заключение	заключение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	психическом	психический	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	заболе	забол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+8	‑	‑	PUNCT	_	_	9	punct	_	_
+9	вании	вание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	parataxis	_	_
+10	подсудимого	подсудимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	15	acl	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	латинском	латинский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+14	—	—	PUNCT	_	_	10	punct	_	_
+15	языке	язык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	conj	_	_
+16	римского	римский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	права9	права9	NUM	_	_	15	nummod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 16
+# text = Соборное уложение царя Алек‑ сея Михайловича (с "новоуказан‑ ными статьями"), действовавшее по‑ чти 200 лет, было существенно из‑ менено в ходе Петровских реформ, роста влияния представителей ев‑ ропейской медицины при русском дворе.
+1	Соборное	соборный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	уложение	уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+3	царя	царь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Алек	Алек	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	сея	сей	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
+7	Михайловича	Михайлович	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	с	с	ADP	_	_	11	case	_	_
+10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	новоуказан	новоуказан	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	parataxis	_	SpaceAfter=No
+12	‑	‑	PUNCT	_	_	11	punct	_	_
+13	ными	ный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	_
+14	статьями	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	действовавшее	действовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	_
+19	по	по	ADP	_	_	18	obj	_	SpaceAfter=No
+20	‑	‑	PUNCT	_	_	19	punct	_	_
+21	чти	чть	NUM	_	Case=Gen	20	nummod	_	_
+22	200	200	NUM	_	_	23	nummod	_	_
+23	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	18	punct	_	_
+25	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
+26	существенно	существенный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+27	из	из	ADP	_	_	29	case	_	SpaceAfter=No
+28	‑	‑	PUNCT	_	_	27	punct	_	_
+29	менено	менить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	26	xcomp	_	_
+30	в	в	ADP	_	_	33	case	_	_
+31	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	fixed	_	_
+32	Петровских	петровский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	33	amod	_	_
+33	реформ	реформа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	роста	рост	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	33	conj	_	_
+36	влияния	влияние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	_
+37	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
+38	ев	й	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	SpaceAfter=No
+39	‑	‑	PUNCT	_	_	41	punct	_	_
+40	ропейской	ропейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	_
+41	медицины	медицина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	_
+42	при	при	ADP	_	_	44	case	_	_
+43	русском	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	44	amod	_	_
+44	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	nmod	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = 17
+# text = Артикул 1716 г., утвержден‑ ный Петром I Алексеевичем в Дан‑ циге, — это первый отечественный закон, оценивающий злодеяния ду‑ шевнобольных с учетом положений европейской медицинской науки то‑ го времени.
+1	Артикул	Артикулы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+2	1716	1716	NUM	_	_	3	nummod	_	_
+3	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	утвержден	утвердить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+6	‑	‑	PUNCT	_	_	8	punct	_	_
+7	ный	ный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	Петром	Петр	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl	_	_
+9	I	i	NUM	_	_	8	nummod	_	_
+10	Алексеевичем	Алексеевич	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	Дан	дан	PROPN	_	_	14	nmod	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	12	punct	_	_
+14	циге	цига	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	—	—	PUNCT	_	_	20	punct	_	_
+17	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+18	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+19	отечественный	отечественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	закон	закон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	оценивающий	оценивать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+23	злодеяния	злодеяние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+24	ду	д	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	шевнобольных	шевнобольный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	parataxis	_	_
+27	с	с	ADP	_	_	28	case	_	_
+28	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	33	nmod	_	_
+29	положений	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	_
+30	европейской	европейский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+31	медицинской	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+33	то	тот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	nsubj:pass	_	SpaceAfter=No
+34	‑	‑	PUNCT	_	_	33	punct	_	_
+35	го	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 18
+# text = Царь сам написал тол‑ кование к артикулу 195: "Если кто ... в лишении ума воровство учинит, то наказание умаляется или даже весьма отстраняется"10.
+1	Царь	царь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	obl	_	_
+3	написал	писать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	тол	тол	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	6	punct	_	_
+6	кование	кование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	appos	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	артикулу	артикула	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
+9	195	195	NUM	_	_	8	nummod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	6	punct	_	_
+11	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+12	Если	если	SCONJ	_	_	21	mark	_	_
+13	кто	кто	PRON	_	Case=Nom	21	nsubj	_	_
+14	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	лишении	лишение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	_
+19	ума	ум	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	воровство	воровство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+21	учинит	учинить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	25	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	то	то	SCONJ	_	_	25	mark	_	_
+24	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	_
+25	умаляется	умаляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	parataxis	_	_
+26	или	или	CCONJ	_	_	29	cc	_	_
+27	даже	даже	PART	_	_	29	advmod	_	_
+28	весьма	весьма	ADV	_	Degree=Pos	29	advmod	_	_
+29	отстраняется	отстраняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	conj	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+31	10	10	NUM	_	_	25	nummod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 19
+# text = В тот исто‑ рический период под воровством по‑ нимались все преступления.
+1	В	в	ADP	_	_	3	case	_	_
+2	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	исто	исто	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+4	‑	‑	PUNCT	_	_	3	punct	_	_
+5	рический	рический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+7	под	под	ADP	_	_	8	case	_	_
+8	воровством	воровство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+9	по	по	ADP	_	_	11	case	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	9	punct	_	_
+11	нимались	ниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+12	все	весь	DET	_	Case=Acc|Number=Plur	13	det	_	_
+13	преступления	преступление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 20
+# text = Одна‑ ко по делу бывшего офицера Левина
+1	Одна	один	DET	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	‑	‑	PUNCT	_	_	1	punct	_	_
+3	ко	ко	ADV	_	Degree=Pos	5	advmod	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	делу	дело	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
+6	бывшего	бывший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	офицера	офицер	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	Левина	Левин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 21
+# text = 6 См.: Барышев С. И. Общие начала тео‑ рии и законодательства о преступлениях и наказаниях.
+1	6	6	NUM	_	_	2	nummod	_	_
+2	См.	См.	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	Барышев	Барышев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	_
+5	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	Общие	общий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	начала	начало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	appos	_	_
+9	тео	тео	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	11	punct	_	_
+11	рии	рия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	законодательства	законодательств	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	conj	_	_
+14	о	о	ADP	_	_	15	case	_	_
+15	преступлениях	преступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	13	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	наказаниях	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	15	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = М., 1841.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1841	1841	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 23
+# text = С. 42—44.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	42	42	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	—	—	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	44	44	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 24
+# text = 7 Морозов Г. В., Лунц Д. Р., Фе лин­ ская Н. И. Основные этапы развития оте‑ чественной судебной психиатрии.
+1	7	7	NUM	_	_	2	nummod	_	_
+2	Морозов	мороз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	Лунц	Лунц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+7	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Фе	Фе	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	conj	_	_
+11	лин­	лин­	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	ская	ский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	Н.	Н.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+14	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	flat:name	_	_
+15	Основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	этапы	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	appos	_	_
+17	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	оте	от	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	16	acl	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	18	punct	_	_
+20	чественной	чественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+21	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 25
+# text = М., 1976.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1976	1976	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 26
+# text = С. 38—47.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	38	38	NUM	_	_	0	root	_	SpaceAfter=No
+4	—	—	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	47	47	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = Барышев С. И. Указ. соч. С. 72. См.: Морозов Г. В., Лунц Д. Р., Фелин­ ская Н. И. Указ. соч. С. 56. 10 Лунц Д. Р. Проблемы невменяемости в теории и практике судебной психиатрии.
+1	Барышев	Барышев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+6	соч.	сочтраница	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+7	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	flat:name	_	_
+8	72	72	NUM	_	_	6	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+10	См.	См.	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	Морозов	мороз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	_
+13	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+14	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	Лунц	Лунц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+17	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	Фелин­	Фелин­	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	_
+21	ская	ский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	Н.	Н.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+23	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	22	flat:name	_	_
+24	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	flat:name	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	22	punct	_	_
+26	соч	соч	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	parataxis	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	_
+28	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	26	appos	_	_
+29	56	56	NUM	_	_	28	nummod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	29	punct	_	_
+31	10	10	NUM	_	_	29	nummod	_	_
+32	Лунц	Лунц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	_
+33	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	_
+34	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	_
+35	Проблемы	Проблема	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+36	невменяемости	невменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	nmod	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	теории	теория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	36	nmod	_	_
+39	и	и	CCONJ	_	_	40	cc	_	_
+40	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	conj	_	_
+41	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+42	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 28
+# text = М., 1966.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1966	1966	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 29
+# text = С. 28. 9
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	28	28	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+4	9	9	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = Уголовное право и криминология
+1	Уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	криминология	криминология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = 1722 г., ушедшего в монастырь, кото‑ рый рассказывал "около церкви и на торговой площади" о том, что Петр I "есть Антихрист, пришедший на Святую Русь", монаха признали ду‑ шевнобольным, но "вора" предали смертной казни11.
+1	1722	1722	NUM	_	_	2	nummod	_	_
+2	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ушедшего	уйти	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	монастырь	монастырь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	кото	кото	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	4	punct	_	_
+10	рый	рый	PRON	_	Case=Acc	11	obj	_	_
+11	рассказывал	рассказывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	около	около	ADP	_	_	14	case	_	_
+14	церкви	церковь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	_
+15	и	и	CCONJ	_	_	18	cc	_	_
+16	на	на	ADP	_	_	18	case	_	_
+17	торговой	торговый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	площади	площадь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
+19	"	"	PUNCT	_	_	21	punct	_	_
+20	о	о	ADP	_	_	21	case	_	_
+21	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	_
+23	что	что	SCONJ	_	_	27	mark	_	_
+24	Петр	Петр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+25	I	i	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	_
+26	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+27	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl	_	_
+28	Антихрист	Антихрист	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	пришедший	прийти	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	28	acl	_	_
+31	на	на	ADP	_	_	33	case	_	_
+32	Святую	святой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	Русь	Русь	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+34	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	30	punct	_	_
+36	монаха	монах	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	37	obj	_	_
+37	признали	признать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	28	acl:relcl	_	_
+38	ду	д	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	obj	_	SpaceAfter=No
+39	‑	‑	PUNCT	_	_	48	punct	_	_
+40	шевнобольным	шевнобольный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	48	acl	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	46	punct	_	_
+42	но	но	CCONJ	_	_	46	cc	_	_
+43	"	"	PUNCT	_	_	44	punct	_	SpaceAfter=No
+44	вора	вор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	46	nsubj	_	SpaceAfter=No
+45	"	"	PUNCT	_	_	44	punct	_	_
+46	предали	предать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	40	conj	_	_
+47	смертной	смертный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	48	amod	_	_
+48	казни11	казни11	NOUN	_	_	38	appos	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 32
+# text = Александр I Павлович, внук Ека‑ терины II, воспитывавшей его на уважении к Петровскому насле‑ дию, европейским гуманистическим принципам, стал инициатором при‑ нятия ряда актов, основанных на научных взглядах конца XVIII — начала XIX в.
+1	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+2	I	I	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Павлович	Павлович	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	внук	внук	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Ека	ека	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	6	punct	_	_
+8	терины	терина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	II	ii	NUM	_	_	8	nummod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	воспитывавшей	воспитывать	VERB	_	Aspect=Perf|Case=Ins|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	25	xcomp	_	_
+12	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obj	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	уважении	уважение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	25	obl	_	_
+15	к	к	ADP	_	_	16	case	_	_
+16	Петровскому	Петровский	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	14	nmod	_	_
+17	насле	насло	ADV	_	Degree=Pos	25	advmod	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	17	punct	_	_
+19	дию	дия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	европейским	европейский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	amod	_	_
+22	гуманистическим	гуманистический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	23	amod	_	_
+23	принципам	принцип	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	19	iobj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	19	punct	_	_
+25	стал	стать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+26	инициатором	инициатор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	25	obl	_	_
+27	при	при	ADP	_	_	29	case	_	SpaceAfter=No
+28	‑	‑	PUNCT	_	_	27	punct	_	_
+29	нятия	нятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+30	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+31	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	33	punct	_	_
+33	основанных	основать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	_
+34	на	на	ADP	_	_	36	case	_	_
+35	научных	научный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	36	amod	_	_
+36	взглядах	взгляд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	33	obl	_	_
+37	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	_
+38	XVIII	xviii	NUM	_	_	37	nummod	_	_
+39	—	—	PUNCT	_	_	38	punct	_	_
+40	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	_
+41	XIX	xix	NUM	_	_	42	nummod	_	_
+42	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 33
+# text = 23 апреля 1801 г. он подписал Указ "О непредании суду людей, поврежденных в уме, учи‑ нивших смертоубийство в сем со‑ стоянии".
+1	23	23	NUM	_	_	6	nummod	_	_
+2	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	1801	1801	NUM	_	_	4	nummod	_	_
+4	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+6	подписал	подписать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
+8	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+9	О	о	ADP	_	_	10	case	_	_
+10	непредании	непредание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	appos	_	_
+11	суду	суд	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+12	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	поврежденных	повреждеть	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	уме	ум	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	14	punct	_	_
+18	учи	учь	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	18	punct	_	_
+20	нивших	нить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	xcomp	_	_
+21	смертоубийство	смертоубийство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	сем	се	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	obl	_	_
+24	со	с	ADP	_	_	26	case	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	стоянии	стояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34
+# text = Указ требовал, что таких больных "через врачебную управу следует удостоверять", а при под‑ тверждении тяжелого психическо‑ го заболевания госпитализировать "в дома для безумных"12 .
+1	Указ	указ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	требовал	требовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	что	что	SCONJ	_	_	11	mark	_	_
+5	таких	такой	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	больных	больной	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	obl	_	_
+7	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+8	через	через	ADP	_	_	10	case	_	_
+9	врачебную	врачебный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	управу	управа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	_
+11	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+12	удостоверять	удостоверять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	11	csubj	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	а	а	CCONJ	_	_	19	cc	_	_
+16	при	при	ADP	_	_	19	case	_	_
+17	под	под	ADP	_	_	19	case	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	19	punct	_	_
+19	тверждении	тверждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	conj	_	_
+20	тяжелого	тяжелый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+21	психическо	психический	ADJ	_	Degree=Pos	20	conj	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	21	punct	_	_
+23	го	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	заболевания	заболевание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nsubj	_	_
+25	госпитализировать	госпитализировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	24	obl	_	_
+26	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+27	в	в	ADP	_	_	28	case	_	_
+28	дома	дом	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	25	obl	_	_
+29	для	для	ADP	_	_	32	case	_	_
+30	безумных	безумный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	32	amod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	12	12	NUM	_	_	28	nummod	_	_
+33	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 35
+# text = Под влиянием этого Указа в сере‑ дине XIX в. в русской научной ли‑ тературе появилось понятие "невме‑ няемость".
+1	Под	под	ADP	_	_	2	case	_	_
+2	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	_
+3	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	4	det	_	_
+4	Указа	указ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	сере	сер	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	8	punct	_	_
+8	дине	дина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	XIX	xix	NUM	_	_	10	nummod	_	_
+10	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	в	в	ADP	_	_	16	case	_	_
+12	русской	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+13	научной	научный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+14	ли	ли	PART	_	_	13	advmod	_	SpaceAfter=No
+15	‑	‑	PUNCT	_	_	13	punct	_	_
+16	тературе	тература	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	17	obl	_	_
+17	появилось	появиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	acl:relcl	_	_
+18	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	невме	невм	X	_	Foreign=Yes	18	flat:foreign	_	SpaceAfter=No
+21	‑	‑	PUNCT	_	_	22	punct	_	_
+22	няемость	няемость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	appos	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 36
+# text = Все преступления были подразделены на вменяемые для психически здоровых и невменяе‑ мые для душевнобольных13.
+1	Все	весь	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	преступления	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj:pass	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	подразделены	подраздеить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	на	на	ADP	_	_	6	mark	_	_
+6	вменяемые	вменяемый	VERB	_	Animacy=Inan|Aspect=Imp|Case=Acc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	xcomp	_	_
+7	для	для	ADP	_	_	9	case	_	_
+8	психически	психически	ADV	_	Degree=Pos	9	obl	_	_
+9	здоровых	здоровый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	obl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	невменяе	невменяй	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	conj	_	SpaceAfter=No
+12	‑	‑	PUNCT	_	_	13	punct	_	_
+13	мые	мой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	conj	_	_
+14	для	для	ADP	_	_	15	case	_	_
+15	душевнобольных13	душевнобольных13	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 37
+# text = Один из наиболее образованных людей своего времени, видный го‑ сударственный деятель М. М. Спе‑ ранский, начавший свою службу при Александре I, весьма интересовал‑ ся не только общественными наука‑ ми, но и медициной, что нашло отра‑ жение в ст. 365 и 366 Свода законов 1832 г., подготовленного под его ру‑ ководством.
+1	Один	один	NUM	_	Case=Nom|Gender=Masc	28	nsubj	_	_
+2	из	из	ADP	_	_	5	case	_	_
+3	наиболее	наиболее	ADV	_	Degree=Pos	4	obl	_	_
+4	образованных	образованный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+6	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	7	det	_	_
+7	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	видный	видный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+10	го	й	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	10	punct	_	_
+12	сударственный	сударственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	деятель	деятель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+14	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+15	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	Спе	Спе	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	SpaceAfter=No
+17	‑	‑	PUNCT	_	_	18	punct	_	_
+18	ранский	ранский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	acl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	начавший	начать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	18	conj	_	_
+21	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	22	det	_	_
+22	службу	служба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+23	при	при	ADP	_	_	24	case	_	_
+24	Александре	Александр	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	20	obl	_	_
+25	I	i	NUM	_	_	24	nummod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	20	punct	_	_
+27	весьма	весьма	ADV	_	Degree=Pos	28	advmod	_	_
+28	интересовал	интересовать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+29	‑	‑	PUNCT	_	_	30	punct	_	_
+30	ся	ся	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	28	conj	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	только	только	PART	_	_	33	advmod	_	_
+33	общественными	общественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	30	obl	_	_
+34	наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	33	conj	_	SpaceAfter=No
+35	‑	‑	PUNCT	_	_	34	punct	_	_
+36	ми	й	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	34	amod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	40	punct	_	_
+38	но	но	CCONJ	_	_	40	cc	_	_
+39	и	и	PART	_	_	38	advmod	_	_
+40	медициной	медицин	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	что	что	PRON	_	Case=Nom	43	nsubj	_	_
+43	нашло	найти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	40	acl:relcl	_	_
+44	отра	отр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	43	obl	_	SpaceAfter=No
+45	‑	‑	PUNCT	_	_	46	punct	_	_
+46	жение	жение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	43	obl	_	_
+47	в	в	ADP	_	_	48	case	_	_
+48	ст	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	46	nmod	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	48	punct	_	_
+50	365	365	NUM	_	_	53	nummod	_	_
+51	и	и	CCONJ	_	_	52	cc	_	_
+52	366	366	NUM	_	_	50	conj	_	_
+53	Свода	Свода	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	48	nmod	_	_
+54	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	53	nmod	_	_
+55	1832	1832	NUM	_	_	56	nummod	_	_
+56	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	58	punct	_	_
+58	подготовленного	подготовить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	46	acl	_	_
+59	под	под	ADP	_	_	61	case	_	_
+60	его	его	DET	_	_	61	det	_	_
+61	ру	р	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	58	obl	_	SpaceAfter=No
+62	‑	‑	PUNCT	_	_	61	punct	_	_
+63	ководством	ководство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	58	obl	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = 38
+# text = В Своде было записано, что преступление, "учиненное в без‑ умии и сумасшествии, не вменяется в вину"14.
+1	В	в	ADP	_	_	2	case	_	_
+2	Своде	Свод	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	записано	записать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	19	punct	_	_
+6	что	что	SCONJ	_	_	19	mark	_	_
+7	преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	учиненное	учинить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
+11	в	в	ADP	_	_	14	case	_	_
+12	без	без	ADP	_	_	14	case	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	14	punct	_	_
+14	умии	умия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	сумасшествии	сумасшествие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	10	punct	_	_
+18	не	не	PART	_	_	19	advmod	_	_
+19	вменяется	вменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	вину	вино	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	14	14	NUM	_	_	21	nummod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 39
+# text = Следующий этап развития ме‑ дицинских и правовых взглядов на
+1	Следующий	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+3	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	ме	м	X	_	Foreign=Yes	3	flat:foreign	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	9	punct	_	_
+6	дицинских	дицинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	правовых	правовой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	conj	_	_
+9	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+10	на	на	ADP	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = психическое здоровье преступника связан с царствованием Николая I Павловича, последнего внука Ека‑ терины II, родившегося при ее жиз‑ ни.
+1	психическое	психический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	здоровье	здоровье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+3	преступника	преступник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	царствованием	царствование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+7	Николая	Николай	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	I	i	NUM	_	_	7	nummod	_	_
+9	Павловича	Павлович	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	внука	внук	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	appos	_	_
+13	Ека	ека	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	‑	‑	PUNCT	_	_	15	punct	_	_
+15	терины	терина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	parataxis	_	_
+16	II	ii	NUM	_	_	15	nummod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	родившегося	рождаться	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	15	acl	_	_
+19	при	при	ADP	_	_	21	case	_	_
+20	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	21	nmod	_	_
+21	жиз	жиз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	21	punct	_	_
+23	ни	ни	PART	_	_	18	advmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41
+# text = Николай I утвердил 15 августа 1845 г.
+1	Николай	Николай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	I	i	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	утвердил	утвердить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	15	15	NUM	_	_	3	nummod	_	_
+5	августа	август	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	flat	_	_
+6	1845	1845	NUM	_	_	7	nummod	_	_
+7	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 42
+# text = Уложение о наказаниях.
+1	Уложение	уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	наказаниях	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = Ста‑ тьи 95, 96, 97 Уложения сформули‑ ровали невменение преступления, которое совершено "сумасшедшим или безумным от рождения", если больной во время его совершения не мог осознавать "противозаконность и само свойство своего деяния".
+1	Ста	Ста	NUM	_	Case=Gen	12	nummod	_	SpaceAfter=No
+2	‑	‑	PUNCT	_	_	4	punct	_	_
+3	тьи	тей	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	95	95	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	96	96	NUM	_	_	1	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	97	97	NUM	_	_	10	nummod	_	_
+9	Уложения	Уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
+10	сформули	сформуть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	1	punct	_	_
+12	ровали	ровать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+13	невменение	невменение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которое	который	PRON	_	Case=Nom	17	nsubj:pass	_	_
+17	совершено	совершить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
+18	"	"	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	сумасшедшим	сумасшедший	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	17	iobj	_	_
+20	или	или	CCONJ	_	_	21	cc	_	_
+21	безумным	безумный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	19	conj	_	_
+22	от	от	ADP	_	_	23	case	_	_
+23	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+24	"	"	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	33	punct	_	_
+26	если	если	SCONJ	_	_	33	mark	_	_
+27	больной	больной	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
+28	во	во	ADP	_	_	31	case	_	_
+29	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	28	fixed	_	_
+30	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
+31	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	33	obl	_	_
+32	не	не	PART	_	_	33	advmod	_	_
+33	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	_
+34	осознавать	осознавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	33	xcomp	_	_
+35	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+36	противозаконность	противозаконность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	obl	_	_
+37	и	и	CCONJ	_	_	39	cc	_	_
+38	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	39	amod	_	_
+39	свойство	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	36	conj	_	_
+40	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	41	det	_	_
+41	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	39	nmod	_	SpaceAfter=No
+42	"	"	PUNCT	_	_	36	punct	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 44
+# text = Тя‑ желые хронические психические заболевания и "врожденное слабо‑ умие" были предусмотрены ст. 95; острые психотические состояния — ст. 96.
+1	Тя	тя	SCONJ	_	_	15	mark	_	SpaceAfter=No
+2	‑	‑	PUNCT	_	_	1	punct	_	_
+3	желые	желый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+4	хронические	хронический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+5	психические	психический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	заболевания	заболевание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	nsubj:pass	_	_
+7	и	и	CCONJ	_	_	12	cc	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	врожденное	врождеть	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+10	слабо	слабо	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	12	punct	_	_
+12	умие	умие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	6	punct	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
+15	предусмотрены	предусмотреть	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+16	ст	статья	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	95	95	NUM	_	_	16	nummod	_	SpaceAfter=No
+19	;	;	PUNCT	_	_	16	punct	_	_
+20	острые	острый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+21	психотические	психотический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	состояния	состояние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	conj	_	_
+23	—	—	PUNCT	_	_	24	punct	_	_
+24	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	22	parataxis	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	24	punct	_	_
+26	96	96	NUM	_	_	24	nummod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 45
+# text = Согласно Уложению врачу, осматривающему подсудимого, по‑ лагалось исследовать вопрос, мог ли больной во время совершения пре‑ ступления понимать "противозакон‑ ность и само свойство своего поведе‑ ния"15.
+1	Согласно	согласно	ADP	_	_	2	case	_	_
+2	Уложению	Уложение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	obl	_	_
+3	врачу	врач	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	осматривающему	осматривать	VERB	_	Aspect=Imp|Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	_
+6	подсудимого	подсудимый	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	по	по	ADP	_	_	10	case	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	8	punct	_	_
+10	лагалось	лагаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	исследовать	исследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	_
+12	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	_
+15	ли	ли	PART	_	_	14	advmod	_	_
+16	больной	больной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	nsubj	_	_
+17	во	во	ADP	_	_	19	case	_	_
+18	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	fixed	_	_
+19	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
+20	пре	про	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	23	iobj	_	SpaceAfter=No
+21	‑	‑	PUNCT	_	_	22	punct	_	_
+22	ступления	ступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	obl	_	_
+23	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+24	"	"	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	противозакон	противозакон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+26	‑	‑	PUNCT	_	_	27	punct	_	_
+27	ность	ность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	conj	_	_
+28	и	и	CCONJ	_	_	30	cc	_	_
+29	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	свойство	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	conj	_	_
+31	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	32	det	_	_
+32	поведе	поведа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	30	iobj	_	SpaceAfter=No
+33	‑	‑	PUNCT	_	_	34	punct	_	_
+34	ния	ние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	30	parataxis	_	SpaceAfter=No
+35	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
+36	15	15	NUM	_	_	34	nummod	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 46
+# text = Эти нормы Уложения были сфор‑ мулированы под влиянием взглядов лейб-медика, действительного тай‑ ного советника И.
+1	Эти	этот	DET	_	Case=Nom|Number=Plur	2	det	_	_
+2	нормы	норма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	Уложения	Уложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	сфор	сфор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	SpaceAfter=No
+6	‑	‑	PUNCT	_	_	5	punct	_	_
+7	мулированы	мулировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	под	под	ADP	_	_	9	case	_	_
+9	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	7	obl	_	_
+10	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	лейб-медика	лейб-медик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	действительного	действительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	тай	тай	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+15	‑	‑	PUNCT	_	_	17	punct	_	_
+16	ного	ный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	советника	советник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+18	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+
+# sent_id = 47
+# text = Ф. Рюля, активно развивавшего в Санкт-Петербур‑ ге помощь больным с психическими заболеваниями.
+1	Ф	ф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	Рюля	Рюль	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	активно	активно	ADV	_	Degree=Pos	6	advmod	_	_
+6	развивавшего	развивать	VERB	_	Animacy=Anim|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	Санкт-Петербур	Санкт-Петербур	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	6	punct	_	_
+10	ге	г	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	6	obj	_	_
+11	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	appos	_	_
+12	больным	больной	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	obl	_	_
+13	с	с	ADP	_	_	15	case	_	_
+14	психическими	психический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	15	amod	_	_
+15	заболеваниями	заболевание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Положения о невме‑ няемости преступлений, совершае‑ мых душевнобольным, были сфор‑ мулированы так, что они предусма‑ тривали не перечень различных психических заболеваний, а прин‑ ципиальное положение, что психи‑ ческая патология, "уничтожающая" в больном вменяемость, является ос‑ нованием, исключающим наказание, что в то время было большим шагом в развитии медицинской и правовой наук.
+1	Положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	невме	невм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	‑	‑	PUNCT	_	_	5	punct	_	_
+5	няемости	няемость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	conj	_	_
+6	преступлений	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	совершае	совершай	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	10	punct	_	_
+10	мых	мой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	obl	_	_
+11	душевнобольным	душевнобольной	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	1	punct	_	_
+13	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	сфор	сфор	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj:pass	_	SpaceAfter=No
+15	‑	‑	PUNCT	_	_	14	punct	_	_
+16	мулированы	мулировать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+17	так	так	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	что	что	SCONJ	_	_	21	mark	_	_
+20	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	21	nsubj	_	_
+21	предусма	предусм	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	17	advcl	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	23	punct	_	_
+23	тривали	тривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	21	conj	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	перечень	перечень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
+26	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+27	психических	психический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	заболеваний	заболевание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	а	а	CCONJ	_	_	31	cc	_	_
+31	прин	прин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	25	conj	_	SpaceAfter=No
+32	‑	‑	PUNCT	_	_	34	punct	_	_
+33	ципиальное	ципиальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	положение	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	appos	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	49	punct	_	_
+36	что	что	SCONJ	_	_	49	mark	_	_
+37	психи	псих	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	49	nsubj	_	SpaceAfter=No
+38	‑	‑	PUNCT	_	_	40	punct	_	_
+39	ческая	ческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	патология	патология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	37	appos	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	"	"	PUNCT	_	_	43	punct	_	SpaceAfter=No
+43	уничтожающая	уничтожать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	40	acl	_	SpaceAfter=No
+44	"	"	PUNCT	_	_	43	punct	_	_
+45	в	в	ADP	_	_	47	case	_	_
+46	больном	больной	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	47	amod	_	_
+47	вменяемость	вменяемость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	43	obl	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	43	punct	_	_
+49	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	31	acl	_	_
+50	ос	оса	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	49	obl	_	SpaceAfter=No
+51	‑	‑	PUNCT	_	_	52	punct	_	_
+52	нованием	нование	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	50	nmod	_	SpaceAfter=No
+53	,	,	PUNCT	_	_	54	punct	_	_
+54	исключающим	исключать	VERB	_	Aspect=Imp|Case=Ins|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	52	acl	_	_
+55	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	54	nsubj	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	63	punct	_	_
+57	что	что	SCONJ	_	_	63	mark	_	_
+58	в	в	ADP	_	_	60	case	_	_
+59	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	60	det	_	_
+60	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	63	nmod	_	_
+61	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	63	cop	_	_
+62	большим	большой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	63	amod	_	_
+63	шагом	шаг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	55	nmod	_	_
+64	в	в	ADP	_	_	65	case	_	_
+65	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	63	nmod	_	_
+66	медицинской	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	_
+67	и	и	CCONJ	_	_	68	cc	_	_
+68	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	66	conj	_	_
+69	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	65	nmod	_	SpaceAfter=No
+70	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 49
+# text = Доктор И. Ф. Рюль и его коллеги, консультировавшие разработчиков Уложения, назвали "познаватель‑ ную способность разуметь свои дей‑ ствия и понимать их противозакон‑ ность и наказуемость"16 как обяза‑ тельное условие привлечения к уго‑
+1	Доктор	доктор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Рюль	Рюль	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
+7	коллеги	коллега	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	консультировавшие	консультировать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+10	разработчиков	разработчик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	obl	_	_
+11	Уложения	Уложение	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	назвали	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	познаватель	познаватель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+16	‑	‑	PUNCT	_	_	18	punct	_	_
+17	ную	ный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	способность	способность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	appos	_	_
+19	разуметь	уметь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	18	obl	_	_
+20	свои	свой	DET	_	Case=Acc|Number=Plur	21	det	_	_
+21	дей	ди	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	21	punct	_	_
+23	ствия	ствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	conj	_	_
+26	их	они	DET	_	_	27	det	_	_
+27	противозакон	противозакон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
+28	‑	‑	PUNCT	_	_	29	punct	_	_
+29	ность	ность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	conj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	наказуемость	наказуемость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+32	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
+33	16	16	NUM	_	_	25	nummod	_	_
+34	как	как	SCONJ	_	_	38	mark	_	_
+35	обяза	обяз	ADP	_	_	38	case	_	SpaceAfter=No
+36	‑	‑	PUNCT	_	_	35	punct	_	_
+37	тельное	тельный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	_
+38	условие	условие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	obl	_	_
+39	привлечения	привлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	_
+40	к	к	ADP	_	_	41	case	_	_
+41	уго	уй	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	39	obl	_	SpaceAfter=No
+42	‑	‑	PUNCT	_	_	13	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = 11 См.: Гризингер В. Душевные болезни.
+1	11	11	NUM	_	_	2	nummod	_	_
+2	См	смотреть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	Гризингер	Гризингер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	amod	_	_
+6	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Душевные	душевный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 51
+# text = СПб., 1875.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1875	1875	NUM	_	_	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 52
+# text = С.
+1	С.	С.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = 53
+# text = 62.
+1	62	62	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = 12 Полное собрание законов Российской Империи.
+1	12	12	NUM	_	_	3	nummod	_	_
+2	Полное	полный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	собрание	собрание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Империи	империя	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 55
+# text = Т. 15.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	15	15	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 56
+# text = СПб., 1832.
+1	СПб.	СПбль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1832	1832	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = 13 Подробнее об этом см.: Солнцев Г. Рос‑ сийское уголовное право.
+1	13	13	NUM	_	_	2	nummod	_	_
+2	Подробнее	подробно	ADV	_	Degree=Cmp	5	advmod	_	_
+3	об	о	ADP	_	_	4	case	_	_
+4	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+5	см.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	_
+7	Солнцев	Солнцев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+8	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	_
+9	Рос	Рос	ADJ	_	Degree=Pos	11	compound	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	9	punct	_	_
+11	сийское	сийский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+12	уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 58
+# text = Казань, 1820.
+1	Казань	Казань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1820	1820	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = С. 92. 14 Кистяковский А. Ф. Указ. соч. С.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	92	92	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	14	14	NUM	_	_	2	nummod	_	_
+5	Кистяковский	Кистяковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+10	соч	соч	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+12	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	appos	_	_
+
+# sent_id = 60
+# text = 59.
+1	59	59	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = Уложение о наказаниях уголовных и исправительных.
+1	Уложение	уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	наказаниях	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	_
+4	уголовных	уголовный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	исправительных	исправительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = СПб., 1845.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1845	1845	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 63
+# text = 16 Там же.
+1	16	16	NUM	_	_	2	nummod	_	_
+2	Там	там	ADV	_	Degree=Pos	0	root	_	_
+3	же	же	PART	_	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 64
+# text = Журнал российского права № 12 — 2017
+1	Журнал	журнал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	российского	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	№	№	SYM	_	_	3	nummod:entity	_	_
+5	12	12	NUM	_	_	4	nummod	_	_
+6	—	—	PUNCT	_	_	1	punct	_	_
+7	2017	2017	NUM	_	_	1	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = ловной ответственности.
+1	ловной	ловный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 66
+# text = С позиций современного развития науки мож‑ но сказать, что они указали только на интеллектуальный признак вме‑ няемости, без упоминания волевого признака это было ошибочным.
+1	С	с	ADP	_	_	2	case	_	_
+2	позиций	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	_
+3	современного	современный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	мож	можа	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	2	punct	_	_
+8	но	но	CCONJ	_	_	9	cc	_	_
+9	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	что	что	SCONJ	_	_	13	mark	_	_
+12	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	13	nsubj	_	_
+13	указали	указывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+14	только	только	PART	_	_	17	advmod	_	_
+15	на	на	ADP	_	_	17	case	_	_
+16	интеллектуальный	интеллектуальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	признак	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+18	вме	вма	X	_	Foreign=Yes	17	flat:foreign	_	SpaceAfter=No
+19	‑	‑	PUNCT	_	_	20	punct	_	_
+20	няемости	няемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	28	punct	_	_
+22	без	без	ADP	_	_	23	case	_	_
+23	упоминания	упоминание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	obl	_	_
+24	волевого	волевый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	_
+25	признака	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+26	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+27	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	cop	_	_
+28	ошибочным	ошибочный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	17	acl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 67
+# text = Отметим, что в том же 1845 г. не‑ мецкий психиатр В. Гризингер дал определение психиатрии как уче‑ ния о распознавании и лечении пси‑ хических болезней17.
+1	Отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	15	punct	_	_
+3	что	что	SCONJ	_	_	15	mark	_	_
+4	в	в	ADP	_	_	8	case	_	_
+5	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	7	det	_	_
+6	же	же	PART	_	_	5	advmod	_	_
+7	1845	1845	NUM	_	_	8	nummod	_	_
+8	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	obl	_	_
+9	не	не	PART	_	_	11	advmod	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	9	punct	_	_
+11	мецкий	мецкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	психиатр	психиатр	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+13	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+14	Гризингер	Гризингер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
+15	дал	дать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+16	определение	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	как	как	SCONJ	_	_	19	mark	_	_
+19	уче	уча	ADJ	_	Degree=Cmp	15	advcl	_	SpaceAfter=No
+20	‑	‑	PUNCT	_	_	19	punct	_	_
+21	ния	ние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+22	о	о	ADP	_	_	23	case	_	_
+23	распознавании	распознавание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	лечении	лечение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	23	conj	_	_
+26	пси	пси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+27	‑	‑	PUNCT	_	_	29	punct	_	_
+28	хических	хический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	болезней17	болезней17	NUM	_	_	26	nummod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = В контексте на‑ шего исследования необходимо упо‑ мянуть, что в 1847 г. Г. Г. Блосфельд подготовил первое отечественное судебно-медицинское пособие.
+1	В	в	ADP	_	_	2	case	_	_
+2	контексте	контекст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+3	на	на	ADP	_	_	6	case	_	SpaceAfter=No
+4	‑	‑	PUNCT	_	_	3	punct	_	_
+5	шего	ший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+7	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	упо	упо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	SpaceAfter=No
+9	‑	‑	PUNCT	_	_	8	punct	_	_
+10	мянуть	мянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	19	punct	_	_
+12	что	что	SCONJ	_	_	19	mark	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	1847	1847	NUM	_	_	15	nummod	_	_
+15	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+16	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+17	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	Блосфельд	Блосфельд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+19	подготовил	подготовить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+20	первое	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+21	отечественное	отечественный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+22	судебно	судебный	ADJ	_	Degree=Pos	24	compound	_	SpaceAfter=No
+23	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	медицинское	медицинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	пособие	пособие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	obj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 69
+# text = Он определил вменяемость как состоя‑ ние психики человека, "когда он подвергается ответственности пе‑ ред законом за свои действия и по‑ ступки"18, что не соответствует со‑ временным представлениям судеб‑ ной и социальной психиатрии19.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	определил	определить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	вменяемость	вменяемость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+4	как	как	SCONJ	_	_	5	mark	_	_
+5	состоя	состой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	acl	_	SpaceAfter=No
+6	‑	‑	PUNCT	_	_	7	punct	_	_
+7	ние	ние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	obl	_	_
+8	психики	психика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+12	когда	когда	SCONJ	_	_	14	mark	_	_
+13	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	_	_
+14	подвергается	подвергать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	_
+15	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	iobj	_	_
+16	пе	п	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	15	iobj	_	SpaceAfter=No
+17	‑	‑	PUNCT	_	_	32	punct	_	_
+18	ред	редактор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	_
+19	законом	закон	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	nmod	_	_
+20	за	за	ADP	_	_	22	case	_	_
+21	свои	свой	DET	_	Case=Acc|Number=Plur	22	det	_	_
+22	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	18	nmod	_	_
+23	и	и	CCONJ	_	_	26	cc	_	_
+24	по	по	ADP	_	_	26	case	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	ступки	ступка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	18	18	NUM	_	_	26	nummod	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	что	что	SCONJ	_	_	32	mark	_	_
+31	не	не	PART	_	_	32	advmod	_	_
+32	соответствует	соответствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+33	со	с	ADP	_	_	36	case	_	SpaceAfter=No
+34	‑	‑	PUNCT	_	_	36	punct	_	_
+35	временным	временный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	36	amod	_	_
+36	представлениям	представлений	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	32	obl	_	_
+37	судеб	судьба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	SpaceAfter=No
+38	‑	‑	PUNCT	_	_	42	punct	_	_
+39	ной	ный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	42	amod	_	_
+40	и	и	CCONJ	_	_	41	cc	_	_
+41	социальной	социальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	39	conj	_	_
+42	психиатрии19	психиатрии19	NUM	_	_	37	nummod	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 70
+# text = В конце исследуемого нами ис‑ торического периода, т. е. в конце XIX в., профессор права Н. С. Та‑ ганцев предложил новое определе‑ ние понятия состояния невменяемо‑ сти: состояние, при котором больной утрачивает "способность ко вмене‑ нию" под влиянием психической болезни20, что весьма неопределен‑ но.
+1	В	в	ADP	_	_	2	case	_	_
+2	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	obl	_	_
+3	исследуемого	исследовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	_
+4	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	3	obl	_	_
+5	ис	йоктосекунда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+6	‑	‑	PUNCT	_	_	8	punct	_	_
+7	торического	торический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	периода	период	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	т.	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	mark	_	_
+11	е.	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	fixed	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	parataxis	_	_
+14	XIX	xix	NUM	_	_	15	nummod	_	_
+15	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	2	punct	_	_
+17	профессор	профессор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+18	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	Н.	Н.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	С.	С.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	flat:name	_	_
+21	Та	тот	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	flat:name	_	SpaceAfter=No
+22	‑	‑	PUNCT	_	_	23	amod	_	_
+23	ганцев	ганец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+24	предложил	предложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+25	новое	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	определе	определ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	obj	_	SpaceAfter=No
+27	‑	‑	PUNCT	_	_	28	punct	_	_
+28	ние	ние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	appos	_	_
+29	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	_
+31	невменяемо	невменяемо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	30	acl:relcl	_	SpaceAfter=No
+32	‑	‑	PUNCT	_	_	31	punct	_	_
+33	сти	сть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nsubj	_	SpaceAfter=No
+34	:	:	PUNCT	_	_	33	punct	_	_
+35	состояние	состояние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	33	parataxis	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	40	punct	_	_
+37	при	при	ADP	_	_	38	case	_	_
+38	котором	который	PRON	_	Case=Loc	40	obl	_	_
+39	больной	больной	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+40	утрачивает	утрачивавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	acl:relcl	_	_
+41	"	"	PUNCT	_	_	42	punct	_	SpaceAfter=No
+42	способность	способность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	40	nsubj	_	_
+43	ко	к	ADP	_	_	44	case	_	_
+44	вмене	вмена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+45	‑	‑	PUNCT	_	_	46	punct	_	_
+46	нию	ние	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	44	nmod	_	SpaceAfter=No
+47	"	"	PUNCT	_	_	46	punct	_	_
+48	под	под	ADP	_	_	49	case	_	_
+49	влиянием	влияние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	46	nmod	_	_
+50	психической	психический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	_
+51	болезни20	болезни20	NUM	_	_	49	nummod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	55	punct	_	_
+53	что	что	SCONJ	_	_	55	mark	_	_
+54	весьма	весьма	ADV	_	Degree=Pos	55	obl	_	_
+55	неопределен	неопределенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	42	acl	_	SpaceAfter=No
+56	‑	‑	PUNCT	_	_	57	punct	_	_
+57	но	но	CCONJ	_	_	55	parataxis	_	SpaceAfter=No
+58	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 71
+# text = Вместе с тем Н. С. Таганцев под‑ готовил проект нового Уголовного уложения, которое было утверж‑ дено Николаем II позже, в начале XX в. (1903 г.).
+1	Вместе	вместе	ADV	_	Degree=Pos	9	advmod	_	_
+2	с	с	ADP	_	_	3	case	_	_
+3	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	1	obl	_	_
+4	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+6	Таганцев	Таганцев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	_
+7	под	под	ADP	_	_	9	case	_	SpaceAfter=No
+8	‑	‑	PUNCT	_	_	7	punct	_	_
+9	готовил	готовить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+11	нового	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+12	Уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	уложения	уложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	которое	который	PRON	_	Case=Nom	16	nsubj	_	_
+16	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+17	утверж	утвержа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	17	punct	_	_
+19	дено	денный	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	appos	_	_
+20	Николаем	Николай	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	19	obl	_	_
+21	II	ii	NUM	_	_	20	nummod	_	_
+22	позже	поздно	ADV	_	Degree=Pos	19	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	начале	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	22	conj	_	_
+26	XX	xx	NUM	_	_	27	nummod	_	_
+27	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+28	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+29	1903	1903	NUM	_	_	30	nummod	_	_
+30	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	parataxis	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 72
+# text = Вероятно, под влия‑ нием взглядов В. М.
+1	Вероятно	вероятно	ADV	_	Degree=Pos	8	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	под	под	ADP	_	_	4	case	_	_
+4	влия	влие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	obl	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	нием	ние	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	nmod	_	_
+7	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+9	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	_
+
+# sent_id = 73
+# text = Бехтерева в про‑ екте ст. 39 Уголовного уложения ска‑ зано: "Не вменяется в вину преступ‑ ное деяние, учиненное лицом, кото‑ рое во время его учинения не могло понимать свойство и значение совер‑ шенного или руководить поступка‑
+1	Бехтерева	Бехтерев	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	про	про	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+4	‑	‑	PUNCT	_	_	3	punct	_	_
+5	екте	ект	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ст	статья	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	39	39	NUM	_	_	6	nummod	_	_
+9	Уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	уложения	уложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+11	ска	сок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	‑	‑	PUNCT	_	_	13	punct	_	_
+13	зано	зать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	13	punct	_	_
+15	"	"	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	Не	не	PART	_	_	17	advmod	_	_
+17	вменяется	вменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	parataxis	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	вину	вина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+20	преступ	преступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
+21	‑	‑	PUNCT	_	_	17	punct	_	_
+22	ное	ный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	деяние	деяние	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	учиненное	учинить	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
+26	лицом	лицо	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	кото	кото	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	conj	_	SpaceAfter=No
+29	‑	‑	PUNCT	_	_	36	punct	_	_
+30	рое	рый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	36	nsubj	_	_
+31	во	во	ADP	_	_	34	case	_	_
+32	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	fixed	_	_
+33	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	34	nmod	_	_
+34	учинения	учинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	_
+35	не	не	PART	_	_	36	advmod	_	_
+36	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	28	acl:relcl	_	_
+37	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	36	xcomp	_	_
+38	свойство	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	37	obj	_	_
+39	и	и	CCONJ	_	_	41	cc	_	_
+40	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	41	obj	_	_
+41	совер	совер	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	38	conj	_	SpaceAfter=No
+42	‑	‑	PUNCT	_	_	46	punct	_	_
+43	шенного	шенный	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	46	acl	_	_
+44	или	или	CCONJ	_	_	45	cc	_	_
+45	руководить	руководить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	43	conj	_	_
+46	поступка	поступок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	41	obj	_	SpaceAfter=No
+47	‑	‑	PUNCT	_	_	41	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 74
+# text = ми вследствие болезненного рас‑ стройства душевной деятельности, бессознательного состояния или же умственного недоразвития, проис‑ шедшего от телесного недостатка или болезни"21, что отражало пози‑ ции медицинской науки того време‑ ни и легло в основание многих нор‑ мативных актов XX в.
+1	ми	й	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	0	root	_	_
+2	вследствие	вследствие	ADP	_	_	4	case	_	_
+3	болезненного	болезненный	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	рас	раса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	6	punct	_	_
+6	стройства	стройство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	_
+7	душевной	душевный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	бессознательного	бессознательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	conj	_	_
+12	или	или	CCONJ	_	_	15	cc	_	_
+13	же	же	PART	_	_	12	advmod	_	_
+14	умственного	умственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	недоразвития	недоразвитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	проис	проис	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	parataxis	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	26	punct	_	_
+19	шедшего	идти	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	26	acl	_	_
+20	от	от	ADP	_	_	22	case	_	_
+21	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	недостатка	недостаток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
+23	или	или	CCONJ	_	_	24	cc	_	_
+24	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	21	21	NUM	_	_	17	nummod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	что	что	PRON	_	Case=Nom	29	nsubj	_	_
+29	отражало	отражать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
+30	пози	пози	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	29	obj	_	SpaceAfter=No
+31	‑	‑	PUNCT	_	_	32	punct	_	_
+32	ции	ция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	30	appos	_	_
+33	медицинской	медицинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+35	того	тот	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+36	време	врема	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	40	iobj	_	SpaceAfter=No
+37	‑	‑	PUNCT	_	_	40	punct	_	_
+38	ни	ни	CCONJ	_	_	40	cc	_	_
+39	и	и	PART	_	_	40	advmod	_	_
+40	легло	лечь	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	35	acl	_	_
+41	в	в	ADP	_	_	42	case	_	_
+42	основание	основание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	40	obl	_	_
+43	многих	много	NUM	_	_	44	amod	_	_
+44	нор	нора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	42	nmod	_	SpaceAfter=No
+45	‑	‑	PUNCT	_	_	47	punct	_	_
+46	мативных	мативный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	47	amod	_	_
+47	актов	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	44	nmod	_	_
+48	XX	xx	NUM	_	_	49	nummod	_	_
+49	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	47	nmod	_	SpaceAfter=No
+50	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = Заключение.
+1	Заключение	заключение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Исследование, охва‑ тывающее шестивековой историче‑ ский период, показывает, что пси‑ хическая патология оказывает су‑ щественное влияние на волевую и интеллектуальную сферы челове‑ ка, что имеет определенную роль в патогенезе преступного поведения.
+1	Исследование	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	охва	охво	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	‑	‑	PUNCT	_	_	5	punct	_	_
+5	тывающее	тывать	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+6	шестивековой	шестивековый	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	историче	историча	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	SpaceAfter=No
+8	‑	‑	PUNCT	_	_	5	punct	_	_
+9	ский	ский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	1	punct	_	_
+12	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	что	что	SCONJ	_	_	19	mark	_	_
+15	пси	пси	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	SpaceAfter=No
+16	‑	‑	PUNCT	_	_	15	punct	_	_
+17	хическая	хический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	патология	патология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+19	оказывает	оказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+20	су	с	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+21	‑	‑	PUNCT	_	_	23	punct	_	_
+22	щественное	ществеть	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	appos	_	_
+24	на	на	ADP	_	_	28	case	_	_
+25	волевую	волевой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+26	и	и	CCONJ	_	_	27	cc	_	_
+27	интеллектуальную	интеллектуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	conj	_	_
+28	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+29	челове	челова	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	28	appos	_	SpaceAfter=No
+30	‑	‑	PUNCT	_	_	31	punct	_	_
+31	ка	ок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	29	appos	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	что	что	SCONJ	_	_	34	mark	_	_
+34	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	ccomp	_	_
+35	определенную	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+36	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	патогенезе	патогенез	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	36	nmod	_	_
+39	преступного	преступный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+40	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 77
+# text = Психическое заболевание может предопределять сниженную способ‑ ность больного прогнозировать отда‑ ленные последствия своих действий, а также осознанно руководить ими.
+1	Психическое	психический	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	заболевание	заболевание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	предопределять	предопределять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	сниженную	сниженный	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
+6	способ	способ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	8	punct	_	_
+8	ность	ность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	conj	_	_
+9	больного	больной	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	прогнозировать	прогнозировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	obl	_	_
+11	отда	отда	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+12	‑	‑	PUNCT	_	_	14	punct	_	_
+13	ленные	ленный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+14	последствия	последствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
+15	своих	свой	DET	_	Case=Gen|Number=Plur	16	det	_	_
+16	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	а	а	CCONJ	_	_	21	cc	_	_
+19	также	также	PART	_	_	18	fixed	_	_
+20	осознанно	осознанно	ADV	_	Degree=Pos	21	advmod	_	_
+21	руководить	руководить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	conj	_	_
+22	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	21	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 78
+# text = При этом больной подчас не лишен полностью произвольности и созна‑ тельности поведения.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+3	больной	больной	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	_
+4	подчас	подчас	ADV	_	Degree=Pos	6	advmod	_	_
+5	не	не	PART	_	_	6	advmod	_	_
+6	лишен	лишить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+7	полностью	полностью	ADV	_	Degree=Pos	8	obl	_	_
+8	произвольности	произвольность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	созна	созн	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	12	punct	_	_
+12	тельности	тельность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	conj	_	_
+13	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 79
+# text = Способность осознавать свои действия, руково‑ дить ими подчас не утрачена полно‑ стью, но по сравнению с нормой су‑ щественно уменьшена.
+1	Способность	способность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	осознавать	осознавать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	1	obl	_	_
+3	свои	свой	DET	_	Case=Acc|Number=Plur	4	det	_	_
+4	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	руково	руково	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	12	punct	_	_
+8	дить	жать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	nsubj:pass	_	_
+9	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	8	obl	_	_
+10	подчас	подчас	ADV	_	Degree=Pos	12	advmod	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	утрачена	утратить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	acl:relcl	_	_
+13	полно	полно	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+14	‑	‑	PUNCT	_	_	15	punct	_	_
+15	стью	сть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	25	punct	_	_
+17	но	но	CCONJ	_	_	25	cc	_	_
+18	по	по	ADP	_	_	21	case	_	_
+19	сравнению	сравнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	18	fixed	_	_
+20	с	с	ADP	_	_	18	fixed	_	_
+21	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	nmod	_	_
+22	су	са	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
+23	‑	‑	PUNCT	_	_	22	punct	_	_
+24	щественно	щественно	ADV	_	Degree=Pos	25	advmod	_	_
+25	уменьшена	уменьшить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	12	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = Научно об‑ основанное решение этой проблемы позволит определить права и обя‑ занности государственных инсти‑ тутов, во-первых, по защите обще‑ ства от преступных посягательств душевнобольных и, во-вторых, по оказанию им психиатрической по‑ мощи, в том числе принудительной.
+1	Научно	научно	ADV	_	Degree=Pos	8	advmod	_	_
+2	об	о	ADP	_	_	8	case	_	SpaceAfter=No
+3	‑	‑	PUNCT	_	_	8	punct	_	_
+4	основанное	основать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
+5	решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+6	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	7	det	_	_
+7	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+9	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	обя	обь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	14	punct	_	_
+14	занности	занность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	государственных	государственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	инсти	инсть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	‑	‑	PUNCT	_	_	18	punct	_	_
+18	тутов	тут	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	во-первых	во-первых	ADV	_	Degree=Pos	23	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	по	по	ADP	_	_	23	case	_	_
+23	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	18	conj	_	_
+24	обще	общий	ADV	_	Degree=Cmp	23	advmod	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	ства	ство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	obl	_	_
+27	от	от	ADP	_	_	29	case	_	_
+28	преступных	преступный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	amod	_	_
+29	посягательств	посягательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	_
+30	душевнобольных	душевнобольной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	29	nmod	_	_
+31	и	и	CCONJ	_	_	36	cc	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	36	punct	_	_
+33	во-вторых	во-вторых	ADV	_	Degree=Pos	36	parataxis	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	по	по	ADP	_	_	36	case	_	_
+36	оказанию	оказание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	30	conj	_	_
+37	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	38	iobj	_	_
+38	психиатрической	психиатрический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
+39	по	по	ADP	_	_	41	case	_	SpaceAfter=No
+40	‑	‑	PUNCT	_	_	39	punct	_	_
+41	мощи	мощь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	38	obl	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	46	punct	_	_
+43	в	в	ADP	_	_	45	case	_	_
+44	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	45	det	_	_
+45	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	obl	_	_
+46	принудительной	принудительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 81
+# text = Развитие медицинских и право‑ вых взглядов на состояние психи‑ ческой сферы преступника позво‑ лило весьма точно сформулировать понятие состояния невменяемо‑ сти в отечественном законе в кон‑ це XIX в.
+1	Развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+2	медицинских	медицинский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	1	nmod	_	_
+3	и	и	CCONJ	_	_	17	cc	_	_
+4	право	право	ADJ	_	Degree=Pos	17	advcl	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	вых	вой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	взглядов	взгляд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	obl	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	_
+10	психи	псих	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+11	‑	‑	PUNCT	_	_	13	punct	_	_
+12	ческой	ческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	сферы	сфера	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+14	преступника	преступник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	17	nsubj	_	_
+15	позво	позво	ADV	_	Degree=Pos	17	advmod	_	SpaceAfter=No
+16	‑	‑	PUNCT	_	_	15	punct	_	_
+17	лило	лять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+18	весьма	весьма	ADV	_	Degree=Pos	19	advmod	_	_
+19	точно	точно	ADV	_	Degree=Pos	20	advmod	_	_
+20	сформулировать	формулировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	17	xcomp	_	_
+21	понятие	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+22	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	невменяемо	невменяемо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	22	parataxis	_	SpaceAfter=No
+24	‑	‑	PUNCT	_	_	23	punct	_	_
+25	сти	сть	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	iobj	_	_
+26	в	в	ADP	_	_	28	case	_	_
+27	отечественном	отечественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	законе	закон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	nmod	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	кон	кно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+31	‑	‑	PUNCT	_	_	30	punct	_	_
+32	це	ца	X	_	Foreign=Yes	30	flat:foreign	_	_
+33	XIX	xix	NUM	_	_	34	nummod	_	_
+34	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 82
+# text = В этом определении при‑ сутствовали волевой и интеллекту‑ альный критерии ("не мог понимать свойство и значение совершенного или руководить поступками"), нозо‑ логический критерий ("болезненное расстройство душевной деятельно‑ сти, бессознательное состояние или
+1	В	в	ADP	_	_	3	case	_	_
+2	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	3	det	_	_
+3	определении	определение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+4	при	при	ADP	_	_	6	case	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	сутствовали	сутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	волевой	волевой	PROPN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	интеллекту	интеллект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	‑	‑	PUNCT	_	_	6	punct	_	_
+11	альный	альный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	критерии	критерий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+13	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	не	не	PART	_	_	16	advmod	_	_
+16	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+17	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	свойство	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	conj	_	_
+21	совершенного	совершить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	nmod	_	_
+22	или	или	CCONJ	_	_	23	cc	_	_
+23	руководить	руководить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	conj	_	_
+24	поступками	поступок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	23	obl	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	нозо	ноз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+29	‑	‑	PUNCT	_	_	31	punct	_	_
+30	логический	логический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+31	критерий	критерий	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	nmod	_	_
+32	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+34	болезненное	болезненный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	_
+35	расстройство	расстройство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	31	parataxis	_	_
+36	душевной	душевный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	35	nmod	_	_
+37	деятельно	деятельно	ADV	_	Degree=Pos	36	conj	_	SpaceAfter=No
+38	‑	‑	PUNCT	_	_	37	punct	_	_
+39	сти	сть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	37	nsubj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	42	punct	_	_
+41	бессознательное	бессознательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
+42	состояние	состояние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	39	conj	_	_
+43	или	или	CCONJ	_	_	35	cc	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 83
+# text = См.: Гризингер В. Указ. соч. С. 82.
+1	См.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	Гризингер	Гризингер	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+4	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Указ	указ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+7	соч	соч	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+9	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+10	82	82	NUM	_	_	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = Блосфельд Г. Г. Начертание судебной медицины для правоведов.
+1	Блосфельд	Блосфельд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Начертание	Начертание	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	flat:name	_	_
+5	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	медицины	медицина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+7	для	для	ADP	_	_	8	case	_	_
+8	правоведов	правовед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = Казань, 1847.
+1	Казань	Казань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1847	1847	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = С. 48. 19 См.: Спасенников Б. А., Спасенни­ ков С. Б. К определению понятия "вменяе‑ мость" в уголовном праве // Государство и право.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	48	48	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	19	19	NUM	_	_	2	nummod	_	_
+5	См	сантиметр	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	5	punct	_	_
+8	Спасенников	Спасенников	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	5	parataxis	_	_
+9	Б.	Б.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Спасенни­	Спасенни­	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	conj	_	_
+13	ков	к	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	С.	С.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
+15	Б.	Б.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	14	flat:name	_	_
+16	К	к	ADP	_	_	17	case	_	_
+17	определению	определение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	14	nmod	_	_
+18	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	вменяе	вменяе	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	appos	_	SpaceAfter=No
+21	‑	‑	PUNCT	_	_	20	punct	_	_
+22	мость	мость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	appos	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	20	punct	_	_
+24	в	в	ADP	_	_	26	case	_	_
+25	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	nmod	_	_
+27	/	/	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	/	/	PUNCT	_	_	29	punct	_	_
+29	Государство	Государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	nmod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 87
+# text = 2008.
+1	2008	2008	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = № 6. С. 27—32. 20 См.: Таганцев Н. С. Курс Русского уго‑ ловного права.
+1	№	№	SYM	_	_	0	root	_	_
+2	6.	6	NUM	_	_	1	nummod	_	_
+3	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+4	27	27	NUM	_	_	9	nummod	_	SpaceAfter=No
+5	—	—	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	32	32	NUM	_	_	9	nummod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+8	20	20	NUM	_	_	9	nummod	_	_
+9	См	сантиметр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	9	punct	_	_
+12	Таганцев	Таганцев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	parataxis	_	_
+13	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+14	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+15	Курс	курс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	appos	_	_
+16	Русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+17	уго	уго	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	17	punct	_	_
+19	ловного	ловный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Часть Общая.
+1	Часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	Общая	общий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 90
+# text = СПб., 1880.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1880	1880	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = С. 38.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	38	38	NUM	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 92
+# text = 18
+1	18	18	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 93
+# text = Уложение о наказаниях уголовных и исправительных.
+1	Уложение	уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	наказаниях	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	_
+4	уголовных	уголовный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	исправительных	исправительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 94
+# text = Уголовное право и криминология
+1	Уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	криминология	криминология	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 95
+# text = же умственное недоразвитие, про‑ исшедшее от телесного недостатка или болезни").
+1	же	же	PART	_	_	0	root	_	_
+2	умственное	умственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	недоразвитие	недоразвитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	про	про	ADP	_	_	7	mark	_	SpaceAfter=No
+6	‑	‑	PUNCT	_	_	7	punct	_	_
+7	исшедшее	исшедший	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	_
+8	от	от	ADP	_	_	10	case	_	_
+9	телесного	телесный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	недостатка	недостаток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+11	или	или	CCONJ	_	_	12	cc	_	_
+12	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = Однако определение вменяемости первично, а определе‑ ние состояния невменяемости вто‑ рично.
+1	Однако	однако	ADV	_	Degree=Pos	4	obl	_	_
+2	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	вменяемости	вменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	первично	первичный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	а	а	CCONJ	_	_	12	cc	_	_
+7	определе	определе	PART	_	_	12	advmod	_	SpaceAfter=No
+8	‑	‑	PUNCT	_	_	12	punct	_	_
+9	ние	ний	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+10	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	невменяемости	невменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	вто	вто	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	14	punct	_	_
+14	рично	рично	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 97
+# text = Взаимодействие зарубежных представителей правовой и медицин‑ ской наук позволило ввести опреде‑ ление вменяемости в законодатель‑ ство ряда иностранных государств.
+1	Взаимодействие	взаимодействие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	зарубежных	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	amod	_	_
+3	представителей	представитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+4	правовой	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	медицин	медицина	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	4	punct	_	_
+8	ской	ский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+10	позволило	позволить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	ввести	ввести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+12	опреде	опреда	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	12	punct	_	_
+14	ление	ление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+15	вменяемости	вменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	законодатель	законодатель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	‑	‑	PUNCT	_	_	19	punct	_	_
+19	ство	ство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	appos	_	_
+20	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	_
+21	иностранных	иностранный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 98
+# text = Однако в российском законе это пер‑
+1	Однако	однако	ADV	_	Degree=Pos	6	obl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	российском	российский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	законе	закон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+5	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	пер	про	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	‑	‑	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 99
+# text = вичное по отношению к состоянию невменяемости понятие до сих пор отсутствует.
+1	вичное	вичный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+2	по	по	ADP	_	_	5	case	_	_
+3	отношению	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	fixed	_	_
+4	к	к	ADP	_	_	2	fixed	_	_
+5	состоянию	состояние	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	1	obl	_	_
+6	невменяемости	невменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	понятие	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+8	до	до	ADP	_	_	11	advmod	_	_
+9	сих	сей	DET	_	Case=Gen|Number=Plur	8	fixed	_	_
+10	пор	пора	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	fixed	_	_
+11	отсутствует	отсутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 100
+# text = Анализ исторического опыта по‑ зволяет сегодня сформулировать определение вменяемости как спо‑ собность лица к осознанно-волево‑ му поведению во время совершения деяния, предусмотренного Особен‑ ной частью Уголовного кодекса Рос‑ сии, что целесообразно закрепить в отечественном уголовном законе.
+1	Анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	исторического	исторический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+4	по	по	ADP	_	_	6	case	_	SpaceAfter=No
+5	‑	‑	PUNCT	_	_	4	punct	_	_
+6	зволяет	зволять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	сегодня	сегодня	ADV	_	Degree=Pos	6	advmod	_	_
+8	сформулировать	формулировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+9	определение	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	вменяемости	вменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	как	как	SCONJ	_	_	12	mark	_	_
+12	спо	спо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	advcl	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	12	punct	_	_
+14	собность	собность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+15	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	к	к	ADP	_	_	17	case	_	_
+17	осознанно	осознанно	ADJ	_	Degree=Pos	14	obl	_	SpaceAfter=No
+18	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	волево	волево	ADV	_	Degree=Pos	17	parataxis	_	SpaceAfter=No
+20	‑	‑	PUNCT	_	_	19	punct	_	_
+21	му	м	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	поведению	поведение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	19	iobj	_	_
+23	во	во	ADP	_	_	25	case	_	_
+24	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	fixed	_	_
+25	совершения	совершение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	obl	_	_
+26	деяния	деяние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	предусмотренного	предусмотреть	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	amod	_	_
+29	Особен	Особен	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	25	conj	_	SpaceAfter=No
+30	‑	‑	PUNCT	_	_	37	punct	_	_
+31	ной	ный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	_
+32	частью	часть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	37	nmod	_	_
+33	Уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	_
+34	кодекса	кодекс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	_
+35	Рос	Рос	ADJ	_	Degree=Pos	37	compound	_	SpaceAfter=No
+36	‑	‑	PUNCT	_	_	35	punct	_	_
+37	сии	сия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	29	appos	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	40	punct	_	_
+39	что	что	PRON	_	Case=Acc	41	obj	_	_
+40	целесообразно	целесообразный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	37	acl:relcl	_	_
+41	закрепить	закрепить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	40	csubj	_	_
+42	в	в	ADP	_	_	45	case	_	_
+43	отечественном	отечественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+44	уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	45	amod	_	_
+45	законе	закон	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	obl	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 101
+# text = Библиографический список Malknen B. A.
+1	Библиографический	Библиографический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	список	список	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Malknen	Malknen	PROPN	_	Foreign=Yes	2	flat:foreign	_	_
+4	B.	B.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	2	appos	_	_
+5	A	A	PROPN	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 102
+# text = Crmnal Behavor and Mental Dsorders.
+1	Crmnal	Crmnal	PROPN	_	Foreign=Yes	0	root	_	_
+2	Behavor	Behavor	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+3	and	and	X	_	Foreign=Yes	1	flat:foreign	_	_
+4	Mental	Mental	PROPN	_	Foreign=Yes	1	flat:foreign	_	_
+5	Dsorders.	Dsorders.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+
+# sent_id = 103
+# text = N. Y., 2014.
+1	N.	N.	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+2	Y	Y	PROPN	_	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	2014	2014	NUM	_	_	1	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = Барышев С. И. Общие начала теории и законодательства о преступлениях и наказани‑ ях.
+1	Барышев	Барышев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Общие	общий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+6	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	законодательства	законодательств	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
+9	о	о	ADP	_	_	10	case	_	_
+10	преступлениях	преступление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	8	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	наказани	наказань	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	conj	_	SpaceAfter=No
+13	‑	‑	PUNCT	_	_	14	punct	_	_
+14	ях	и	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = М., 1841.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1841	1841	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Блосфельд Г. Г. Начертание судебной медицины для правоведов.
+1	Блосфельд	Блосфельд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Начертание	Начертание	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	flat:name	_	_
+5	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	медицины	медицина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+7	для	для	ADP	_	_	8	case	_	_
+8	правоведов	правовед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 107
+# text = Казань, 1847.
+1	Казань	Казань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1847	1847	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = Гризингер В. Душевные болезни.
+1	Гризингер	Гризингер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Душевные	душевный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	болезни	болезнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = СПб., 1875.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1875	1875	NUM	_	_	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = Кистяковский А. Ф. Исследование о смертной казни.
+1	Кистяковский	Кистяковский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Исследование	исследование	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	flat:name	_	_
+5	о	о	ADP	_	_	7	case	_	_
+6	смертной	смертный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	казни	казнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 111
+# text = Киев, 1867.
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1867	1867	NUM	_	_	1	conj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 112
+# text = Козаченко И. Я., Спасенников Б. А. Вопросы уголовной ответственности и наказания лиц, страдающих психическими расстройствами, не исключающими вменяемости // Государ‑ ство и право.
+1	Козаченко	Козаченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Я.	Я.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Спасенников	Спасенников	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Б.	Б.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	Вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	appos	_	_
+9	уголовной	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	наказания	наказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	conj	_	_
+13	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	страдающих	страдать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+16	психическими	психический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+17	расстройствами	расстройство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	15	punct	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	исключающими	исключать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	21	acl	_	_
+21	вменяемости	вменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+22	/	/	PUNCT	_	_	24	punct	_	SpaceAfter=No
+23	/	/	PUNCT	_	_	24	punct	_	_
+24	Государ	Государ	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+25	‑	‑	PUNCT	_	_	26	punct	_	_
+26	ство	ство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	_
+27	и	и	CCONJ	_	_	28	cc	_	_
+28	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	26	conj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 113
+# text = 2001.
+1	2001	2001	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 114
+# text = № 5.
+1	№	№	SYM	_	_	0	root	_	_
+2	5	5	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 115
+# text = Коровин В. А. О значении исследования психического состояния подсудимого.
+1	Коровин	Коровин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	О	о	ADP	_	_	5	case	_	_
+5	значении	значение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+6	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	психического	психический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	состояния	состояние	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+9	подсудимого	подсудимый	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 116
+# text = М., 1889.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1889	1889	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 117
+# text = Лунц Д. Р. Проблемы невменяемости в теории и практике судебной психиатрии.
+1	Лунц	Лунц	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Проблемы	Проблема	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	невменяемости	невменяемость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	теории	теория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	conj	_	_
+10	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 118
+# text = М., 1966.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1966	1966	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 119
+# text = Морозов Г. В., Лунц Д. Р., Фелинская Н. И. Основные этапы развития отечественной су‑ дебной психиатрии.
+1	Морозов	мороз	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Лунц	Лунц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Р.	Р.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Фелинская	Фелинский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	conj	_	_
+10	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	flat:name	_	_
+11	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	9	flat:name	_	_
+12	Основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	этапы	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	appos	_	_
+14	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	отечественной	отечественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	су	с	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	SpaceAfter=No
+17	‑	‑	PUNCT	_	_	19	punct	_	_
+18	дебной	дебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 120
+# text = М., 1976.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1976	1976	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 121
+# text = Полное собрание законов Российской Империи.
+1	Полное	полный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	собрание	собрание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	Империи	империя	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 122
+# text = Т. 15.
+1	Т.	то	ADV	_	Degree=Pos	0	root	_	_
+2	15	15	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 123
+# text = СПб., 1832.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1832	1832	NUM	_	_	1	conj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 124
+# text = Солнцев Г.
+1	Солнцев	Солнцев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Г.	Г.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+
+# sent_id = 125
+# text = Российское уголовное право.
+1	Российское	российский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	уголовное	уголовный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 126
+# text = Казань, 1820.
+1	Казань	Казань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1820	1820	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 127
+# text = Спасенников Б. А., Спасенников С. Б. К определению понятия "вменяемость" в уголов‑ ном праве // Государство и право.
+1	Спасенников	Спасенник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	0	root	_	_
+2	Б.	Б.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Спасенников	Спасенников	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+6	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Б.	Б.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	_
+8	К	к	ADP	_	_	9	case	_	_
+9	определению	определение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	nmod	_	_
+10	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	вменяемость	вменяемость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	12	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	уголов	угол	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
+16	‑	‑	PUNCT	_	_	18	punct	_	_
+17	ном	ный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	праве	право	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	15	nmod	_	_
+19	/	/	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	Государство	Государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 128
+# text = 2008.
+1	2008	2008	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 129
+# text = № 6.
+1	№	№	SYM	_	_	0	root	_	_
+2	6	6	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 130
+# text = Таганцев Н. С. Курс Русского уголовного права.
+1	Таганцев	Таганец	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+4	Курс	курс	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+6	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 131
+# text = Часть Общая.
+1	Часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	Общая	общий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 132
+# text = СПб., 1880.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1880	1880	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 133
+# text = Уложение о наказаниях уголовных и исправительных.
+1	Уложение	уложение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	наказаниях	наказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	1	nmod	_	_
+4	уголовных	уголовный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	исправительных	исправительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 134
+# text = СПб., 1845.
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1845	1845	NUM	_	_	1	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 135
+# text = Криминализация незаконного вознаграждения: возврат к истокам или антикоррупционная новелла?
+1	Криминализация	Криминализация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	незаконного	незаконный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	вознаграждения	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	возврат	возврат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	истокам	исток	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	_
+8	или	или	CCONJ	_	_	10	cc	_	_
+9	антикоррупционная	антикоррупционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	новелла	новелла	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+11	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 136
+# text = СЕМЫКИНА Ольга Ивановна, старший научный сотрудник отдела зарубежного конституционного, административного, уголовного законодательства и международного права Института законодательства и сравнительного правоведения при Правительстве Российской Федерации, кандидат юридических наук 117218, Россия, г. Москва, ул. Большая Черемушкинская, 34 E-mal: andex.ru В контексте указания в Национальном плане противодействия коррупции на 2016—2017 гг. на разработку научных исследований, касающихся снижения уровня бытовой коррупции, рассматриваются перспективы криминализации в Уголовном кодексе Российской Федерации специального состава — получения незаконного вознаграждения лицами, не являющимися субъектами мелкого коммерческого подкупа (ст. 2042) и мелкого взяточничества (ст. 2912).
+1	СЕМЫКИНА	Семыкина	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	39	nsubj	_	_
+2	Ольга	Ольга	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+3	Ивановна	Ивановна	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	старший	старший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	сотрудник	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+8	отдела	отдел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	зарубежного	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+10	конституционного	конституционный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	административного	административный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	уголовного	уголовный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	_
+15	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+16	и	и	CCONJ	_	_	18	cc	_	_
+17	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	conj	_	_
+19	Института	Институт	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	законодательства	законодательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	и	и	CCONJ	_	_	23	cc	_	_
+22	сравнительного	сравнительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	правоведения	правоведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	conj	_	_
+24	при	при	ADP	_	_	25	case	_	_
+25	Правительстве	правительство	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	nmod	_	_
+26	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	_
+27	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	кандидат	кандидат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+30	юридических	юридический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	29	nmod	_	_
+32	117218	117218	NUM	_	_	29	nummod	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	Россия	Россия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	г.	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	conj	_	_
+37	Москва	Москва	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	36	appos	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	ул	уть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	39	punct	_	_
+41	Большая	Большой	PROPN	_	_	39	obj	_	_
+42	Черемушкинская	Черемушкинский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	44	punct	_	_
+44	34	34	NUM	_	_	45	nummod	_	_
+45	E-mal	E-mal	PROPN	_	Foreign=Yes	41	flat:foreign	_	SpaceAfter=No
+46	:	:	PUNCT	_	_	41	punct	_	_
+47	andex.ru	andex.ru	X	_	Foreign=Yes	72	nsubj:pass	_	_
+48	В	в	ADP	_	_	49	case	_	_
+49	контексте	контекст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	72	obl	_	_
+50	указания	указание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	_
+51	в	в	ADP	_	_	53	case	_	_
+52	Национальном	национальный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	53	amod	_	_
+53	плане	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	72	obl	_	_
+54	противодействия	противодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	53	nmod	_	_
+55	коррупции	коррупция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	54	nmod	_	_
+56	на	на	ADP	_	_	60	case	_	_
+57	2016	2016	NUM	_	_	60	nummod	_	SpaceAfter=No
+58	—	—	PUNCT	_	_	59	punct	_	SpaceAfter=No
+59	2017	2017	NUM	_	_	57	nummod	_	_
+60	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	54	nmod	_	_
+61	на	на	ADP	_	_	62	case	_	_
+62	разработку	разработка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	72	obl	_	_
+63	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	64	amod	_	_
+64	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	62	nmod	_	SpaceAfter=No
+65	,	,	PUNCT	_	_	66	punct	_	_
+66	касающихся	касаться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	64	acl	_	_
+67	снижения	снижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	66	obl	_	_
+68	уровня	уровень	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	67	nmod	_	_
+69	бытовой	бытовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	70	amod	_	_
+70	коррупции	коррупция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	68	nmod	_	SpaceAfter=No
+71	,	,	PUNCT	_	_	66	punct	_	_
+72	рассматриваются	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	41	parataxis	_	_
+73	перспективы	перспектива	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	72	nsubj:pass	_	_
+74	криминализации	криминализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	73	nmod	_	_
+75	в	в	ADP	_	_	77	case	_	_
+76	Уголовном	уголовный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	77	amod	_	_
+77	кодексе	кодекс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	74	nmod	_	_
+78	Российской	российский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	79	amod	_	_
+79	Федерации	Федерация	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	77	nmod	_	_
+80	специального	специальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	81	amod	_	_
+81	состава	состав	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	79	nmod	_	_
+82	—	—	PUNCT	_	_	83	punct	_	_
+83	получения	получение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	81	nmod	_	_
+84	незаконного	незаконный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	85	amod	_	_
+85	вознаграждения	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	83	nmod	_	_
+86	лицами	лицо	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Plur	85	nmod	_	SpaceAfter=No
+87	,	,	PUNCT	_	_	89	punct	_	_
+88	не	не	PART	_	_	89	advmod	_	_
+89	являющимися	являться	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	74	acl	_	_
+90	субъектами	субъект	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	89	obl	_	_
+91	мелкого	мелкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	93	amod	_	_
+92	коммерческого	коммерческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	93	amod	_	_
+93	подкупа	подкуп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	90	nmod	_	_
+94	(	(	PUNCT	_	_	95	punct	_	SpaceAfter=No
+95	ст.	статья	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	93	parataxis	_	_
+96	2042	2042	NUM	_	_	95	nummod	_	SpaceAfter=No
+97	)	)	PUNCT	_	_	95	punct	_	_
+98	и	и	CCONJ	_	_	100	cc	_	_
+99	мелкого	мелкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	100	amod	_	_
+100	взяточничества	взяточничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	93	conj	_	_
+101	(	(	PUNCT	_	_	102	punct	_	SpaceAfter=No
+102	ст	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	100	parataxis	_	SpaceAfter=No
+103	.	.	PUNCT	_	_	102	punct	_	_
+104	2912	2912	NUM	_	_	102	nummod	_	SpaceAfter=No
+105	)	)	PUNCT	_	_	102	punct	_	SpaceAfter=No
+106	.	.	PUNCT	_	_	72	punct	_	_
+
+# sent_id = 137
+# text = В рамках исследования акцентируется внимание на новейшем опыте регламентации получения незаконного вознаграждения в законодательстве Белоруссии, Молдовы и Кыргыз-
+1	В	в	ADP	_	_	2	case	_	_
+2	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	4	obl	_	_
+3	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	акцентируется	акцентировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	внимание	внимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	новейшем	новый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	опыте	опыт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+9	регламентации	регламентация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	получения	получение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	незаконного	незаконный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	вознаграждения	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	законодательстве	законодательство	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	_
+15	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Молдовы	Молдова	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	conj	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	Кыргыз	Кыргыз	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
+20	-	-	PUNCT	_	_	4	punct	_	SpacesAfter=\n
+

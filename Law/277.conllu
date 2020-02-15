@@ -1,0 +1,1972 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Возникновение графометрического направления в судебном почерковедении связано с работами ученого-почерковеда Э. Локара, который впервые предпринял попытку научного обоснования графической идентификации личности с помощью различных измерений почерка.
+1	Возникновение	возникновение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+2	графометрического	графометрический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	направления	направление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	судебном	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	почерковедении	почерковедение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	работами	работа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	7	obl	_	_
+10	ученого	ученый	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	почерковеда	почерковед	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	appos	_	_
+13	Э.	Э.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	appos	_	_
+14	Локара	Локар	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	который	который	PRON	_	Case=Nom	18	nsubj	_	_
+17	впервые	впервые	ADV	_	Degree=Pos	18	advmod	_	_
+18	предпринял	предпринять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+19	попытку	попытка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
+20	научного	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
+21	обоснования	обоснование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	графической	графический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+24	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	с	с	ADP	_	_	28	case	_	_
+26	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	fixed	_	_
+27	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	измерений	измерение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+29	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 2
+# text = В целом графометрический метод сводился к измерению в сравниваемых рукописях ряда одноименных характеристик почерка, которые фиксировались на графиках в виде кривых и сопоставлялись между собой.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	графометрический	графометрический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	метод	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	сводился	сводиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	к	к	ADP	_	_	7	case	_	_
+7	измерению	измерение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	5	obl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	сравниваемых	сравнивать	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	amod	_	_
+10	рукописях	рукопись	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	7	nmod	_	_
+11	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+12	одноименных	одноименный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	характеристик	характеристика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которые	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	фиксировались	фиксировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	13	acl:relcl	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	графиках	график	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	obl	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	виде	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	fixed	_	_
+22	кривых	кривая	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	obl	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	сопоставлялись	сопоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	17	conj	_	_
+25	между	между	ADP	_	_	26	case	_	_
+26	собой	себя	PRON	_	Case=Ins	24	obl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 3
+# text = Совпадение или различие кривых свидетельствовало, соответственно, об одном либо разных исполнителях исследуемого графического материала.
+1	Совпадение	совпадение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	или	или	CCONJ	_	_	3	cc	_	_
+3	различие	различие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+4	кривых	кривой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	3	nmod	_	_
+5	свидетельствовало	свидетельствовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	соответственно	соответственно	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	об	о	ADP	_	_	13	case	_	_
+10	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+11	либо	либо	CCONJ	_	_	12	cc	_	_
+12	разных	разный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	13	amod	_	_
+13	исполнителях	исполнитель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	7	conj	_	_
+14	исследуемого	исследовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	16	amod	_	_
+15	графического	графический	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	материала	материал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 4
+# text = Одним из наиболее известных псевдонаучных направлений в графологии конца XIX в. является реакционное учение основателя французской антропологической школы Ч. Ломброзо.
+1	Одним	один	NUM	_	Case=Ins|Gender=Masc	12	nummod	_	_
+2	из	из	ADP	_	_	6	case	_	_
+3	наиболее	наиболее	ADV	_	Degree=Pos	4	obl	_	_
+4	известных	известный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+5	псевдонаучных	псевдонаучный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	направлений	направление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	графологии	графология	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	XIX	xix	NUM	_	_	11	nummod	_	_
+11	в.	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	реакционное	реакционный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	учение	учение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+15	основателя	основатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	французской	французский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+17	антропологической	антропологический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	школы	школа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+19	Ч.	Ч.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	appos	_	_
+20	Ломброзо	Ломброзо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 5
+# text = В 1895 г. он в своей работе "Руководство по графологии" попытался экспериментально доказать наличие корреляции (взаимозависимости) специфических особенностей графики "прирожденных преступников" и их криминальных наклонностей.
+1	В	в	ADP	_	_	3	case	_	_
+2	1895	1895	NUM	_	_	3	nummod	_	_
+3	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	7	det	_	_
+7	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Руководство	руководство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	appos	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	графологии	графология	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	9	punct	_	_
+13	попытался	пытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	экспериментально	экспериментально	ADV	_	Degree=Pos	15	advmod	_	_
+15	доказать	доказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	13	xcomp	_	_
+16	наличие	наличие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	корреляции	корреляция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
+19	взаимозависимости	взаимозависимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	appos	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	19	punct	_	_
+21	специфических	специфический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	особенностей	особенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+23	графики	график	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	"	"	PUNCT	_	_	26	punct	_	SpaceAfter=No
+25	прирожденных	прирожденный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
+26	преступников	преступник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	26	punct	_	_
+28	и	и	CCONJ	_	_	31	cc	_	_
+29	их	их	DET	_	_	31	det	_	_
+30	криминальных	криминальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	наклонностей	наклонность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 6
+# text = В результате Ломброзо смог дифференцировать две группы "уголовных" почерков: 1) убийцы, разбойники, грабители; 2) воры.
+1	В	в	ADP	_	_	2	case	_	_
+2	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+3	Ломброзо	Ломброзо	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	смог	мочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	дифференцировать	дифференцировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	две	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Fem	7	nummod:gov	_	_
+7	группы	группа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	уголовных	уголовный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	SpaceAfter=No
+10	"	"	PUNCT	_	_	9	punct	_	_
+11	почерков	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	7	punct	_	_
+13	1	1	NUM	_	_	15	nummod	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	13	punct	_	_
+15	убийцы	убийца	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	parataxis	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	разбойники	разбойник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	грабители	грабитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+20	;	;	PUNCT	_	_	15	punct	_	_
+21	2	2	NUM	_	_	23	nummod	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	21	punct	_	_
+23	воры	вор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = Отечественное судебное почерковедение связано с учением о почерке русского криминалиста Е.Ф. Буринского, который является основателем данной отрасли знаний – "судебное почерковедение" .
+1	Отечественное	отечественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+2	судебное	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	почерковедение	почерковедение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+4	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	учением	учение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	4	obl	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	почерке	почерк	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	криминалиста	криминалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	Е.	Е.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+12	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	Буринского	Буринский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	который	который	PRON	_	Case=Nom	16	nsubj	_	_
+16	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	acl:relcl	_	_
+17	основателем	основатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+18	данной	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	отрасли	отрасль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	_
+21	–	–	PUNCT	_	_	24	punct	_	_
+22	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+23	судебное	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	почерковедение	почерковедение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	obl	_	SpaceAfter=No
+25	"	"	PUNCT	_	_	24	punct	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 8
+# text = Обобщая и систематизируя данные других наук, имеющие значение для изучения письма и почерка, Е.Ф. Буринский опирался на положения медицины, психиатрии, психологии, физиологии, анатомии, обращая внимание на врачебно-диагностическое значение почерка, им использовались и работы по школьной гигиене.
+1	Обобщая	Обобщать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	19	advcl	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	систематизируя	систематизировать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	conj	_	_
+4	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	1	obj	_	_
+5	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	имеющие	иметь	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+9	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	для	для	ADP	_	_	11	case	_	_
+11	изучения	изучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	8	punct	_	_
+16	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	SpaceAfter=No
+17	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	Буринский	Буринский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+19	опирался	опираться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+20	на	на	ADP	_	_	21	case	_	_
+21	положения	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	19	obl	_	_
+22	медицины	медицина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	психиатрии	психиатрия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	психологии	психология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	физиологии	физиология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	анатомии	анатомия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	обращая	обращать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	19	advcl	_	_
+33	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	32	obj	_	_
+34	на	на	ADP	_	_	36	case	_	_
+35	врачебно-диагностическое	врачебно-диагностический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	значение	значение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	33	nmod	_	_
+37	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	40	punct	_	_
+39	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	40	iobj	_	_
+40	использовались	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Pass	32	conj	_	_
+41	и	и	CCONJ	_	_	42	cc	_	_
+42	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	40	obl	_	_
+43	по	по	ADP	_	_	45	case	_	_
+44	школьной	школьный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	45	amod	_	_
+45	гигиене	гигиена	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+46	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 9
+# text = Впервые для целей судебного почерковедения он изложил сведения о механизме письма, рассмотрел патологические изменения в этом механизме и их отображение в рукописях.
+1	Впервые	впервые	ADV	_	Degree=Pos	7	advmod	_	_
+2	для	для	ADP	_	_	3	case	_	_
+3	целей	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	1	obl	_	_
+4	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+7	изложил	изложить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	сведения	сведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
+9	о	о	ADP	_	_	10	case	_	_
+10	механизме	механизм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	_
+11	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	рассмотрел	рассмотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+14	патологические	патологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	изменения	изменение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	13	obj	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	этом	этот	DET	_	Case=Loc|Gender=Masc|Number=Sing	18	det	_	_
+18	механизме	механизм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	их	они	DET	_	_	21	det	_	_
+21	отображение	отображение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	conj	_	_
+22	в	в	ADP	_	_	23	case	_	_
+23	рукописях	рукопись	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10
+# text = Особое внимание Е.Ф. Буринский уделял методам научного исследования почерка, в числе которых важное место отводил правильно поставленному эксперименту, наблюдению и самонаблюдению, коллекционированию образцов почерка.
+1	Особое	особый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	внимание	внимание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+3	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
+4	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Буринский	Буринский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	_
+6	уделял	уделять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	методам	метод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
+8	научного	научный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+10	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	obl	_	_
+14	которых	который	PRON	_	Case=Gen	13	nmod	_	_
+15	важное	важный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	отводил	отводить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+18	правильно	правильно	ADV	_	Degree=Pos	19	advmod	_	_
+19	поставленному	поставить	VERB	_	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+20	эксперименту	эксперимент	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	наблюдению	наблюдение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	conj	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	самонаблюдению	самонаблюдение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	коллекционированию	коллекционирование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	20	conj	_	_
+27	образцов	образец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
+28	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 11
+# text = Он был сторонником введения в почерковедческие исследования объективных измерительных и регистрирующих технических средств (фотосъемка, хронофотография, циклография, графометрические измерения).
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	сторонником	сторонник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
+4	введения	введение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	почерковедческие	почерковедческий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	исследования	исследование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	_
+8	объективных	объективный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+9	измерительных	измерительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	acl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	регистрирующих	регистрировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	conj	_	_
+12	технических	технический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	средств	средства	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	фотосъемка	фотосъемка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	хронофотография	хронофотография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	циклография	циклография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	графометрические	графометрический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+22	измерения	измерение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	conj	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text = Таким образом, в основных положениях работы Е.Ф. Буринского было заложено начало научных основ судебного почерковедения и прогнозировалось его дальнейшее развитие.
+1	Таким	такой	DET	_	Case=Ins|Gender=Masc|Number=Sing	2	det	_	_
+2	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	основных	основной	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	amod	_	_
+6	положениях	положение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	12	obl	_	_
+7	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	Е.	Е.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	Буринского	Буринский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	_
+11	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	_
+12	заложено	заложить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+13	начало	начало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+14	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	_
+15	основ	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+16	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	прогнозировалось	прогнозировать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	_
+20	его	он	DET	_	_	22	det	_	_
+21	дальнейшее	дальнейший	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 13
+# text = Развитие судебного почерковедения в советский период прошло несколько этапов.
+1	Развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	советский	советский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
+7	прошло	пройти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	несколько	несколько	NUM	_	Case=Nom	9	nummod:gov	_	_
+9	этапов	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 14
+# text = Этап накопления знаний и опыта.
+1	Этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	накопления	накопление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	опыта	опыт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 15
+# text = Он начинается в 1920-е гг., когда появляются первые работы советских авторов по криминалистике, и завершается в середине 1930-х гг. с выходом в свет самостоятельных исследований по судебному почерковедению.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	1920-е	1920-й	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	5	amod	_	_
+5	гг.	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	когда	когда	ADV	_	Degree=Pos	8	advmod	_	_
+8	появляются	появляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	acl:relcl	_	_
+9	первые	первый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	_
+11	советских	советский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	авторов	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+13	по	по	ADP	_	_	14	case	_	_
+14	криминалистике	криминалистика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	завершается	завершать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	середине	середина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	17	obl	_	_
+20	1930-х	1930-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	21	amod	_	_
+21	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+22	с	с	ADP	_	_	23	case	_	_
+23	выходом	выход	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	свет	свет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	nmod	_	_
+26	самостоятельных	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+28	по	по	ADP	_	_	30	case	_	_
+29	судебному	судебный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	почерковедению	почерковедение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	27	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 16
+# text = Рассматривая понятия письма и почерка, криминалисты обращаются к автоматизму процесса письма, отмечают важность учета темпа письма, координации движений, 161
+1	Рассматривая	рассматривать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	advcl	_	_
+2	понятия	понятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+3	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	_
+7	криминалисты	криминалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+8	обращаются	обращаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	к	к	ADP	_	_	10	case	_	_
+10	автоматизму	автоматизм	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+11	процесса	процесс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	письма	письмо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
+15	важность	важность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+16	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	темпа	темп	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+18	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	координации	координация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	conj	_	_
+21	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	161	161	NUM	_	_	14	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = дают развернутый перечень факторов, оказывающих влияние на процесс письма и почерк.
+1	дают	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	развернутый	развернуть	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
+3	перечень	перечень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	факторов	фактор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	оказывающих	оказывать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	влияние	влияние	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	процесс	процесс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+10	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	почерк	почерка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = Первое определение почерка принадлежит С.М. Потапову, который определял почерк как "…систему движений, выраженную в письменных знаках" .
+1	Первое	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	принадлежит	принадлежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	С.	С.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	SpaceAfter=No
+6	М.	М.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Потапову	Потапов	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	который	который	PRON	_	Case=Nom	10	nsubj	_	_
+10	определял	определять	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+11	почерк	почерк	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	как	как	SCONJ	_	_	15	mark	_	_
+13	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
+14	…	…	PUNCT	_	_	12	punct	_	SpaceAfter=No
+15	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	acl	_	_
+16	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	выраженную	выражеть	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	письменных	письменный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	21	amod	_	_
+21	знаках	знак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+22	"	"	PUNCT	_	_	21	punct	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 19
+# text = Это определение подтолкнуло криминалистов на изучение двигательной природы почерка и в дальнейшем нашло отражение и развитие в трудах других криминалистов, исследовавших почерк с учетом достижений естественнонаучных знаний.
+1	Это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	определение	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	подтолкнуло	подтолкнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	криминалистов	криминалист	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	изучение	изучение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+7	двигательной	двигательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	природы	природа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	и	и	CCONJ	_	_	13	cc	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	дальнейшем	дальнейший	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	13	obl	_	_
+13	нашло	найти	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+14	отражение	отражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+15	и	и	CCONJ	_	_	16	cc	_	_
+16	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	conj	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	трудах	труд	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	nmod	_	_
+19	других	другой	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	криминалистов	криминалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	исследовавших	исследовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	acl	_	_
+23	почерк	почерка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	учетом	учет	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	nmod	_	_
+26	достижений	достижение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+27	естественнонаучных	естественнонаучный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	28	amod	_	_
+28	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 20
+# text = Начальный период в развитии судебного почерковедения был переходным, когда изучались и практически переосмысливались старые положения, зарождались новые, основанные на обобщении практики производства исследований в расширявшихся и вновь создававшихся экспертных учреждениях.
+1	Начальный	начальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	развитии	развитие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	переходным	переходный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	когда	когда	SCONJ	_	_	11	mark	_	_
+11	изучались	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	8	advcl	_	_
+12	и	и	CCONJ	_	_	14	cc	_	_
+13	практически	практически	ADV	_	Degree=Pos	14	advmod	_	_
+14	переосмысливались	переосмысливаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	11	conj	_	_
+15	старые	старый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	14	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	зарождались	зарождаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	8	conj	_	_
+19	новые	новый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	18	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	основанные	основать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+22	на	на	ADP	_	_	23	case	_	_
+23	обобщении	обобщение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	21	obl	_	_
+24	практики	практика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	obl	_	_
+25	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	_
+27	в	в	ADP	_	_	33	case	_	_
+28	расширявшихся	расширяться	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	acl	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	вновь	вновь	ADV	_	Degree=Pos	31	advmod	_	_
+31	создававшихся	создаваться	VERB	_	Aspect=Perf|Case=Loc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	28	conj	_	_
+32	экспертных	экспертный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	33	amod	_	_
+33	учреждениях	учреждение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	24	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 21
+# text = Это был период накопления и концентрации сил для дальнейшего бурного развития отечественного судебного почерковедения.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	накопления	накопление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	концентрации	концентрация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
+7	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+8	для	для	ADP	_	_	11	case	_	_
+9	дальнейшего	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+10	бурного	бурный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+12	отечественного	отечественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+13	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 22
+# text = Далее следует этап становления теоретических основ, к которому относится период с середины 30-х до середины 50-х гг. XX в.
+1	Далее	далее	ADV	_	Degree=Pos	2	advmod	_	_
+2	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	становления	становление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	теоретических	теоретический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	основ	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	к	к	ADP	_	_	9	case	_	_
+9	которому	который	PRON	_	Case=Dat	10	obl	_	_
+10	относится	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+11	период	период	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+12	с	с	ADP	_	_	13	case	_	_
+13	середины	середина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	30-х	30-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	nmod	_	_
+15	до	до	ADP	_	_	16	case	_	_
+16	середины	середина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+17	50-х	50-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	_	_
+18	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	XX	xx	NUM	_	_	20	nummod	_	_
+20	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Он тесно связан с именами таких известных советских криминалистов, как С.М. Потапов, А.И. Винберг, Н.В. Терзиев, Д.Д. Хмыров, С.И. Тихенко, А.А. Елисеев, Б.М. Комаринц, Б.И. Шевченко.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj:pass	_	_
+2	тесно	тесно	ADV	_	Degree=Pos	3	advmod	_	_
+3	связан	связать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	именами	имя	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	3	obl	_	_
+6	таких	такой	DET	_	Case=Gen|Number=Plur	9	det	_	_
+7	известных	известный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+8	советских	советский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	криминалистов	криминалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	как	как	SCONJ	_	_	12	mark	_	_
+12	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+13	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	_
+14	Потапов	Потапов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+17	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	_
+18	Винберг	Винберг	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	Н.	Н.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+21	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	_
+22	Терзиев	Терзиев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+25	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	_
+26	Хмыров	Хмыров	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+29	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	_
+30	Тихенко	Тихенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	28	flat:name	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+33	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	flat:name	_	_
+34	Елисеев	Елисеев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	32	flat:name	_	SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	_
+36	Б.	Б.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+37	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	flat:name	_	_
+38	Комаринц	Комаринц	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	flat:name	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	40	punct	_	_
+40	Б.	Б.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+41	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	flat:name	_	_
+42	Шевченко	Шевченко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	40	flat:name	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 24
+# text = Теоретические положения, выдвигаемые криминалистами в этот период, отражали формирование научных основ судебного почерковедения и методики судебно-почерковедческой экспертизы.
+1	Теоретические	теоретический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	выдвигаемые	выдвигать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	криминалистами	криминалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	8	det	_	_
+8	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	отражали	отражать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	формирование	формирование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	научных	научный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	amod	_	_
+13	основ	основа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+14	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	методики	методика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	conj	_	_
+18	судебно	судебный	ADJ	_	Degree=Pos	20	compound	_	SpaceAfter=No
+19	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	почерковедческой	почерковедческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 25
+# text = Взгляды криминалистов на письмо и почерк, их идентификационные свойства и признаки, основы методики экспертного исследования отражались в учебниках криминалистики, монографиях, специально посвященных криминалистической экспертизе письма и почерка, в многочисленных статьях.
+1	Взгляды	взгляд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	_
+2	криминалистов	криминалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	письмо	письмо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	почерк	почерк	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	их	их	DET	_	_	10	det	_	_
+9	идентификационные	идентификационный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	свойства	свойство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	признаки	признак	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	conj	_	_
+15	методики	методика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	экспертного	экспертный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
+18	отражались	отражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	учебниках	учебник	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	obl	_	_
+21	криминалистики	криминалистика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	монографиях	монография	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	20	conj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	специально	специально	ADV	_	Degree=Pos	26	advmod	_	_
+26	посвященных	посвятить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+27	криминалистической	криминалистический	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	экспертизе	экспертиза	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	iobj	_	_
+29	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	26	punct	_	_
+33	в	в	ADP	_	_	35	case	_	_
+34	многочисленных	многочисленный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	35	amod	_	_
+35	статьях	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	18	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 26
+# text = Как уже было отмечено, первым криминалистом, сформулировавшим основные положения теории советского судебного почерковедения, был С.М. Потапов.
+1	Как	как	SCONJ	_	_	4	mark	_	_
+2	уже	уже	ADV	_	Degree=Pos	4	advmod	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux:pass	_	_
+4	отмечено	отметить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	первым	первый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	криминалистом	криминалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	сформулировавшим	сформулировать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+10	основные	основной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	положения	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+12	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	советского	советский	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+14	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	9	punct	_	_
+17	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+18	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+19	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	_
+20	Потапов	Потапов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 27
+# text = Он развил и обосновал ранее сформулированное представление о почерке как целостной системе привычных движений, подчеркнул взаимосвязь и взаимозависимость его элементов как структурного целого и определил почерк как "систему взаимосвязанных и соотносящихся между собой движений, приспособленную к воспроизведению письма" . С.М. Потапов попытался систематизировать признаки почерка и детально разработать общие признаки.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	развил	развить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	обосновал	босновать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	ранее	ранее	ADV	_	Degree=Pos	4	advmod	_	_
+6	сформулированное	формулировать	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	представление	представление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+8	о	о	ADP	_	_	9	case	_	_
+9	почерке	почерка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+10	как	как	SCONJ	_	_	12	mark	_	_
+11	целостной	целостный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	системе	система	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	_
+13	привычных	привычный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	подчеркнул	подчеркнуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+17	взаимосвязь	взаимосвязь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	взаимозависимость	взаимозависимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	conj	_	_
+20	его	его	DET	_	_	21	det	_	_
+21	элементов	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+22	как	как	SCONJ	_	_	24	mark	_	_
+23	структурного	структурный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	целого	целый	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	acl	_	_
+25	и	и	CCONJ	_	_	26	cc	_	_
+26	определил	определить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+27	почерк	почерка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+28	как	как	SCONJ	_	_	30	mark	_	_
+29	"	"	PUNCT	_	_	30	punct	_	SpaceAfter=No
+30	систему	система	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	27	acl	_	_
+31	взаимосвязанных	взаимосвязывать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	36	acl	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	соотносящихся	соотноситься	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	31	conj	_	_
+34	между	между	ADP	_	_	35	case	_	_
+35	собой	себя	PRON	_	Case=Ins	33	obl	_	_
+36	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	30	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	приспособленную	приспособить	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	30	acl	_	_
+39	к	к	ADP	_	_	40	case	_	_
+40	воспроизведению	воспроизведение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	38	obl	_	_
+41	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	40	nmod	_	SpaceAfter=No
+42	"	"	PUNCT	_	_	44	punct	_	_
+43	.	.	PUNCT	_	_	41	punct	_	_
+44	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	41	appos	_	SpaceAfter=No
+45	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	44	flat:name	_	_
+46	Потапов	Потапов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	44	flat:name	_	_
+47	попытался	пытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+48	систематизировать	систематизировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	47	xcomp	_	_
+49	признаки	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	48	obj	_	_
+50	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	49	nmod	_	_
+51	и	и	CCONJ	_	_	53	cc	_	_
+52	детально	детально	ADV	_	Degree=Pos	53	advmod	_	_
+53	разработать	разработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	48	conj	_	_
+54	общие	общий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	55	amod	_	_
+55	признаки	признак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	53	obj	_	SpaceAfter=No
+56	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 28
+# text = В признаках почерка он видел свойства движений пишущего, а представление о тождестве исполнителя рукописи он связывал не с совпадением буквенных форм, а с совпадением "анализированных признаков, с общей закономерностью движений в данном почерке" .
+1	В	в	ADP	_	_	2	case	_	_
+2	признаках	признак	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	_	_
+3	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+5	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	свойства	свойство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+7	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	пишущего	писать	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	а	а	CCONJ	_	_	11	cc	_	_
+11	представление	представление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
+12	о	о	ADP	_	_	13	case	_	_
+13	тождестве	тождество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	11	nmod	_	_
+14	исполнителя	исполнитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	рукописи	рукопись	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj	_	_
+17	связывал	связывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+18	не	не	PART	_	_	20	advmod	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	совпадением	совпадение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	_
+21	буквенных	буквенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	форм	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	а	а	CCONJ	_	_	26	cc	_	_
+25	с	с	ADP	_	_	26	case	_	_
+26	совпадением	совпадение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	conj	_	_
+27	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	анализированных	анализировать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	29	amod	_	_
+29	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	с	с	ADP	_	_	33	case	_	_
+32	общей	общий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	33	amod	_	_
+33	закономерностью	закономерность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	conj	_	_
+34	движений	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	_
+35	в	в	ADP	_	_	37	case	_	_
+36	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
+37	почерке	почерка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+38	"	"	PUNCT	_	_	33	punct	_	_
+39	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 29
+# text = Первая монография о криминалистической экспертизе была написана А.И. Винбергом, который в качестве объекта криминалистической идентификации рассматривал письмо как "…сложный процесс, включающий физиологические, анатомические и другие компоненты" .
+1	Первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	монография	монография	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+3	о	о	ADP	_	_	5	case	_	_
+4	криминалистической	криминалистический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	экспертизе	экспертиза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	nmod	_	_
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	_	_
+7	написана	писать	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	А.	А.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+9	И.	И.	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	flat:name	_	_
+10	Винбергом	Винберг	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	который	который	PRON	_	Case=Nom	18	nsubj	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	fixed	_	_
+15	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	obl	_	_
+16	криминалистической	криминалистический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+18	рассматривал	рассматривать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+19	письмо	письмо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+20	как	как	SCONJ	_	_	24	mark	_	_
+21	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	…	…	PUNCT	_	_	20	punct	_	SpaceAfter=No
+23	сложный	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	процесс	процесс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	acl	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	включающий	включать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	conj	_	_
+27	физиологические	физиологический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	32	amod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	анатомические	анатомический	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	conj	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	другие	другой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	27	conj	_	_
+32	компоненты	компонент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	26	obj	_	SpaceAfter=No
+33	"	"	PUNCT	_	_	8	punct	_	_
+34	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 30
+# text = Значительный вклад в развитие судебного почерковедения на данном этапе внес С.И. Тихенко , положивший начало экспериментальным исследованиям в 162
+1	Значительный	значительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	вклад	вклад	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	этапе	этап	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+10	внес	внести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
+13	Тихенко	Тихенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	_
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	положивший	положить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+16	начало	начало	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+17	экспериментальным	экспериментальный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	18	amod	_	_
+18	исследованиям	исследование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	15	iobj	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	162	162	NUM	_	_	15	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = этой области знаний.
+1	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing	2	det	_	_
+2	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+3	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 32
+# text = Он разработал самую актуальную и очень сложную проблему судебного почерковедения – проблему индивидуальности и устойчивости почерка.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	разработал	разработать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	самую	самый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	актуальную	актуальный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+5	и	и	CCONJ	_	_	7	cc	_	_
+6	очень	очень	ADV	_	Degree=Pos	7	obl	_	_
+7	сложную	сложный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	conj	_	_
+8	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+9	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	–	–	PUNCT	_	_	12	punct	_	_
+12	проблему	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	conj	_	_
+13	индивидуальности	индивидуальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	устойчивости	устойчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	conj	_	_
+16	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 33
+# text = На основе наблюдений и обобщения экспертной практики он попытался обосновать неповторимость почерка при условии его близкого сходства.
+1	На	на	ADP	_	_	2	case	_	_
+2	основе	основа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+3	наблюдений	наблюдение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	обобщения	обобщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+6	экспертной	экспертный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	практики	практика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+9	попытался	пытаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+10	обосновать	обосновать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	неповторимость	неповторимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	при	при	ADP	_	_	14	case	_	_
+14	условии	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+15	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	17	nmod	_	_
+16	близкого	близкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	сходства	сходство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 34
+# text = Этап дальнейшего развития теоретических, экспериментальных исследований, математизации знаний и формирования теории судебно-почерковедческой идентификации начинается с середины 50-х и продолжается до конца 80-х гг. XX в.
+1	Этап	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+2	дальнейшего	дальнейший	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	развития	развитие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	теоретических	теоретический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	экспериментальных	экспериментальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	conj	_	_
+7	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	математизации	математизация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	_
+10	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	conj	_	_
+13	теории	теория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	судебно	судебный	ADJ	_	Degree=Pos	16	compound	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	почерковедческой	почерковедческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+18	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+19	с	с	ADP	_	_	20	case	_	_
+20	середины	середина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	_
+21	50-х	50-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	nmod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	продолжается	продолжаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	_
+24	до	до	ADP	_	_	25	case	_	_
+25	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	obl	_	_
+26	80-х	80-й	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	гг.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+28	XX	xx	NUM	_	_	29	nummod	_	_
+29	в	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 35
+# text = Для этого этапа характерно быстрое развитие экспериментальных разработок и теоретических обобщений.
+1	Для	для	ADP	_	_	3	case	_	_
+2	этого	это	DET	_	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+3	этапа	этап	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+4	характерно	характерный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	быстрое	быстрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	развитие	развитие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+7	экспериментальных	экспериментальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	разработок	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	теоретических	теоретически	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	обобщений	обобщение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 36
+# text = При этом экспериментальные исследования предпринимаются не только отдельными криминалистами, но и научными коллективами, объединяющими специалистов различных профилей: криминалистов-юристов, физиологов, психологов, математиков.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	экспериментальные	экспериментальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	исследования	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	_
+5	предпринимаются	предпринимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	только	только	PART	_	_	8	advmod	_	_
+8	отдельными	отдельный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+9	криминалистами	криминалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	но	но	CCONJ	_	_	14	cc	_	_
+12	и	и	PART	_	_	11	advmod	_	_
+13	научными	научный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	_
+14	коллективами	коллектив	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	объединяющими	объединять	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+17	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+18	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	профилей	профиль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	19	punct	_	_
+21	криминалистов	криминалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	parataxis	_	SpaceAfter=No
+22	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
+23	юристов	юрист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	21	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	физиологов	физиолог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	психологов	психолог	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	математиков	математик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	23	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = С помощью экспериментальных исследований осуществляется углубленное изучение предмета, ведущее к дифференциации последнего.
+1	С	с	ADP	_	_	4	case	_	_
+2	помощью	помощь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	fixed	_	_
+3	экспериментальных	экспериментальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
+4	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	5	obl	_	_
+5	осуществляется	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	углубленное	углубленный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	изучение	изучение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+8	предмета	предмет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	ведущее	вести	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	conj	_	_
+11	к	к	ADP	_	_	12	case	_	_
+12	дифференциации	дифференциация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	_
+13	последнего	последний	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 38
+# text = Исследуются актуальные и конкретные проблемы, результаты исследований теоретически обобщаются и находят свое отражение в монографиях и методических пособиях.
+1	Исследуются	исследовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	актуальные	актуальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+3	и	и	CCONJ	_	_	4	cc	_	_
+4	конкретные	конкретный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	_
+5	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj:pass	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
+8	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	теоретически	теоретически	ADV	_	Degree=Pos	10	advmod	_	_
+10	обобщаются	обобщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	находят	находить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+13	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	14	det	_	_
+14	отражение	отражение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	монографиях	монография	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	методических	методический	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	19	amod	_	_
+19	пособиях	пособие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	16	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = В течение ряда лет коллектив Киевского НИИСЭ разрабатывал вопросы сложнейшего почеркового объекта – рукописей, выполненных намеренно измененным почерком .
+1	В	в	ADP	_	_	3	case	_	_
+2	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	ряда	ряд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	_
+4	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	коллектив	коллектив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6	Киевского	киевский	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	НИИСЭ	НИИСЭ	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	разрабатывал	разрабатывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+10	сложнейшего	сложный	ADJ	_	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	12	amod	_	_
+11	почеркового	почерковый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	объекта	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+13	–	–	PUNCT	_	_	14	punct	_	_
+14	рукописей	рукопись	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	выполненных	выполнить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
+17	намеренно	намеренно	ADV	_	Degree=Pos	18	advmod	_	_
+18	измененным	изменить	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+19	почерком	почерко	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	16	obl	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 40
+# text = При этом экспериментально были исследованы характер и пределы изменений признаков почерка, возможности идентификации исполнителя при намеренном искажении общих признаков, произвольном скорописном изменении, компетентном изменении почерка в целях его маскировки.
+1	При	при	ADP	_	_	2	case	_	_
+2	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	экспериментально	экспериментально	ADV	_	Degree=Pos	5	advmod	_	_
+4	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
+5	исследованы	исследовать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	характер	характер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	пределы	предел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	conj	_	_
+9	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
+11	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	возможности	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	5	conj	_	_
+14	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	исполнителя	исполнитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	при	при	ADP	_	_	18	case	_	_
+17	намеренном	намеренный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	искажении	искажение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	nmod	_	_
+19	общих	общий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	произвольном	произвольный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+23	скорописном	скорописный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	изменении	изменение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	компетентном	компетентный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	изменении	изменение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	18	conj	_	_
+28	почерка	почерка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	28	nmod	_	_
+31	его	его	DET	_	_	32	det	_	_
+32	маскировки	маскировка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 41
+# text = Большой интерес криминалисты проявляли к специфическим объектам почерка – рукописям, выполненным с подражанием "печатному" шрифту и специальными шрифтами , цифровому письму , непривычному леворучному письму и др.
+1	Большой	большой	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	интерес	интерес	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+3	криминалисты	криминалист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	проявляли	проявлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	к	к	ADP	_	_	7	case	_	_
+6	специфическим	специфический	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	_
+7	объектам	объект	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+8	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	–	–	PUNCT	_	_	10	punct	_	_
+10	рукописям	рукопись	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	appos	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	выполненным	выполнить	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	подражанием	подражание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	печатному	печатный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	шрифту	шрифт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	_
+19	и	и	CCONJ	_	_	21	cc	_	_
+20	специальными	специальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	_
+21	шрифтами	шрифт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	conj	_	_
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	цифровому	цифровой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	письму	письмо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	21	appos	_	_
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	непривычному	непривычный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+27	леворучному	леворучный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	письму	письмо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	24	conj	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	др	др.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 42
+# text = Интеграция знаний, полученных в результате экспериментальных исследований, позволила в этот период сформулировать естественнонаучные основы судебного почерковедения: обстоятельно разработать и изложить данные о механизме письма (двигательной анатомии и биомеханике, управлении письменнодвигательным аппаратом), о формировании навыка письма и двигательной природе признаков почерка, дать обоснование динамической устойчивости и вариационности почерка, рассмотреть его индивидуальность .
+1	Интеграция	интеграция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+2	знаний	знание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	полученных	получить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+7	экспериментальных	экспериментальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	исследований	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	позволила	позволить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	в	в	ADP	_	_	13	case	_	_
+12	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	13	det	_	_
+13	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+14	сформулировать	формулировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+15	естественнонаучные	естественнонаучный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	16	amod	_	_
+16	основы	основа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+17	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	10	punct	_	_
+20	обстоятельно	обстоятельно	ADV	_	Degree=Pos	21	advmod	_	_
+21	разработать	разработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	parataxis	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	изложить	изложить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	conj	_	_
+24	данные	данные	NOUN	_	Animacy=Inan|Case=Acc|Number=Plur	23	obj	_	_
+25	о	о	ADP	_	_	26	case	_	_
+26	механизме	механизм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	nmod	_	_
+27	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
+29	двигательной	двигательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	анатомии	анатомия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	parataxis	_	_
+31	и	и	CCONJ	_	_	32	cc	_	_
+32	биомеханике	биомеханик	NOUN	_	Animacy=Anim|Case=Loc|Gender=Fem|Number=Sing	30	conj	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	управлении	управление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	30	conj	_	_
+35	письменнодвигательным	письменнодвигательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	аппаратом	аппарат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	30	punct	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	40	punct	_	_
+39	о	о	ADP	_	_	40	case	_	_
+40	формировании	формирование	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	26	conj	_	_
+41	навыка	навык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
+42	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	41	nmod	_	_
+43	и	и	CCONJ	_	_	45	cc	_	_
+44	двигательной	двигательный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	45	amod	_	_
+45	природе	природа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	42	conj	_	_
+46	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	45	nmod	_	_
+47	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	46	nmod	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	49	punct	_	_
+49	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	conj	_	_
+50	обоснование	обоснование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	49	obj	_	_
+51	динамической	динамический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	52	amod	_	_
+52	устойчивости	устойчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	50	nmod	_	_
+53	и	и	CCONJ	_	_	54	cc	_	_
+54	вариационности	вариационность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	52	conj	_	_
+55	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	SpaceAfter=No
+56	,	,	PUNCT	_	_	57	punct	_	_
+57	рассмотреть	рассмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	conj	_	_
+58	его	его	DET	_	_	59	det	_	_
+59	индивидуальность	индивидуальность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	57	obj	_	_
+60	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 43
+# text = В настоящее время судебное почерковедение тесно связано с медициной.
+1	В	в	ADP	_	_	7	advmod	_	_
+2	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	fixed	_	_
+3	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	fixed	_	_
+4	судебное	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	почерковедение	почерковедение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+6	тесно	тесно	ADV	_	Degree=Pos	7	advmod	_	_
+7	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	медициной	медицина	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 44
+# text = В частности, есть попытки разработать альтернативные методы диагностики по почерку разнообразных психических и соматических заболеваний человека.
+1	В	в	ADP	_	_	4	discourse	_	_
+2	частности	частность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	попытки	попытка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+6	разработать	разработать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	obl	_	_
+7	альтернативные	альтернативный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	8	amod	_	_
+8	методы	метод	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+9	диагностики	диагностика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	по	по	ADP	_	_	11	case	_	_
+11	почерку	почерка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	_
+12	разнообразных	разнообразный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+13	психических	психический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	соматических	соматический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	conj	_	_
+16	заболеваний	заболевание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+17	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 45
+# text = Отдельные работы высоко оцениваются отечественными криминалистами и используются ими в целях решения диагностических и ситуационных задач судебно-почерковедческой экспертизы.
+1	Отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+3	высоко	высоко	ADV	_	Degree=Pos	4	advmod	_	_
+4	оцениваются	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	отечественными	отечественный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	6	amod	_	_
+6	криминалистами	криминалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	4	obl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	используются	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	conj	_	_
+9	ими	они	PRON	_	Case=Ins|Number=Plur|Person=3	8	obl	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	целях	цель	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	8	obl	_	_
+12	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	диагностических	диагностический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	ситуационных	ситуационный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	13	conj	_	_
+16	задач	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+17	судебно-почерковедческой	судебно-почерковедческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 46
+# text = В некоторых странах Америки и Европы графологический анализ почерка применяется для определения профессиональных свойств конкретного
+1	В	в	ADP	_	_	3	case	_	_
+2	некоторых	некоторый	DET	_	Case=Loc|Number=Plur	3	det	_	_
+3	странах	страна	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	10	obl	_	_
+4	Америки	Америка	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	Европы	Европа	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
+7	графологический	графологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+9	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	применяется	применять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	obl	_	_
+13	профессиональных	профессиональный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	свойств	свойство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+15	конкретного	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = человека, его пригодности к работе по той или иной специальности, на определенной должности.
+1	человека	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	его	его	DET	_	_	4	det	_	_
+4	пригодности	пригодность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
+7	по	по	ADP	_	_	11	case	_	_
+8	той	тот	DET	_	Case=Dat|Gender=Fem|Number=Sing	11	det	_	_
+9	или	или	CCONJ	_	_	10	cc	_	_
+10	иной	иной	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	8	conj	_	_
+11	специальности	специальность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	на	на	ADP	_	_	15	case	_	_
+14	определенной	определить	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	должности	должность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Подводя итоги, отметим, что в настоящее время отечественное судебное почерковедение представляет собой высокоразвитую, предметную отрасль судебной экспертизы и криминалистики со сформировавшимися научны-
+1	Подводя	подводить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	_
+2	итоги	итог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	отметим	отметить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	что	что	SCONJ	_	_	13	mark	_	_
+7	в	в	ADP	_	_	13	advmod	_	_
+8	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	fixed	_	_
+9	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	fixed	_	_
+10	отечественное	отечественный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+11	судебное	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	почерковедение	почерковедение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+13	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+14	собой	себя	PRON	_	Case=Ins	13	fixed	_	_
+15	высокоразвитую	высокоразвитый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	предметную	предметный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	15	conj	_	_
+18	отрасль	отрасль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+19	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	криминалистики	криминалистика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	conj	_	_
+23	со	с	ADP	_	_	24	mark	_	_
+24	сформировавшимися	сформироваться	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	25	advcl	_	_
+25	научны	научный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	22	obl	_	SpaceAfter=No
+26	-	-	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = ми основами, понятийным аппаратом, разработанными методическими основами судебно-почерковедческой идентификации и диагностики, созданными методами и методиками исследования разнообразных объектов почерка, носящими комплексный характер и отвечающими современным научным требованиям.
+1	ми	й	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	2	amod	_	_
+2	основами	основа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	понятийным	понятийный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	аппаратом	аппарат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	разработанными	разработать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+8	методическими	методический	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+9	основами	основа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	7	obl	_	_
+10	судебно	судебный	ADJ	_	Degree=Pos	12	compound	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	почерковедческой	почерковедческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+14	и	и	CCONJ	_	_	15	cc	_	_
+15	диагностики	диагностика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	созданными	создать	VERB	_	Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+18	методами	метод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	17	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	методиками	методика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	conj	_	_
+21	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+22	разнообразных	разнообразный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	объектов	объект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+24	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	носящими	носить	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	acl	_	_
+27	комплексный	комплексный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+29	и	и	CCONJ	_	_	30	cc	_	_
+30	отвечающими	отвечать	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	conj	_	_
+31	современным	современный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	33	amod	_	_
+32	научным	научный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	33	amod	_	_
+33	требованиям	требование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	30	iobj	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = ЛИТЕРАТУРА 1.
+1	ЛИТЕРАТУРА	литература	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	1	1	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 51
+# text = Архив Ленинского районного суда г. Саратова за 2011 г. 2.
+1	Архив	архив	ADP	_	_	4	case	_	_
+2	Ленинского	ленинский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	районного	районный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+5	г.	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Саратова	Саратов	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	appos	_	_
+7	за	за	ADP	_	_	9	case	_	_
+8	2011	2011	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+10	2	2	NUM	_	_	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 52
+# text = Архив Арбитражного суда Московской области.
+1	Архив	архив	ADP	_	_	3	case	_	_
+2	Арбитражного	арбитражный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	суда	суд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+4	Московской	московский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 53
+# text = URL : http://ras.arbtr.ru (дата обращения: 27.03.2015 г.).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://ras.arbtr.ru	http://ras.arbtr.ru	X	_	Foreign=Yes	1	parataxis	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+6	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	5	punct	_	_
+8	27.03.2015	27.03.2015	NUM	_	_	9	nummod	_	_
+9	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 54
+# text = 3.
+1	3	3	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 55
+# text = Орлова В.Ф. Теория судебно-почерковедческой идентификации.
+1	Орлова	Орлов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	Ф	ф	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	Теория	теория	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+6	судебно	судебный	ADJ	_	Degree=Pos	8	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	почерковедческой	почерковедческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 56
+# text = М., 2011.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	2011	2011	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = С. 21. 4.
+1	С.	С.	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	21	21	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+4	4	4	NUM	_	_	2	nummod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 58
+# text = Колоколов Е. Правила и формы для производства следствий по своду законов 1857 г. М., 1859 (переиздано в 1996 г.).
+1	Колоколов	колокол	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	Правила	Правил	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	appos	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	формы	форма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	conj	_	_
+6	для	для	ADP	_	_	7	case	_	_
+7	производства	производство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	следствий	следствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
+9	по	по	ADP	_	_	10	case	_	_
+10	своду	свод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
+11	законов	закон	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
+12	1857	1857	NUM	_	_	13	nummod	_	_
+13	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+14	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	1859	1859	NUM	_	_	14	nummod	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	переиздано	переиздать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	14	parataxis	_	_
+19	в	в	ADP	_	_	21	case	_	_
+20	1996	1996	NUM	_	_	21	nummod	_	_
+21	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+22	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 59
+# text = 5.
+1	5	5	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 60
+# text = URL : http://www.bnt.ru (дата обращения: 27.03.2015 г.).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.bnt.ru	http://www.bnt.ru	X	_	Foreign=Yes	1	parataxis	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+6	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	27.03.2015	27.03.2015	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 61
+# text = 6.
+1	6	6	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 62
+# text = Локар Э. Руководство по криминалистике.
+1	Локар	Локар	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Э.	Э.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+3	Руководство	руководство	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	flat:name	_	_
+4	по	по	ADP	_	_	5	case	_	_
+5	криминалистике	криминалистика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 63
+# text = М., 1941 (переиздано в 1987 г.).
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1941	1941	NUM	_	_	1	conj	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	переиздано	переиздать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	3	appos	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	1987	1987	NUM	_	_	8	nummod	_	_
+8	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 64
+# text = 7.
+1	7	7	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 65
+# text = Буринский Е.Ф. Судебная экспертиза документов.
+1	Буринский	Буринский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	Е.	Е.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+3	Ф	ф	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+5	Судебная	судебный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	экспертиза	экспертиза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+7	документов	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 66
+# text = СПб., 1903 (переиздано в 1991 г.).
+1	СПб	СПб	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	1903	1903	NUM	_	_	1	conj	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	переиздано	переиздать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	parataxis	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	1991	1991	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 67
+# text = 8.
+1	8	8	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 68
+# text = Потапов С.М. Научное почерковедение // Советское государство и право 1940 № 12.
+1	Потапов	Потапов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	М	метр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+5	Научное	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	почерковедение	почерковедение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	_
+7	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	/	/	PUNCT	_	_	10	punct	_	_
+9	Советское	советский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	conj	_	_
+13	1940	1940	NUM	_	_	14	nummod	_	_
+14	№	№	SYM	_	_	12	nummod:entity	_	_
+15	12	12	NUM	_	_	14	nummod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 69
+# text = 9.
+1	9	9	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = Криминалистика / под ред.
+1	Криминалистика	криминалистика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	под	под	ADP	_	_	4	case	_	_
+4	ред	редактор	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 71
+# text = Н.П. Яблокова.
+1	Н.	Н.	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	П.	П.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Яблокова	Яблоков	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = М., 1979.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1979	1979	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 73
+# text = Кн.
+1	Кн	Кн	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 74
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 75
+# text = 10.
+1	10	10	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 76
+# text = Винберг А.И.
+1	Винберг	винберг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+
+# sent_id = 77
+# text = Криминалистическая экспертиза письма.
+1	Криминалистическая	Криминалистический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	экспертиза	экспертиза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	письма	письмо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 78
+# text = М., 1940.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1940	1940	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 79
+# text = URL : http://www.bnt.ru/showart.asp?ad=1010&lvl=02.09.16 (дата обращения: 27.03.2015 г.).
+1	URL	урл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	:	:	PUNCT	_	_	1	punct	_	_
+3	http://www.bnt.ru/showart.asp?ad=1010&lvl=02.09.16	http://www.bnt.ru/showart.asp?ad=1010&lvl=02.09.16	X	_	Foreign=Yes	1	parataxis	_	_
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	дата	дата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	_
+6	обращения	обращение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	6	punct	_	_
+8	27.03.2015	27.03.2015	NUM	_	_	9	nummod	_	_
+9	г.	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 80
+# text = 11.
+1	11	11	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 81
+# text = Тихенко С.И. Проблемы индивидуальности и устойчивости признаков почерка в судебной экспертизе письма // Криминалистика и судебно-научная экспертиза.
+1	Тихенко	Тихенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Проблемы	Проблема	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	индивидуальности	индивидуальность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	и	и	CCONJ	_	_	7	cc	_	_
+7	устойчивости	устойчивость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	conj	_	_
+8	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+9	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	судебной	судебный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	экспертизе	экспертиза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	nmod	_	_
+13	письма	письмо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+14	/	/	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	Криминалистика	криминалистика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	parataxis	_	_
+17	и	и	CCONJ	_	_	21	cc	_	_
+18	судебно	судебный	ADJ	_	Degree=Pos	20	compound	_	SpaceAfter=No
+19	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	научная	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	экспертиза	экспертиза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 82
+# text = Киев, 1948.
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1948	1948	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 83
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 84
+# text = 2.
+1	2	2	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 85
+# text = 12.
+1	12	12	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 86
+# text = Тихенко С.И. Судебно-графическая экспертиза рукописных текстов : автореф. дис. … канд. юрид. наук.
+1	Тихенко	Тихенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	_
+4	Судебно	судебный	ADJ	_	Degree=Pos	3	obl	_	SpaceAfter=No
+5	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
+6	графическая	графический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	экспертиза	экспертиза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+8	рукописных	рукописный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	текстов	текст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	:	:	PUNCT	_	_	7	punct	_	_
+11	автореф	автореф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+13	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	appos	_	_
+14	…	…	PUNCT	_	_	15	punct	_	_
+15	канд.	кандемик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	appos	_	_
+16	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	16	punct	_	_
+18	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 87
+# text = Киев, 1945.
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1945	1945	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 88
+# text = 13.
+1	13	13	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Сегай М.Я., Топольский А.Д., Ципенюк С.А., Штерн Б.А. Устойчивость признаков почерка при компетентном его изменении // Вопросы криминалистики и судебной экспертизы.
+1	Сегай	Сегай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	Я.	Я.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	Топольский	Топольский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	SpaceAfter=No
+7	Д.	Д.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Ципенюк	Ципенюк	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+10	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
+11	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	Штерн	Штерн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
+14	Б.	Б.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+15	А	А.	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	13	flat:name	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+17	Устойчивость	устойчивость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+18	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+19	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	при	при	ADP	_	_	23	case	_	_
+21	компетентном	компетентный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+22	его	его	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	23	nmod	_	_
+23	изменении	изменение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	_
+24	/	/	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	/	/	PUNCT	_	_	26	punct	_	_
+26	Вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	17	conj	_	_
+27	криминалистики	криминалистика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	и	и	CCONJ	_	_	30	cc	_	_
+29	судебной	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	экспертизы	экспертиза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 90
+# text = Душанбе, 1962.
+1	Душанбе	Душанба	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1962	1962	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = № 2.
+1	№	№	SYM	_	_	0	root	_	_
+2	2	2	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 92
+# text = С. 36–37.
+1	С	секунда	ADP	_	_	3	case	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	36	36	NUM	_	_	0	root	_	SpaceAfter=No
+4	–	–	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	37	37	NUM	_	_	3	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 93
+# text = 14.
+1	14	14	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 94
+# text = Ципенюк С.А. Оценка признаков почерка при криминалистической экспертизе текстов, выполненных с подражанием типографским шрифтам и специальными шрифтами.
+1	Ципенюк	Ципенюк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	С.	С.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	Оценка	оценка	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	_
+5	признаков	признак	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	почерка	почерк	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	при	при	ADP	_	_	9	case	_	_
+8	криминалистической	криминалистический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	экспертизе	экспертиза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	nmod	_	_
+10	текстов	текст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	выполненных	выполнить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	подражанием	подражание	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	типографским	типографский	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	16	amod	_	_
+16	шрифтам	шрифт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	14	iobj	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	специальными	специальный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+19	шрифтами	шрифт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 95
+# text = Киев, 1963.
+1	Киев	Киев	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1963	1963	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 96
+# text = 15.
+1	15	15	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 97
+# text = Грузкова В.Г. Основные положения идентификации личности по цифровому письму : автореф. дис. … канд. юрид. наук.
+1	Грузкова	Грузков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+2	В.	В.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
+3	Г	г	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+5	Основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	положения	положение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1	conj	_	_
+7	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	по	по	ADP	_	_	11	case	_	_
+10	цифровому	цифровой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	письму	письмо	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	_
+12	:	:	PUNCT	_	_	6	punct	_	_
+13	автореф	автореф	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+15	дис.	дисяча	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	appos	_	_
+16	…	…	PUNCT	_	_	17	punct	_	_
+17	канд.	кандемик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	15	appos	_	_
+18	юрид	юрид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	_	_
+20	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 98
+# text = Харьков, 1967.
+1	Харьков	Харьков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1967	1967	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 99
+# text = 16.
+1	16	16	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 100
+# text = Еливанова М.С.
+1	Еливанова	Еливанов	ADV	_	Degree=Pos	0	root	_	_
+2	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+3	С	с	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 101
+# text = Возможности идентификации личности по непривычному леворучному почерку.
+1	Возможности	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+2	идентификации	идентификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	личности	личность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	по	по	ADP	_	_	7	case	_	_
+5	непривычному	непривычный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+6	леворучному	леворучный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	почерку	почерк	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 102
+# text = М., 1966.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1966	1966	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 103
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 104
+# text = 1.
+1	1	1	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = 17.
+1	17	17	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Манцветова А.И., Орлова В.Ф., Славуцкан И.А. Теоретические основы судебного почерковедения // Труды ЦНИИСЭ.
+1	Манцветова	Манцветова	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Орлова	Орлов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	conj	_	_
+6	В.	В.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+7	Ф.	Ф.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Славуцкан	Славуцкан	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+10	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	А	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	_
+13	Теоретические	теоретический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	основы	основа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	conj	_	_
+15	судебного	судебный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	почерковедения	почерковедение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	/	/	PUNCT	_	_	19	punct	_	SpaceAfter=No
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	Труды	труда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	16	nmod	_	_
+20	ЦНИИСЭ.	ЦНИИСЭ.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+
+# sent_id = 107
+# text = М., 1967.
+1	М.	М.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	1967	1967	NUM	_	_	1	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 108
+# text = Вып.
+1	Вып	Вып	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 109
+# text = I.
+1	I	i	NUM	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 110
+# text = Статья представлена научной редакцией "Право" 7 апреля 2015 г.
+1	Статья	статья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	представлена	представить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	научной	научный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	редакцией	редакция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	Право	право	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	7	7	NUM	_	_	2	nummod	_	_
+9	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	2015	2015	NUM	_	_	11	nummod	_	_
+11	г	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

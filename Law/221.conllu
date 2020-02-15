@@ -1,0 +1,2367 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = щиту".
+1	щиту	щит	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	"	"	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = Однако нас интересует отдельный элемент этого механизма, который активно обсуждается теоретиками и специалистами – возможность применения Концепции применительно к бедствиям, т.е. ее более широкое толкование и рассмотрение.
+1	Однако	однако	ADV	_	Degree=Pos	3	advmod	_	_
+2	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	3	nsubj	_	_
+3	интересует	интересовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	отдельный	отдельный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	элемент	элемент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	этого	этот	DET	_	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
+7	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	который	который	PRON	_	Case=Nom	11	nsubj:pass	_	_
+10	активно	активно	ADV	_	Degree=Pos	11	advmod	_	_
+11	обсуждается	обсуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	acl:relcl	_	_
+12	теоретиками	теоретик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	11	obl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	специалистами	специалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	conj	_	_
+15	–	–	PUNCT	_	_	23	punct	_	_
+16	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+17	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+19	применительно	применительно	ADV	_	Degree=Pos	16	advmod	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	бедствиям	бедствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	19	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	16	punct	_	_
+23	т.е.	т.быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
+24	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	23	obj	_	_
+25	более	более	ADV	_	Degree=Cmp	26	obl	_	_
+26	широкое	широкий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	27	amod	_	_
+27	толкование	толкование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+28	и	и	CCONJ	_	_	29	cc	_	_
+29	рассмотрение	рассмотрение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 3
+# text = Вопрос о расширении применения концепции появился неспроста.
+1	Вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	расширении	расширение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+4	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	появился	появиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	неспроста	неспроста	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 4
+# text = Не всегда в случае бедствия гуманитарным организациям удается установить контакт с местными властями пострадавшего государства.
+1	Не	не	PART	_	_	2	advmod	_	_
+2	всегда	всегда	ADV	_	Degree=Pos	8	advmod	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
+5	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	гуманитарным	гуманитарный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	7	amod	_	_
+7	организациям	организация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	5	iobj	_	_
+8	удается	удаваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	установить	установить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	контакт	контакт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+11	с	с	ADP	_	_	13	case	_	_
+12	местными	местный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	13	amod	_	_
+13	властями	власть	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	10	nmod	_	_
+14	пострадавшего	страдать	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+15	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 5
+# text = Также известны случаи, когда государство вообще отказывается от международной помощи, несмотря на тяжелое положение своего населения и невозможность самостоятельно справиться с ситуацией.
+1	Также	также	ADV	_	Degree=Pos	2	obl	_	_
+2	известны	известный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+3	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	когда	когда	SCONJ	_	_	8	mark	_	_
+6	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+7	вообще	вообще	ADV	_	Degree=Pos	8	advmod	_	_
+8	отказывается	отказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	acl	_	_
+9	от	от	ADP	_	_	11	case	_	_
+10	международной	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	несмотря	несмотря	ADV	_	Polarity=Neg	16	case	_	_
+14	на	на	ADP	_	_	13	fixed	_	_
+15	тяжелое	тяжелый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	положение	положение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+17	своего	свой	DET	_	Case=Gen|Gender=Neut|Number=Sing	18	det	_	_
+18	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	невозможность	невозможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	conj	_	_
+21	самостоятельно	самостоятельно	ADV	_	Degree=Pos	22	advmod	_	_
+22	справиться	справиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	20	obl	_	_
+23	с	с	ADP	_	_	24	case	_	_
+24	ситуацией	ситуация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 6
+# text = Рассмотрим эти подходы и вопросы их применения более подробно.
+1	Рассмотрим	рассмотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	эти	этот	DET	_	Case=Acc|Number=Plur	3	det	_	_
+3	подходы	подход	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+4	и	и	CCONJ	_	_	5	cc	_	_
+5	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	conj	_	_
+6	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	7	nmod	_	_
+7	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	более	более	ADV	_	Degree=Cmp	9	advmod	_	_
+9	подробно	подробно	ADV	_	Degree=Pos	1	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 7
+# text = Интересной представляется позиция господина А.А. Илюшенко, который позитивно оценивает и саму Концепцию, и возможность, даже необходимость ее применения в случае бедствия .
+1	Интересной	интересный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	obl	_	_
+2	представляется	представляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	позиция	позиция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	господина	господин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	_
+7	Илюшенко	Илюшенко	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	который	который	PRON	_	Case=Nom	11	nsubj	_	_
+10	позитивно	позитивно	ADV	_	Degree=Pos	11	advmod	_	_
+11	оценивает	оценивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+12	и	и	PART	_	_	13	advmod	_	_
+13	саму	сам	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	Концепцию	концепция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	даже	даже	PART	_	_	20	advmod	_	_
+20	необходимость	необходимость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	conj	_	_
+21	ее	ее	DET	_	_	22	det	_	_
+22	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	nmod	_	_
+25	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 8
+# text = Свой анализ он строит на примере проведения гуманитарной операции на Гаити в результате произошедшего там землетрясения.
+1	Свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	2	det	_	_
+2	анализ	анализ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+4	строит	строить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	примере	пример	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+7	проведения	проведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+8	гуманитарной	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	операции	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	Гаити	Гаити	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	_
+14	произошедшего	произойти	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	16	acl	_	_
+15	там	там	ADV	_	Degree=Pos	14	advmod	_	_
+16	землетрясения	землетрясение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 9
+# text = Однако не со всеми доводами автора можно согласиться.
+1	Однако	однако	ADV	_	Degree=Pos	7	advmod	_	_
+2	не	не	PART	_	_	5	advmod	_	_
+3	со	с	ADP	_	_	5	case	_	_
+4	всеми	весь	DET	_	Case=Ins|Number=Plur	5	det	_	_
+5	доводами	довод	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	7	obl	_	_
+6	автора	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+7	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+8	согласиться	согласиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 10
+# text = По мнению А.А. Илюшенко, поскольку в сфере бедствий на международном уровне нет единообразного универсального документа, закрепляющего правила поведения относительно оказания помощи, следует применять по аналогии механизм, используемый при оказании помощи в случае вооруженного конфликта.
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	parataxis	_	_
+3	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	А.	А.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	_
+5	Илюшенко	Илюшенко	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	поскольку	поскольку	SCONJ	_	_	14	mark	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
+10	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	международном	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	_
+14	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	_	_
+15	единообразного	единообразный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+16	универсального	универсальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	документа	документ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	закрепляющего	закреплять	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	_
+20	правила	правило	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	19	obj	_	_
+21	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+22	относительно	относительно	ADP	_	_	23	case	_	_
+23	оказания	оказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	obl	_	_
+24	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	14	punct	_	_
+26	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+27	применять	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	26	csubj	_	_
+28	по	по	ADP	_	_	29	case	_	_
+29	аналогии	аналогия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	27	obl	_	_
+30	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	используемый	использовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	30	acl	_	_
+33	при	при	ADP	_	_	34	case	_	_
+34	оказании	оказание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	32	obl	_	_
+35	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	_
+36	в	в	ADP	_	_	37	case	_	_
+37	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	32	obl	_	_
+38	вооруженного	вооруженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	39	amod	_	_
+39	конфликта	конфликт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 11
+# text = Однако, по мнению, в том числе зарубежных, специалистов, каждая сфера общественных отношений обладает своей спецификой, и преломление иных правил поведения может привести к различным негативным последствиям.
+1	Однако	однако	ADV	_	Degree=Pos	26	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	26	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	8	det	_	_
+8	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	зарубежных	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nsubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	17	punct	_	_
+13	каждая	каждый	DET	_	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
+14	сфера	сфера	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+15	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+17	обладает	обладать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
+18	своей	свой	DET	_	Case=Ins|Gender=Fem|Number=Sing	19	det	_	_
+19	спецификой	специфика	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	преломление	преломление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	conj	_	_
+23	иных	иной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	24	amod	_	_
+24	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	_
+25	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+27	привести	привести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	26	xcomp	_	_
+28	к	к	ADP	_	_	31	case	_	_
+29	различным	различный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	31	amod	_	_
+30	негативным	негативный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	31	amod	_	_
+31	последствиям	последствие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	27	obl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 12
+# text = К тому же в настоящее время идет активное становление самостоятельных международных норм относительно оказания помощи в случае стихийного катастрофического явления.
+1	К	к	ADP	_	_	2	case	_	_
+2	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	в	в	ADP	_	_	7	advmod	_	_
+5	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	fixed	_	_
+6	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	fixed	_	_
+7	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	активное	активный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	становление	становление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	самостоятельных	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+13	относительно	относительно	ADP	_	_	14	case	_	_
+14	оказания	оказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+15	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	_
+18	стихийного	стихийный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+19	катастрофического	катастрофический	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 13
+# text = Например, Рамочная конвенция по оказанию помощи в области гражданской обороны, которая была принята в рамках Международной организации гражданской обороны.
+1	Например	например	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Рамочная	Рамочный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	конвенция	конвенция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	по	по	ADP	_	_	6	case	_	_
+6	оказанию	оказание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
+7	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	_
+10	гражданской	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	которая	который	PRON	_	Case=Nom	15	nsubj:pass	_	_
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
+15	принята	принять	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	acl:relcl	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	15	obl	_	_
+18	Международной	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	организации	организация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	гражданской	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	обороны	оборона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 14
+# text = Также в настоящее время Комиссия международного права ООН разработала Проект статей по защите населения в случае бедствий, в котором представлены основные правила поведения, уже сложившиеся на практике, относительно реагирования на бедствия и оказания помощи государствами друг другу в случае бедствий.
+1	Также	также	ADV	_	Degree=Pos	9	advmod	_	_
+2	в	в	ADP	_	_	9	advmod	_	_
+3	настоящее	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	fixed	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	_
+5	Комиссия	Комиссия	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+6	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	разработала	разработать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	Проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+11	статей	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	_
+12	по	по	ADP	_	_	13	case	_	_
+13	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	_
+14	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+17	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	в	в	ADP	_	_	20	case	_	_
+20	котором	который	PRON	_	Case=Loc	21	obl	_	_
+21	представлены	представить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	17	acl:relcl	_	_
+22	основные	основной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	23	amod	_	_
+23	правила	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	21	nsubj:pass	_	_
+24	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	уже	уже	ADV	_	Degree=Pos	27	advmod	_	_
+27	сложившиеся	сложиться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	23	acl	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	практике	практика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	32	punct	_	_
+31	относительно	относительно	ADP	_	_	32	case	_	_
+32	реагирования	реагирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obl	_	_
+33	на	на	ADP	_	_	34	case	_	_
+34	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	оказания	оказание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	conj	_	_
+37	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	государствами	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	37	nmod	_	_
+39	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	36	nmod	_	_
+40	другу	друг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	39	fixed	_	_
+41	в	в	ADP	_	_	39	fixed	_	_
+42	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	39	fixed	_	_
+43	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	39	fixed	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 15
+# text = Надо отметить, что господин А.А. Илюшенко затрагивает весьма важные и сложные вопросы – введения чрезвычайного положения и доступа персонала гуманитарных операций в случае бедствия.
+1	Надо	надо	ADV	_	Degree=Pos	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	что	что	SCONJ	_	_	9	mark	_	_
+5	господин	господин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+7	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Илюшенко	Илюшенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	_
+9	затрагивает	затрагивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+10	весьма	весьма	ADV	_	Degree=Pos	11	obl	_	_
+11	важные	важный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	14	amod	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	сложные	сложный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	conj	_	_
+14	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+15	–	–	PUNCT	_	_	16	punct	_	_
+16	введения	введение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+17	чрезвычайного	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	положения	положение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	доступа	доступ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	conj	_	_
+21	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	гуманитарных	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	операций	операция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	nmod	_	_
+26	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 16
+# text = Их проблемность заключается в том, что они носят сугубо внутригосударственный характер, только государство может определить их применение и содержание.
+1	Их	их	DET	_	_	2	det	_	_
+2	проблемность	проблемность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	что	что	SCONJ	_	_	9	mark	_	_
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	9	nsubj	_	_
+9	носят	носить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
+10	сугубо	сугубо	ADV	_	Degree=Pos	11	obl	_	_
+11	внутригосударственный	внутригосударственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	только	только	CCONJ	_	_	16	cc	_	_
+15	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+16	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+17	определить	определить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	их	они	DET	_	_	19	det	_	_
+19	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	содержание	содержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 17
+# text = А отсутствие на международном уровне каких-либо четких правил в этой сфере связано с пересечением этими нормами при реализации с общепризнанными принципами международного права – государственного суверенитета, невмешательства во внутренние дела государства.
+1	А	а	CCONJ	_	_	12	cc	_	_
+2	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	международном	международный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+6	каких-либо	какой-либо	DET	_	Case=Gen|Number=Plur	8	det	_	_
+7	четких	четкий	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	8	amod	_	_
+8	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	11	det	_	_
+11	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	_	_
+12	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+13	с	с	ADP	_	_	14	case	_	_
+14	пересечением	пересечение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	этими	этот	DET	_	Case=Ins|Number=Plur	16	det	_	_
+16	нормами	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	_	_
+17	при	при	ADP	_	_	18	case	_	_
+18	реализации	реализация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	_
+19	с	с	ADP	_	_	21	case	_	_
+20	общепризнанными	общепризнанный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	_
+21	принципами	принцип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	18	nmod	_	_
+22	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+24	–	–	PUNCT	_	_	26	punct	_	_
+25	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	суверенитета	суверенитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	parataxis	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	невмешательства	невмешательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	conj	_	_
+29	во	в	ADP	_	_	31	case	_	_
+30	внутренние	внутренний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	31	amod	_	_
+31	дела	дело	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	28	nmod	_	_
+32	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	31	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 18
+# text = Подтверждением этого является и
+1	Подтверждением	подтверждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+2	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	и	и	PART	_	_	3	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = то обстоятельство, что при направлении персонала гуманитарных миссий в пострадавшее государство последнее осуществляет непосредственное руководство всеми поисково-спасательными и гуманитарными операциями.
+1	то	тот	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	обстоятельство	обстоятельство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	14	punct	_	_
+4	что	что	SCONJ	_	_	14	mark	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	направлении	направление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	obl	_	_
+7	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	гуманитарных	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	миссий	миссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+10	в	в	ADP	_	_	12	case	_	_
+11	пострадавшее	пострадавший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
+13	последнее	последний	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	осуществляет	осуществлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
+15	непосредственное	непосредственный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	_
+16	руководство	руководство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+17	всеми	весь	DET	_	Case=Ins|Number=Plur	23	det	_	_
+18	поисково	поисковый	ADJ	_	Degree=Pos	20	compound	_	SpaceAfter=No
+19	-	-	PUNCT	_	_	18	punct	_	SpaceAfter=No
+20	спасательными	спасательный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	23	amod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	гуманитарными	гуманитарный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	20	conj	_	_
+23	операциями	операция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 20
+# text = И это правило четко прослеживается в двусторонних и региональных соглашениях, подчеркивается Комиссией международного права ООН в указанном выше проекте и документах по его разработке.
+1	И	и	CCONJ	_	_	5	cc	_	_
+2	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+3	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj:pass	_	_
+4	четко	четко	ADV	_	Degree=Pos	5	advmod	_	_
+5	прослеживается	прослеживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	в	в	ADP	_	_	10	case	_	_
+7	двусторонних	двусторонний	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	10	amod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	региональных	региональный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	7	conj	_	_
+10	соглашениях	соглашение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	5	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	подчеркивается	подчеркивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+13	Комиссией	комиссия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	_
+14	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	в	в	ADP	_	_	20	case	_	_
+18	указанном	указать	VERB	_	Aspect=Perf|Case=Loc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+19	выше	высоко	ADV	_	Degree=Cmp	18	advmod	_	_
+20	проекте	проект	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	документах	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	conj	_	_
+23	по	по	ADP	_	_	25	case	_	_
+24	его	его	DET	_	_	25	det	_	_
+25	разработке	разработка	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 21
+# text = Мировое сообщество должно отстаивать общепризнанные принципы и нормы международного права как незыблемые нормы и в их совокупности.
+1	Мировое	мировой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	отстаивать	отстаивать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	общепризнанные	общепризнанный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	6	amod	_	_
+6	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	conj	_	_
+9	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	как	как	SCONJ	_	_	13	mark	_	_
+12	незыблемые	незыблемый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	advcl	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	их	их	DET	_	_	17	det	_	_
+17	совокупности	совокупность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 22
+# text = Повышение риска угрозы жизни населению бедствующего государства и отсутствие самостоятельных внутренних действий с его стороны (или достаточных действий) не означают наличия основания применения Концепции "Ответственности за защиту".
+1	Повышение	повышение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+2	риска	риск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	населению	население	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	_
+6	бедствующего	бедствовать	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	amod	_	_
+7	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	отсутствие	отсутствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+10	самостоятельных	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	_
+13	с	с	ADP	_	_	15	case	_	_
+14	его	его	DET	_	_	15	det	_	_
+15	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+16	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+17	или	или	CCONJ	_	_	18	cc	_	_
+18	достаточных	достаточный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	действий	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	1	punct	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	означают	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+23	наличия	наличие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	_	_
+24	основания	основание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	nmod	_	_
+25	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+29	за	за	ADP	_	_	30	case	_	_
+30	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+31	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 23
+# text = Мировое сообщество в лице ООН должно применять иные меры воздействия на такое государство, должна проводиться грамотная превентивная политика для формирования четкого восприятия государством своих обязательств перед населением в ситуации бедствия.
+1	Мировое	мировой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+5	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+7	применять	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	9	amod	_	_
+9	меры	мера	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
+10	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing	13	det	_	_
+13	государство	государство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	conj	_	_
+16	проводиться	проводить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	15	xcomp	_	_
+17	грамотная	грамотный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+18	превентивная	превентивный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	политика	политика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+20	для	для	ADP	_	_	21	case	_	_
+21	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	четкого	четкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	_
+23	восприятия	восприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+24	государством	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	23	nmod	_	_
+25	своих	свой	DET	_	Case=Gen|Number=Plur	26	det	_	_
+26	обязательств	обязательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	23	nmod	_	_
+27	перед	перед	ADP	_	_	28	case	_	_
+28	населением	население	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	26	nmod	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	nmod	_	_
+31	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 24
+# text = Такой планомерной работой можно считать реализацию и развитие Международной стратегии уменьшения опасности бедствий (МСУОБ), которые осуществляются уже более 20 лет в рамках системы ООН.
+1	Такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	3	det	_	_
+2	планомерной	планомерный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	работой	работа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	obl	_	_
+4	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+5	считать	считать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	_
+6	реализацию	реализация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	развитие	развитие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
+9	Международной	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	стратегии	стратегия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	уменьшения	уменьшение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	опасности	опасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+14	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	МСУОБ	МСУОБ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	parataxis	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	которые	который	PRON	_	Case=Nom	19	nsubj:pass	_	_
+19	осуществляются	осуществляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
+20	уже	уже	ADV	_	Degree=Pos	21	advmod	_	_
+21	более	более	ADV	_	Degree=Cmp	23	nummod:gov	_	_
+22	20	20	NUM	_	_	23	nummod	_	_
+23	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	obl	_	_
+24	в	в	ADP	_	_	25	case	_	_
+25	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	19	obl	_	_
+26	системы	система	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 25
+# text = В качестве составляющего элемента расширительного понимания Концепции "Ответственности за защиту" А.А. Илюшенко рассматривает возможность привлечения военного персонала, увеличение его количества в период пребывания на территории пострадавшего от бедствия государства.
+1	В	в	ADP	_	_	4	case	_	_
+2	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	fixed	_	_
+3	составляющего	составлять	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+4	элемента	элемент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obl	_	_
+5	расширительного	расширительный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	понимания	понимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+7	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	за	за	ADP	_	_	11	case	_	_
+11	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	"	"	PUNCT	_	_	9	punct	_	_
+13	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
+14	А.	А.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
+15	Илюшенко	Илюшенко	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	_
+16	рассматривает	рассматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	_	_
+18	привлечения	привлечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	_
+22	увеличение	увеличение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	conj	_	_
+23	его	его	DET	_	_	24	det	_	_
+24	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	_
+25	в	в	ADP	_	_	26	case	_	_
+26	период	период	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	nmod	_	_
+27	пребывания	пребывание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+28	на	на	ADP	_	_	29	case	_	_
+29	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+30	пострадавшего	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	_
+31	от	от	ADP	_	_	32	case	_	_
+32	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+33	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 26
+# text = Однако, на наш взгляд, данный аспект не совсем подтверждает применение рассматриваемой концепции.
+1	Однако	однако	ADV	_	Degree=Pos	11	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	данный	данный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	аспект	аспект	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	совсем	совсем	ADV	_	Degree=Pos	11	advmod	_	_
+11	подтверждает	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+13	рассматриваемой	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 27
+# text = Широкое рассмотрение термина "гуманитарный персонал" является весьма распространённой позицией мирового сообщества.
+1	Широкое	широкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	рассмотрение	рассмотрение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+3	термина	термин	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	гуманитарный	гуманитарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	персонал	персонал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+7	"	"	PUNCT	_	_	6	punct	_	_
+8	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+9	весьма	весьма	ADV	_	Degree=Pos	10	obl	_	_
+10	распространённой	распространенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	позицией	позиция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+12	мирового	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 28
+# text = Вопрос о присутствии же любого персонала на своей территории решает пострадавшая страна.
+1	Вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	присутствии	присутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+4	же	же	PART	_	_	3	advmod	_	_
+5	любого	любой	DET	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+6	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	на	на	ADP	_	_	9	case	_	_
+8	своей	свой	DET	_	Case=Loc|Gender=Fem|Number=Sing	9	det	_	_
+9	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+10	решает	решить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	пострадавшая	страдать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	amod	_	_
+12	страна	страна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 29
+# text = Последняя должна четко понимать, какая помощь и в каких объемах ему нужна.
+1	Последняя	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+3	четко	четко	ADV	_	Degree=Pos	4	advmod	_	_
+4	понимать	понимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	какая	какой	DET	_	Case=Nom|Gender=Fem|Number=Sing	7	det	_	_
+7	помощь	помощь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+8	и	и	PART	_	_	11	advmod	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	каких	какой	DET	_	Case=Loc|Number=Plur	11	det	_	_
+11	объемах	объем	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	13	obl	_	_
+12	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	13	iobj	_	_
+13	нужна	нужный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Автор выстраивает свою позицию, основываясь на анализе ситуации, сложившейся на Гаити после землетрясения в 2010 г., показывая, что расширительное толкование концепции не представляет собой серьезной угрозы государству, а лишь способствует более эффективной и своевременной помощи.
+1	Автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	выстраивает	выстраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	4	det	_	_
+4	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	основываясь	основываться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	2	advcl	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	анализе	анализ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+9	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	сложившейся	сложиться	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	9	acl	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	Гаити	Гаити	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+14	после	после	ADP	_	_	15	case	_	_
+15	землетрясения	землетрясение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+16	в	в	ADP	_	_	18	case	_	_
+17	2010	2010	NUM	_	_	18	nummod	_	_
+18	г.	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	11	punct	_	_
+20	показывая	показывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	27	punct	_	_
+22	что	что	SCONJ	_	_	27	mark	_	_
+23	расширительное	расширительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+24	толкование	толкование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+25	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	не	не	PART	_	_	27	advmod	_	_
+27	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	_
+28	собой	себя	PRON	_	Case=Ins	27	fixed	_	_
+29	серьезной	серьезный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	_
+30	угрозы	угроза	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	obl	_	_
+31	государству	государство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	30	iobj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	35	punct	_	_
+33	а	а	CCONJ	_	_	35	cc	_	_
+34	лишь	лишь	PART	_	_	35	advmod	_	_
+35	способствует	способствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	_	_
+36	более	более	ADV	_	Degree=Cmp	37	obl	_	_
+37	эффективной	эффективный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+38	и	и	CCONJ	_	_	39	cc	_	_
+39	своевременной	своевременный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	37	conj	_	_
+40	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	35	obl	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 31
+# text = Надо отметить, что ситуация здесь в целом достаточно специфическая, поскольку из-за сложной политической и экономической обстановки во избежание гражданской войны на территории страны присутствует международный контингент сил ООН, способствующий постепенному построению правового государства в рамках международного права.
+1	Надо	надо	ADV	_	Degree=Pos	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	что	что	SCONJ	_	_	10	mark	_	_
+5	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+6	здесь	здесь	ADV	_	Degree=Pos	10	advmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	10	obl	_	_
+9	достаточно	достаточно	ADV	_	Degree=Pos	10	obl	_	_
+10	специфическая	специфический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	26	punct	_	_
+12	поскольку	поскольку	SCONJ	_	_	26	mark	_	_
+13	из-за	из-за	ADP	_	_	14	case	_	_
+14	сложной	сложный	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	obl	_	_
+15	политической	политический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	экономической	экономический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	conj	_	_
+18	обстановки	обстановка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+19	во	в	ADP	_	_	22	case	_	_
+20	избежание	избежание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	19	fixed	_	_
+21	гражданской	гражданский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	obl	_	_
+23	на	на	ADP	_	_	24	case	_	_
+24	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	_
+25	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	присутствует	присутствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+27	международный	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	28	amod	_	_
+28	контингент	контингент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+29	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	_
+30	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	способствующий	способствовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	_
+33	постепенному	постепенный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	построению	построение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	32	iobj	_	_
+35	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	_
+36	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	34	nmod	_	_
+37	в	в	ADP	_	_	38	case	_	_
+38	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	34	nmod	_	_
+39	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	40	amod	_	_
+40	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	38	nmod	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 32
+# text = То есть на момент бедствия Гаити самостоятельно ограничила свой суверенитет посредством допуска международных сил.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	на	на	ADP	_	_	4	case	_	_
+4	момент	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+5	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	Гаити	Гаити	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	самостоятельно	самостоятельно	ADV	_	Degree=Pos	8	advmod	_	_
+8	ограничила	ограничить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+10	суверенитет	суверенитет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+11	посредством	посредством	ADP	_	_	12	case	_	_
+12	допуска	допуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obl	_	_
+13	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	сил	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 33
+# text = Фактически это государство уже привыкло полагаться в решении определенных вопросов на мировое сообщество.
+1	Фактически	фактически	ADV	_	Degree=Pos	5	advmod	_	_
+2	это	этот	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+3	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	уже	уже	ADV	_	Degree=Pos	5	advmod	_	_
+5	привыкло	привыкнуть	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	полагаться	полагаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	решении	решение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+9	определенных	определенный	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	_
+10	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	на	на	ADP	_	_	13	case	_	_
+12	мировое	мировой	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 34
+# text = А в такой сложной ситуации, как бедствие, тем более.
+1	А	а	CCONJ	_	_	5	cc	_	_
+2	в	в	ADP	_	_	5	case	_	_
+3	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	5	det	_	_
+4	сложной	сложный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	как	как	SCONJ	_	_	8	mark	_	_
+8	бедствие	бедствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	11	obl	_	_
+11	более	более	ADV	_	Degree=Cmp	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 35
+# text = Руководство Гаити, наоборот, настаивало на увеличении гуманитарного контингента, учитывая, что часть персонала погибла или пострадала в результате землетрясения.
+1	Руководство	руководство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+2	Гаити	Гаити	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	наоборот	наоборот	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	настаивало	настаивать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	увеличении	увеличение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+9	гуманитарного	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	контингента	контингент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	6	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	что	что	SCONJ	_	_	17	mark	_	_
+15	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+16	персонала	персонал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+17	погибла	погибнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+18	или	или	CCONJ	_	_	19	cc	_	_
+19	пострадала	страдать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	результате	результат	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	obl	_	_
+22	землетрясения	землетрясение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = Исходя из содержания концепции, государство должно нарушить основополагающие императивные нормы международного права, что будет рассматриваться мировым сообществом как угроза миру и безопасности.
+1	Исходя	исходить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	7	advcl	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	содержания	содержание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	obl	_	_
+4	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	_
+6	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+8	нарушить	нарушить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	7	xcomp	_	_
+9	основополагающие	основополагающий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+10	императивные	императивный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	11	amod	_	_
+11	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_
+12	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	что	что	PRON	_	Case=Nom	17	nsubj:pass	_	_
+16	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux:pass	_	_
+17	рассматриваться	рассматривать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Pass	7	parataxis	_	_
+18	мировым	мировой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	сообществом	сообщество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	17	obl	_	_
+20	как	как	SCONJ	_	_	21	mark	_	_
+21	угроза	угроза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	17	advcl	_	_
+22	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	21	iobj	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 37
+# text = Решение о ее применении принимается СБ ООН без какого-либо учета мнения самого государства.
+1	Решение	решение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	о	о	ADP	_	_	4	case	_	_
+3	ее	ее	DET	_	_	4	det	_	_
+4	применении	применений	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	_
+5	принимается	принимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	СБ	сб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+7	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	без	без	ADP	_	_	10	case	_	_
+9	какого-либо	какой-либо	DET	_	Case=Gen|Gender=Masc|Number=Sing	10	det	_	_
+10	учета	учет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+11	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
+13	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 38
+# text = Вряд ли применительно к ситуации с Гаити можно говорить о применении Концепции "Ответственности за защиту" по аналогии.
+1	Вряд	вряд	ADV	_	Degree=Pos	8	advmod	_	_
+2	ли	ли	PART	_	_	1	fixed	_	_
+3	применительно	применительно	ADV	_	Degree=Pos	8	advmod	_	_
+4	к	к	ADP	_	_	5	case	_	_
+5	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+6	с	с	ADP	_	_	7	case	_	_
+7	Гаити	Гаити	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+8	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+9	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	о	о	ADP	_	_	11	case	_	_
+11	применении	применение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+12	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	"	"	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	за	за	ADP	_	_	16	case	_	_
+16	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+17	"	"	PUNCT	_	_	16	punct	_	_
+18	по	по	ADP	_	_	19	case	_	_
+19	аналогии	аналогия	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 39
+# text = В данном случае действует абсолютно иной гуманитарный механизм, часто используемый ООН.
+1	В	в	ADP	_	_	3	case	_	_
+2	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
+4	действует	действовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	абсолютно	абсолютно	ADV	_	Degree=Pos	6	obl	_	_
+6	иной	иной	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	гуманитарный	гуманитарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	часто	часто	ADV	_	Degree=Pos	11	advmod	_	_
+11	используемый	использовать	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	_
+12	ООН	ООН	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 40
+# text = Еще одна ситуация, которую приводят в качестве примера необходимости расширения рассматриваемой концепции относительно бедствий, – последствия урагана в Мьянме в 2008 г.
+1	Еще	еще	ADV	_	Degree=Pos	2	advmod	_	_
+2	одна	один	NUM	_	Case=Nom|Gender=Fem	3	nummod:gov	_	_
+3	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	которую	который	PRON	_	Case=Acc	6	obj	_	_
+6	приводят	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	fixed	_	_
+9	примера	пример	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+10	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	расширения	расширение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+12	рассматриваемой	рассматривать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+14	относительно	относительно	ADP	_	_	15	case	_	_
+15	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	–	–	PUNCT	_	_	18	punct	_	_
+18	последствия	последствие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	15	conj	_	_
+19	урагана	ураган	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	Мьянме	Мьянм	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	_
+22	в	в	ADP	_	_	24	case	_	_
+23	2008	2008	NUM	_	_	24	nummod	_	_
+24	г	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 41
+# text = Это государство находилось под управлением военного режима, что затрудняло оказание помощи пострадавшим от бедствия.
+1	Это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	2	det	_	_
+2	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	находилось	находиться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	под	под	ADP	_	_	5	case	_	_
+5	управлением	управление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+6	военного	военный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	режима	режим	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	что	что	PRON	_	Case=Nom	10	nsubj	_	_
+10	затрудняло	затруднять	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+11	оказание	оказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	obj	_	_
+12	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	пострадавшим	пострадавший	VERB	_	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
+14	от	от	ADP	_	_	15	case	_	_
+15	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 42
+# text = Руководство Мьянмы намеренно препятствовало деятельности мирового сообщества, заявляя, что само в состоянии помочь своему населению.
+1	Руководство	руководство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	Мьянмы	Мьянма	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	намеренно	намеренно	ADV	_	Degree=Pos	4	advmod	_	_
+4	препятствовало	препятствовать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	деятельности	деятельность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	_
+6	мирового	мировой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	сообщества	сообщество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	заявляя	заявлять	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	4	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	что	что	SCONJ	_	_	14	mark	_	_
+12	само	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	obl	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	9	ccomp	_	_
+15	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	obl	_	_
+16	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing	17	det	_	_
+17	населению	население	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	15	iobj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 43
+# text = По мнению экспертов, применительно к таким обстоятельствам и следует официально расширить Концепцию "Ответственности за защиту".
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	10	parataxis	_	_
+3	экспертов	эксперт	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	применительно	применительно	ADV	_	Degree=Pos	10	advmod	_	_
+6	к	к	ADP	_	_	8	case	_	_
+7	таким	такой	DET	_	Case=Dat|Number=Plur	8	det	_	_
+8	обстоятельствам	обстоятельство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	5	obl	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	официально	официально	ADV	_	Degree=Pos	10	advmod	_	_
+12	расширить	расширить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	_
+13	Концепцию	концепция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	за	за	ADP	_	_	17	case	_	_
+17	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	15	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 44
+# text = Однако они же отмечают, что в ситуации с Мьянмой часть проблем удалось разрешить посредством дипломатических усилий и определенный объем гуманитарной помощи поступил на территорию страны .
+1	Однако	однако	ADV	_	Degree=Pos	4	advmod	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	отмечают	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	что	что	SCONJ	_	_	13	mark	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13	obl	_	_
+9	с	с	ADP	_	_	10	case	_	_
+10	Мьянмой	Мьянма	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+11	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+12	проблем	проблема	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+13	удалось	удаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+14	разрешить	разрешить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	23	xcomp	_	_
+15	посредством	посредством	ADP	_	_	17	case	_	_
+16	дипломатических	дипломатический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	17	amod	_	_
+17	усилий	усилие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	obl	_	_
+18	и	и	CCONJ	_	_	20	cc	_	_
+19	определенный	определенный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
+20	объем	объем	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	conj	_	_
+21	гуманитарной	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	13	csubj	_	_
+24	на	на	ADP	_	_	25	case	_	_
+25	территорию	территория	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
+26	страны	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 45
+# text = В рамках современных международных отношений есть отдельные негативные случаи поведения государств, когда мировое сообщество задумывается о необходимости применения гуманитарной интервенции для спасения жизни огромного количества людей.
+1	В	в	ADP	_	_	2	case	_	_
+2	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	obl	_	_
+3	современных	современный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+4	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+8	негативные	негативный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	случаи	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+10	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	когда	когда	SCONJ	_	_	16	mark	_	_
+14	мировое	мировой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj:pass	_	_
+16	задумывается	задумываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	acl	_	_
+17	о	о	ADP	_	_	18	case	_	_
+18	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	obl	_	_
+19	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	_
+20	гуманитарной	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	интервенции	интервенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	для	для	ADP	_	_	23	case	_	_
+23	спасения	спасение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+24	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	огромного	огромный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	количества	количество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+27	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 46
+# text = Однако закреплять данный механизм некорректно, поскольку большая часть стран стремится к реализации своей ответственности за жизнь населения вследствие опасного природного явления или антропогенной катастрофы.
+1	Однако	однако	ADV	_	Degree=Pos	5	obl	_	_
+2	закреплять	закреплять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+3	данный	данный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	некорректно	некорректный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	поскольку	поскольку	SCONJ	_	_	11	mark	_	_
+8	большая	больший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+10	стран	страна	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+11	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	advcl	_	_
+12	к	к	ADP	_	_	13	case	_	_
+13	реализации	реализация	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
+14	своей	свой	DET	_	Case=Gen|Gender=Fem|Number=Sing	15	det	_	_
+15	ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+16	за	за	ADP	_	_	17	case	_	_
+17	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	nmod	_	_
+18	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	вследствие	вследствие	ADP	_	_	22	case	_	_
+20	опасного	опасный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+21	природного	природный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	явления	явление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	obl	_	_
+23	или	или	CCONJ	_	_	25	cc	_	_
+24	антропогенной	антропогенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	_
+25	катастрофы	катастрофа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 47
+# text = Следует отметить, что мы не поддерживаем подобные противоречащие нормам международного права позиции государств, которые несут первостепенную ответственность за все, что происходит на их территории.
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	что	что	SCONJ	_	_	7	mark	_	_
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	7	nsubj	_	_
+6	не	не	PART	_	_	7	advmod	_	_
+7	поддерживаем	поддерживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+8	подобные	подобный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+9	противоречащие	противоречащий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	нормам	норма	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	7	iobj	_	_
+11	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
+12	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	позиции	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	которые	который	PRON	_	Case=Nom	17	nsubj	_	_
+17	несут	нести	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
+18	первостепенную	первостепенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+20	за	за	ADP	_	_	21	case	_	_
+21	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	что	что	PRON	_	Case=Nom	24	nsubj	_	_
+24	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
+25	на	на	ADP	_	_	27	case	_	_
+26	их	их	DET	_	_	27	det	_	_
+27	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 48
+# text = Однако мировое сообщество должно применять иные механизмы воздействия для благополучия населения, пострадавшего от какого-либо негативного события.
+1	Однако	однако	ADV	_	Degree=Pos	4	parataxis	_	_
+2	мировое	мировой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	применять	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+6	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	7	amod	_	_
+7	механизмы	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+8	воздействия	воздействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	для	для	ADP	_	_	10	case	_	_
+10	благополучия	благополучие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+11	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	пострадавшего	страдать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	_
+14	от	от	ADP	_	_	17	case	_	_
+15	какого-либо	какой-либо	DET	_	Case=Gen|Gender=Neut|Number=Sing	17	det	_	_
+16	негативного	негативный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	_
+17	события	событие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 49
+# text = Госпожа Габриэлла Вентурини в качестве примера в ситуации бедствия, когда возможно применение Концепции, приводит случаи массового потока беженцев через государственные границы.
+1	Госпожа	госпожа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+2	Габриэлла	Габриэлл	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	Вентурини	Вентурини	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	flat:name	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	fixed	_	_
+6	примера	пример	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+7	в	в	ADP	_	_	8	case	_	_
+8	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
+9	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	когда	когда	SCONJ	_	_	12	mark	_	_
+12	возможно	возможный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	9	acl:relcl	_	_
+13	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+14	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	1	punct	_	_
+16	приводит	приводить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	случаи	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
+18	массового	массовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	потока	поток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	беженцев	беженец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	через	через	ADP	_	_	23	case	_	_
+22	государственные	государственный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+23	границы	граница	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 50
+# text = По мнению Г. Вентурини, это может быть квалифицировано как угроза миру во всем мире и безопасности в данной области.
+1	По	по	ADP	_	_	2	case	_	_
+2	мнению	мнение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	7	parataxis	_	_
+3	Г.	Г.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Вентурини	Вентурини	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	aux:pass	_	_
+9	квалифицировано	квалифицировать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	xcomp	_	_
+10	как	как	SCONJ	_	_	11	mark	_	_
+11	угроза	угроза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	_
+12	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	_
+13	во	в	ADP	_	_	15	case	_	_
+14	всем	весь	DET	_	Case=Loc|Gender=Masc|Number=Sing	15	det	_	_
+15	мире	мир	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	conj	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	данной	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	области	область	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 51
+# text = .
+1	.	.	PUNCT	_	_	0	root	_	_
+
+# sent_id = 52
+# text = Однако, как показывает практика, ООН и иные гуманитарные организации стараются максимально быстро развернуть лагеря для беженцев и предоставляют им гуманитарную помощь.
+1	Однако	однако	ADV	_	Degree=Pos	12	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	показывает	показывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	_
+5	практика	практика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	ООН	ООН	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+8	и	и	CCONJ	_	_	11	cc	_	_
+9	иные	иной	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+10	гуманитарные	гуманитарный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	11	amod	_	_
+11	организации	организация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	conj	_	_
+12	стараются	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+13	максимально	максимально	ADV	_	Degree=Pos	14	advmod	_	_
+14	быстро	быстро	ADV	_	Degree=Pos	15	advmod	_	_
+15	развернуть	развернуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+16	лагеря	лагерь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+17	для	для	ADP	_	_	18	case	_	_
+18	беженцев	беженец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	предоставляют	предоставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
+21	им	они	PRON	_	Case=Dat|Number=Plur|Person=3	20	iobj	_	_
+22	гуманитарную	гуманитарный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	_
+23	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 53
+# text = Определенное содействие в таких ситуациях оказывается и государству, на территории которого эти беженцы оседают.
+1	Определенное	определить	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	содействие	содействие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	nsubj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	таких	такой	DET	_	Case=Loc|Number=Plur	5	det	_	_
+5	ситуациях	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	2	nmod	_	_
+6	оказывается	оказываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+7	и	и	PART	_	_	8	advmod	_	_
+8	государству	государство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	на	на	ADP	_	_	11	case	_	_
+11	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	obl	_	_
+12	которого	который	PRON	_	Case=Gen	11	nmod	_	_
+13	эти	этот	DET	_	Case=Nom|Number=Plur	14	det	_	_
+14	беженцы	беженец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+15	оседают	оседать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 54
+# text = Конечно, события с беженцами, происходившие в последние годы на территории европейских государств, могут способствовать расширительному толкованию концепции.
+1	Конечно	конечно	ADV	_	Degree=Pos	16	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	события	событие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	_
+4	с	с	ADP	_	_	5	case	_	_
+5	беженцами	беженец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	происходившие	происходить	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	последние	последний	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	10	amod	_	_
+10	годы	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	obl	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+13	европейских	европейский	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	14	amod	_	_
+14	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	7	punct	_	_
+16	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+17	способствовать	способствовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	расширительному	расширительный	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	толкованию	толкование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	iobj	_	_
+20	концепции	концепция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 55
+# text = Однако в подобных случаях воз221
+1	Однако	однако	ADV	_	Degree=Pos	4	obl	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	подобных	подобный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	4	amod	_	_
+4	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	0	root	_	_
+5	воз221	воз221	NOUN	_	_	4	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 56
+# text = никает ряд вопросов: к какому государству следует применить концепцию?
+1	никает	никать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ряд	ряд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	вопросов	вопрос	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	к	к	ADP	_	_	7	case	_	_
+6	какому	какой	DET	_	Case=Dat|Gender=Neut|Number=Sing	7	det	_	_
+7	государству	государство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	_
+8	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+9	применить	применить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	csubj	_	_
+10	концепцию	концепция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
+11	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 57
+# text = С территории какого государства идет бесконтрольно поток беженцев, или на территории какого государства в связи с их наплывом начались беспорядки?
+1	С	с	ADP	_	_	2	case	_	_
+2	территории	территория	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+3	какого	какой	DET	_	Case=Gen|Gender=Neut|Number=Sing	4	det	_	_
+4	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	идет	идти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	бесконтрольно	бесконтрольно	ADV	_	Degree=Pos	5	advmod	_	_
+7	поток	поток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+8	беженцев	беженец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	или	или	CCONJ	_	_	12	cc	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	conj	_	_
+13	какого	какой	DET	_	Case=Gen|Gender=Neut|Number=Sing	14	det	_	_
+14	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	в	в	ADP	_	_	19	case	_	_
+16	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	fixed	_	_
+17	с	с	ADP	_	_	15	fixed	_	_
+18	их	их	DET	_	_	19	det	_	_
+19	наплывом	наплыв	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	20	obl	_	_
+20	начались	начаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	12	acl:relcl	_	_
+21	беспорядки	беспорядки	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	SpaceAfter=No
+22	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 58
+# text = В чем именно в таком случае выражается правонарушение со стороны государства, если в случаях с европейскими странами (беженцы из Ливии, Сирии) проблема заключается в несовершенном механизме по контролю над перемещением лиц?
+1	В	в	ADP	_	_	2	case	_	_
+2	чем	что	PRON	_	Case=Loc	7	obl	_	_
+3	именно	именно	PART	_	_	4	advmod	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	таком	такой	DET	_	Case=Loc|Gender=Masc|Number=Sing	6	det	_	_
+6	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+7	выражается	выражаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+8	правонарушение	правонарушение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+9	со	со	ADP	_	_	11	case	_	_
+10	стороны	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	fixed	_	_
+11	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	27	punct	_	_
+13	если	если	SCONJ	_	_	27	mark	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	случаях	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	27	obl	_	_
+16	с	с	ADP	_	_	18	case	_	_
+17	европейскими	европейский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	18	amod	_	_
+18	странами	страна	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	15	nmod	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	беженцы	беженец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	15	parataxis	_	_
+21	из	из	ADP	_	_	22	case	_	_
+22	Ливии	Ливия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	Сирии	Сирия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	20	punct	_	_
+26	проблема	проблема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+27	заключается	заключаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	несовершенном	несовершенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	механизме	механизм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
+31	по	по	ADP	_	_	32	case	_	_
+32	контролю	контроль	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	30	nmod	_	_
+33	над	над	ADP	_	_	34	case	_	_
+34	перемещением	перемещение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	32	nmod	_	_
+35	лиц	лицо	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	SpaceAfter=No
+36	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 59
+# text = В целом анализ позиций зарубежных специалистов создает двоякое впечатление относительно их мнения.
+1	В	в	ADP	_	_	2	case	_	_
+2	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+3	анализ	анализ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+4	позиций	позиция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	зарубежных	зарубежный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	специалистов	специалист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+7	создает	создавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	двоякое	двоякий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	впечатление	впечатление	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+10	относительно	относительно	ADP	_	_	12	case	_	_
+11	их	их	DET	_	_	12	det	_	_
+12	мнения	мнение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 60
+# text = Во-первых, они пропагандируют саму Концепцию "Ответственности за защиту", ее расширительное толкование и применение; во-вторых, подчеркивают важность и значимость разработанного Комиссией международного права ООН Проекта статей по защите людей в случае бедствия.
+1	Во-первых	во-первых	ADV	_	Degree=Pos	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
+4	пропагандируют	пропагандировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	саму	сам	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	Концепцию	концепция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+7	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	за	за	ADP	_	_	10	case	_	_
+10	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	ее	ее	DET	_	_	15	det	_	_
+14	расширительное	расширительный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	толкование	толкование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	conj	_	SpaceAfter=No
+18	;	;	PUNCT	_	_	4	punct	_	_
+19	во-вторых	во-вторых	ADV	_	Degree=Pos	21	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	подчеркивают	подчеркивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+22	важность	важность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	значимость	значимость	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	conj	_	_
+25	разработанного	разработать	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	26	amod	_	_
+26	Комиссией	комиссия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	24	nmod	_	_
+27	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	28	amod	_	_
+28	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	_
+29	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+30	Проекта	проект	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+31	статей	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	_
+32	по	по	ADP	_	_	33	case	_	_
+33	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	31	nmod	_	_
+34	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
+35	в	в	ADP	_	_	36	case	_	_
+36	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	31	nmod	_	_
+37	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	36	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 61
+# text = В то же время в рамках данного проекта прослеживаются незыблемые общепризнанные принципы международного права, подчеркивается невозможность их нарушения в случае бедствий.
+1	В	в	ADP	_	_	4	case	_	_
+2	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+5	в	в	ADP	_	_	6	case	_	_
+6	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	9	obl	_	_
+7	данного	данный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	проекта	проект	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	прослеживаются	прослеживать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	незыблемые	незыблемый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+11	общепризнанные	общепризнанный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj:pass	_	_
+13	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	подчеркивается	подчеркивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+17	невозможность	невозможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+18	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	19	nmod	_	_
+19	нарушения	нарушение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	19	nmod	_	_
+22	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 62
+# text = На наш взгляд, прежде чем закреплять Концепцию "Ответственности за защиту" относительно бедствий в рамках международного права, необходимо ввести международный механизм взаимодействия при чрезвычайных ситуациях природного и техногенного характера на добровольных началах посредством кодификации норм, активно применяемых на двустороннем и региональном уровне.
+1	На	на	ADP	_	_	3	case	_	_
+2	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	прежде	прежде	ADV	_	Degree=Pos	7	mark	_	_
+6	чем	чем	SCONJ	_	_	5	fixed	_	_
+7	закреплять	закреплять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	advcl	_	_
+8	Концепцию	концепция	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
+11	за	за	ADP	_	_	12	case	_	_
+12	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	"	"	PUNCT	_	_	12	punct	_	_
+14	относительно	относительно	ADP	_	_	15	case	_	_
+15	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	_
+16	в	в	ADP	_	_	17	case	_	_
+17	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	12	nmod	_	_
+18	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
+19	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	7	punct	_	_
+21	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+22	ввести	ввести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	csubj	_	_
+23	международный	международный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+25	взаимодействия	взаимодействие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	при	при	ADP	_	_	28	case	_	_
+27	чрезвычайных	чрезвычайный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	28	amod	_	_
+28	ситуациях	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	25	nmod	_	_
+29	природного	природный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	_
+30	и	и	CCONJ	_	_	31	cc	_	_
+31	техногенного	техногенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	29	conj	_	_
+32	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+33	на	на	ADP	_	_	35	case	_	_
+34	добровольных	добровольный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	35	amod	_	_
+35	началах	начало	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	25	nmod	_	_
+36	посредством	посредством	ADP	_	_	37	case	_	_
+37	кодификации	кодификация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+38	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	37	nmod	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	41	punct	_	_
+40	активно	активно	ADV	_	Degree=Pos	41	advmod	_	_
+41	применяемых	применять	VERB	_	Aspect=Imp|Case=Loc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	24	acl	_	_
+42	на	на	ADP	_	_	46	case	_	_
+43	двустороннем	двусторонний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	46	amod	_	_
+44	и	и	CCONJ	_	_	45	cc	_	_
+45	региональном	региональный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	43	conj	_	_
+46	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	41	obl	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 63
+# text = Это позволит постепенно сформировать определенное восприятие государств относительно бедствий, их последствий и необходимости сотрудничества.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+3	постепенно	постепенно	ADV	_	Degree=Pos	4	advmod	_	_
+4	сформировать	сформировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+5	определенное	определенный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	восприятие	восприятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+7	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
+8	относительно	относительно	ADP	_	_	9	case	_	_
+9	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	их	их	DET	_	_	12	det	_	_
+12	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	6	conj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+15	сотрудничества	сотрудничество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 64
+# text = То есть разработанный проект следует вынести на обсуждение в рамках Генеральной Ассамблеи ООН или дипломатической конференции, итогом которой должны стать его принятие и вступление в силу как универсального кодифицирующего акта.
+1	То	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	mark	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	разработанный	разработать	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	проект	проект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+5	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	вынести	вынести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	обсуждение	обсуждение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6	obl	_	_
+11	Генеральной	генеральный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	Ассамблеи	ассамблея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+13	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	или	или	CCONJ	_	_	16	cc	_	_
+15	дипломатической	дипломатический	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	конференции	конференция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	итогом	итог	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	21	obl	_	_
+19	которой	который	PRON	_	Case=Gen	18	nmod	_	_
+20	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	16	acl:relcl	_	_
+21	стать	стать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	20	xcomp	_	_
+22	его	его	DET	_	_	23	det	_	_
+23	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	вступление	вступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	conj	_	_
+26	в	в	ADP	_	_	27	case	_	_
+27	силу	сила	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	25	nmod	_	_
+28	как	как	SCONJ	_	_	31	mark	_	_
+29	универсального	универсальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	31	amod	_	_
+30	кодифицирующего	кодифицирующий	VERB	_	Aspect=Imp|Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	31	amod	_	_
+31	акта	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	27	acl	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 65
+# text = И только после этого можно будет говорить о возможности внесения изменений в Устав ООН относительно расширения компетенции СБ ООН и закрепления Концепции "Ответственности за защиту", в том числе относительно природных и техногенных катастроф.
+1	И	и	CCONJ	_	_	5	cc	_	_
+2	только	только	PART	_	_	4	advmod	_	_
+3	после	после	ADP	_	_	4	case	_	_
+4	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+5	можно	можно	ADV	_	Degree=Pos	0	root	_	_
+6	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	_
+8	о	о	ADP	_	_	9	case	_	_
+9	возможности	возможность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+10	внесения	внесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+11	изменений	изменение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	_
+12	в	в	ADP	_	_	13	case	_	_
+13	Устав	Устав	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
+14	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	относительно	относительно	ADP	_	_	16	case	_	_
+16	расширения	расширение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+17	компетенции	компетенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	СБ	СБ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+19	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	закрепления	закрепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	18	conj	_	_
+22	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+25	за	за	ADP	_	_	26	case	_	_
+26	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+27	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	33	punct	_	_
+29	в	в	ADP	_	_	31	case	_	_
+30	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	31	det	_	_
+31	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33	obl	_	_
+32	относительно	относительно	ADV	_	Degree=Pos	33	obl	_	_
+33	природных	природный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	conj	_	_
+34	и	и	CCONJ	_	_	36	cc	_	_
+35	техногенных	техногенный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	36	amod	_	_
+36	катастроф	катастрофа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 66
+# text = Истории международного права известно достаточно примеров именно постепенного формирования императивной нормы относительно конкретного вида общественных отношений (например, запрет на агрессию).
+1	Истории	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+2	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	достаточно	достаточный	ADV	_	Degree=Pos	4	advmod	_	_
+6	примеров	пример	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+7	именно	именно	PART	_	_	8	advmod	_	_
+8	постепенного	постепенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	формирования	формирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+10	императивной	императивный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+12	относительно	относительно	ADP	_	_	14	case	_	_
+13	конкретного	конкретный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	вида	вид	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+15	общественных	общественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	отношений	отношение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
+17	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+18	например	например	ADV	_	Degree=Pos	20	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	запрет	запрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	parataxis	_	_
+21	на	на	ADP	_	_	22	case	_	_
+22	агрессию	агрессия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 67
+# text = Рассматриваемая концепция находится на стыке уже действующих международных общепризнанных норм.
+1	Рассматриваемая	Рассматривать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	стыке	стык	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+6	уже	уже	ADV	_	Degree=Pos	7	advmod	_	_
+7	действующих	действовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
+8	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+9	общепризнанных	общепризнанный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	10	amod	_	_
+10	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 68
+# text = Поэтому, на наш взгляд, мировому сообществу в первую очередь необходимо конкретизировать механизм применения уже действующих обязательных правил поведения, от которых, в том числе, зависит возможность эффективного обсуждения Концепции "Ответственности за защиту".
+1	Поэтому	поэтому	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	на	на	ADP	_	_	5	case	_	_
+4	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
+5	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	мировому	мировой	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	сообществу	сообщество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	12	iobj	_	_
+9	в	в	ADP	_	_	12	discourse	_	_
+10	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	fixed	_	_
+11	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	fixed	_	_
+12	необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+13	конкретизировать	конкретизировать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	12	csubj	_	_
+14	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+15	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	_
+16	уже	уже	ADV	_	Degree=Pos	17	advmod	_	_
+17	действующих	действовать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	_
+18	обязательных	обязательный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	правил	правило	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	_
+20	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	29	punct	_	_
+22	от	от	ADP	_	_	23	case	_	_
+23	которых	который	PRON	_	Case=Gen	29	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	в	в	ADP	_	_	27	case	_	_
+26	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	27	det	_	_
+27	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	obl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	зависит	зависеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
+30	возможность	возможность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+31	эффективного	эффективный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	обсуждения	обсуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	_
+33	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	_
+34	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+35	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	_
+36	за	за	ADP	_	_	37	case	_	_
+37	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
+38	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 69
+# text = Необходимо отметить, что в связи с отсутствием собственных универсальных международных норм относительно особенностей реализации того или иного механизма в случае бедствий, категорически нельзя применять аналогию норм международного права, регулирующих иные общественные отношения.
+1	Необходимо	необходимый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	25	punct	_	_
+4	что	что	SCONJ	_	_	25	mark	_	_
+5	в	в	ADP	_	_	8	case	_	_
+6	связи	связь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	fixed	_	_
+7	с	с	ADP	_	_	5	fixed	_	_
+8	отсутствием	отсутствие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	25	obl	_	_
+9	собственных	собственный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+10	универсальных	универсальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	международных	международный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+13	относительно	относительно	ADP	_	_	14	case	_	_
+14	особенностей	особенность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+15	реализации	реализация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	того	тот	DET	_	Case=Gen|Gender=Masc|Number=Sing	19	det	_	_
+17	или	или	CCONJ	_	_	18	cc	_	_
+18	иного	иной	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	conj	_	_
+19	механизма	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	25	obl	_	_
+22	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	21	punct	_	_
+24	категорически	категорически	ADV	_	Degree=Pos	25	advmod	_	_
+25	нельзя	нельзя	ADV	_	Degree=Pos	2	ccomp	_	_
+26	применять	применять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	25	csubj	_	_
+27	аналогию	аналогия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+28	норм	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+29	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	30	amod	_	_
+30	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	регулирующих	регулировать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	_
+33	иные	иной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	35	amod	_	_
+34	общественные	общественный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	35	amod	_	_
+35	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	32	obj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 70
+# text = Международное сотрудничество по защите от бедствий 222
+1	Международное	международный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	сотрудничество	сотрудничество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+3	по	по	ADP	_	_	4	case	_	_
+4	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	2	nmod	_	_
+5	от	от	ADP	_	_	6	case	_	_
+6	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+7	222	222	NUM	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 71
+# text = имеет свой объект, предмет правового регулирования, свои особенности.
+1	имеет	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	свой	свой	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	объект	объект	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	предмет	предмет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	conj	_	_
+6	правового	правовой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	регулирования	регулирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	свои	свой	DET	_	Case=Acc|Number=Plur	10	det	_	_
+10	особенности	особенность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 72
+# text = Поэтому принятие универсальной конвенции в данной сфере еще раз подтвердит существование новой самостоятельной отрасли в системе международного права, регулирующей достаточно специфические международные отношения, строящиеся на незыблемых общепризнанных принципах международного права.
+1	Поэтому	поэтому	ADV	_	Degree=Pos	10	advmod	_	_
+2	принятие	принятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+3	универсальной	универсальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	конвенции	конвенция	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	в	в	ADP	_	_	7	case	_	_
+6	данной	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	сфере	сфера	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	_
+8	еще	еще	ADV	_	Degree=Pos	9	obl	_	_
+9	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+10	подтвердит	подтвердить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+11	существование	существование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	новой	новый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+13	самостоятельной	самостоятельный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	отрасли	отрасль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	системе	система	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	nmod	_	_
+17	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	18	amod	_	_
+18	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	регулирующей	регулировать	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+21	достаточно	достаточно	ADV	_	Degree=Pos	22	obl	_	_
+22	специфические	специфический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+23	международные	международный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	24	amod	_	_
+24	отношения	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	20	nsubj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	строящиеся	строиться	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	24	acl	_	_
+27	на	на	ADP	_	_	30	case	_	_
+28	незыблемых	незыблемый	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	amod	_	_
+29	общепризнанных	общепризнанный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	30	amod	_	_
+30	принципах	принцип	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	26	obl	_	_
+31	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	_
+32	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 73
+# text = Концепция "Ответственности за защиту" представляет собой комплекс мероприятий, предпринимаемых мировым сообществом в лице ООН на основании решения СБ ООН при отсутствии согласия или желания самого государства относительно осуществления своих обязательств, вследствие чего на его территории совершаются международные преступления и нарушаются общепризнанные принципы международного права, а соответственно, возникла угроза международному миру и безопасности.
+1	Концепция	концепция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+2	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Ответственности	ответственность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	за	за	ADP	_	_	5	case	_	_
+5	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	"	"	PUNCT	_	_	3	punct	_	_
+7	представляет	представлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	собой	себя	PRON	_	Case=Ins	7	fixed	_	_
+9	комплекс	комплекс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
+10	мероприятий	мероприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	предпринимаемых	предпринимать	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	10	acl	_	_
+13	мировым	мировой	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	сообществом	сообщество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	лице	лицо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+17	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	основании	основание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	_
+20	решения	решение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	СБ	сб	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+22	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	_
+23	при	при	ADP	_	_	24	case	_	_
+24	отсутствии	отсутствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	_
+25	согласия	согласие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	или	или	CCONJ	_	_	27	cc	_	_
+27	желания	желание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	conj	_	_
+28	самого	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	_
+30	относительно	относительно	ADP	_	_	31	case	_	_
+31	осуществления	осуществление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+32	своих	свой	DET	_	Case=Gen|Number=Plur	33	det	_	_
+33	обязательств	обязательство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	31	nmod	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	40	punct	_	_
+35	вследствие	вследствие	ADP	_	_	36	case	_	_
+36	чего	что	PRON	_	Case=Gen	40	obl	_	_
+37	на	на	ADP	_	_	39	case	_	_
+38	его	его	DET	_	_	39	det	_	_
+39	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	40	obl	_	_
+40	совершаются	совершаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	parataxis	_	_
+41	международные	международный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	42	amod	_	_
+42	преступления	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	40	nsubj:pass	_	_
+43	и	и	CCONJ	_	_	44	cc	_	_
+44	нарушаются	нарушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	40	conj	_	_
+45	общепризнанные	общепризнанный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	46	amod	_	_
+46	принципы	принцип	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	44	nsubj:pass	_	_
+47	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	48	amod	_	_
+48	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	46	nmod	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	53	punct	_	_
+50	а	а	CCONJ	_	_	53	cc	_	_
+51	соответственно	соответственно	ADV	_	Degree=Pos	53	advmod	_	SpaceAfter=No
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	46	conj	_	_
+54	угроза	угроза	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	53	nsubj	_	_
+55	международному	международный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
+56	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	54	iobj	_	_
+57	и	и	CCONJ	_	_	58	cc	_	_
+58	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	56	conj	_	SpaceAfter=No
+59	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 74
+# text = Эта ситуация никак не подпадает под случаи бедствий, поскольку большинство государств стремится разрешить возникшие проблемы и различными способами использует международную помощь в этом.
+1	Эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+2	ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	никак	никак	ADV	_	Degree=Pos	4	advmod	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	подпадает	подпадать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	под	под	ADP	_	_	7	case	_	_
+7	случаи	случай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	_	_
+8	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	поскольку	поскольку	SCONJ	_	_	13	mark	_	_
+11	большинство	большинство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+12	государств	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+13	стремится	стремиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	advcl	_	_
+14	разрешить	разрешить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	csubj	_	_
+15	возникшие	возникнуть	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	16	amod	_	_
+16	проблемы	проблема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
+17	и	и	CCONJ	_	_	19	cc	_	_
+18	различными	различный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	19	amod	_	_
+19	способами	способ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	16	conj	_	_
+20	использует	использовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	xcomp	_	_
+21	международную	международный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	помощь	помощь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+23	в	в	ADP	_	_	24	case	_	_
+24	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	obl	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 75
+# text = Говорить об ограничении их суверенитета теоретически можно.
+1	Говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	csubj	_	_
+2	об	о	ADP	_	_	3	case	_	_
+3	ограничении	ограничение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	1	obl	_	_
+4	их	их	DET	_	_	5	det	_	_
+5	суверенитета	суверенитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	теоретически	теоретически	ADV	_	Degree=Pos	7	advmod	_	_
+7	можно	можно	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 76
+# text = Но это ограничение исходит от самого пострадавшего государства, которое соглашается на принятие международной чрезвычайной помощи на его территории.
+1	Но	но	CCONJ	_	_	4	cc	_	_
+2	это	это	DET	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+3	ограничение	ограничение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	исходит	исходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	от	от	ADP	_	_	7	case	_	_
+6	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	пострадавшего	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	которое	который	PRON	_	Case=Nom	11	nsubj	_	_
+11	соглашается	соглашаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	acl:relcl	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	принятие	принятие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+14	международной	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+15	чрезвычайной	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+17	на	на	ADP	_	_	19	case	_	_
+18	его	его	DET	_	_	19	det	_	_
+19	территории	территория	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 77
+# text = По своей природе действия, осуществляемые международными гуманитарными организациями, не посягают на содержание государственного суверенитета, территориальной целостности, не являются вмешательством во внутренние дела государства.
+1	По	по	ADP	_	_	3	case	_	_
+2	своей	свой	DET	_	Case=Dat|Gender=Fem|Number=Sing	3	det	_	_
+3	природе	природа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
+4	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	осуществляемые	осуществлять	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	_
+7	международными	международный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+8	гуманитарными	гуманитарный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	9	amod	_	_
+9	организациями	организация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	не	не	PART	_	_	12	advmod	_	_
+12	посягают	посягать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	на	на	ADP	_	_	14	case	_	_
+14	содержание	содержание	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+15	государственного	государственный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
+16	суверенитета	суверенитет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	территориальной	территориальный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	_
+19	целостности	целостность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	не	не	PART	_	_	22	advmod	_	_
+22	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	conj	_	_
+23	вмешательством	вмешательство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	22	obl	_	_
+24	во	в	ADP	_	_	26	case	_	_
+25	внутренние	внутренний	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	26	amod	_	_
+26	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	23	nmod	_	_
+27	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 78
+# text = Их действия реализуются при содействии властей пострадавшего государства, под его контролем и руководством, в соответствии с его потребностями.
+1	Их	их	DET	_	_	2	det	_	_
+2	действия	действие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
+3	реализуются	реализоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+4	при	при	ADP	_	_	5	case	_	_
+5	содействии	содействие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+6	властей	власть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
+7	пострадавшего	пострадавший	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	под	под	ADP	_	_	12	case	_	_
+11	его	его	DET	_	_	12	det	_	_
+12	контролем	контроль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	руководством	руководство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	в	в	ADP	_	_	20	case	_	_
+17	соответствии	соответствие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	16	fixed	_	_
+18	с	с	ADP	_	_	16	fixed	_	_
+19	его	его	DET	_	_	20	det	_	_
+20	потребностями	потребность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 79
+# text = Данные особенности поведения обеих сторон в ситуации бедствия давно стали обычной нормой международного права, активно применяемой в чрезвычайных ситуациях природного и техногенного характера различного объема.
+1	Данные	данный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	особенности	особенность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
+3	поведения	поведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	обеих	оба	NUM	_	Case=Gen|Gender=Fem	5	nummod	_	_
+5	сторон	сторона	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	10	obl	_	_
+8	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	давно	давно	ADV	_	Degree=Pos	10	advmod	_	_
+10	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	обычной	обычный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	нормой	норма	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	10	obl	_	_
+13	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	активно	активно	ADV	_	Degree=Pos	17	advmod	_	_
+17	применяемой	применять	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	_	_
+18	в	в	ADP	_	_	20	case	_	_
+19	чрезвычайных	чрезвычайный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	20	amod	_	_
+20	ситуациях	ситуация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	17	obl	_	_
+21	природного	природный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+22	и	и	CCONJ	_	_	23	cc	_	_
+23	техногенного	техногенный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	21	conj	_	_
+24	характера	характер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+25	различного	различный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	_
+26	объема	объем	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 80
+# text = Правило отражено в Проекте статей по защите населения в случае бедствий, а приведенный в работе пример с Мьянмой является исключительным случаем.
+1	Правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
+2	отражено	отразить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	Проекте	проект	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
+5	статей	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	_	_
+6	по	по	ADP	_	_	7	case	_	_
+7	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	_
+8	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+11	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	а	а	CCONJ	_	_	14	cc	_	_
+14	приведенный	привести	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+15	в	в	ADP	_	_	16	case	_	_
+16	работе	работа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	14	obl	_	_
+17	пример	пример	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+18	с	с	ADP	_	_	19	case	_	_
+19	Мьянмой	Мьянма	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	17	nmod	_	_
+20	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+21	исключительным	исключительный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	случаем	случай	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 81
+# text = Следует отметить и позицию господина И.И. Синякина, который в одной из своих публикаций отмечает: "…в условиях бедствия вряд ли пострадавшее государство откажется от получения гуманитарной помощи в ликвидации последствий…
+1	Следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	отметить	отметить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	csubj	_	_
+3	и	и	PART	_	_	4	advmod	_	_
+4	позицию	позиция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	господина	господин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+7	И.	И.	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	_
+8	Синякина	Синякин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	который	который	PRON	_	Case=Nom	16	nsubj	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	одной	один	NUM	_	Case=Loc|Gender=Fem	16	nummod	_	_
+13	из	из	ADP	_	_	15	case	_	_
+14	своих	свой	DET	_	Case=Gen|Number=Plur	15	det	_	_
+15	публикаций	публикация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	_
+16	отмечает	отмечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No
+17	:	:	PUNCT	_	_	16	punct	_	_
+18	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
+19	…	…	PUNCT	_	_	27	punct	_	SpaceAfter=No
+20	в	в	ADP	_	_	21	case	_	_
+21	условиях	условие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	27	obl	_	_
+22	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+23	вряд	вряд	ADV	_	Degree=Pos	27	advmod	_	_
+24	ли	ли	PART	_	_	23	fixed	_	_
+25	пострадавшее	страдать	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	26	amod	_	_
+26	государство	государство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+27	откажется	отказаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	16	parataxis	_	_
+28	от	от	ADP	_	_	29	case	_	_
+29	получения	получение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	27	obl	_	_
+30	гуманитарной	гуманитарный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	помощи	помощь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	_
+32	в	в	ADP	_	_	33	case	_	_
+33	ликвидации	ликвидация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	29	nmod	_	_
+34	последствий	последствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	33	nmod	_	SpaceAfter=No
+35	…	…	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 82
+# text = Разумеется, в данном случае нет никакой необходимости прибегать к использованию вооруженной силы" .
+1	Разумеется	разумеется	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	данном	данный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+6	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	никакой	никакой	DET	_	Case=Gen|Gender=Fem|Number=Sing	8	det	_	_
+8	необходимости	необходимость	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nsubj	_	_
+9	прибегать	прибегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	obl	_	_
+10	к	к	ADP	_	_	11	case	_	_
+11	использованию	использование	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	9	obl	_	_
+12	вооруженной	вооруженный	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	силы	сила	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	"	"	PUNCT	_	_	6	punct	_	_
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 83
+# text = На наш взгляд, наиболее действенным, корректным и не изменяющим сложившиеся устои международного права должен быть механизм разработки и принятия кодифицирующего соглашения по защите населения от бедствий.
+1	На	на	ADP	_	_	3	case	_	_
+2	наш	наш	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+3	взгляд	взгляд	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	наиболее	наиболее	ADV	_	Degree=Pos	6	obl	_	_
+6	действенным	действенный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	13	acl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	корректным	корректный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	6	conj	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	не	не	PART	_	_	11	advmod	_	_
+11	изменяющим	изменять	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	_
+12	сложившиеся	сложиться	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	13	amod	_	_
+13	устои	устой	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	16	nsubj	_	_
+14	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	_
+16	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+17	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	cop	_	_
+18	механизм	механизм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+19	разработки	разработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	принятия	принятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	conj	_	_
+22	кодифицирующего	кодифицируть	VERB	_	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	_
+23	соглашения	соглашение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	21	nmod	_	_
+24	по	по	ADP	_	_	25	case	_	_
+25	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	23	nmod	_	_
+26	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+27	от	от	ADP	_	_	28	case	_	_
+28	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 84
+# text = Именно наличие общей нормы, хотя поначалу и не обязательной для всех, станет фактором, способствующим развитию государствами своих внутренних механизмов защиты и обеспечения безопасности в случае бедствий.
+1	Именно	именно	PART	_	_	2	advmod	_	_
+2	наличие	наличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+3	общей	общий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	нормы	норма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	хотя	хотя	SCONJ	_	_	14	mark	_	_
+7	поначалу	поначалу	ADV	_	Degree=Pos	14	advmod	_	_
+8	и	и	PART	_	_	10	advmod	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	обязательной	обязательный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	obl	_	_
+11	для	для	ADP	_	_	12	case	_	_
+12	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur	10	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	_
+15	фактором	фактор	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	способствующим	способствовать	VERB	_	Aspect=Imp|Case=Ins|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	_
+18	развитию	развитие	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	iobj	_	_
+19	государствами	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	17	obl	_	_
+20	своих	свой	DET	_	Case=Gen|Number=Plur	22	det	_	_
+21	внутренних	внутренний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	механизмов	механизм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+23	защиты	защита	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+24	и	и	CCONJ	_	_	25	cc	_	_
+25	обеспечения	обеспечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	23	conj	_	_
+26	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	nmod	_	_
+29	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 85
+# text = Определенным свидетельством этого обстоятельства являются деятельность МСУОБ, позитивные результаты которой подтверждаются самой ООН, региональными структура-
+1	Определенным	определить	VERB	_	Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	amod	_	_
+2	свидетельством	свидетельство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	5	obl	_	_
+3	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing	4	det	_	_
+4	обстоятельства	обстоятельство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	являются	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	деятельность	деятельность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+7	МСУОБ	МСУОБ	PROPN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	позитивные	позитивный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	10	amod	_	_
+10	результаты	результат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	_
+11	которой	который	PRON	_	Case=Gen	10	nmod	_	_
+12	подтверждаются	подтверждаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl:relcl	_	_
+13	самой	сам	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	ООН	ООН	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	региональными	региональный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	17	amod	_	_
+17	структура	структура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	conj	_	SpaceAfter=No
+18	-	-	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 86
+# text = ми и отдельными государствами, а также разработка Комиссией международного права ООН Проекта статей по защите населения в случае бедствий.
+1	ми	й	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	4	amod	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	отдельными	отдельный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	1	conj	_	_
+4	государствами	государство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	а	а	CCONJ	_	_	8	cc	_	_
+7	также	также	PART	_	_	6	fixed	_	_
+8	разработка	разработка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	_	_
+9	Комиссией	Комиссия	PROPN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	_
+10	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	_
+12	ООН	ООН	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	Проекта	проект	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	статей	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	_
+15	по	по	ADP	_	_	16	case	_	_
+16	защите	защита	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	14	nmod	_	_
+17	населения	население	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	_
+20	бедствий	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 87
+# text = Представленный в рамках статьи материал еще раз подтверждает одну из актуальных задач: мировое сообщество должно сформировать компромиссный механизм реагирования на различные чрезвычайные ситуации (в том числе бедствия), который позволит на достаточном уровне обеспечить международную безопасность, соблюсти общепризнанные принципы и нормы международного права и не отразится нега-
+1	Представленный	представить	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	рамках	рамка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	obl	_	_
+4	статьи	статья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	материал	материал	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6	еще	еще	ADV	_	Degree=Pos	7	obl	_	_
+7	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+8	подтверждает	подтверждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	одну	один	NUM	_	Case=Acc|Gender=Fem	8	nummod:gov	_	_
+10	из	из	ADP	_	_	12	case	_	_
+11	актуальных	актуальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	задач	задача	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	12	punct	_	_
+14	мировое	мировой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	сообщество	сообщество	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+16	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	parataxis	_	_
+17	сформировать	сформировать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	xcomp	_	_
+18	компромиссный	компромиссный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
+19	механизм	механизм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+20	реагирования	реагирование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	на	на	ADP	_	_	24	case	_	_
+22	различные	различный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+23	чрезвычайные	чрезвычайный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	24	amod	_	_
+24	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	20	nmod	_	_
+25	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+26	в	в	ADP	_	_	28	case	_	_
+27	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	28	det	_	_
+28	числе	число	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	nmod	_	_
+29	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	parataxis	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	который	который	PRON	_	Case=Nom	33	nsubj	_	_
+33	позволит	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
+34	на	на	ADP	_	_	36	case	_	_
+35	достаточном	достаточный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	36	amod	_	_
+36	уровне	уровень	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	33	obl	_	_
+37	обеспечить	обеспечить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	33	xcomp	_	_
+38	международную	международный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+39	безопасность	безопасность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	37	obj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	соблюсти	соблюсти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	37	conj	_	_
+42	общепризнанные	общепризнанный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	43	amod	_	_
+43	принципы	принцип	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	41	obj	_	_
+44	и	и	CCONJ	_	_	45	cc	_	_
+45	нормы	норма	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	43	conj	_	_
+46	международного	международный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	47	amod	_	_
+47	права	право	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	45	nmod	_	_
+48	и	и	CCONJ	_	_	50	cc	_	_
+49	не	не	PART	_	_	50	advmod	_	_
+50	отразится	отразиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	37	conj	_	_
+51	нега	нег	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	50	obl	_	SpaceAfter=No
+52	-	-	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 88
+# text = тивно на безопасности государства.
+1	тивно	тивно	ADV	_	Degree=Pos	0	root	_	_
+2	на	на	ADP	_	_	3	case	_	_
+3	безопасности	безопасность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	obl	_	_
+4	государства	государство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 89
+# text = Активное применение Концепции "Ответственность за защиту" относительно различных чрезвычайных ситуаций, указанных в самом документе, не должно носить системный характер.
+1	Активное	активный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+2	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+3	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Ответственность	ответственность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+6	за	за	ADP	_	_	7	case	_	_
+7	защиту	защита	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	относительно	относительно	ADP	_	_	12	case	_	_
+10	различных	различный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+11	чрезвычайных	чрезвычайный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
+12	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	указанных	указать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	в	в	ADP	_	_	17	case	_	_
+16	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	документе	документ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	не	не	PART	_	_	20	advmod	_	_
+20	должно	должен	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+21	носить	носить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	20	xcomp	_	_
+22	системный	системный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
+23	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 90
+# text = Каждый случай возможности применения должен детально расследоваться и носить исключительный характер.
+1	Каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	_
+2	случай	случай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	_
+6	детально	детально	ADV	_	Degree=Pos	7	advmod	_	_
+7	расследоваться	расследовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	5	xcomp	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	носить	носить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	conj	_	_
+10	исключительный	исключительный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	характер	характер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 91
+# text = Как показало проведенное исследование, нельзя расширять перечень уже закрепленных ситуаций применения Концепции и тем более включать в него природные или гуманитарные бедствия.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	показало	показать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
+3	проведенное	провести	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	исследование	исследование	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	нельзя	нельзя	ADV	_	Degree=Pos	0	root	_	_
+7	расширять	расширять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	_
+8	перечень	перечень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	уже	уже	ADV	_	Degree=Pos	10	advmod	_	_
+10	закрепленных	закрепить	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
+11	ситуаций	ситуация	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	_
+12	применения	применение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	_
+13	Концепции	концепция	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	и	и	CCONJ	_	_	17	cc	_	_
+15	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	16	obl	_	_
+16	более	более	ADV	_	Degree=Cmp	17	advmod	_	_
+17	включать	включать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	conj	_	_
+18	в	в	ADP	_	_	19	case	_	_
+19	него	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obl	_	_
+20	природные	природный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	23	amod	_	_
+21	или	или	CCONJ	_	_	22	cc	_	_
+22	гуманитарные	гуманитарный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	conj	_	_
+23	бедствия	бедствие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	obj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n
+
