@@ -4,6 +4,15 @@ import pandas as pd
 import os
 from conllu import parse, parse_tree
 from scipy.stats import ttest_ind
+from string import punctuation
+punct = punctuation+'«»—…“”*№–'
+
+
+def tokenize(text):
+    words = [word.strip(punct) for word in text.lower().split() if word]
+    words = [word for word in words if word]
+
+    return words
 
 pd.set_option('display.max_columns', 100)
 pd.set_option('display.max_rows', 100)
@@ -14,6 +23,7 @@ low_lvl = os.path.join(stud_dir, 'Low Level')
 reg_lvl = os.path.join(stud_dir, 'Regular Level')
 low_prsd = os.path.join(stud_dir, 'Low Level Parsed')
 reg_prsd = os.path.join(stud_dir, 'Regular Level Parsed')
+parsed_dirs = r'C:\Users\Andrea\Desktop\stud_textVSscie_text\RULEC_parsed'
 
 con = mysql.connector.connect(user='andr',
                               password='rstq!2Ro',
@@ -148,28 +158,29 @@ def t_test(conll_dir):
     corpus_dict = stat_dict(df_corpus)
     ttest_dict = {}
 
-    for txt in os.listdir(conll_dir):
-        tree = parser(os.path.join(conll_dir, txt))
-        words, size = get_words(tree)
-        tagset_extrapolator(words, txt)
-        del tree
-        df_stud = stud_txt_statistics('tagset.csv')
-        if 'tagset.csv' in os.getcwd():
-            os.system('rm -r tagset.csv')
-        stud_dict = stat_dict(df_stud)
-        freq_dict = {}
-        for entry in stud_dict:
-            if entry in corpus_dict:
-                freq_dict[entry] = corpus_dict[entry] + (stud_dict[entry])
+    for dir in os.listdir(conll_dir):
+        for txt in os.listdir(os.path.join(conll_dir, dir)):
+            print('{} is being processed...'.format(txt))
+            tree = parser(os.path.join(conll_dir, dir, txt))
+            words, size = get_words(tree)
+            tagset_extrapolator(words, os.path.join(conll_dir, dir, txt))
+            del tree
+            df_stud = stud_txt_statistics('tagset.csv')
+            if 'tagset.csv' in os.getcwd():
+                os.system('rm -r tagset.csv')
+            stud_dict = stat_dict(df_stud)
+            freq_dict = {}
+            for entry in stud_dict:
+                if entry in corpus_dict:
+                    freq_dict[entry] = corpus_dict[entry] + (stud_dict[entry])
 
-        df_cor_stud = pd.Series(freq_dict).reset_index()
-        df_cor_stud.columns = ['tagset', 'POS', 'freq']
-        df_cor_stud[['corpus_freq', 'stud_txt_freq']] = pd.DataFrame(df_cor_stud['freq'].values.tolist(), index=df_cor_stud.index)
-        del df_cor_stud['freq']
-        t_stat, p_value = ttest_ind(df_cor_stud['corpus_freq'], df_cor_stud['stud_txt_freq'])
-        if txt not in ttest_dict:
-            ttest_dict[txt] = [t_stat, p_value]
-
+            df_cor_stud = pd.Series(freq_dict).reset_index()
+            df_cor_stud.columns = ['tagset', 'POS', 'freq']
+            df_cor_stud[['corpus_freq', 'stud_txt_freq']] = pd.DataFrame(df_cor_stud['freq'].values.tolist(), index=df_cor_stud.index)
+            del df_cor_stud['freq']
+            t_stat, p_value = ttest_ind(df_cor_stud['corpus_freq'], df_cor_stud['stud_txt_freq'])
+            if txt not in ttest_dict:
+                ttest_dict[txt] = [t_stat, p_value]
     return ttest_dict
 
 def ttest_summary(ttest_dict):
@@ -183,7 +194,7 @@ def ttest_summary(ttest_dict):
     return print('Compiling t-test table for the given texts')
 
 def main():
-    ttest_summary(t_test(low_prsd))
+    ttest_summary(t_test(parsed_dirs))
 
 if __name__ == "__main__":
         main()
