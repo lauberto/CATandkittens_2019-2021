@@ -13,18 +13,10 @@ punctuation = set(punctuation)
 from nltk.corpus import stopwords
 stops = stopwords.words('russian')
 
-STUD_DIR = r'C:\Users\Andrea\Desktop\The_Cartella_2.0\uni\second_year\cat\stud_textVSscie_text\Student_texts_for_experiments\stud_txt'
-LOW_LVL = os.path.join(STUD_DIR, 'Low Level')
-REG_LVL = os.path.join(STUD_DIR, 'Regular Level')
-LOW_PRSD = os.path.join(STUD_DIR, 'conllu', 'Low_Level_Parsed')
-REG_PRSD = os.path.join(STUD_DIR, 'conllu', 'Regular_Level_Parsed')
-MA_THESES=r'C:\Users\Andrea\Desktop\stud_textVSscie_text\Student_texts_for_experiments\Fin_MA_theses_parsed'
-CORR_DIR = r'C:\Users\Andrea\Desktop\corrected_files'
-
 numbers = re.compile("[0-9]")
-latins = re.compile("([a-zA-Z]+\W+)|(\W+[a-zA-Z]+)|(\W+[a-zA-Z]\W+)|([a-zA-Z]+)")
-cyrillic = re.compile("([а-яА-ЯёЁ]+\W+)|(\W+[а-яА-ЯёЁ]+)|(\W+[а-яА-ЯёЁ]\W+)")
-initial = re.compile("[а-яА-ЯёЁ]\.")
+latins = re.compile(r"([a-zA-Z]+\W+)|(\W+[a-zA-Z]+)|(\W+[a-zA-Z]\W+)|([a-zA-Z]+)")
+cyrillic = re.compile(r"([а-яА-ЯёЁ]+\W+)|(\W+[а-яА-ЯёЁ]+)|(\W+[а-яА-ЯёЁ]\W+)")
+initial = re.compile(r"[а-яА-ЯёЁ]\.")
 
 con = mysql.connector.connect(user='andrea',
                               password='rstq!2Ro',
@@ -131,7 +123,10 @@ def morph_error_catcher(words):
 
 
 def correction(filepath, corrected_files_directory):
-    # the input must be a conllu format file
+    '''
+    filepath: path to conllu format file
+    corrected_files_directory: directory path where the corrected txt file should end up
+    '''
     
     filename = os.path.basename(os.path.normpath(filepath))
     # tagset creation
